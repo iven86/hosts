@@ -4932,6 +4932,7 @@
 0.0.0.0 ad.gt.doubleclick.net
 0.0.0.0 adhall.com
 0.0.0.0 ad.hankooki.com
+0.0.0.0 adhaven.com
 0.0.0.0 ad.hbv.de
 0.0.0.0 adhealers.com
 0.0.0.0 adhearus.com
@@ -11090,6 +11091,7 @@
 0.0.0.0 apoleoni.measurelighter.ru
 0.0.0.0 apolloadlv.hit.gemius.pl
 0.0.0.0 apollon.myonlineusers.com
+0.0.0.0 apolloprogram.io
 0.0.0.0 apollo-us.com
 0.0.0.0 apolorockfestival.com
 0.0.0.0 apomictic-roll.000webhostapp.com
@@ -19132,6 +19134,7 @@
 0.0.0.0 coffeol.com
 0.0.0.0 cogipal.top
 0.0.0.0 cognitionet.com
+0.0.0.0 cognitiv.ai
 0.0.0.0 cognitivaperu.com
 0.0.0.0 cognitiveintegration.com
 0.0.0.0 cogrem.com
@@ -19568,7 +19571,6 @@
 0.0.0.0 conradcycles.me
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
-0.0.0.0 consensu.org
 0.0.0.0 conservational-book.000webhostapp.com
 0.0.0.0 considered.fdns.uk
 0.0.0.0 console.popupsponsor.com
@@ -19707,6 +19709,7 @@
 0.0.0.0 conversaoparadvd.com.br
 0.0.0.0 conversationalingelligence.com
 0.0.0.0 conversion.7search.com
+0.0.0.0 conversionbet.com
 0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 conversionruler.com
 0.0.0.0 conveyorbeltsystemir.com
@@ -19745,6 +19748,7 @@
 0.0.0.0 coopetrasam.com
 0.0.0.0 coop.webforce.es
 0.0.0.0 coordinatedcub.com
+0.0.0.0 cooster.ru
 0.0.0.0 copaemprendedores.com
 0.0.0.0 copcusco.ga
 0.0.0.0 copcusco.ml
@@ -23128,6 +23132,7 @@
 0.0.0.0 dssct.net
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dstatic.aceadsys.net
+0.0.0.0 dstillery.com
 0.0.0.0 dstvincapetown.co.za
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dt.admission.net
@@ -29896,6 +29901,7 @@
 0.0.0.0 haihuang-audio.com
 0.0.0.0 hairandmakeupbyvanitapatel.com
 0.0.0.0 hairboutique.us.intellitxt.com
+0.0.0.0 hairtease.com
 0.0.0.0 hajierpoil8.pe.hu
 0.0.0.0 hakdilaravakfi.com
 0.0.0.0 hakerr.pl
@@ -32887,6 +32893,7 @@
 0.0.0.0 iqbalandsons.com
 0.0.0.0 iqfindia.org
 0.0.0.0 iqfyujpvubwawc.pw
+0.0.0.0 iqm.com
 0.0.0.0 iqq4rcma6v.besthairtransplantpunjab.com
 0.0.0.0 iqvvsi.com
 0.0.0.0 iracingicoaching.com
@@ -37028,6 +37035,7 @@
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketingspace.com.ng
 0.0.0.0 marketlive.122.2o7.net
+0.0.0.0 marketo.com
 0.0.0.0 marketplacesms.com
 0.0.0.0 marketron.com
 0.0.0.0 marketshops.co.uk
@@ -53428,6 +53436,7 @@
 0.0.0.0 thronerushcheats.net
 0.0.0.0 thronerushhackonline.net
 0.0.0.0 throne.thehelpbiz.com
+0.0.0.0 throtle.io
 0.0.0.0 thruport.com
 0.0.0.0 thubagutsa.co.za
 0.0.0.0 thucduongbaoan.com
@@ -56311,6 +56320,7 @@
 0.0.0.0 vertadnet.com
 0.0.0.0 vertex28.com
 0.0.0.0 vertexuniversal.com
+0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
@@ -57414,6 +57424,7 @@
 0.0.0.0 web-object-paypaccount.com
 0.0.0.0 web-olymp.ru
 0.0.0.0 webontwikkeling.co.za
+0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 webordermanager.com
 0.0.0.0 weborg466-001-site1.htempurl.com
