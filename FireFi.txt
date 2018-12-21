@@ -4555,6 +4555,7 @@
 0.0.0.0 adagiof3.repubblica.it
 0.0.0.0 adailymovie.com
 0.0.0.0 ad.aim4media.com
+0.0.0.0 adalliance.io
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
 0.0.0.0 adalyaosgb.com
@@ -9308,7 +9309,9 @@
 0.0.0.0 affntwklnk.com
 0.0.0.0 affordablefunfamilyvacations.com
 0.0.0.0 affordablelocksmithgoldcoast.com.au
+0.0.0.0 affrh2014.com
 0.0.0.0 affrh2019.com
+0.0.0.0 affrh2022.com
 0.0.0.0 aff.ringtonepartner.com
 0.0.0.0 aff.shopmania.bg
 0.0.0.0 aff.summercart.com
@@ -9788,6 +9791,7 @@
 0.0.0.0 aletedevat.com.tr
 0.0.0.0 alevtoker.com
 0.0.0.0 alex2006.friko.pl
+0.0.0.0 alexametrics.com
 0.0.0.0 alexanderfloors.org
 0.0.0.0 alexanderinteriorsanddesign.com
 0.0.0.0 alexanderperfumery.com
@@ -10767,6 +10771,7 @@
 0.0.0.0 anoukgjt.beget.tech
 0.0.0.0 anpooarsenal.ru
 0.0.0.0 anquiro.com
+0.0.0.0 anrdoezrs.net
 0.0.0.0 anrysys.popunder.ru
 0.0.0.0 ans1.adsoftware.com
 0.0.0.0 ans2.adsoftware.com
@@ -11708,7 +11713,6 @@
 0.0.0.0 aromedtransport.sharezips.net
 0.0.0.0 arorazphotoworld.com
 0.0.0.0 aros-multilinks.com
-0.0.0.0 arouersobesite.free.fr
 0.0.0.0 aroview.ru
 0.0.0.0 arpitvaish.com
 0.0.0.0 arprosports.com.ar
@@ -14145,6 +14149,7 @@
 0.0.0.0 binarybliss.com
 0.0.0.0 binarybuzzer.com
 0.0.0.0 binaryindicatorpro.com
+0.0.0.0 binaryonlinetrade.com
 0.0.0.0 binaryonlinewealth.com
 0.0.0.0 binaryoptionsmaximizer.com
 0.0.0.0 bindardosanjh.co.uk
@@ -14341,6 +14346,8 @@
 0.0.0.0 blacktail-enterprises.com
 0.0.0.0 black-tipped.tk
 0.0.0.0 blacktipstudios.com
+0.0.0.0 black-tyres.co
+0.0.0.0 blacktyres.co
 0.0.0.0 blackwid0w.com
 0.0.0.0 blackxboxone.com
 0.0.0.0 blacorindy245.ml
@@ -14392,6 +14399,7 @@
 0.0.0.0 bllhicksco.com
 0.0.0.0 blobar.org
 0.0.0.0 blochcoverstorefront.com
+0.0.0.0 blockadblock.com
 0.0.0.0 blockbuster.112.2o7.net
 0.0.0.0 blockbustercom.112.2o7.net
 0.0.0.0 blockchain-account-login.com
@@ -18694,6 +18702,7 @@
 0.0.0.0 click.udimg.com
 0.0.0.0 clickunder.net
 0.0.0.0 click-west.acuityplatform.com
+0.0.0.0 clickwith.bid
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
 0.0.0.0 click.zeroclickdirect.com
@@ -18811,6 +18820,9 @@
 0.0.0.0 clixpy.com
 0.0.0.0 clix.superclix.de
 0.0.0.0 clixtk.com
+0.0.0.0 clk1005.com
+0.0.0.0 clk1011.com
+0.0.0.0 clk1015.com
 0.0.0.0 clk2.lookquick.com
 0.0.0.0 clkads.com
 0.0.0.0 clkde.tradedoubler.com
@@ -19571,6 +19583,7 @@
 0.0.0.0 conradcycles.me
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 consensad.com
 0.0.0.0 conservational-book.000webhostapp.com
 0.0.0.0 considered.fdns.uk
 0.0.0.0 console.popupsponsor.com
@@ -23883,7 +23896,6 @@
 0.0.0.0 ellenthorp.com
 0.0.0.0 ellers-raumdesign.de
 0.0.0.0 ellieison.com
-0.0.0.0 ellinikamarket.gr
 0.0.0.0 ellinika-proionta.net
 0.0.0.0 ellisonsite.com
 0.0.0.0 ellisplanningassociates.com
@@ -23974,6 +23986,7 @@
 0.0.0.0 emerginguniverse.com
 0.0.0.0 emerse.com
 0.0.0.0 e-metalowiec.bid
+0.0.0.0 emetriq.de
 0.0.0.0 e-m.fr
 0.0.0.0 em.gad-network.com
 0.0.0.0 emigratory-lashes.000webhostapp.com
@@ -37212,6 +37225,7 @@
 0.0.0.0 maxisoft.co.uk
 0.0.0.0 maxitorne.com
 0.0.0.0 maxmydl.com
+0.0.0.0 maxonclick.com
 0.0.0.0 maxovvk2.beget.tech
 0.0.0.0 maxplusfm.ml
 0.0.0.0 maxtracker.net
@@ -37617,7 +37631,6 @@
 0.0.0.0 melskitchensupplies.com
 0.0.0.0 melsy-team.com
 0.0.0.0 meltdsp.com
-0.0.0.0 melvinroos.com
 0.0.0.0 member-allow.000webhostapp.com
 0.0.0.0 memberappinternet.com
 0.0.0.0 memberautosllains.srbubnb2dsnaep6bx.gdn
@@ -39348,6 +39361,7 @@
 0.0.0.0 my-astrolog.ru
 0.0.0.0 myastrology.su
 0.0.0.0 myaxure.ru
+0.0.0.0 mybestmv.com
 0.0.0.0 mybloglog.com
 0.0.0.0 my.blueadvertise.com
 0.0.0.0 mybonpland.com
@@ -40842,6 +40856,7 @@
 0.0.0.0 nuetheriumllet.com
 0.0.0.0 nueva.baixbowling.com
 0.0.0.0 nuevaesperanza.edu.ar
+0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 nuggad.nuggad.net
 0.0.0.0 nug.jozmovie.xyz
@@ -41871,6 +41886,7 @@
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
 0.0.0.0 optmstr.com
+0.0.0.0 optnmstr.com
 0.0.0.0 optout-blglb.net
 0.0.0.0 opt-upgrdhot.000webhostapp.com
 0.0.0.0 optusnet.com.a.schoorlse-reddingsbrigade.trade
@@ -44470,7 +44486,6 @@
 0.0.0.0 predioplus.com
 0.0.0.0 preeqlultgfifg.pw
 0.0.0.0 prefer.gutterhelment.com
-0.0.0.0 preferredpension.com
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 prefix.payhelping.com
 0.0.0.0 pregnancycalendar.co.in
@@ -46461,6 +46476,7 @@
 0.0.0.0 revenue.com
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuegateway.directtrack.com
+0.0.0.0 revenuehits.com
 0.0.0.0 revenue.ie.clxros.tax
 0.0.0.0 revenue.ie.hh1sd.tax
 0.0.0.0 revenue.net
@@ -49832,6 +49848,7 @@
 0.0.0.0 sizesidewalk.com
 0.0.0.0 sizinbankaniz-ziraat.com
 0.0.0.0 sizinggude1.com
+0.0.0.0 sizmek.com
 0.0.0.0 siztmelleuhm8olbyw.bid
 0.0.0.0 sjbnet.net
 0.0.0.0 sjboc.dreamhosters.com
@@ -52800,8 +52817,6 @@
 0.0.0.0 tecnocuer.com
 0.0.0.0 tecnomacusani.edu.pe
 0.0.0.0 tecnomatic.net.br
-0.0.0.0 tecnova.cl
-0.0.0.0 tecnovags.com
 0.0.0.0 tecoassociation.org
 0.0.0.0 tecslide.com
 0.0.0.0 ted.dailymail.co.uk
@@ -56913,6 +56928,7 @@
 0.0.0.0 vt-1.nrelate.com
 0.0.0.0 vte.nexteramedia.com
 0.0.0.0 vtormet-kolomna.ru
+0.0.0.0 vtracy.de
 0.0.0.0 vtriton.com
 0.0.0.0 v-tveri.ru
 0.0.0.0 vty2blicem.amarautotech.com
@@ -61519,6 +61535,7 @@
 0.0.0.0 yeniyuzyillions.org
 0.0.0.0 yeni-ziraatbank.com
 0.0.0.0 yeni-ziraatilekampanya.com
+0.0.0.0 yepads.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yephjhhcg.com
 0.0.0.0 yepnim.estate
