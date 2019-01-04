@@ -1,3 +1,17 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
 0.0.0.0 \
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -2118,7 +2132,6 @@
 0.0.0.0 7mart2500.com
 0.0.0.0 7meta.com
 0.0.0.0 7metasearch.com
-0.0.0.0 7mu36somt5.com
 0.0.0.0 7oo.meibu.com
 0.0.0.0 7pay.net
 0.0.0.0 7search.com
@@ -16212,7 +16225,6 @@
 0.0.0.0 button.clickability.com
 0.0.0.0 button.geobutton.com
 0.0.0.0 buxflow.com
-0.0.0.0 buxomcosmetics.com
 0.0.0.0 buxweardirect.com.au
 0.0.0.0 buyblackmovies.com
 0.0.0.0 buycbdoilonline.net
@@ -43508,7 +43520,6 @@
 0.0.0.0 phonearena.com
 0.0.0.0 phonearena.us.intellitxt.com
 0.0.0.0 phonecheats.org
-0.0.0.0 phonecommunications.com
 0.0.0.0 phonefind.info
 0.0.0.0 phone-hack.com
 0.0.0.0 phonetography.world
@@ -53344,7 +53355,6 @@
 0.0.0.0 therenez.co
 0.0.0.0 therichkids.com
 0.0.0.0 thermabuild.ie
-0.0.0.0 thermasteelinc.com
 0.0.0.0 thermopista.com
 0.0.0.0 therocnation.org
 0.0.0.0 therottingcartridge.com
@@ -61550,6 +61560,7 @@
 0.0.0.0 yellowcabnc.com
 0.0.0.0 yellow-directory-canada.com
 0.0.0.0 yellowdotdoctor.co.za
+0.0.0.0 yellowsquareuae.com
 0.0.0.0 yellspain.112.2o7.net
 0.0.0.0 yeltex7.com
 0.0.0.0 yemayafestival.com
@@ -61681,6 +61692,7 @@
 0.0.0.0 your-advantages.co.uk
 0.0.0.0 yourb4you.com
 0.0.0.0 yourcamera4free.com
+0.0.0.0 yourcareerhelper.com
 0.0.0.0 your.com
 0.0.0.0 yourcomputerhelpdesk.com
 0.0.0.0 your-confirm-safety.co.nf
