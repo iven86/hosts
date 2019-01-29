@@ -1,3 +1,19 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
 0.0.0.0 \
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -23210,6 +23226,7 @@
 0.0.0.0 duongphuocviet.info
 0.0.0.0 duotexgroup.cf
 0.0.0.0 duotriali.com
+0.0.0.0 dupionet.com
 0.0.0.0 duplexmanagement.co.uk
 0.0.0.0 duration.ml
 0.0.0.0 duren2.uk
@@ -26372,6 +26389,7 @@
 0.0.0.0 flashipods4free.com
 0.0.0.0 flashmagazine.us.intellitxt.com
 0.0.0.0 flashmediaportal.com
+0.0.0.0 flashobmen.ru
 0.0.0.0 flash-ore-update.win
 0.0.0.0 flash.quantserve.com
 0.0.0.0 flashsavant.com
@@ -33971,6 +33989,7 @@
 0.0.0.0 jualumni-bd.org
 0.0.0.0 juanadearco.com.uy
 0.0.0.0 jubaoke.cn
+0.0.0.0 jubba.se
 0.0.0.0 jubilanto.us
 0.0.0.0 judgeclaims.com
 0.0.0.0 judijenkins.me
@@ -39248,7 +39267,6 @@
 0.0.0.0 multipops.com
 0.0.0.0 multiserviciosdelhogar.co
 0.0.0.0 multitrend.yt
-0.0.0.0 mumbaimalmo.se
 0.0.0.0 mumdownunder.com
 0.0.0.0 mumm.bubler.com
 0.0.0.0 munchkin.marketo.net
@@ -41227,6 +41245,7 @@
 0.0.0.0 oceanbluegallerybelmont.com
 0.0.0.0 ocean-datasolutions.com
 0.0.0.0 oceanic.ws
+0.0.0.0 oceanmama.ca
 0.0.0.0 oceanoazulentertainment.com
 0.0.0.0 oceanshare.net
 0.0.0.0 oceanshorestavern.com.au
@@ -41357,6 +41376,7 @@
 0.0.0.0 ohfgs.jandrheatingandcooling.com
 0.0.0.0 ohhdear.org
 0.0.0.0 ohiodronelaw.com
+0.0.0.0 ohiokush.com
 0.0.0.0 ohmybook-family.co
 0.0.0.0 oh-oehringen.de
 0.0.0.0 ohomemeamudanca.com.br
@@ -42134,6 +42154,7 @@
 0.0.0.0 owis.loeshotels.net
 0.0.0.0 owlplayz.com
 0.0.0.0 owlsr.us
+0.0.0.0 owmobmen.ru
 0.0.0.0 owneriq.net
 0.0.0.0 ownfqb3qqhcpapfbe5ia.alfacomercial.com.br
 0.0.0.0 owona.net
@@ -42824,6 +42845,7 @@
 0.0.0.0 pavypal.com.updateinformationsupport-privacypolicy.loginpage-scauninhc67sagbgy23176vbsad8y76ga.b7fn35.org
 0.0.0.0 pawotronik.de
 0.0.0.0 pawstravelandsafaris.com
+0.0.0.0 paxful.co.in
 0.0.0.0 paxful-logins.com
 0.0.0.0 paxvu1.usa.cc
 0.0.0.0 pay11.org
@@ -46356,6 +46378,7 @@
 0.0.0.0 rentskinow.jp
 0.0.0.0 rentumajiklere.com
 0.0.0.0 repair-service.com.ua
+0.0.0.0 repairshoppr.com
 0.0.0.0 repelmedia.com
 0.0.0.0 rephacks.net
 0.0.0.0 replying3651-americanexpress.com
@@ -49208,7 +49231,6 @@
 0.0.0.0 shalldeprotine.com
 0.0.0.0 shallfifth.net
 0.0.0.0 shallownation.us.intellitxt.com
-0.0.0.0 shallowschool.com
 0.0.0.0 shallowsmile.com
 0.0.0.0 shalo.europeslist.com
 0.0.0.0 shamanic-extracts.biz
@@ -49706,8 +49728,6 @@
 0.0.0.0 silicoglobal.com
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 silinvoice.com
-0.0.0.0 silkenwindhound.com
-0.0.0.0 silkenwindhounds.org
 0.0.0.0 silkrugsguide.co.uk
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
@@ -51628,7 +51648,6 @@
 0.0.0.0 stonedroplcc.win
 0.0.0.0 stonefachaleta.com
 0.0.0.0 stoneprice.ru
-0.0.0.0 stoneville.bfb.asn.au
 0.0.0.0 stopagingnews.com
 0.0.0.0 stopiphone.top
 0.0.0.0 stoplacrise.biz
@@ -54165,6 +54184,7 @@
 0.0.0.0 tracking.hittail.com
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 tracking.hubspot.com
+0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.inuvo.com
@@ -54944,6 +54964,7 @@
 0.0.0.0 u1.extreme-dm.com
 0.0.0.0 u1.puls.lv
 0.0.0.0 u24er.ovaarmor.com
+0.0.0.0 u4.aktivwebsitedesign.com
 0.0.0.0 u4vf9amd0irgpu3rfq.stream
 0.0.0.0 u532344488.hostingerapp.com
 0.0.0.0 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
@@ -56034,6 +56055,7 @@
 0.0.0.0 vakifbankbireyselm.com
 0.0.0.0 vakifonline-giris.com
 0.0.0.0 val17.com
+0.0.0.0 valandy.sk
 0.0.0.0 valasearch.com
 0.0.0.0 valdmir.noriysha.ru
 0.0.0.0 valerie-laboratoire.com
@@ -57584,6 +57606,7 @@
 0.0.0.0 we-hack.com
 0.0.0.0 wehackgames.com
 0.0.0.0 wehrmachtluftwaffe3213.ru
+0.0.0.0 weidenerkammerchor.de
 0.0.0.0 weightloss-ez.com
 0.0.0.0 weightlossforall.us.intellitxt.com
 0.0.0.0 weightloss.vvassup.com
@@ -57720,6 +57743,7 @@
 0.0.0.0 wesre4554tterunionfrancislouis.000webhostapp.com
 0.0.0.0 w.estat.com
 0.0.0.0 westbriton.uk.intellitxt.com
+0.0.0.0 westchange.top
 0.0.0.0 westcoastuniversity-edu.com
 0.0.0.0 westcountry.ru
 0.0.0.0 westcriacoes.com.br
@@ -58169,6 +58193,7 @@
 0.0.0.0 wmapp.wiredminds.de
 0.0.0.0 wm.banners.sextracker.com
 0.0.0.0 wmedia.adk2x.com
+0.0.0.0 wmglobus.com
 0.0.0.0 wmglobus.net
 0.0.0.0 wm-goldenclick.ru
 0.0.0.0 wmirk.ru
@@ -61845,6 +61870,7 @@
 0.0.0.0 yyre45dbvn2nhbefbmh.begumvelic.at
 0.0.0.0 yysscc.com
 0.0.0.0 yz3nlqybdzvxqay.science
+0.0.0.0 yzcizice.uk
 0.0.0.0 yzn4n91crlxzolm88aceto.download
 0.0.0.0 yz-sl.cn
 0.0.0.0 yzunited.com
