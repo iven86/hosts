@@ -2115,7 +2115,6 @@
 0.0.0.0 7days.ws
 0.0.0.0 7dyw.com
 0.0.0.0 7ehvqis3usuaj8in8rez.littlematchagirl.com.au
-0.0.0.0 7f1au20glg.com
 0.0.0.0 7games7.com
 0.0.0.0 7hacks.com
 0.0.0.0 7host.com
@@ -7315,6 +7314,7 @@
 0.0.0.0 ads.gameservers.com
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamigo.de
+0.0.0.0 ads.gaming1.com
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gamned.com
 0.0.0.0 adsgangsta.com
@@ -12826,6 +12826,7 @@
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.31north62east.com
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.ortodontiacontagem1.com.br
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.thefloralessence.com
+0.0.0.0 bankhapoalim-online.com
 0.0.0.0 bankhsbconline.com
 0.0.0.0 banking.bmo-securevalidation.com
 0.0.0.0 banking.capitalone.com.imoveisdecarli.com.br
@@ -13727,6 +13728,7 @@
 0.0.0.0 bennisson.com
 0.0.0.0 benoitsavary.ch
 0.0.0.0 b.ensighten.com
+0.0.0.0 benstock.free.fr
 0.0.0.0 bentdownload.com
 0.0.0.0 bentglasgow.co.uk
 0.0.0.0 benuzerepartners.com
@@ -13850,6 +13852,7 @@
 0.0.0.0 bestlotron.cn
 0.0.0.0 best-meds.biz
 0.0.0.0 best-med-shop.com
+0.0.0.0 bestmLxer.in
 0.0.0.0 bestmoviesitefreein.com
 0.0.0.0 bestoffers.activeshopper.com
 0.0.0.0 bestofwsxzsa37.club
@@ -14101,7 +14104,6 @@
 0.0.0.0 bikeforumsnet.skimlinks.com
 0.0.0.0 bikemercado.com.br
 0.0.0.0 bikerouteshop.com
-0.0.0.0 bikeshophaidli.com
 0.0.0.0 bikinicollection.com
 0.0.0.0 bilbaopisos.es
 0.0.0.0 bilbob.com
@@ -16136,7 +16138,6 @@
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bullz-eye-ads.com
 0.0.0.0 bullz-eye.us.intellitxt.com
-0.0.0.0 bumpberam.pro
 0.0.0.0 bumper-ball.hu
 0.0.0.0 bumpgaming.net
 0.0.0.0 bumpshack.us.intellitxt.com
@@ -23105,6 +23106,7 @@
 0.0.0.0 drugscom.us.intellitxt.com
 0.0.0.0 drukarniacmyk.pl
 0.0.0.0 drumcash.com
+0.0.0.0 druming.free.fr
 0.0.0.0 drunkporn.us
 0.0.0.0 drunksexygirls.com
 0.0.0.0 dr.webservicehosts.com
@@ -24597,6 +24599,7 @@
 0.0.0.0 euroasia-p.com
 0.0.0.0 euroclick.com
 0.0.0.0 euroclicsl.com
+0.0.0.0 eurocompkft.hu
 0.0.0.0 eurofoodthai.pw
 0.0.0.0 euro-forest.ml
 0.0.0.0 eurolatexthai.com
@@ -29282,6 +29285,7 @@
 0.0.0.0 gsf-cf.softonic.com
 0.0.0.0 gshawcross.org
 0.0.0.0 gshopee.com
+0.0.0.0 gsimon.edu.free.fr
 0.0.0.0 gsimonproductions.com
 0.0.0.0 gsim.webservicehosts.com
 0.0.0.0 gsiworld.neostrada.pl
@@ -29444,7 +29448,6 @@
 0.0.0.0 gumorca.com
 0.0.0.0 gumuscorap.com
 0.0.0.0 gumuskumyapi.com
-0.0.0.0 gundersons.com
 0.0.0.0 gunggo.com
 0.0.0.0 gunibox.com
 0.0.0.0 gunjaycell.co.id
@@ -32479,7 +32482,6 @@
 0.0.0.0 ingenicopads.kz
 0.0.0.0 ingenieriacyf.cl
 0.0.0.0 ingenieriaglp.cl
-0.0.0.0 ingenieriaprovidencia.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 ingles.natal.br
 0.0.0.0 ingomi.com
@@ -32667,6 +32669,7 @@
 0.0.0.0 interal007.com
 0.0.0.0 interbank-pe.in
 0.0.0.0 interchangecorporation.122.2o7.net
+0.0.0.0 intercom.io
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 intergi.com
 0.0.0.0 interia.hit.gemius.pl
@@ -34503,6 +34506,7 @@
 0.0.0.0 kincrecz.com
 0.0.0.0 kindads.com
 0.0.0.0 kindergarten.4760.at
+0.0.0.0 kineclick.free.fr
 0.0.0.0 kinecosystem.io
 0.0.0.0 kineslince.com
 0.0.0.0 kinetictokenforms.typeform.com
@@ -38387,7 +38391,6 @@
 0.0.0.0 missartstudio.com
 0.0.0.0 misscrack.com
 0.0.0.0 missdionnemendez.com
-0.0.0.0 misshal.com
 0.0.0.0 missing-file.com
 0.0.0.0 mission-impex.myjino.ru
 0.0.0.0 mission-solidarite.tk
@@ -39358,7 +39361,6 @@
 0.0.0.0 myappleid-verifications.com
 0.0.0.0 myappleipone.org
 0.0.0.0 my-astrolog.ru
-0.0.0.0 myastrology.su
 0.0.0.0 myaxure.ru
 0.0.0.0 mybestmv.com
 0.0.0.0 mybloglog.com
@@ -39717,7 +39719,6 @@
 0.0.0.0 my.trackjs.com
 0.0.0.0 mytradeclub.su
 0.0.0.0 mytraff.com
-0.0.0.0 mytrafficads.com
 0.0.0.0 mytraf.info
 0.0.0.0 mytraf.ru
 0.0.0.0 mytravelplan.com
@@ -39941,6 +39942,7 @@
 0.0.0.0 nautinell211.000webhostapp.com
 0.0.0.0 navdmp.com
 0.0.0.0 naveenmechanical.com
+0.0.0.0 navegg.com
 0.0.0.0 naver-i.review
 0.0.0.0 naviblue-team.com
 0.0.0.0 navigator.io
@@ -45438,6 +45440,7 @@
 0.0.0.0 quangl3m.beget.tech
 0.0.0.0 quanmama.com
 0.0.0.0 quantcast.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quanticausinagem.com.br
 0.0.0.0 quantserve.com
 0.0.0.0 quantumbinaries.com
@@ -46415,6 +46418,7 @@
 0.0.0.0 resolve-paypal-com.signin.homesupprt.com
 0.0.0.0 resolvethem.com
 0.0.0.0 resonantbrush.com
+0.0.0.0 resonate.com
 0.0.0.0 resourcecamp.myjino.ru
 0.0.0.0 resources.eyereturn.com
 0.0.0.0 resources.infolinks.com
@@ -48230,6 +48234,7 @@
 0.0.0.0 seaandhereyesnadia.com
 0.0.0.0 seaarch.info
 0.0.0.0 seacoastonlinecom.112.2o7.net
+0.0.0.0 seadform.net
 0.0.0.0 seadrrill.com
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 sea.effectivemeasure.net
@@ -53869,6 +53874,7 @@
 0.0.0.0 top.proext.com
 0.0.0.0 topqualitylink.com
 0.0.0.0 toprebates.com
+0.0.0.0 topresistor.gotoip2.com
 0.0.0.0 topsafelist.net
 0.0.0.0 topsaleportal.su
 0.0.0.0 topscore.in
@@ -57687,7 +57693,6 @@
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wereldbevestigingen.nl
-0.0.0.0 wereldwerf.be
 0.0.0.0 wereport-atelier.fr
 0.0.0.0 wereyboy.objectives.ws
 0.0.0.0 werhackers.net
@@ -60815,7 +60820,6 @@
 0.0.0.0 www.weekendlk.top
 0.0.0.0 www.weitclick.de
 0.0.0.0 www.weownthetraffic.com
-0.0.0.0 www.wereldwerf.be
 0.0.0.0 www.westbournec.com
 0.0.0.0 www.whalecashads.com
 0.0.0.0 www.whatpornsite.com
