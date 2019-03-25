@@ -1197,7 +1197,6 @@
 0.0.0.0 3dsvita.com
 0.0.0.0 3d-tour.kz
 0.0.0.0 3dyorking.com
-0.0.0.0 3e1.cn
 0.0.0.0 3e3ex8zr4.cnrdn.com
 0.0.0.0 3.googlenews.xorg.pl
 0.0.0.0 3gupload.112.2o7.net
@@ -2216,7 +2215,6 @@
 0.0.0.0 93367.hittail.com
 0.0.0.0 9345478333.cn
 0.0.0.0 9394.hittail.com
-0.0.0.0 941jz.cn
 0.0.0.0 9446.hittail.com
 0.0.0.0 94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at
 0.0.0.0 94uyvwwh.com
@@ -12826,6 +12824,7 @@
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.31north62east.com
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.ortodontiacontagem1.com.br
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.thefloralessence.com
+0.0.0.0 bankhapoailm.com
 0.0.0.0 bankhapoalim-online.com
 0.0.0.0 bankhsbconline.com
 0.0.0.0 banking.bmo-securevalidation.com
@@ -13728,7 +13727,6 @@
 0.0.0.0 bennisson.com
 0.0.0.0 benoitsavary.ch
 0.0.0.0 b.ensighten.com
-0.0.0.0 benstock.free.fr
 0.0.0.0 bentdownload.com
 0.0.0.0 bentglasgow.co.uk
 0.0.0.0 benuzerepartners.com
@@ -14282,6 +14280,7 @@
 0.0.0.0 bjergager5.dk
 0.0.0.0 bj-fengshi.com
 0.0.0.0 bjhh998.com
+0.0.0.0 bjhmt.com
 0.0.0.0 bjhycd.net
 0.0.0.0 bjhzlr.com
 0.0.0.0 bjjmywcb.com
@@ -24599,7 +24598,6 @@
 0.0.0.0 euroasia-p.com
 0.0.0.0 euroclick.com
 0.0.0.0 euroclicsl.com
-0.0.0.0 eurocompkft.hu
 0.0.0.0 eurofoodthai.pw
 0.0.0.0 euro-forest.ml
 0.0.0.0 eurolatexthai.com
@@ -25686,6 +25684,7 @@
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 feed.trafflow.com
 0.0.0.0 feed.validclick.com
+0.0.0.0 feefo.com
 0.0.0.0 feelfabulous.com.br
 0.0.0.0 feel-good-fitness.com.au
 0.0.0.0 feelingflavor.in.net
@@ -29285,7 +29284,6 @@
 0.0.0.0 gsf-cf.softonic.com
 0.0.0.0 gshawcross.org
 0.0.0.0 gshopee.com
-0.0.0.0 gsimon.edu.free.fr
 0.0.0.0 gsimonproductions.com
 0.0.0.0 gsim.webservicehosts.com
 0.0.0.0 gsiworld.neostrada.pl
@@ -29924,7 +29922,6 @@
 0.0.0.0 haihuang-audio.com
 0.0.0.0 hairandmakeupbyvanitapatel.com
 0.0.0.0 hairboutique.us.intellitxt.com
-0.0.0.0 hairtease.com
 0.0.0.0 hajierpoil8.pe.hu
 0.0.0.0 hakdilaravakfi.com
 0.0.0.0 hakerr.pl
@@ -32669,7 +32666,6 @@
 0.0.0.0 interal007.com
 0.0.0.0 interbank-pe.in
 0.0.0.0 interchangecorporation.122.2o7.net
-0.0.0.0 intercom.io
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 intergi.com
 0.0.0.0 interia.hit.gemius.pl
@@ -33450,6 +33446,7 @@
 0.0.0.0 jedonkey.cjt1.net
 0.0.0.0 jeeily.cf
 0.0.0.0 jeevanhumsafar.in
+0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jeffcm.com
 0.0.0.0 jefferywi.info
 0.0.0.0 jeffreymunns.co
@@ -35126,7 +35123,6 @@
 0.0.0.0 lavienailscarmel.com
 0.0.0.0 lavi-lavi.com
 0.0.0.0 lavillanails.com
-0.0.0.0 lavoixdesmots.free.fr
 0.0.0.0 lavonnewk.000webhostapp.com
 0.0.0.0 lawcourtsltd.com.au
 0.0.0.0 law.dekante.ru
@@ -36165,7 +36161,6 @@
 0.0.0.0 logs1204.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs1285.xiti.com
-0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.thebloggernetwork.com
@@ -38739,7 +38734,6 @@
 0.0.0.0 mon-compte-ameli-fr.info
 0.0.0.0 mon-compte-assure-ameli-remboursement.com
 0.0.0.0 moncompte-espace-freemobile.serv-frinfos.com
-0.0.0.0 moncompte.grouperf.com
 0.0.0.0 moncompte-mobile.gzero.com.mx
 0.0.0.0 mondayemployment.com
 0.0.0.0 monde-gourmandises.net
@@ -44692,6 +44686,7 @@
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-review.info
 0.0.0.0 prod-services.interactiveone.com
+0.0.0.0 producer.getwisdom.io
 0.0.0.0 productioncheats.com
 0.0.0.0 productivityboss.bid
 0.0.0.0 productivity-engineering.com
@@ -45437,6 +45432,7 @@
 0.0.0.0 qualityponno.com
 0.0.0.0 qualityporn.biz
 0.0.0.0 quallpac.com
+0.0.0.0 qualtrics.com
 0.0.0.0 quangl3m.beget.tech
 0.0.0.0 quanmama.com
 0.0.0.0 quantcast.com
@@ -46146,6 +46142,7 @@
 0.0.0.0 refispokane.com
 0.0.0.0 reflectivereward.com
 0.0.0.0 reflesjjes.site
+0.0.0.0 reflexonature.free.fr
 0.0.0.0 reformandrevive.com
 0.0.0.0 reformasgranada-grupojch.com
 0.0.0.0 reformasgranada.tk
@@ -46172,6 +46169,7 @@
 0.0.0.0 region-id-paypal.com
 0.0.0.0 regisconfrimfanpage766.confrimsuportfanpage9888.tk
 0.0.0.0 regis-fanpaqee.dev-fanpage23.cf
+0.0.0.0 regis.foultier.free.fr
 0.0.0.0 regist-acc-info.ca
 0.0.0.0 regist-cairdanaepat.com
 0.0.0.0 register-90.d3v-fanpag3.tk
@@ -46306,6 +46304,7 @@
 0.0.0.0 remowindowsnow.com
 0.0.0.0 remox.com
 0.0.0.0 rem.rezonmedia.eu
+0.0.0.0 remyyadan.online.fr
 0.0.0.0 renamsocreton.expert
 0.0.0.0 renatarabelo.com
 0.0.0.0 renatocal.com
@@ -46744,6 +46743,7 @@
 0.0.0.0 rnybnenkcfvpfpqc.com
 0.0.0.0 rnyetherrwallet.com
 0.0.0.0 rnyetlherwallet.com
+0.0.0.0 rnyuthewallet.com
 0.0.0.0 ro1adro.hit.gemius.pl
 0.0.0.0 ro1ro.adocean.pl
 0.0.0.0 ro2.biz
@@ -48810,8 +48810,6 @@
 0.0.0.0 serien-stream.at
 0.0.0.0 serienstreamen.com
 0.0.0.0 serienstreamen.de
-0.0.0.0 seriesgato.com
-0.0.0.0 seriesgato.tv
 0.0.0.0 serifeninorgudunyasicom.bid
 0.0.0.0 seriouscheating.com
 0.0.0.0 sernoodmovies.com
@@ -49773,7 +49771,6 @@
 0.0.0.0 sing-in-online-id.000webhostapp.com
 0.0.0.0 singnata.cf
 0.0.0.0 singneett.info
-0.0.0.0 singtelmedia.com
 0.0.0.0 siniature.com
 0.0.0.0 sinillc.com
 0.0.0.0 s.innovid.com
@@ -57145,7 +57142,6 @@
 0.0.0.0 wannianli365.com
 0.0.0.0 wansernmy.com
 0.0.0.0 wanted2buy.com.au
-0.0.0.0 wantmobi.bid
 0.0.0.0 wantospo.com
 0.0.0.0 wanzhai.com
 0.0.0.0 wapd.wishbone.com
@@ -58029,6 +58025,7 @@
 0.0.0.0 wirecomic.com
 0.0.0.0 wiredpetals.com
 0.0.0.0 wiregirl.us.intellitxt.com
+0.0.0.0 wirekinq.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wireless.ign.us.intellitxt.com
