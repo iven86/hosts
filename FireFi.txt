@@ -8099,6 +8099,7 @@
 0.0.0.0 ads.tv7.sporta.bg
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
@@ -14280,7 +14281,6 @@
 0.0.0.0 bjergager5.dk
 0.0.0.0 bj-fengshi.com
 0.0.0.0 bjhh998.com
-0.0.0.0 bjhmt.com
 0.0.0.0 bjhycd.net
 0.0.0.0 bjhzlr.com
 0.0.0.0 bjjmywcb.com
@@ -17001,6 +17001,7 @@
 0.0.0.0 cassmcdn.000webhostapp.com
 0.0.0.0 cassmcdsa.000webhostapp.com
 0.0.0.0 castellettoteam.tk
+0.0.0.0 casterist.info
 0.0.0.0 castingartistas.com
 0.0.0.0 castingshow-news.de.intellitxt.com
 0.0.0.0 castlebrae.co.nz
@@ -19853,6 +19854,7 @@
 0.0.0.0 cosmos.furnipict.com
 0.0.0.0 cospages.000webhostapp.com
 0.0.0.0 cossfood.com
+0.0.0.0 cost2buy.net
 0.0.0.0 costaluz.info
 0.0.0.0 costargroup.112.2o7.net
 0.0.0.0 costlessautoparts.com.au
@@ -23105,7 +23107,6 @@
 0.0.0.0 drugscom.us.intellitxt.com
 0.0.0.0 drukarniacmyk.pl
 0.0.0.0 drumcash.com
-0.0.0.0 druming.free.fr
 0.0.0.0 drunkporn.us
 0.0.0.0 drunksexygirls.com
 0.0.0.0 dr.webservicehosts.com
@@ -23975,6 +23976,7 @@
 0.0.0.0 embuscadeprazer.com.br
 0.0.0.0 emc.122.2o7.net
 0.0.0.0 emcinfo.com.br
+0.0.0.0 emebo.com
 0.0.0.0 e-mediabiz.com
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
@@ -25684,7 +25686,6 @@
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 feed.trafflow.com
 0.0.0.0 feed.validclick.com
-0.0.0.0 feefo.com
 0.0.0.0 feelfabulous.com.br
 0.0.0.0 feel-good-fitness.com.au
 0.0.0.0 feelingflavor.in.net
@@ -33446,7 +33447,6 @@
 0.0.0.0 jedonkey.cjt1.net
 0.0.0.0 jeeily.cf
 0.0.0.0 jeevanhumsafar.in
-0.0.0.0 jefaerosol.free.fr
 0.0.0.0 jeffcm.com
 0.0.0.0 jefferywi.info
 0.0.0.0 jeffreymunns.co
@@ -34503,7 +34503,6 @@
 0.0.0.0 kincrecz.com
 0.0.0.0 kindads.com
 0.0.0.0 kindergarten.4760.at
-0.0.0.0 kineclick.free.fr
 0.0.0.0 kinecosystem.io
 0.0.0.0 kineslince.com
 0.0.0.0 kinetictokenforms.typeform.com
@@ -35445,7 +35444,6 @@
 0.0.0.0 lfstmedia.com
 0.0.0.0 lfunny.com
 0.0.0.0 lg1.brandreachsys.com
-0.0.0.0 lgorithmsolutions.com
 0.0.0.0 lgservisin.com
 0.0.0.0 lg-telecom.com
 0.0.0.0 lgwelding.com
@@ -37583,6 +37581,7 @@
 0.0.0.0 megapopads.com
 0.0.0.0 megapornbucks.com
 0.0.0.0 megaprolink.com
+0.0.0.0 megapu.sh
 0.0.0.0 megaricardoofertas.online
 0.0.0.0 megashare.filminstan.pw
 0.0.0.0 megastats.com
@@ -40003,7 +40002,6 @@
 0.0.0.0 ndfbskfngsfg.ga
 0.0.0.0 ndftg.co.uk
 0.0.0.0 ndn.cdn.auditude.com
-0.0.0.0 ndnops.com
 0.0.0.0 ndouends.com
 0.0.0.0 ndparking.com
 0.0.0.0 neajrmcl.tk
@@ -41893,6 +41891,7 @@
 0.0.0.0 optivasecurity.000webhostapp.com
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
+0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 optout-blglb.net
@@ -41915,7 +41914,6 @@
 0.0.0.0 oqwygprskqv65j72.1gqj8x.top
 0.0.0.0 oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 oqwygprskqv65j72.1j1x2b.top
-0.0.0.0 oqwygprskqv65j72.1jquw7.top
 0.0.0.0 oqwygprskqv65j72.1kh9ct.top
 0.0.0.0 oqwygprskqv65j72.1mudaw.top
 0.0.0.0 oqwygprskqv65j72.1nzpby.top
@@ -43792,6 +43790,7 @@
 0.0.0.0 pixoveexs.com
 0.0.0.0 pix.pulsemgr.com
 0.0.0.0 pix.silverpush.co
+0.0.0.0 pix.spot.im
 0.0.0.0 pix.tagcdn.com
 0.0.0.0 pixxur.com
 0.0.0.0 pizzotti.net
@@ -46142,7 +46141,6 @@
 0.0.0.0 refispokane.com
 0.0.0.0 reflectivereward.com
 0.0.0.0 reflesjjes.site
-0.0.0.0 reflexonature.free.fr
 0.0.0.0 reformandrevive.com
 0.0.0.0 reformasgranada-grupojch.com
 0.0.0.0 reformasgranada.tk
@@ -46169,7 +46167,6 @@
 0.0.0.0 region-id-paypal.com
 0.0.0.0 regisconfrimfanpage766.confrimsuportfanpage9888.tk
 0.0.0.0 regis-fanpaqee.dev-fanpage23.cf
-0.0.0.0 regis.foultier.free.fr
 0.0.0.0 regist-acc-info.ca
 0.0.0.0 regist-cairdanaepat.com
 0.0.0.0 register-90.d3v-fanpag3.tk
@@ -46304,7 +46301,6 @@
 0.0.0.0 remowindowsnow.com
 0.0.0.0 remox.com
 0.0.0.0 rem.rezonmedia.eu
-0.0.0.0 remyyadan.online.fr
 0.0.0.0 renamsocreton.expert
 0.0.0.0 renatarabelo.com
 0.0.0.0 renatocal.com
@@ -46770,7 +46766,6 @@
 0.0.0.0 robertsplacements.ru
 0.0.0.0 robertwebsterministries.org
 0.0.0.0 robertx7.beget.tech
-0.0.0.0 robinkornett.com
 0.0.0.0 robins.stagemywebsite.com
 0.0.0.0 roblox.com-cheat.in
 0.0.0.0 robloxrobux-generator.com
@@ -47067,6 +47062,7 @@
 0.0.0.0 rtuertyuer.com
 0.0.0.0 r.turn.com
 0.0.0.0 rtve.d1.sc.omtrdc.net
+0.0.0.0 rtxplatform.com
 0.0.0.0 rtysasa.com
 0.0.0.0 rtyszz.com
 0.0.0.0 ru2.hit.stat24.com
@@ -50233,6 +50229,7 @@
 0.0.0.0 smestudio.com.uy
 0.0.0.0 smetrics.creditreport.com
 0.0.0.0 smetrics.ctv.ca
+0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.freecreditreport.com
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.yellowbook.com
@@ -51546,6 +51543,7 @@
 0.0.0.0 stevedimatteo.com
 0.0.0.0 stevemike-fireforce.info
 0.0.0.0 stevenlek.com
+0.0.0.0 stevenmyersphotography.com
 0.0.0.0 stevensandersmd.com
 0.0.0.0 stevenspangenberg.com
 0.0.0.0 steviachacraelcomienzo.com
@@ -53871,7 +53869,6 @@
 0.0.0.0 top.proext.com
 0.0.0.0 topqualitylink.com
 0.0.0.0 toprebates.com
-0.0.0.0 topresistor.gotoip2.com
 0.0.0.0 topsafelist.net
 0.0.0.0 topsaleportal.su
 0.0.0.0 topscore.in
@@ -55142,7 +55139,6 @@
 0.0.0.0 umpfgcwqbunivs.xyz
 0.0.0.0 ums.adtechus.com
 0.0.0.0 umsebentienterprise.co.za
-0.0.0.0 umsv-steyrtal.com
 0.0.0.0 umushabitsi.com
 0.0.0.0 umutkasimoglu.com
 0.0.0.0 un-accident-video.jibonerareknamtaka.com
@@ -62267,6 +62263,7 @@
 0.0.0.0 zz.cqcounter.com
 0.0.0.0 zzdsfy.com
 0.0.0.0 zzha.net
+0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzmyw.com
 0.0.0.0 zzpxw.cn
 0.0.0.0 zzshw.net
