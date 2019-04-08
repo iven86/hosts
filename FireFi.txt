@@ -6968,6 +6968,7 @@
 0.0.0.0 adserve.doteasy.com
 0.0.0.0 adserve-east.technologygeeks.com
 0.0.0.0 adserve.gogreece.com
+0.0.0.0 adserve.io
 0.0.0.0 adserve.kikizo.com
 0.0.0.0 ad-serve.net
 0.0.0.0 adserve.podaddies.com
@@ -12826,6 +12827,7 @@
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.ortodontiacontagem1.com.br
 0.0.0.0 bank.barclays.co.uk.olb.auth.registration.paymentreview.personalaccount.summarry.loginlink.action.thefloralessence.com
 0.0.0.0 bankhapoailm.com
+0.0.0.0 bankhapoailm-login.com
 0.0.0.0 bankhapoalim-online.com
 0.0.0.0 bankhsbconline.com
 0.0.0.0 banking.bmo-securevalidation.com
@@ -25398,6 +25400,7 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastleakedmedia.com
+0.0.0.0 fastly-insights.com
 0.0.0.0 fast.marthastewart.demdex.net
 0.0.0.0 fastmediasearcher.com
 0.0.0.0 fast.mtvn.demdex.net
@@ -28355,7 +28358,6 @@
 0.0.0.0 getweathercast.com
 0.0.0.0 getwhatsappforpc.com
 0.0.0.0 get.whitesmoke.com
-0.0.0.0 getwisdom.io
 0.0.0.0 getwsxzsa31.club
 0.0.0.0 getxbox360codes.com
 0.0.0.0 getyourcheats.com
@@ -28783,6 +28785,7 @@
 0.0.0.0 go.mobtrks.com
 0.0.0.0 go.mobytrks.com
 0.0.0.0 go.mooncklick.com
+0.0.0.0 go-mpulse.net
 0.0.0.0 gomyfile.net
 0.0.0.0 gomzansi.com
 0.0.0.0 gondolagnome.com
@@ -30220,6 +30223,7 @@
 0.0.0.0 hdmtxh.com
 0.0.0.0 hdoro.com
 0.0.0.0 hdrhsy.cn
+0.0.0.0 hdscout.com
 0.0.0.0 hdshow-online.com
 0.0.0.0 hdstreaming.me
 0.0.0.0 hdtv9.com
@@ -33792,7 +33796,6 @@
 0.0.0.0 jotkzathku5uzxyzfv56.maherstcottage.com.au
 0.0.0.0 jounkh.5gbfree.com
 0.0.0.0 jounlock.com
-0.0.0.0 journaldemourreal.com
 0.0.0.0 journalofindianscholar.in
 0.0.0.0 journalofsurgicalsciences.com
 0.0.0.0 journalregistercompany.122.2o7.net
@@ -37212,6 +37215,7 @@
 0.0.0.0 maxilar.ec
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximhack.com
+0.0.0.0 maximiser.net
 0.0.0.0 maximize.gammacash.com
 0.0.0.0 maximizerxls.com
 0.0.0.0 maximumcash.com
@@ -37783,6 +37787,7 @@
 0.0.0.0 metrics.americancityandcounty.com
 0.0.0.0 metrics.ancestry.co.uk
 0.0.0.0 metrics.apartmentfinder.com
+0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.ariba.com
@@ -37853,6 +37858,7 @@
 0.0.0.0 metrics.gap.com
 0.0.0.0 metrics.gcimetrics.com
 0.0.0.0 metrics.geek.com
+0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.govpro.com
@@ -39629,7 +39635,6 @@
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 mymobileappz.com
-0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mymoviestube.com
 0.0.0.0 mynameistow.pro
 0.0.0.0 mynethwallet.com
@@ -45260,6 +45265,7 @@
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 pxfcponkv.pw
 0.0.0.0 pxfulevs.com
+0.0.0.0 px.gfycat.com
 0.0.0.0 pxhoaves.info
 0.0.0.0 pxl.ibpxl.com
 0.0.0.0 pxl.pmsrvr.com
@@ -45878,7 +45884,6 @@
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
 0.0.0.0 readingopera.com
-0.0.0.0 readitmakeit.com
 0.0.0.0 readprojectorphan.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
@@ -50872,6 +50877,7 @@
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 srvkloudexch.com
+0.0.0.0 srvmath.com
 0.0.0.0 srvmobile-free.info
 0.0.0.0 srvpub.com
 0.0.0.0 srv.sayyac.com
@@ -52526,6 +52532,7 @@
 0.0.0.0 tamanas.com
 0.0.0.0 tamaraclothing.co.za
 0.0.0.0 tamatar.cf
+0.0.0.0 tamgrt.com
 0.0.0.0 tamilcm.com
 0.0.0.0 tamimbappi.us.kzpcmad.tk
 0.0.0.0 tamiracenter.co.id
@@ -54024,6 +54031,7 @@
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 track.adbooth.net
 0.0.0.0 trackad.cz
+0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adrevolver.com
 0.0.0.0 track.adservingfactory.com
@@ -59166,6 +59174,7 @@
 0.0.0.0 www.cadeplot.net
 0.0.0.0 www.caixapre.com.br
 0.0.0.0 www.cambodiaoutsourcing.com
+0.0.0.0 www.cambridge-solutions.online
 0.0.0.0 www.camsoda1.com
 0.0.0.0 www.canadasmedicine.com
 0.0.0.0 www.canadianhw.ca
