@@ -62230,3 +62230,16 @@
 0.0.0.0 zzz.clickbank.net
 0.0.0.0 zzzezeroe.fr
 0.0.0.0 zzzpooeaz-france.com
+
+
+
+0.0.0.0 doubleclick.net^
+0.0.0.0 flashtalking.com$domain=youtube.com
+0.0.0.0 googlesyndication.com^
+0.0.0.0 s0.2mdn.net/ads
+0.0.0.0 www.google.*/pagead$domain=youtube.com
+0.0.0.0 www.youtube.com/[[computeEmptyGif_()]]$image
+0.0.0.0 www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
+0.0.0.0 www.youtube.com/api/stats
+0.0.0.0 www.youtube.com/pagead
+0.0.0.0 www.youtube.com/ptracking
