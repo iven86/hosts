@@ -553,6 +553,7 @@
 0.0.0.0 1royalbank-clientsupport.com
 0.0.0.0 1royalrbcmonitoring-service.com
 0.0.0.0 1royalrbcmonitoringservice.com
+0.0.0.0 1rx.io
 0.0.0.0 1saintanddier15-registrosj.com
 0.0.0.0 1scologin-online.com
 0.0.0.0 1scotia-verifications.com
@@ -2430,6 +2431,7 @@
 0.0.0.0 aavis.com
 0.0.0.0 aa.voice2page.com
 0.0.0.0 aawesomename.xyz
+0.0.0.0 aaxads.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aa.xqwqbg.com
@@ -13578,7 +13580,6 @@
 0.0.0.0 beaglebeatrecords.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beamincrease.com
-0.0.0.0 beamkite.com
 0.0.0.0 beamslife.com
 0.0.0.0 beam.to
 0.0.0.0 beanexperience.com
@@ -14255,6 +14256,7 @@
 0.0.0.0 bizcombd.com
 0.0.0.0 bizdevar.tk
 0.0.0.0 bizdez.net
+0.0.0.0 bizible.com
 0.0.0.0 bizjournals.112.2o7.net
 0.0.0.0 bizjournals-d.openx.net
 0.0.0.0 biznessmebeli.ru
@@ -19290,7 +19292,6 @@
 0.0.0.0 com-macbook-mend.systems
 0.0.0.0 command.adservs.com
 0.0.0.0 command.in.net
-0.0.0.0 commandwalk.com
 0.0.0.0 com-marcosave.com
 0.0.0.0 com-marketing-instant.info
 0.0.0.0 commbank.com.au.mietraumverwaltung.de
@@ -20445,7 +20446,6 @@
 0.0.0.0 crowdgravity.com
 0.0.0.0 crowleyinstitute.com
 0.0.0.0 crown-banking.info
-0.0.0.0 crownclam.com
 0.0.0.0 crowndragon.com.au
 0.0.0.0 crownmehair.com
 0.0.0.0 crowntec.org
@@ -21713,7 +21713,6 @@
 0.0.0.0 delhitrollywheels.com
 0.0.0.0 delicatecase.com
 0.0.0.0 delightcash.com
-0.0.0.0 delightdriving.com
 0.0.0.0 delightful.112.2o7.net
 0.0.0.0 delights.pk
 0.0.0.0 deliverkart.com
@@ -22144,7 +22143,6 @@
 0.0.0.0 diff2.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 diff4.smartadserver.com
-0.0.0.0 differentdesk.com
 0.0.0.0 differi.ga
 0.0.0.0 difficultnotice.net
 0.0.0.0 diff.smartadserver.com
@@ -24256,7 +24254,6 @@
 0.0.0.0 er20090515.com
 0.0.0.0 eraambiente.it
 0.0.0.0 eraophyetras.info
-0.0.0.0 eravlad.ru
 0.0.0.0 erdemirsurucukursu.com
 0.0.0.0 erection.doktordick.com
 0.0.0.0 eremedia.112.2o7.net
@@ -36134,6 +36131,7 @@
 0.0.0.0 log-paypal.co.uk
 0.0.0.0 logp.hit-parade.com
 0.0.0.0 log.pinion.gg
+0.0.0.0 log.pinterest.com
 0.0.0.0 logp.xiti.com
 0.0.0.0 log.quora.com
 0.0.0.0 logrel.com.ng
@@ -36563,6 +36561,7 @@
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m1.webstats.motigo.com
 0.0.0.0 m2132.ehgaugysd.net
+0.0.0.0 m2.ai
 0.0.0.0 m2.fwmrm.net
 0.0.0.0 m2icomms.co.uk
 0.0.0.0 m2k.ru
@@ -37356,6 +37355,7 @@
 0.0.0.0 medhottaliasmororabi.org
 0.0.0.0 medhottaliasmoror.com
 0.0.0.0 media01.adservinghost.com
+0.0.0.0 media01.eu
 0.0.0.0 media-0.vpptechnologies.com
 0.0.0.0 media122-d.openx.net
 0.0.0.0 media1.ancestry.com
@@ -41757,6 +41757,7 @@
 0.0.0.0 oowhe.frost-electric-supply.com
 0.0.0.0 oparatoeur5574.operator360mobile.com
 0.0.0.0 opaterdmsnydl.co
+0.0.0.0 opcib.com
 0.0.0.0 open247shopping.com
 0.0.0.0 openadext.tf1.fr
 0.0.0.0 openads.flagman.bg
@@ -41973,7 +41974,6 @@
 0.0.0.0 orsispharma.com
 0.0.0.0 ortaokultestleri.net
 0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
-0.0.0.0 ortomedicavallarta.com
 0.0.0.0 ortopediabolognese.com
 0.0.0.0 o.sa.aol.com
 0.0.0.0 osapeninsulasportfishing.com
@@ -45021,6 +45021,7 @@
 0.0.0.0 psstt.com
 0.0.0.0 pstats.blogworks.com
 0.0.0.0 pstdieqz7m2c2comyrev.alfacomercial.com.br
+0.0.0.0 pstmrk.it
 0.0.0.0 pstransport.com.my
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 psvitaapps.com
@@ -45111,6 +45112,7 @@
 0.0.0.0 publishpartners.com
 0.0.0.0 publish.webmasterbond.com
 0.0.0.0 pubmatic.com
+0.0.0.0 pub.network
 0.0.0.0 pub.oxado.com
 0.0.0.0 pub.pgssl.com
 0.0.0.0 pub.realmedia.fr
@@ -46372,7 +46374,6 @@
 0.0.0.0 res.levexis.com
 0.0.0.0 resmbtreck.esy.es
 0.0.0.0 resolutekey.com
-0.0.0.0 resolutionary.com.au
 0.0.0.0 resolution-center-region-us-paypal.com
 0.0.0.0 resolution-center-secured-paypal.com
 0.0.0.0 resolve-account-id-665.com
@@ -48714,7 +48715,6 @@
 0.0.0.0 sendmepixel.com
 0.0.0.0 send.microad.jp
 0.0.0.0 sendmini.com
-0.0.0.0 sendpulse.com
 0.0.0.0 sendshort.com
 0.0.0.0 sendukfile.com
 0.0.0.0 senrima.ru
@@ -50580,6 +50580,7 @@
 0.0.0.0 space.us.intellitxt.com
 0.0.0.0 spads.yamx.com
 0.0.0.0 spaguilareal.mx
+0.0.0.0 sp.aifei0755.net
 0.0.0.0 spamfighter.112.2o7.net
 0.0.0.0 spamnuker.com
 0.0.0.0 sp.analytics.yahoo.com
@@ -50930,6 +50931,7 @@
 0.0.0.0 stack9.collect.igodigital.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpoints.com
+0.0.0.0 stack-sonar.com
 0.0.0.0 stacykeibler.sexybabesx.com
 0.0.0.0 stacywilwertphotography.com
 0.0.0.0 st.ad.adnow.com
@@ -57212,7 +57214,6 @@
 0.0.0.0 watch-the-fullvideo.pw
 0.0.0.0 watchthesenow.com
 0.0.0.0 watchtvshowsonlineinhq.com
-0.0.0.0 waterandleaves.com
 0.0.0.0 waterbugsanity.org
 0.0.0.0 watercircle.net
 0.0.0.0 watercut.com.my
@@ -57339,6 +57340,7 @@
 0.0.0.0 webclients.net
 0.0.0.0 webcom-software.ws
 0.0.0.0 webconnect.net
+0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.be
 0.0.0.0 webcounter.com
 0.0.0.0 webcounter.cz
@@ -62232,9 +62234,9 @@
 0.0.0.0 zzzpooeaz-france.com
 
 
-
 0.0.0.0 doubleclick.net^
 0.0.0.0 flashtalking.com$domain=youtube.com
+0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com^
 0.0.0.0 s0.2mdn.net/ads
 0.0.0.0 www.google.*/pagead$domain=youtube.com
@@ -62243,3 +62245,42 @@
 0.0.0.0 www.youtube.com/api/stats
 0.0.0.0 www.youtube.com/pagead
 0.0.0.0 www.youtube.com/ptracking
+
+
+0.0.0.0 api-read.facebook.com/restserver.php?api_key=$third-party
+0.0.0.0 api.facebook.com^$third-party
+0.0.0.0 badge.facebook.com^$third-party
+0.0.0.0 connect.facebook.com^$third-party,domain=~facebook.net|~fb.com
+0.0.0.0 connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
+0.0.0.0 facebook.com/connect/$third-party
+0.0.0.0 facebook.com/dialog/oauth?display=popup$popup,domain=humorhub.org
+0.0.0.0 facebook.com/plugins/activity.php?$third-party
+0.0.0.0 facebook.com/plugins/comments.php?$third-party
+0.0.0.0 facebook.com/plugins/facepile.php?$third-party
+0.0.0.0 facebook.com/plugins/fan.php?$third-party
+0.0.0.0 facebook.com/plugins/follow.php$third-party
+0.0.0.0 facebook.com/plugins/like.php?$third-party
+0.0.0.0 facebook.com/plugins/like_box.php$third-party
+0.0.0.0 facebook.com/plugins/likebox.php?$third-party
+0.0.0.0 facebook.com/plugins/post.php?$third-party
+0.0.0.0 facebook.com/plugins/recommendations.php?$third-party
+0.0.0.0 facebook.com/plugins/recommendations_bar.php?$third-party
+0.0.0.0 facebook.com/plugins/send.php?$third-party
+0.0.0.0 facebook.com/plugins/share_button.php?$third-party
+0.0.0.0 facebook.com/plugins/subscribe.php$third-party
+0.0.0.0 facebook.com/plugins/subscribe?$third-party
+0.0.0.0 facebook.com/restserver.php?*.getStats&$third-party
+0.0.0.0 facebook.com/whitepages/wpminiprofile.php$third-party
+0.0.0.0 facebook.com/widgets/activity.php?$third-party
+0.0.0.0 facebook.com/widgets/fan.php?$third-party
+0.0.0.0 facebook.com/widgets/like.php?$third-party
+0.0.0.0 facebook.com/widgets/recommendations.php?$third-party
+0.0.0.0 fbcdn-profile-a.akamaihd.net^$third-party,domain=~facebook.com
+0.0.0.0 google.com/js/client:plusone.js$third-party
+0.0.0.0 google.com/js/plusone.js$third-party
+0.0.0.0 graph.facebook.com/?id=$third-party
+0.0.0.0 graph.facebook.com^$third-party,xmlhttprequest
+0.0.0.0 profile.ak.fbcdn.net^$third-party,domain=~facebook.com
+0.0.0.0 scontent-a.*.fbcdn.net^$third-party,domain=~facebook.com
+0.0.0.0 spot.im/embed/scripts/launcher.js$third-party
+0.0.0.0 static.ak.fbcdn.net^$third-party,domain=~facebook.com
