@@ -9398,6 +9398,7 @@
 0.0.0.0 agp-one.net
 0.0.0.0 agraeta.com
 0.0.0.0 agreeablestew.com
+0.0.0.0 agreemand.com
 0.0.0.0 agreement4.gdmachinery.net
 0.0.0.0 agreement7.gdmachinery.net
 0.0.0.0 agricolamarsole.com
@@ -17681,6 +17682,7 @@
 0.0.0.0 chambarakbk.am
 0.0.0.0 chambercalibrationservices.com
 0.0.0.0 chamberstimber.com
+0.0.0.0 chameleon.ad
 0.0.0.0 chamuncontabil.com
 0.0.0.0 chandelshops.com
 0.0.0.0 chandipadel.com
@@ -18176,6 +18178,7 @@
 0.0.0.0 christineflorez.us
 0.0.0.0 christinelebeck.com
 0.0.0.0 christinepantazis.com
+0.0.0.0 christingel.com
 0.0.0.0 christmasgiftnow.com
 0.0.0.0 christmasgiftsau.com
 0.0.0.0 christmas.minecraftpromotions.com
@@ -24556,6 +24559,7 @@
 0.0.0.0 evad3rsevasion.com
 0.0.0.0 evad3rs.me
 0.0.0.0 evad3rsteam.com
+0.0.0.0 evadav.com
 0.0.0.0 ev.ads.pointroll.com
 0.0.0.0 evagreen.sexybabesx.com
 0.0.0.0 evakuator-group163.ru
@@ -26217,6 +26221,7 @@
 0.0.0.0 fixedmypopup.co.in
 0.0.0.0 fixedmyslowpc.co.in
 0.0.0.0 fixedyourissue.co.in
+0.0.0.0 fixel.ai
 0.0.0.0 fixerrorresolved.co.in
 0.0.0.0 fixeventmanagement.com
 0.0.0.0 fix-files.com
@@ -26387,6 +26392,7 @@
 0.0.0.0 fnyoga.biz
 0.0.0.0 fo5.a1-downloader.org
 0.0.0.0 foaks.com
+0.0.0.0 foamybox.com
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 fobertinia.com
 0.0.0.0 focusbahia.com.br
@@ -37339,7 +37345,6 @@
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 media.travelzoo.com
 0.0.0.0 media-tricks.com
-0.0.0.0 mediatrking.com
 0.0.0.0 media.ventivmedia.com
 0.0.0.0 mediaview.globalmailer.com
 0.0.0.0 mediavine.com
@@ -61837,6 +61842,7 @@
 0.0.0.0 zllmsirlk.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 zm1.zeroredirect5.com
+0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zmskins.com
