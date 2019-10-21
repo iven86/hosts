@@ -10084,6 +10084,7 @@
 0.0.0.0 alshateamall.com
 0.0.0.0 alsmanager.com
 0.0.0.0 alsoknowsit.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 alsulthanscrap.com
 0.0.0.0 alsurdelplaneta.com
 0.0.0.0 altafista.com
@@ -24454,6 +24455,7 @@
 0.0.0.0 et-lnterac-online.com
 0.0.0.0 et-mobility-canada.curbyl.tk
 0.0.0.0 etnkorea.com
+0.0.0.0 et.nytimes.com
 0.0.0.0 etoroglobal.com
 0.0.0.0 etracker.de
 0.0.0.0 etransferiinterac.ranggorawakh.com
@@ -33780,6 +33782,7 @@
 0.0.0.0 jsp.clickzs.com
 0.0.0.0 jsp.clickzzs.nl
 0.0.0.0 jspkgj.com
+0.0.0.0 jsrdn.com
 0.0.0.0 js.redtram.com
 0.0.0.0 js.revsci.net
 0.0.0.0 js.ru.redtram.com
@@ -53987,6 +53990,7 @@
 0.0.0.0 track.trafiz.net
 0.0.0.0 tracktrue.clicktrue.biz
 0.0.0.0 track.ultragaming.biz
+0.0.0.0 track.ultravpn.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track.viralvidi.com
