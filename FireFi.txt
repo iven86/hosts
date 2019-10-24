@@ -389,7 +389,6 @@
 0.0.0.0 125jia.cn
 0.0.0.0 125jumeinv.com
 0.0.0.0 1262.hittail.com
-0.0.0.0 126419-deu-storno-sicherheit-konto_identity.sicherheitssystem-sicherheitshilfe.ga
 0.0.0.0 126.com
 0.0.0.0 1274.mediatraffic.com
 0.0.0.0 1278725189.pub.ezanga.com
@@ -424,7 +423,6 @@
 0.0.0.0 15141.hittail.com
 0.0.0.0 152321-co.umbler.net
 0.0.0.0 1559.stats.misstrends.com
-0.0.0.0 156166-de-storno-sicherheit-konto_identity.vorbeugung-sicher.gq
 0.0.0.0 15628.hittail.com
 0.0.0.0 15666.com
 0.0.0.0 15694.hittail.com
@@ -2072,7 +2070,6 @@
 0.0.0.0 77266.hittail.com
 0.0.0.0 773737-germany-nutzung-mitteilung-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 774378.com
-0.0.0.0 774982-de-verbraucher-sicherheit-konto_identity.vorbeugung-sicher.gq
 0.0.0.0 7765817.facebook.profilephdid.com
 0.0.0.0 777-best-online-casinos.com
 0.0.0.0 777blogz.com
@@ -2130,7 +2127,6 @@
 0.0.0.0 800chat.com
 0.0.0.0 80211planet.com
 0.0.0.0 803.stats.misstrends.com
-0.0.0.0 804460-germany-verbraucher-mitteilung-konto_identity.sicher-vorbeugung.tk
 0.0.0.0 805678.com
 0.0.0.0 8098.nut.cc
 0.0.0.0 80aczhyfg8v3bu7jzesb.viomil.ro
@@ -2165,7 +2161,6 @@
 0.0.0.0 888whyroof.com
 0.0.0.0 88fga.ketteaero.com
 0.0.0.0 88kkvv.com
-0.0.0.0 893186-deutschland-storno-mitteilung-konto_identity.vorbeugung-sicher.gq
 0.0.0.0 8959.hittail.com
 0.0.0.0 898protrudesolve.com
 0.0.0.0 898tech.com
@@ -2203,7 +2198,6 @@
 0.0.0.0 917899278545.myjino.ru
 0.0.0.0 91kuyue.com
 0.0.0.0 922.hittail.com
-0.0.0.0 927697--storno-sicher-konto_identity.sicherheitsvorbeugung-schutz.cf
 0.0.0.0 9310.searchmiracle.com
 0.0.0.0 93367.hittail.com
 0.0.0.0 9345478333.cn
@@ -2217,7 +2211,6 @@
 0.0.0.0 9547.hittail.com
 0.0.0.0 9563.hittail.com
 0.0.0.0 9571.hittail.com
-0.0.0.0 962583-deutschland-nutzung-mitteilung-konto_identity.sicher-sicherheitsabfrage.ml
 0.0.0.0 974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com
 0.0.0.0 9779.info
 0.0.0.0 978qp.com
@@ -17078,6 +17071,7 @@
 0.0.0.0 c.cfjump.com
 0.0.0.0 ccgmetals.pw
 0.0.0.0 c.chango.com
+0.0.0.0 c.channeltraffic.net
 0.0.0.0 cc.iwon.com
 0.0.0.0 ccjbox.ivyro.net
 0.0.0.0 ccknifegiveaway.com
@@ -23820,7 +23814,6 @@
 0.0.0.0 ellisplanningassociates.com
 0.0.0.0 elloainson.us
 0.0.0.0 ellosnetworking.com.br
-0.0.0.0 ells_fargo.com.confirm.text.or-activewf.top
 0.0.0.0 ellusakit.000webhostapp.com
 0.0.0.0 elmar.rzeszow.pl
 0.0.0.0 elmiagencies.co.ke
@@ -33937,7 +33930,6 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 jwpooleinc.com
 0.0.0.0 jwpray.com
-0.0.0.0 jwsc.cn
 0.0.0.0 jwyatt.ca
 0.0.0.0 jxcsteel.com
 0.0.0.0 jxgz0kijwc.bvvz1oh0an.madpendesign.com.au
@@ -35783,6 +35775,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loady.de.intellitxt.com
 0.0.0.0 loaferish-blinks.000webhostapp.com
+0.0.0.0 loalbitccoins.info
 0.0.0.0 loannaka.com
 0.0.0.0 loansicn.com
 0.0.0.0 loansolo.us
@@ -47757,6 +47750,7 @@
 0.0.0.0 sbergonzi.org
 0.0.0.0 sbethot.com
 0.0.0.0 sbhackguide.com
+0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s.bledea.us.mhqo.ga
 0.0.0.0 sb.monetate.net
 0.0.0.0 sbnationbidder-d.openx.net
@@ -49516,6 +49510,7 @@
 0.0.0.0 simplycrack.com
 0.0.0.0 simply-high.co.uk
 0.0.0.0 simplymed.cl
+0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 simprove.com
 0.0.0.0 simpson4senate.com
 0.0.0.0 simpsonsdonuthackandroid.com
@@ -53977,6 +53972,7 @@
 0.0.0.0 track.rtb-media.ru
 0.0.0.0 track.scrillaspace.com
 0.0.0.0 track.searchignite.com
+0.0.0.0 track.searchiq.co
 0.0.0.0 track.securedvisit.com
 0.0.0.0 track.send.microad.jp
 0.0.0.0 track.seorate.ru
@@ -57360,7 +57356,6 @@
 0.0.0.0 wellsfargo.com.or.wfbank.live
 0.0.0.0 wellsfargo.com-securelogin-systemsecurity-securitycheck-login.rockyphillips.com
 0.0.0.0 wellsfargo.com.secure-pages-costumers.com
-0.0.0.0 wells_fargo.com.secure.unlock.checking-unlock.website
 0.0.0.0 wellsfargo.com.signalwarrior.com
 0.0.0.0 wellsfargo.com.unlock.secure.checking-unlock.top
 0.0.0.0 wellsfargo.com-verify.cvlengineers.com.au
