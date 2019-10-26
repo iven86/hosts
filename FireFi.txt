@@ -4579,7 +4579,6 @@
 0.0.0.0 ada-ware.com
 0.0.0.0 adaware.com
 0.0.0.0 adaware.info
-0.0.0.0 adback.co
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 adbanner.adxcore.com
@@ -7127,7 +7126,6 @@
 0.0.0.0 adserver.powerlinks.com
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.pressflex.com
-0.0.0.0 adserverpub.com
 0.0.0.0 adserver.quizdingo.com
 0.0.0.0 adserver.realhomesex.net
 0.0.0.0 adserver.reklamstore.com
@@ -19304,7 +19302,6 @@
 0.0.0.0 comohackearelface.com
 0.0.0.0 comohackearunacuentadefacebook.com
 0.0.0.0 comonets.com
-0.0.0.0 com-optimize-mac.live
 0.0.0.0 compactbanner.com
 0.0.0.0 compacttraveller.com.au
 0.0.0.0 compal-laptoprepair.co.uk
@@ -23842,6 +23839,7 @@
 0.0.0.0 elskins.com
 0.0.0.0 elsotoproduction.com
 0.0.0.0 eltawhiedsoft.com
+0.0.0.0 elthamely.com
 0.0.0.0 elv3-tslogging.touchcommerce.com
 0.0.0.0 elvencedorca.com.ve
 0.0.0.0 elvisandlaura.com
@@ -46469,6 +46467,7 @@
 0.0.0.0 ritmicamente.it
 0.0.0.0 ritz-bit.com
 0.0.0.0 ritzykey.com
+0.0.0.0 ritzysponge.com
 0.0.0.0 rivalsseasonpass.dlcodes.com
 0.0.0.0 rivasearchpage.com
 0.0.0.0 rivercoveresidences.asia
