@@ -2587,6 +2587,7 @@
 0.0.0.0 a.cbc.ca
 0.0.0.0 acbnews.com
 0.0.0.0 acbookmacbookstoree.com
+0.0.0.0 acbsearch.com
 0.0.0.0 acbstypdrijslr.ru
 0.0.0.0 accaccessvalidation.com
 0.0.0.0 accademianazionalevirgiliana.org
@@ -22315,6 +22316,7 @@
 0.0.0.0 djjenil.com
 0.0.0.0 djmikeykay.com
 0.0.0.0 dj-sx.com
+0.0.0.0 djtfkakbufpwot.com
 0.0.0.0 djxmmh.xinhua800.cn
 0.0.0.0 djyokoo.com
 0.0.0.0 dk1qic9pfi.indosweden.com
@@ -40267,6 +40269,7 @@
 0.0.0.0 nhl14.sharezips.info
 0.0.0.0 nhl14ultimateteampass.sharezips.info
 0.0.0.0 nhpacameras.apps-1and1.com
+0.0.0.0 nhpfvdlbjg.com
 0.0.0.0 nhs58.com
 0.0.0.0 nht-2.extreme-dm.com
 0.0.0.0 nht-3.extreme-dm.com
@@ -44648,6 +44651,7 @@
 0.0.0.0 proofs6conf-net.webs.com
 0.0.0.0 propague.online
 0.0.0.0 propellerads.com
+0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 proper.io
 0.0.0.0 propermedia-d.openx.net
