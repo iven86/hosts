@@ -12319,7 +12319,6 @@
 0.0.0.0 av5k.com
 0.0.0.0 avadvance.com
 0.0.0.0 avalbltyg.gq
-0.0.0.0 avalonnw.com
 0.0.0.0 avalon.topbucks.com
 0.0.0.0 avaniinfra.in
 0.0.0.0 avantcase.com
@@ -14452,6 +14451,8 @@
 0.0.0.0 bluecava.com
 0.0.0.0 bluecheating.com
 0.0.0.0 bluechillies.us.intellitxt.com
+0.0.0.0 blueconic.com
+0.0.0.0 blueconic.net
 0.0.0.0 bluecrowngroup.us
 0.0.0.0 bluecutsystem.com
 0.0.0.0 bluegas.com.au
@@ -22799,6 +22800,7 @@
 0.0.0.0 down.xiazai2.net
 0.0.0.0 doyouhaveacellphone.com
 0.0.0.0 dp2.specificclick.net
+0.0.0.0 dpbolvw.net
 0.0.0.0 dpboxspace.com-ref48932409389434.teckolobsters.co.uk
 0.0.0.0 dpboxxx.com
 0.0.0.0 dp.dpessoal.com
@@ -27179,6 +27181,7 @@
 0.0.0.0 freshtime.com.pk
 0.0.0.0 freshupdate.safesystemupgrade.org
 0.0.0.0 freshwebportal.ru
+0.0.0.0 fres-news.com
 0.0.0.0 fr-espaceclientsbanquefrance2018.cf
 0.0.0.0 fr-espaceclientscv3-orange.com
 0.0.0.0 fr-espaceclients-orange.com
@@ -33294,6 +33297,7 @@
 0.0.0.0 jdhudhiudhidud.000webhostapp.com
 0.0.0.0 jdi4nxe1gbjxb7eav8lw.littlematchagirl.com.au
 0.0.0.0 jdjdpro.com
+0.0.0.0 jdoqocy.com
 0.0.0.0 jdqjgxtr.com
 0.0.0.0 jd.revolvermaps.com
 0.0.0.0 jdsemnan.ac.ir
@@ -40637,6 +40641,7 @@
 0.0.0.0 npaneer.iguardianerp.co.in
 0.0.0.0 n.pcads.ru
 0.0.0.0 np.lexity.com
+0.0.0.0 npttech.com
 0.0.0.0 nqqa19hwez.bradul.creatory.org
 0.0.0.0 nrakhislk.com
 0.0.0.0 nrg.checkm8.com
@@ -61666,7 +61671,6 @@
 0.0.0.0 zedo.com
 0.0.0.0 zedplays.com
 0.0.0.0 zedtbusiness.com.sg
-0.0.0.0 zeelver.com
 0.0.0.0 zeepmedia.com
 0.0.0.0 zeesuccess.com
 0.0.0.0 zeewong86.000webhostapp.com
