@@ -4580,6 +4580,7 @@
 0.0.0.0 ada-ware.com
 0.0.0.0 adaware.com
 0.0.0.0 adaware.info
+0.0.0.0 adback.co
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 adbanner.adxcore.com
@@ -22317,7 +22318,6 @@
 0.0.0.0 djjenil.com
 0.0.0.0 djmikeykay.com
 0.0.0.0 dj-sx.com
-0.0.0.0 djtfkakbufpwot.com
 0.0.0.0 djxmmh.xinhua800.cn
 0.0.0.0 djyokoo.com
 0.0.0.0 dk1qic9pfi.indosweden.com
