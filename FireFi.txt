@@ -14063,6 +14063,7 @@
 0.0.0.0 big-penis.com
 0.0.0.0 bigpond.122.2o7.net
 0.0.0.0 bigqueerarchive.com
+0.0.0.0 bigreal.org
 0.0.0.0 bigrewards.com
 0.0.0.0 bigrxdiscountmedstore.com
 0.0.0.0 bigsellstaff.cn
@@ -40143,6 +40144,7 @@
 0.0.0.0 newpsncodegenerator.org
 0.0.0.0 news-24.com.bd
 0.0.0.0 news4cars.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newsanctuarylandscaping.com
 0.0.0.0 newsbox12.com
 0.0.0.0 newsclic.ivwbox.de
