@@ -33612,7 +33612,6 @@
 0.0.0.0 jomlajavascript.ru
 0.0.0.0 jonasmarkel.com
 0.0.0.0 jonathanhaehn.com
-0.0.0.0 jonathanwolf.com.au
 0.0.0.0 jonathonschad.com
 0.0.0.0 jonbdgzs1.000webhostapp.com
 0.0.0.0 jondfe.co.vu
@@ -35790,6 +35789,7 @@
 0.0.0.0 lobby.sexlist.com
 0.0.0.0 lobstersrq.com
 0.0.0.0 loc1.hitsprocessor.com
+0.0.0.0 locaibitcons.info
 0.0.0.0 localbitcoins.live
 0.0.0.0 localbizvideo.biz
 0.0.0.0 localhost
