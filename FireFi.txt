@@ -7181,6 +7181,7 @@
 0.0.0.0 adservicedomain.info
 0.0.0.0 adservice.everyone.com
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserv.impactengine.com
 0.0.0.0 adserving03.epi.es
 0.0.0.0 adserving.autotrader.com
@@ -11149,6 +11150,7 @@
 0.0.0.0 appbb.desenhoonline.com
 0.0.0.0 app.beanstalkdata.com
 0.0.0.0 appbin.me
+0.0.0.0 appboycdn.com
 0.0.0.0 appboy.com
 0.0.0.0 appcache.admission.net
 0.0.0.0 app-carrinho-americanas-iphone-6s.cq94089.tmweb.ru
@@ -16803,7 +16805,6 @@
 0.0.0.0 caribbeanguestservices.com
 0.0.0.0 caribbeankingship.com
 0.0.0.0 carinecarolines.fr
-0.0.0.0 caringplushomecare.com
 0.0.0.0 carkeyandparts.co.za
 0.0.0.0 carlaellis.com
 0.0.0.0 carlahendricksforhair.com
@@ -19153,6 +19154,7 @@
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
 0.0.0.0 collector.savvyads.com
@@ -19174,7 +19176,6 @@
 0.0.0.0 coloradopersonalinjury.com
 0.0.0.0 colorato.net
 0.0.0.0 colosseumscrl.com
-0.0.0.0 colpirio.com
 0.0.0.0 columbiaroadzz.gq
 0.0.0.0 columbuscartransport.com
 0.0.0.0 columbusinternational.com.co
@@ -22277,7 +22278,6 @@
 0.0.0.0 districtm.ca
 0.0.0.0 distritalfm.com.br
 0.0.0.0 dis.us.criteo.com
-0.0.0.0 ditapsa.com
 0.0.0.0 ditavonteese.info
 0.0.0.0 dittel.sk
 0.0.0.0 diudconoewpowu.fgppchg.fgpp.com
@@ -27931,6 +27931,7 @@
 0.0.0.0 gear.ign.us.intellitxt.com
 0.0.0.0 gearinformer.com
 0.0.0.0 gearwent.win
+0.0.0.0 gearwom.de
 0.0.0.0 gebzeikincielmagazasi.com
 0.0.0.0 geckocanoeing.com.au
 0.0.0.0 geckopropertyservices.com.au
@@ -31114,6 +31115,7 @@
 0.0.0.0 htankds.info
 0.0.0.0 htgrfed.igg.biz
 0.0.0.0 htl.bid
+0.0.0.0 htlbid.com
 0.0.0.0 htm.freelogs.com
 0.0.0.0 HTML
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
@@ -41694,6 +41696,7 @@
 0.0.0.0 opixib.bid
 0.0.0.0 opks.in
 0.0.0.0 oplata360.pl
+0.0.0.0 opmnstr.com
 0.0.0.0 oportunidadepranamorados.com.br
 0.0.0.0 oportunidadesunica.com
 0.0.0.0 oppgradere6.sitey.me
@@ -46961,6 +46964,7 @@
 0.0.0.0 ru.velti.com
 0.0.0.0 ruzi-hana.co.jp
 0.0.0.0 rv.furaffinity.net
+0.0.0.0 rvfwqsekd.com
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rvpadvertisingnetwork.com
 0.0.0.0 rvweigh.com
@@ -50370,6 +50374,7 @@
 0.0.0.0 source-games.ru
 0.0.0.0 source-hack.com
 0.0.0.0 sourcelemon.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southcoasttodaycom.112.2o7.net
 0.0.0.0 southernchampion.com
 0.0.0.0 southernoutdoorproducts.com
@@ -50509,6 +50514,7 @@
 0.0.0.0 sponsorpay.com
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
+0.0.0.0 spoor-api.asia.nikkei.com
 0.0.0.0 sport1.wemfbox.ch
 0.0.0.0 sport5.checkm8.com
 0.0.0.0 sport5digital.checkm8.com
@@ -51425,7 +51431,6 @@
 0.0.0.0 storygize.net
 0.0.0.0 storyinestemtmebt.com
 0.0.0.0 stovallbaptistchurch.org
-0.0.0.0 stoves.bioenergylists.org
 0.0.0.0 stoveseashore.com
 0.0.0.0 stpauliperle.de
 0.0.0.0 st.pay-click.ru
@@ -51669,6 +51674,7 @@
 0.0.0.0 summary.secure-update-service1.com
 0.0.0.0 summarysupport.account-activityservice.com
 0.0.0.0 summary-update-user.com
+0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
 0.0.0.0 summitbusinessmedia.112.2o7.net
 0.0.0.0 summititlefl.com
