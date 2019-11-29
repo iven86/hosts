@@ -18341,6 +18341,7 @@
 0.0.0.0 cisaqroup.net
 0.0.0.0 cisay.cinemamovie.biz
 0.0.0.0 ciscowebex.112.2o7.net
+0.0.0.0 cision.com
 0.0.0.0 citadelcochin.com
 0.0.0.0 citi.bridgetrack.com
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
@@ -21323,6 +21324,7 @@
 0.0.0.0 dasezhan8.com
 0.0.0.0 dasezhanwang.com
 0.0.0.0 dasfoto.net
+0.0.0.0 dashbida.com
 0.0.0.0 dashboardjp.com
 0.0.0.0 dashboard.stripe.verification.canowm.com
 0.0.0.0 dashbord-locked-acces-my.com
@@ -24389,6 +24391,7 @@
 0.0.0.0 espiondiscret.com
 0.0.0.0 espiralpublicidad.cl
 0.0.0.0 espn-ak.starwave.com
+0.0.0.0 espn.com.ssl.sc.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 espresso-reklam.eu
 0.0.0.0 e.spyspotter.com
@@ -28791,6 +28794,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
+0.0.0.0 googleanalytics.com
 0.0.0.0 googlecentreservices.rockhillrealtytx.com
 0.0.0.0 googledocprivategeneral.com
 0.0.0.0 googledoc.raganinfotech.com
@@ -28820,6 +28824,7 @@
 0.0.0.0 googleplay.validcheats.com
 0.0.0.0 google.ryantoddrose.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 google.tucows.com
 0.0.0.0 googlewebmatesrcentral.com
@@ -36989,6 +36994,8 @@
 0.0.0.0 marketing.doubleclickindustries.com
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketing.hearstmagazines.nl
+0.0.0.0 marketing.net.brillen.de
+0.0.0.0 marketing.net.home24.de
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketingont.org
 0.0.0.0 marketing.osijek031.com
@@ -37501,6 +37508,7 @@
 0.0.0.0 meeramu.com
 0.0.0.0 meetinger.in
 0.0.0.0 meetmecredits.com
+0.0.0.0 meetrics.net
 0.0.0.0 meetupdev.122.2o7.net
 0.0.0.0 meetyourneighbour.ca
 0.0.0.0 meezcoinsgenerator.validcheats.com
@@ -38393,6 +38401,7 @@
 0.0.0.0 mkt10.122.2o7.net
 0.0.0.0 mkt.bectero.com
 0.0.0.0 mktgcdn.de.coremetrics.com
+0.0.0.0 mktoresp.com
 0.0.0.0 mkukigems.com
 0.0.0.0 mkumarcompany.in
 0.0.0.0 mkupegroup.co.za
@@ -44744,6 +44753,7 @@
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 promotion-eth.info
 0.0.0.0 promotion.partnercash.de
+0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 promotions.betfred.com
 0.0.0.0 promotools3.globalmailer.com
 0.0.0.0 promotools4.globalmailer.com
@@ -46439,6 +46449,7 @@
 0.0.0.0 reviveads.faktor.bg
 0.0.0.0 revivestore.com
 0.0.0.0 revive.vkushti.tv
+0.0.0.0 revjet.com
 0.0.0.0 rev.lanistaads.com
 0.0.0.0 revlift.io
 0.0.0.0 revmob.com
@@ -52095,6 +52106,7 @@
 0.0.0.0 svstyle.com
 0.0.0.0 svvgyjweurxn.click
 0.0.0.0 svzmtffhpglv.ivydancefloors.com
+0.0.0.0 sw88.espn.com
 0.0.0.0 swa.demdex.net
 0.0.0.0 swadhyayyoga.com
 0.0.0.0 swansea-accommodation.co.uk
@@ -53986,7 +53998,6 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 tracker.stats.in.th
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.truehits.in.th
 0.0.0.0 tracker.truehits.net
@@ -54412,6 +54423,7 @@
 0.0.0.0 trinitymirror-d.openx.net
 0.0.0.0 triphasepower.co.ke
 0.0.0.0 trippinger.com
+0.0.0.0 triptease.io
 0.0.0.0 triumphedger.000webhostapp.com
 0.0.0.0 triumphrat.us.intellitxt.com
 0.0.0.0 trixcase.com
