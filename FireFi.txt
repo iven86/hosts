@@ -24557,6 +24557,7 @@
 0.0.0.0 eu.id474190312-1662660088.y439967.com
 0.0.0.0 eu.id527347220-7229513996.p250632.com
 0.0.0.0 eu.id608939235-5535903207.o239315.com
+0.0.0.0 eule1.pmu.fr
 0.0.0.0 eulerian.net
 0.0.0.0 eulfa.com
 0.0.0.0 eu-maps.info
@@ -36712,6 +36713,7 @@
 0.0.0.0 maiicenterteam.000webhostapp.com
 0.0.0.0 mail3x.com
 0.0.0.0 mailabout.fr
+0.0.0.0 mail-ads.google.com
 0.0.0.0 mailboto.com
 0.0.0.0 mailmagique.be
 0.0.0.0 mailonline-d.openx.net
@@ -37245,6 +37247,7 @@
 0.0.0.0 mc.cardcodes.net
 0.0.0.0 mcclatchy.112.2o7.net
 0.0.0.0 mcdgifts.com
+0.0.0.0 mcdlks.com
 0.0.0.0 mcdonaldscoupons.info
 0.0.0.0 mcdonaldsmonopoly.net
 0.0.0.0 mcesg.com
