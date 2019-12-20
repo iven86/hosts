@@ -1178,6 +1178,7 @@
 0.0.0.0 4006692292.com
 0.0.0.0 4006868488.cn
 0.0.0.0 400cao.com
+0.0.0.0 401group.com
 0.0.0.0 402428-de-storno-sicherheit-benutzer.vorkehrung-sicherheitssystem.ml
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.99fh.com
@@ -1737,7 +1738,6 @@
 0.0.0.0 a1681.casalemedia.com
 0.0.0.0 a1894.tdmy.com
 0.0.0.0 a18.x-traceur.com
-0.0.0.0 a1.adform.net
 0.0.0.0 a1.admaster.net
 0.0.0.0 a1-bulkemailhost.com
 0.0.0.0 a1.elekted.com
@@ -2412,7 +2412,6 @@
 0.0.0.0 ad01.focalink.com
 0.0.0.0 ad01.hpg.com.br
 0.0.0.0 ad01.hpg.ig.com.br
-0.0.0.0 ad01.investor.bg
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad01.paycount.com
 0.0.0.0 ad01.popupad.net
@@ -3074,6 +3073,7 @@
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.ezcybersearch.com
 0.0.0.0 ad1.gamezone.de
 0.0.0.0 ad1.hpg.com.br
@@ -4152,10 +4152,8 @@
 0.0.0.0 adclick.net
 0.0.0.0 adclick.ru
 0.0.0.0 adclickservice.com
-0.0.0.0 adclicks.io
 0.0.0.0 adclient.163.com
 0.0.0.0 adclient1.tucows.com
-0.0.0.0 adclient-af.lp.uol.com.br
 0.0.0.0 adclient.massmerchandise.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient.whowhere.com
@@ -4482,7 +4480,6 @@
 0.0.0.0 adinterax.com
 0.0.0.0 ad.internetradioinc.com
 0.0.0.0 ad.interreklame.de
-0.0.0.0 ad.investor.bg
 0.0.0.0 adipics.com
 0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad.ireit.com
@@ -4603,6 +4600,7 @@
 0.0.0.0 ad.marsmediachannels.com
 0.0.0.0 admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
 0.0.0.0 admaven.adk2x.com
 0.0.0.0 admax.com
@@ -4624,7 +4622,6 @@
 0.0.0.0 admedia.xmlsearch.findwhat.com
 0.0.0.0 admedit.net
 0.0.0.0 admedo.com
-0.0.0.0 admega.feed.gr
 0.0.0.0 admeld.com
 0.0.0.0 admention.adspirit.de
 0.0.0.0 admeridianads.com
@@ -4706,7 +4703,6 @@
 0.0.0.0 ad.my.doubleclick.be
 0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 ad.mylinea.com
-0.0.0.0 ad.mylook.ee
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.naked-celebs.com
@@ -4811,7 +4807,6 @@
 0.0.0.0 adopt.precisead.com
 0.0.0.0 adoptwithamy.co.za
 0.0.0.0 adoracionnocturnamexicana.com
-0.0.0.0 ad.orbitel.bg
 0.0.0.0 adoreclothing.co.uk
 0.0.0.0 adorigin.com
 0.0.0.0 adoring.love
@@ -5020,7 +5015,6 @@
 0.0.0.0 ads109.liteweb.net
 0.0.0.0 ads.10click.com
 0.0.0.0 ads10.focalink.com
-0.0.0.0 ads10.gladen.bg
 0.0.0.0 ads10.hpg.com.br
 0.0.0.0 ads10.hpg.ig.com.br
 0.0.0.0 ads10.liteweb.net
@@ -6150,7 +6144,6 @@
 0.0.0.0 ads.bridgetrack.com.edgesuite.net
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.bta.bg
-0.0.0.0 ads.btv.bg
 0.0.0.0 ads.buddypic.com
 0.0.0.0 ads.bugnet.com
 0.0.0.0 ads.buljobs.bg
@@ -6338,7 +6331,6 @@
 0.0.0.0 ad.search.ch
 0.0.0.0 ad.searchhound.com
 0.0.0.0 ad.searchsquire.com
-0.0.0.0 adsearch.wp.pl
 0.0.0.0 ads.easy-forex.com
 0.0.0.0 ads.eatinparis.com
 0.0.0.0 ads.eccentrix.com
@@ -6446,7 +6438,6 @@
 0.0.0.0 adserver.4clicks.org
 0.0.0.0 adserver4.fluent.ltd.uk
 0.0.0.0 adserver.71i.de
-0.0.0.0 adserver.abv.bg
 0.0.0.0 adserver.adbunker.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adremedy.com
@@ -6476,7 +6467,6 @@
 0.0.0.0 adserver.bizland-inc.net
 0.0.0.0 adserver.bloodhorse.com
 0.0.0.0 adserver.bondage.com
-0.0.0.0 adserver.borsaitaliana.it
 0.0.0.0 adserver.borsonline.hu
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.buzzfirst.com
@@ -6530,7 +6520,6 @@
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.humanux.com
 0.0.0.0 adserver.hwupgrade.it
-0.0.0.0 adserver.ilmessaggero.it
 0.0.0.0 adserver.infotiger.com
 0.0.0.0 adserver.iprom.net
 0.0.0.0 adserver.ireit.com
@@ -6782,7 +6771,6 @@
 0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.ghettotube.com
 0.0.0.0 ads.givemegay.com
-0.0.0.0 ads.gladen.bg
 0.0.0.0 ads.glasove.com
 0.0.0.0 ads.glispa.com
 0.0.0.0 ads.globalsportsmedia.com
@@ -6860,7 +6848,6 @@
 0.0.0.0 ads.i-am-bored.com
 0.0.0.0 ads.iawsnetwork.com
 0.0.0.0 ads.ibest.com.br
-0.0.0.0 ads.ibox.bg
 0.0.0.0 ads.ibryte.com
 0.0.0.0 ads.ibtracking.com
 0.0.0.0 ads.icn.bg
@@ -6965,7 +6952,6 @@
 0.0.0.0 ads.kozmetika-bg.com
 0.0.0.0 ads.krawall.de
 0.0.0.0 ads.ksl.com
-0.0.0.0 ads.kulinar.bg
 0.0.0.0 ads.kurir-info.rs
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads.kyalon.net
@@ -7072,7 +7058,6 @@
 0.0.0.0 adsmogo.com
 0.0.0.0 ads.mondogames.com
 0.0.0.0 ads.monetize-me.com
-0.0.0.0 ads.money.bg
 0.0.0.0 ads.moneyclicks.com
 0.0.0.0 ads.monogram.sk
 0.0.0.0 ads.monstermoving.com
@@ -7117,7 +7102,6 @@
 0.0.0.0 ads.neg.bg
 0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netcommunities.com
-0.0.0.0 ads.netinfo.bg
 0.0.0.0 ads.netmechanic.com
 0.0.0.0 ads.netomia.com
 0.0.0.0 ads.netrition.com
@@ -7239,7 +7223,6 @@
 0.0.0.0 ads.playboy.bg
 0.0.0.0 ads.playboy.com
 0.0.0.0 ads.playnet.nl
-0.0.0.0 adsplius.lt
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
 0.0.0.0 ads.polmontventures.com
@@ -7516,7 +7499,6 @@
 0.0.0.0 adstoclick.com
 0.0.0.0 ads.today.com
 0.0.0.0 ads.t-online.de
-0.0.0.0 ads.top.bg
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.topnovini.bg
 0.0.0.0 ads.topwam.com
@@ -7541,7 +7523,6 @@
 0.0.0.0 ads.traffiq.com
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.travellogger.com
-0.0.0.0 ads.triada.bg
 0.0.0.0 ad.strict.tbn.ru
 0.0.0.0 ads.trinitymirror.co.uk
 0.0.0.0 ads.tripican.com
@@ -7745,7 +7726,6 @@
 0.0.0.0 adtegrity.net
 0.0.0.0 ad.tenderteen.com
 0.0.0.0 adteractive.com
-0.0.0.0 ad.terra.com.mx
 0.0.0.0 ad.terra.doubleclick.net
 0.0.0.0 ad.text-ent.tbn.ru
 0.0.0.0 ad.text.tbn.ru
@@ -7754,7 +7734,6 @@
 0.0.0.0 ad.th.doubleclick.net
 0.0.0.0 ad.theadhost.com
 0.0.0.0 adtheorent.com
-0.0.0.0 ad.thesimplecomplex.bg
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.thinkmedia.cn
 0.0.0.0 adthis.com
@@ -7950,7 +7929,6 @@
 0.0.0.0 adv-ckbanner.libero.it
 0.0.0.0 adv.consadbg.com
 0.0.0.0 adv.cooperhosting.net
-0.0.0.0 adv.deltanews.bg
 0.0.0.0 advdl.ammadv.it
 0.0.0.0 adv.domino.it
 0.0.0.0 adv.dontcrack.com
@@ -8380,7 +8358,6 @@
 0.0.0.0 advert.livesportmedia.eu
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
-0.0.0.0 advert.mediaswiss.rs
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
 0.0.0.0 advert.rare.ru
@@ -8398,7 +8375,6 @@
 0.0.0.0 advertstream.com
 0.0.0.0 advert.technews.bg
 0.0.0.0 advert.travlang.com
-0.0.0.0 advert.uloz.to
 0.0.0.0 advert.webdifusao-server.com
 0.0.0.0 advertwizard.com
 0.0.0.0 adverty.com
@@ -8455,14 +8431,11 @@
 0.0.0.0 adv.quipo.it
 0.0.0.0 adv.r7.com
 0.0.0.0 adv.riza.it
-0.0.0.0 adv.rockstar.bg
 0.0.0.0 advrts-1.revenue-tracker.com
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 adv.sexcounter.com
-0.0.0.0 adv.speednet.bg
 0.0.0.0 adv.starozagorci.com
 0.0.0.0 adv.stznews.bg
-0.0.0.0 adv.swzone.it
 0.0.0.0 adv.technews.bg
 0.0.0.0 adv.tgadvapps.it
 0.0.0.0 advt.webindia123.com
@@ -9915,6 +9888,7 @@
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.codigo.se
+0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.eduxe.com.br
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -12405,7 +12379,6 @@
 0.0.0.0 banner.noblepoker.com
 0.0.0.0 banner.nonstoppartner.de
 0.0.0.0 banner.northsky.com
-0.0.0.0 banner.nttnavi.co.jp
 0.0.0.0 banner.oddcast.com
 0.0.0.0 banner.orb.net
 0.0.0.0 banner.passion.com
@@ -12477,7 +12450,6 @@
 0.0.0.0 banners.copyscape.com
 0.0.0.0 banners.crakcash.com
 0.0.0.0 banners.czi.cz
-0.0.0.0 banners.datecs.bg
 0.0.0.0 banners.delivery.addynamo.com
 0.0.0.0 banners.deseoasiatico.com
 0.0.0.0 banners.dine.com
@@ -13016,7 +12988,6 @@
 0.0.0.0 becomedebtfree.com.au
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 becomingsara.com
-0.0.0.0 b.economedia.bg
 0.0.0.0 becook.ru
 0.0.0.0 becoolrefrigeration.com
 0.0.0.0 becounted.baja.com
@@ -13024,7 +12995,6 @@
 0.0.0.0 bedbugbureau.com
 0.0.0.0 bedelighted.tk
 0.0.0.0 bedriftssupport.no
-0.0.0.0 bedsbreath.com
 0.0.0.0 beebio.co.za
 0.0.0.0 beecase.com
 0.0.0.0 beemerbenz.com
@@ -15840,7 +15810,6 @@
 0.0.0.0 ca1.bluestreak.com
 0.0.0.0 ca.2.cqcounter.com
 0.0.0.0 caaarss.us
-0.0.0.0 ca.abv.bg
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 caalnt.com
 0.0.0.0 ca.altitude-arena.com
@@ -15906,7 +15875,6 @@
 0.0.0.0 c.admob.com
 0.0.0.0 cado-sa.com
 0.0.0.0 c.adroll.com
-0.0.0.0 c.adsco.re
 0.0.0.0 cadxiedan.com
 0.0.0.0 caea4e.r.axf8.net
 0.0.0.0 caea4e.t.axf8.net
@@ -16439,7 +16407,6 @@
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 cbscom.112.2o7.net
 0.0.0.0 cbsdigitalmedia.112.2o7.net
-0.0.0.0 cbsi.com
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsintervention.com
 0.0.0.0 cbsnfl.112.2o7.net
@@ -27445,7 +27412,6 @@
 0.0.0.0 getropaterqw.com
 0.0.0.0 getsmallbusinessloan.net
 0.0.0.0 getsomedownloads.com
-0.0.0.0 getstatistics.se
 0.0.0.0 getsupport.apple.com-apple.it-supporto.apple.intamie.com
 0.0.0.0 getsupport-icloud.com
 0.0.0.0 gettern.info
@@ -29746,7 +29712,6 @@
 0.0.0.0 hits4me.com
 0.0.0.0 hits4pay.com
 0.0.0.0 hits.convergetrack.com
-0.0.0.0 hits.e.cl
 0.0.0.0 hits.eluniversal.com.mx
 0.0.0.0 hits.epochstats.com
 0.0.0.0 hits.europuls.eu
@@ -29765,7 +29730,6 @@
 0.0.0.0 hitstats.net
 0.0.0.0 hitstatus.com
 0.0.0.0 hits.theguardian.com
-0.0.0.0 hits.top.lv
 0.0.0.0 hits.truehits.in.th
 0.0.0.0 hits.webstat.com
 0.0.0.0 hittail.com
@@ -36317,7 +36281,6 @@
 0.0.0.0 media.easyads.bg
 0.0.0.0 media.eurolive.com
 0.0.0.0 media-e.vpptechnologies.com
-0.0.0.0 media.exchange.bg
 0.0.0.0 media.exchange-it.com
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediafirefiles.net
@@ -37740,7 +37703,6 @@
 0.0.0.0 moroccomills.com
 0.0.0.0 morogefiles.com
 0.0.0.0 morpheus.com.tr
-0.0.0.0 morsealpha.com
 0.0.0.0 mortalkombatfreegame.sharezips.info
 0.0.0.0 mortenhvid.dk
 0.0.0.0 mortezare.ir
@@ -40216,7 +40178,6 @@
 0.0.0.0 ohotaslavyane.ru
 0.0.0.0 ohpbdikmrrhr.pw
 0.0.0.0 ohtulehtadee.hit.gemius.pl
-0.0.0.0 o.ibg.bg
 0.0.0.0 oiiyrnie.tk
 0.0.0.0 oilfleld-workforce.com
 0.0.0.0 oilmira.ru
@@ -43034,7 +42995,6 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pqoweb.com
 0.0.0.0 pqwaker.altervista.org
-0.0.0.0 pr.20min.es
 0.0.0.0 pr25511.com
 0.0.0.0 pr5dir.com
 0.0.0.0 p.raasnet.com
@@ -44075,7 +44035,6 @@
 0.0.0.0 qybabit.com
 0.0.0.0 qyingqapp.com
 0.0.0.0 qzpiy2vdcewwqxh85use.mbservicesyorkshire.co.uk
-0.0.0.0 r01.ibg.bg
 0.0.0.0 r119.tmd.cloud
 0.0.0.0 r13.57.ersbio.co.za
 0.0.0.0 r1.ace.advertising.com
@@ -44504,7 +44463,6 @@
 0.0.0.0 recipeland.us.intellitxt.com
 0.0.0.0 reciperewards.aavalue.com
 0.0.0.0 reclamus.com
-0.0.0.0 recl.kulinar.bg
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 reconblinds.co.in
 0.0.0.0 reconfim-accountinfolog.000webhostapp.com
@@ -44769,7 +44727,6 @@
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklama.neg.bg
 0.0.0.0 reklamanet.net
-0.0.0.0 reklama.offmedia.bg
 0.0.0.0 reklama.onet.pl
 0.0.0.0 reklama.reflektor.cz
 0.0.0.0 reklama.smeshen.com
@@ -46715,7 +46672,6 @@
 0.0.0.0 sd1kalirejokudus.sch.id
 0.0.0.0 sdasae.net
 0.0.0.0 sdasecurity.com.au
-0.0.0.0 sdc2.sakura.ad.jp
 0.0.0.0 sdc8prod1.wiley.com
 0.0.0.0 sdc.acc.org
 0.0.0.0 sdc.ca.com
@@ -47925,7 +47881,6 @@
 0.0.0.0 show10.square7.ch
 0.0.0.0 show2.textads.lv
 0.0.0.0 show.adclick.lt
-0.0.0.0 show.adclick.lv
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 show.adzpower.com
 0.0.0.0 showbehind.com
@@ -49286,7 +49241,6 @@
 0.0.0.0 spotxchange.com
 0.0.0.0 spotx.tv
 0.0.0.0 spotygen.com
-0.0.0.0 spravki-online.hit.bg
 0.0.0.0 sprawdzmozliwosciteraz.com
 0.0.0.0 spread.diadanoivabh.com.br
 0.0.0.0 spreadsheet.bdevelop.co.za
@@ -53058,8 +53012,6 @@
 0.0.0.0 truehandles.com
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
-0.0.0.0 truehits3.gits.net.th
-0.0.0.0 truehits.gits.net.th
 0.0.0.0 truehits.net
 0.0.0.0 truejeans.in
 0.0.0.0 truevalue.d2.sc.omtrdc.net
@@ -53406,7 +53358,6 @@
 0.0.0.0 u0c6swthha.arorazphotoworld.com
 0.0.0.0 u0.extreme-dm.com
 0.0.0.0 u1.extreme-dm.com
-0.0.0.0 u1.puls.lv
 0.0.0.0 u4.aktivwebsitedesign.com
 0.0.0.0 u4vf9amd0irgpu3rfq.stream
 0.0.0.0 u532344488.hostingerapp.com
@@ -58672,7 +58623,6 @@
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toonfamilies.net
 0.0.0.0 www.toons-for-adult.com
-0.0.0.0 www.top100.lt
 0.0.0.0 www.top100.ro
 0.0.0.0 www.top123.ro
 0.0.0.0 www.top1.ro
@@ -58820,7 +58770,6 @@
 0.0.0.0 www.virtumundo.com
 0.0.0.0 www.visitor-track.com
 0.0.0.0 www.visitortracklog.com
-0.0.0.0 www.visits.lt
 0.0.0.0 www.visit-tracker.biz
 0.0.0.0 www.visit-tracker.com
 0.0.0.0 www.vivaimontina.com
@@ -59609,7 +59558,6 @@
 0.0.0.0 y.ibsys.com
 0.0.0.0 yiduaner.cn
 0.0.0.0 yieldads.com
-0.0.0.0 yield.audience.digitalmedia.bg
 0.0.0.0 yieldbuild.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.adbooth.com
