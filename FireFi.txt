@@ -6878,6 +6878,7 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.inbox.lv
+0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.indexinfo.org
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.indystar.com
