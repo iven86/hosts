@@ -3611,6 +3611,7 @@
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
+0.0.0.0 ad4max.com
 0.0.0.0 ad4.netshelter.net
 0.0.0.0 ad4.paycount.com
 0.0.0.0 ad4.popupad.net
@@ -4064,6 +4065,7 @@
 0.0.0.0 adbkxfyq.apps.lair.io
 0.0.0.0 ad.blackystars.com
 0.0.0.0 adblade.com
+0.0.0.0 adblade.org
 0.0.0.0 ad-blaster.com
 0.0.0.0 adblaster.com
 0.0.0.0 adblaster.info
@@ -11050,6 +11052,7 @@
 0.0.0.0 ard.sweetdiscreet.com
 0.0.0.0 arduinoforautism.com
 0.0.0.0 ard.xxxblackbook.com
+0.0.0.0 area51-ts.com
 0.0.0.0 areasnap.com
 0.0.0.0 arecio.work
 0.0.0.0 are.clevernt.com
@@ -26591,7 +26594,6 @@
 0.0.0.0 fxweb.com.br
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 fxztjnsb.com
-0.0.0.0 fyber.com
 0.0.0.0 fyftopsecurity.com
 0.0.0.0 fynskemedieradmin.adservinginternational.com
 0.0.0.0 fyoeohwo.pw
@@ -27264,6 +27266,7 @@
 0.0.0.0 georgiagreen-paypal.com
 0.0.0.0 georgia-purcell.myjino.ru
 0.0.0.0 georgiastanway.co.uk
+0.0.0.0 georiot.com
 0.0.0.0 geoross.com
 0.0.0.0 geo.safelinktracker.com
 0.0.0.0 geo.sanoma.fi
@@ -32414,6 +32417,7 @@
 0.0.0.0 jetbluepkgcs.112.2o7.net
 0.0.0.0 jetemoigne.com
 0.0.0.0 jethooky.com
+0.0.0.0 jetlore.com
 0.0.0.0 jetour.com
 0.0.0.0 jetpackjoyride.newzgames.com
 0.0.0.0 jetplayz.com
@@ -33098,6 +33102,7 @@
 0.0.0.0 kargo.com
 0.0.0.0 karinashop.com.ua
 0.0.0.0 karirdika.com
+0.0.0.0 karisimbi.net
 0.0.0.0 karkiaakriti.com.np
 0.0.0.0 karlast.com
 0.0.0.0 karliny9.bget.ru
@@ -40109,11 +40114,13 @@
 0.0.0.0 offer.dimplexx.net
 0.0.0.0 offerforge.com
 0.0.0.0 offerfusion.com
+0.0.0.0 offer.fyber.com
 0.0.0.0 offermatica.com
 0.0.0.0 offer-paypel.ml
 0.0.0.0 offers99world.com
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offershare.org
+0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offersquest.directtrack.com
 0.0.0.0 offficeworkshop.000webhostapp.com
 0.0.0.0 off.freeze.com
@@ -45534,6 +45541,7 @@
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtbf09.metriweb.be
 0.0.0.0 rtbflairads.com
+0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbidder.net
 0.0.0.0 rtbidhost.com
 0.0.0.0 rtb.metrigo.com
