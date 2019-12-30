@@ -4061,6 +4061,7 @@
 0.0.0.0 ad.bharatstudent.com
 0.0.0.0 adbid.pl
 0.0.0.0 adbility.com
+0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
 0.0.0.0 adbkxfyq.apps.lair.io
 0.0.0.0 ad.blackystars.com
@@ -7676,6 +7677,7 @@
 0.0.0.0 ads.xtribeapp.com
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.xxxbunker.com
+0.0.0.0 adsxyz.com
 0.0.0.0 ads.y-0.net
 0.0.0.0 ads.yadio.com
 0.0.0.0 ads.yadro.ru
@@ -29246,6 +29248,7 @@
 0.0.0.0 hb4x4.com
 0.0.0.0 hbanpan.eu
 0.0.0.0 hbcbly.com
+0.0.0.0 h-bid.com
 0.0.0.0 hbperfumes.cf
 0.0.0.0 hbproducts.pw
 0.0.0.0 hb-redlink-com-ar.servicesar.com
