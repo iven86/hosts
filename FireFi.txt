@@ -6263,6 +6263,7 @@
 0.0.0.0 ads.cyop.org
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.daemonnews.org
+0.0.0.0 ads.dailycamera.com
 0.0.0.0 ads.dailyjolt.com
 0.0.0.0 ads.dailystar.com.lb
 0.0.0.0 ads.dai.org
@@ -6954,6 +6955,7 @@
 0.0.0.0 ads.kmpads.com
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.kozmetika-bg.com
+0.0.0.0 adskpak.com
 0.0.0.0 ads.krawall.de
 0.0.0.0 ads.ksl.com
 0.0.0.0 ads.kurir-info.rs
