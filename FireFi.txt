@@ -3611,7 +3611,6 @@
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
-0.0.0.0 ad4max.com
 0.0.0.0 ad4.netshelter.net
 0.0.0.0 ad4.paycount.com
 0.0.0.0 ad4.popupad.net
@@ -6487,7 +6486,6 @@
 0.0.0.0 adserver.creativeinspire.com
 0.0.0.0 adserver.dayrates.com
 0.0.0.0 adserver.dbusiness.com
-0.0.0.0 adserver.dca13.com
 0.0.0.0 adserver.digitalmedianet.com
 0.0.0.0 adserver.digitalpartners.com
 0.0.0.0 adserver.digitoday.com
@@ -39701,7 +39699,6 @@
 0.0.0.0 nuetheriumllet.com
 0.0.0.0 nueva.baixbowling.com
 0.0.0.0 nuevaesperanza.edu.ar
-0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 nuggad.nuggad.net
 0.0.0.0 nug.jozmovie.xyz
