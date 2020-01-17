@@ -787,6 +787,7 @@
 0.0.0.0 1ca.cqcounter.com
 0.0.0.0 1.cataloc.msk.ru
 0.0.0.0 1ce18.cash-ddt.net
+0.0.0.0 1cef.playfabapi.com
 0.0.0.0 1centptc.com
 0.0.0.0 1christmas.com
 0.0.0.0 1class.com.br
@@ -4493,7 +4494,6 @@
 0.0.0.0 accedian.in
 0.0.0.0 accefyn.org.co
 0.0.0.0 accelerationsw.com
-0.0.0.0 accelifyhelp.zendesk.com
 0.0.0.0 accellta.com
 0.0.0.0 accemfsqovkd.pw
 0.0.0.0 accendojuris.com
@@ -11199,6 +11199,7 @@
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.seo4india.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.sessiongames.com
 0.0.0.0 ads.sexandsubmission.com
 0.0.0.0 ads.sexforums.com
 0.0.0.0 ads.sexier.com
@@ -17601,6 +17602,7 @@
 0.0.0.0 api.layer.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadpages.io
+0.0.0.0 api.leanplum.com
 0.0.0.0 api.life.lovetapmobile.com
 0.0.0.0 api.lijit.com
 0.0.0.0 api.live.letv.com
@@ -18002,6 +18004,7 @@
 0.0.0.0 appad-api-02.perfectcorp.com
 0.0.0.0 app.adapt.io
 0.0.0.0 app-adforce.jp
+0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adroll.com
 0.0.0.0 app.adsbrook.com
@@ -24805,6 +24808,7 @@
 0.0.0.0 bedroomlamp.xyz
 0.0.0.0 bedroomxoc.info
 0.0.0.0 bedroomzfg.info
+0.0.0.0 bedsbreath.com
 0.0.0.0 bedslx.info
 0.0.0.0 bedsox.info
 0.0.0.0 bedtimesolutions.ca
@@ -32757,6 +32761,7 @@
 0.0.0.0 cdocrguwf.yi.org
 0.0.0.0 cdoprojectgraduation.com
 0.0.0.0 cdp-associates.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdpns.com
 0.0.0.0 cdqyys.com
 0.0.0.0 cdrdportal.com
@@ -37842,6 +37847,7 @@
 0.0.0.0 configs.nixozz.com
 0.0.0.0 config.spyspotter.com
 0.0.0.0 config.tremorhub.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 configuraation.altavistabastos.com.br
 0.0.0.0 configuration.adamscountycareers.org
@@ -49203,7 +49209,6 @@
 0.0.0.0 engagement.inmarket.com
 0.0.0.0 engagementringmen.com
 0.0.0.0 engage-network.influencemobile.com
-0.0.0.0 engagenysupport.zendesk.com
 0.0.0.0 engage-postbacks.influencemobile.com
 0.0.0.0 engageya.com
 0.0.0.0 engcart.com
@@ -55509,6 +55514,7 @@
 0.0.0.0 freegems.clashofclansresourcesgenerator.com
 0.0.0.0 freegenealogy.us
 0.0.0.0 freegeneratorhack.com
+0.0.0.0 freegeoip.com
 0.0.0.0 freegeoip.net
 0.0.0.0 freeghostskey.net
 0.0.0.0 freegies.com
@@ -67689,6 +67695,7 @@
 0.0.0.0 inapi.posst.co
 0.0.0.0 in-appadvertising.com
 0.0.0.0 inapp.nixozz.com
+0.0.0.0 inapps.appsflyer.com
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
 0.0.0.0 inapps.moengage.com
@@ -76143,6 +76150,7 @@
 0.0.0.0 launch1.co
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
+0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchhotel.com
 0.0.0.0 laundryonwheels.ca
 0.0.0.0 laundryphoenix.com
@@ -83733,6 +83741,7 @@
 0.0.0.0 metqvclppfeiftiqlh.la
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.allrecipes.com
+0.0.0.0 metric-android-am.road404.com
 0.0.0.0 metric.angieslist.com
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 metric.bizjournals.com
@@ -114505,6 +114514,7 @@
 0.0.0.0 silter-tr.com
 0.0.0.0 silurian.cn
 0.0.0.0 silvalarez.com
+0.0.0.0 silvalliant.info
 0.0.0.0 silvanasanders.com.ar
 0.0.0.0 silvanogrifoni.it
 0.0.0.0 silvec.com
@@ -118569,6 +118579,7 @@
 0.0.0.0 stats.twistage.com
 0.0.0.0 stat.su
 0.0.0.0 stats.unibiller.com
+0.0.0.0 stats.unity3d.com
 0.0.0.0 stats.unrulymedia.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 statsv3.gaycash.com
@@ -138279,6 +138290,7 @@
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.leadtrackgo.com
 0.0.0.0 www.leadxml.com
+0.0.0.0 www.leanplum.com
 0.0.0.0 www.lemonmov.com
 0.0.0.0 www.lenkinetorty.szm.com
 0.0.0.0 www.leprimodels.it
