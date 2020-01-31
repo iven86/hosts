@@ -5446,6 +5446,7 @@
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
 0.0.0.0 admaster.net
+0.0.0.0 admatchly.com
 0.0.0.0 admatic.admicro.vn
 0.0.0.0 admaven.adk2x.com
 0.0.0.0 ad-maven.com
@@ -8584,6 +8585,7 @@
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.sockshots.com
 0.0.0.0 ads.soft32.com
+0.0.0.0 ads-software.net
 0.0.0.0 ads.sol.no
 0.0.0.0 ads.somd.com
 0.0.0.0 ads.sonataplatform.com
@@ -16648,6 +16650,7 @@
 0.0.0.0 bnlhh.co.uk
 0.0.0.0 bnmhg.com
 0.0.0.0 bnmla.com
+0.0.0.0 bnnrrv.qontentum.de
 0.0.0.0 bn.premiumhdv.com
 0.0.0.0 bn.profiwin.de
 0.0.0.0 bnsoutlaws.co.uk
@@ -18016,7 +18019,6 @@
 0.0.0.0 br.com.tapps.analytics.s3.amazonaws.com
 0.0.0.0 breakgame.org
 0.0.0.0 breakingleaks.com
-0.0.0.0 breakingnews.comano.us
 0.0.0.0 brealtime.com
 0.0.0.0 breatin.ga
 0.0.0.0 brecobdirectintl.com
@@ -26689,6 +26691,7 @@
 0.0.0.0 dy.testnet.nl
 0.0.0.0 dytt8.org
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
+0.0.0.0 dzairads.com
 0.0.0.0 dzbk.dhxctzx.com
 0.0.0.0 dz-cheat.com
 0.0.0.0 dz-cima.nifatech.com
@@ -28133,6 +28136,7 @@
 0.0.0.0 etnkorea.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etoroglobal.com
+0.0.0.0 etoroinvestmentltd.com
 0.0.0.0 etracker.de
 0.0.0.0 etransferiinterac.ranggorawakh.com
 0.0.0.0 etransfer-interaconline-mobiledeposit879.com
@@ -41077,7 +41081,6 @@
 0.0.0.0 loudloss.com
 0.0.0.0 loudlunch.com
 0.0.0.0 loudtalk.net
-0.0.0.0 louguthry.com.au
 0.0.0.0 louisbu8.beget.tech
 0.0.0.0 louisvilleorthopedics.com
 0.0.0.0 loungebatel.com.br
@@ -43341,7 +43344,6 @@
 0.0.0.0 millionairesweetheart.com
 0.0.0.0 milliyetreklam-p.mncdn.com
 0.0.0.0 millsconstruction.org
-0.0.0.0 millyandhenry.com.au
 0.0.0.0 milotree.com
 0.0.0.0 milpitascarservice.com
 0.0.0.0 mil-privilegios.es
@@ -57302,7 +57304,6 @@
 0.0.0.0 snoia.usa.cc
 0.0.0.0 snoobi.com
 0.0.0.0 snore.sabreasiapacific.com
-0.0.0.0 snos24.ru
 0.0.0.0 snow-case.net
 0.0.0.0 snowcases.net
 0.0.0.0 snowforce.sharethrough.com
@@ -62098,6 +62099,7 @@
 0.0.0.0 trackuhub.com
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.ultravpn.com
+0.0.0.0 track.undressingpics.work
 0.0.0.0 track.untd.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track.viralvidi.com
