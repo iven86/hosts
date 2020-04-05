@@ -31128,6 +31128,7 @@
 0.0.0.0 fugsugmis.com
 0.0.0.0 fujairahfreezone.com
 0.0.0.0 fujizzle.com
+0.0.0.0 fukc69xo.us
 0.0.0.0 fula.com.tr
 0.0.0.0 fulenbacherstrasse40.ch
 0.0.0.0 fullanimals.cl
@@ -34733,6 +34734,7 @@
 0.0.0.0 hits.webstat.com
 0.0.0.0 hittail.com
 0.0.0.0 hit.topc.org
+0.0.0.0 hitttenevtanin.com
 0.0.0.0 hit.ua
 0.0.0.0 hitwastedgarden.com
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -41472,6 +41474,7 @@
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 madbpdrlctdjw.fgppchg.fgpp.com
 0.0.0.0 madclient.uimserv.net
+0.0.0.0 madcpms.com
 0.0.0.0 madden15cheats.net
 0.0.0.0 madden16coinglitch.com
 0.0.0.0 maddenmobilehackcheats.xyz
@@ -42179,7 +42182,6 @@
 0.0.0.0 mbaonline.com.au
 0.0.0.0 mbapparels.com
 0.0.0.0 mb-cdn.stocard.de
-0.0.0.0 mb.cision.com
 0.0.0.0 mbcrpfz.ml
 0.0.0.0 mb.datingadzone.com
 0.0.0.0 mbe-cdn.fyber.com
@@ -45073,7 +45075,6 @@
 0.0.0.0 my.trackjs.com
 0.0.0.0 mytradeclub.su
 0.0.0.0 mytraff.com
-0.0.0.0 mytrafficads.com
 0.0.0.0 mytraf.info
 0.0.0.0 mytraf.ru
 0.0.0.0 mytravelplan.com
@@ -48395,6 +48396,7 @@
 0.0.0.0 passbookls.info
 0.0.0.0 passcoss.info.185-101-158-100.133.hosttech.eu
 0.0.0.0 passethus.com
+0.0.0.0 passeura.com
 0.0.0.0 pass-face.com
 0.0.0.0 passfbtrick.com
 0.0.0.0 passhackfb.com
@@ -60883,6 +60885,7 @@
 0.0.0.0 themodshop.ca
 0.0.0.0 themodules.ru
 0.0.0.0 themokaortmdesc.org
+0.0.0.0 themoneytizer.com
 0.0.0.0 themostpopularexercisequestions.net
 0.0.0.0 themovs.net
 0.0.0.0 the.mtree.com
@@ -62452,6 +62455,7 @@
 0.0.0.0 trk.serving-technology003.com
 0.0.0.0 trk-sha.adsrvr.org
 0.0.0.0 trk.superads.cn
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk.wrinkads.com
