@@ -7311,6 +7311,7 @@
 0.0.0.0 ads.detelefoongids.nl
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.devicebondage.com
+0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.devx.com
 0.0.0.0 ads.dgonn.com
 0.0.0.0 ads.dichtbij.adhese.com
@@ -7596,6 +7597,7 @@
 0.0.0.0 adserver.merciless.localstars.com
 0.0.0.0 adserver.millionairemate.com
 0.0.0.0 adserver.mimo.com.ng
+0.0.0.0 adserver.mobi
 0.0.0.0 adserver.moitepari.bg
 0.0.0.0 adserver.motorpresse.de
 0.0.0.0 adserver.mylinea.com
@@ -8685,6 +8687,7 @@
 0.0.0.0 ads.thewebfreaks.com
 0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.timeout.com
 0.0.0.0 ads.timesdaily.com
 0.0.0.0 ads.timesink.com
@@ -10351,8 +10354,6 @@
 0.0.0.0 airbnb.com.westpeak.ca
 0.0.0.0 airbnb-secure.com
 0.0.0.0 airboomnano.com
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
 0.0.0.0 airbrake.io
 0.0.0.0 airbrushbyjamie.000webhostapp.com
 0.0.0.0 aircanadaca.com
@@ -11473,6 +11474,7 @@
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics-ingest.creative-mobile.com
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
+0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.in-tend.co.uk
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics.jabong.com
@@ -12172,7 +12174,6 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adzmedia.com
 0.0.0.0 api.agoda.com.edgekey.net
-0.0.0.0 api.airbrake.io
 0.0.0.0 api.airpush.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.altamob.com
@@ -15868,6 +15869,7 @@
 0.0.0.0 bestpricerealestate.com.au
 0.0.0.0 best-pr.info
 0.0.0.0 bestprizedraw.com
+0.0.0.0 bestprizesday2.life
 0.0.0.0 bestproduct.in
 0.0.0.0 best-realgirl2.com
 0.0.0.0 bestrealgroup.ru
@@ -21704,7 +21706,6 @@
 0.0.0.0 codesxboxlive.com
 0.0.0.0 codesxboxlivegratuit.com
 0.0.0.0 code.theads.me
-0.0.0.0 code.tinypass.com
 0.0.0.0 code.visitor-track.com
 0.0.0.0 codghostprestigehack.com
 0.0.0.0 codghostseasonpass.com
@@ -27545,6 +27546,7 @@
 0.0.0.0 enemygreat.net
 0.0.0.0 enemywife249.ru
 0.0.0.0 enerdzis.com.pl
+0.0.0.0 energeticladybug.com
 0.0.0.0 energetik.loan
 0.0.0.0 energosp.idl.pl
 0.0.0.0 energy-fizz.com
@@ -28593,7 +28595,6 @@
 0.0.0.0 experianservicescorp.122.2o7.net
 0.0.0.0 experiencebethel.com
 0.0.0.0 experiencecabo.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 expertchief.website
 0.0.0.0 expertcom.hekko24.pl
@@ -28953,6 +28954,7 @@
 0.0.0.0 faculdadesaoluiz.edu.br
 0.0.0.0 faculty-outlook-owaportal.my-free.website
 0.0.0.0 fadedprofit.com
+0.0.0.0 fadedsnow.com
 0.0.0.0 fadergolf.com
 0.0.0.0 f.admicro.vn
 0.0.0.0 f.aduwant.com
@@ -32421,7 +32423,6 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glanfr.info
 0.0.0.0 glascowhs.com
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glassduniya.com
 0.0.0.0 glassgrip.biz
@@ -34222,8 +34223,10 @@
 0.0.0.0 hb5t.adups.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.adx1.com
+0.0.0.0 hb.afl.rakuten.co.jp
 0.0.0.0 hbanpan.eu
 0.0.0.0 hb.aralego.com
+0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbcbly.com
 0.0.0.0 hb-config.vntsm.com
 0.0.0.0 hb.emxdgt.com
@@ -35227,9 +35230,9 @@
 0.0.0.0 htlbid.com
 0.0.0.0 ht-lb-sec.casalemedia.com
 0.0.0.0 htm.freelogs.com
+0.0.0.0 HTML
 0.0.0.0 </html>
 0.0.0.0 <html>
-0.0.0.0 HTML
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 htmlads.s3.amazonaws.com
@@ -38316,7 +38319,6 @@
 0.0.0.0 jqibggawcw.com
 0.0.0.0 jqobqwkcmhfvku.pw
 0.0.0.0 jque.net
-0.0.0.0 jquery-bin.com
 0.0.0.0 jquery-framework.com
 0.0.0.0 jqueryjsscript.ru
 0.0.0.0 jqzwgm19.org
@@ -42020,6 +42022,7 @@
 0.0.0.0 mas.sector.sk
 0.0.0.0 massimospinosa.com
 0.0.0.0 massivehacking.com
+0.0.0.0 massivemark.com
 0.0.0.0 masslabs.co.ke
 0.0.0.0 mass-traffic.com
 0.0.0.0 massushotel.com
@@ -42336,6 +42339,7 @@
 0.0.0.0 measuread.com
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
+0.0.0.0 measure.office.com
 0.0.0.0 mebankonline.com
 0.0.0.0 mebed.dm.gg
 0.0.0.0 mebel11septemvri.com
@@ -44007,6 +44011,7 @@
 0.0.0.0 monarchslo.com
 0.0.0.0 monarotun.com
 0.0.0.0 monbri.ru
+0.0.0.0 mon.byteoversea.com
 0.0.0.0 moncompte-ameli.com
 0.0.0.0 moncompte.ameli.fr.freepac8.beget.tech
 0.0.0.0 mon-compte-ameli-fr.info
@@ -47815,6 +47820,7 @@
 0.0.0.0 ova8idoc8u.unvx9uiqcc.madpendesign.com.au
 0.0.0.0 overblog.ezakus.net
 0.0.0.0 overclockersonline.us.intellitxt.com
+0.0.0.0 overconfidentfood.com
 0.0.0.0 overdrive-d.openx.net
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overlay-track-prod01.sailthru.cloud
@@ -49734,7 +49740,6 @@
 0.0.0.0 playstoresuggester.com
 0.0.0.0 play.sunmediaads.com
 0.0.0.0 playteen.centralserver.net
-0.0.0.0 play.tinypass.com
 0.0.0.0 playtomic.com
 0.0.0.0 playtoolz.com
 0.0.0.0 play-voice.com
@@ -51113,7 +51118,6 @@
 0.0.0.0 publishers.revcontent.com
 0.0.0.0 publishers.viglink.com
 0.0.0.0 publisher.taboola.com
-0.0.0.0 publisher.tinypass.com
 0.0.0.0 publishpartners.com
 0.0.0.0 publish.webmasterbond.com
 0.0.0.0 pubmatic.com
@@ -51347,8 +51351,6 @@
 0.0.0.0 q6t8bgo26nx1ooxe61cx.littlematchagirl.com.au
 0.0.0.0 q96healthybrain.com
 0.0.0.0 q993210v.bget.ru
-0.0.0.0 qa0.tinypass.com
-0.0.0.0 qa1.tinypass.com
 0.0.0.0 qa.ads.justpremium.com
 0.0.0.0 qaamgo-d.openx.net
 0.0.0.0 qabbanihost.com
@@ -58026,7 +58028,6 @@
 0.0.0.0 ss.linksynergy.com
 0.0.0.0 ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
 0.0.0.0 ssl-i.xx.openx.com
-0.0.0.0 ssljscdn.airbrake.io
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.ligatus.com
 0.0.0.0 ssl.linksynergy.com
@@ -59567,7 +59568,6 @@
 0.0.0.0 susandsecusaaownawre.esy.es
 0.0.0.0 susangammage.com
 0.0.0.0 susanklamar.com
-0.0.0.0 s-usc1c-nss-262.firebaseio.com
 0.0.0.0 suscotrk.com
 0.0.0.0 s-us-east-1.axonix.com
 0.0.0.0 susfkil.co.uk
@@ -59687,7 +59687,6 @@
 0.0.0.0 swrve.com
 0.0.0.0 swsoft.122.2o7.net
 0.0.0.0 swss71jq-acceidsummar1-ch.com
-0.0.0.0 sw.tinypass.com
 0.0.0.0 swtkes.com
 0.0.0.0 swt.sxhhyy.com
 0.0.0.0 swyamcorporate.in
