@@ -4549,6 +4549,7 @@
 0.0.0.0 ad2.mamma.com
 0.0.0.0 ad2.neodatagroup.com
 0.0.0.0 ad2.netshelter.net
+0.0.0.0 ad2.nmm.de
 0.0.0.0 ad2.paycount.com
 0.0.0.0 ad2.popupad.net
 0.0.0.0 ad2.rambler.ru
@@ -7226,6 +7227,7 @@
 0.0.0.0 ads.pornad.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.premium.cz
 0.0.0.0 ads.premiumaccounts.com
 0.0.0.0 ads.pressdemo.com
@@ -62077,6 +62079,7 @@
 0.0.0.0 tracking-stvde.adsafety.net
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1betternetwork.com
+0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.absolstats.com
 0.0.0.0 tracking.ad-brix.com
@@ -65519,6 +65522,7 @@
 0.0.0.0 wcracked.com
 0.0.0.0 wcstockholm.com
 0.0.0.0 wd-edge.sharethis.com
+0.0.0.0 wd-track.de
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.sharethis.com
 0.0.0.0 wd4rdtazsvhrna2q.trade
