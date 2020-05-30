@@ -3573,6 +3573,7 @@
 0.0.0.0 ad.it.chilinext.com
 0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.ittoolbox.com
+0.0.0.0 ad.jacotei.com.br
 0.0.0.0 ad.jamba.de
 0.0.0.0 ad.jamba.it
 0.0.0.0 ad.jamba.net
@@ -3808,6 +3809,7 @@
 0.0.0.0 ad.xertive.com
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
+0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xplusone.com
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.xtendmedia.com
@@ -10251,7 +10253,6 @@
 0.0.0.0 affordablefunfamilyvacations.com
 0.0.0.0 affordablelocksmithgoldcoast.com.au
 0.0.0.0 affrh2019.com
-0.0.0.0 affrh2022.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afghanthrow.com
 0.0.0.0 afiles.webengage.com
