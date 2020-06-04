@@ -5384,6 +5384,7 @@
 0.0.0.0 adapi.inlcorp.com
 0.0.0.0 adapt.tv
 0.0.0.0 adaptv.pixel.invitemedia.com
+0.0.0.0 adaranth.com
 0.0.0.0 adarehber.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
@@ -18981,6 +18982,7 @@
 0.0.0.0 cannabisace.com
 0.0.0.0 cannabislyric.com
 0.0.0.0 cannabispicture.com
+0.0.0.0 cannads.urgrafix.com
 0.0.0.0 cannationalpost.112.2o7.net
 0.0.0.0 cannedfood.asia
 0.0.0.0 canningwalker.com
@@ -21158,6 +21160,7 @@
 0.0.0.0 click.tanx.com
 0.0.0.0 click.top10sites.com
 0.0.0.0 click.trafikkfondet.no
+0.0.0.0 click.twcwigs.com
 0.0.0.0 click.uamtrk.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.union.ucweb.com
