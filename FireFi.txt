@@ -2629,6 +2629,7 @@
 0.0.0.0 aa-d.openx.net
 0.0.0.0 aa-gb.marketgid.com
 0.0.0.0 aa-gb.mgid.com
+0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 aa.connextra.com
 0.0.0.0 aa.oasfile.aftenposten.no
@@ -2684,6 +2685,7 @@
 0.0.0.0 aavc.com
 0.0.0.0 aavis.com
 0.0.0.0 aawesomename.xyz
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -11599,6 +11601,7 @@
 0.0.0.0 analytics.informationweek.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kingoapp.com
@@ -11711,6 +11714,7 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics02.metalocator.com
 0.0.0.0 analyticsapi.bsbportal.com
+0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyticsv2.dol.gr
 0.0.0.0 analyticworks.ca
@@ -13837,7 +13841,6 @@
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
-0.0.0.0 assets.dynatrace.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
@@ -15217,6 +15220,7 @@
 0.0.0.0 bannerswap.com
 0.0.0.0 bannersxchange.com
 0.0.0.0 bannertesting.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 bannerus2.axelsfun.com
 0.0.0.0 bannerus3.axelsfun.com
@@ -22398,6 +22402,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connect.urbanairship.com
 0.0.0.0 connect5364.com
+0.0.0.0 connectad.io
 0.0.0.0 connecthospital.com
 0.0.0.0 connectievastleggen.nl
 0.0.0.0 connectionzone.com
@@ -23132,8 +23137,6 @@
 0.0.0.0 cr-mufg-jp-card.top
 0.0.0.0 cr-mufg-jp.com
 0.0.0.0 cr.appsee.com
-0.0.0.0 cr01.dynatrace.com
-0.0.0.0 cr02.dynatrace.com
 0.0.0.0 cr2paramentos.com.br
 0.0.0.0 cr3ativespace.com
 0.0.0.0 cra-international.com.au
@@ -26664,7 +26667,6 @@
 0.0.0.0 dynamix.apsmediaagency.com
 0.0.0.0 dynamix.cpmtrafficker.com
 0.0.0.0 dynamix.trafficrevmaster.com
-0.0.0.0 dynatrace.com
 0.0.0.0 dync.c.appier.net
 0.0.0.0 dync2.c.appier.net
 0.0.0.0 dynmedia.matcash.com
@@ -29039,6 +29041,7 @@
 0.0.0.0 faq.carpediem.fr
 0.0.0.0 faqts.us.intellitxt.com
 0.0.0.0 far0m.somaliaworking.org
+0.0.0.0 faracoon.com
 0.0.0.0 farcbook.000webhostapp.com
 0.0.0.0 farcry3.sharezips.info
 0.0.0.0 fardaus.com
@@ -42295,7 +42298,6 @@
 0.0.0.0 mcs.eyereturn.com
 0.0.0.0 mcscipurwakarta.ga
 0.0.0.0 mcsv.ga
-0.0.0.0 mcsvc.dynatrace.com
 0.0.0.0 mct.rkdms.com
 0.0.0.0 mcusvl.gq
 0.0.0.0 mcvapes.co.za
@@ -56410,7 +56412,6 @@
 0.0.0.0 signin.amazon.co.uk-prime.form-unsuscribe.id-5564.charlescooper.com.au
 0.0.0.0 signin.amazon.co.uk-prime.form-unsuscribe.id-6861.staticfiction.com
 0.0.0.0 signin.appleidinc.supportappleidinc.com
-0.0.0.0 signin.dynatrace.com
 0.0.0.0 signin.e-bay.us-accountid0296059744.sig-eb.me
 0.0.0.0 signin.e-bay.us-accountid0434768464.sig-eb.me
 0.0.0.0 signin.e-bay.us-accountid0617217684.sig-eb.me
@@ -56682,6 +56683,7 @@
 0.0.0.0 sitedefesta.com
 0.0.0.0 sitegovernanceinc.000webhostapp.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 siteinterceptco1.qualtrics.com
 0.0.0.0 siteliz.com
@@ -59968,6 +59970,7 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.leadplace.fr
+0.0.0.0 tag.links-analytics.com
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.navdmp.com
@@ -66370,6 +66373,7 @@
 0.0.0.0 worldtrendingvideos.info
 0.0.0.0 worldviewsproject.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worldwidehacking.com
 0.0.0.0 worldzgamez.com
 0.0.0.0 wormaldblog.com.au.product.lakesmotorcycleclub.com
