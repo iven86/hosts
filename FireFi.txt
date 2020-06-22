@@ -3528,6 +3528,7 @@
 0.0.0.0 ad.goo.ne.jp
 0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.grafika.cz
+0.0.0.0 ad.gt
 0.0.0.0 ad.gt.doubleclick.net
 0.0.0.0 ad.hankooki.com
 0.0.0.0 ad.hbv.de
@@ -25514,6 +25515,7 @@
 0.0.0.0 diranproductions.com
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direcong.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-hacks.com
 0.0.0.0 direct-ing-france.me
 0.0.0.0 direct-xxx-access.com
@@ -51074,6 +51076,7 @@
 0.0.0.0 publicnet.science
 0.0.0.0 publir-d.openx.net
 0.0.0.0 publish.webmasterbond.com
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher-demos.sharethrough.com
 0.0.0.0 publisher-event.unityads.unity3d.com
