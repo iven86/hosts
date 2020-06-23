@@ -3734,6 +3734,7 @@
 0.0.0.0 ad.sgdgjarfpp123.com
 0.0.0.0 ad.shop.tbn.ru
 0.0.0.0 ad.si.doubleclick.net
+0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.sitelement.sk
 0.0.0.0 ad.sitemaji.com
@@ -6645,6 +6646,7 @@
 0.0.0.0 ads.drf.com
 0.0.0.0 ads.dropspam.com
 0.0.0.0 ads.drugs.com
+0.0.0.0 ads.dtpnetwork.biz
 0.0.0.0 ads.dvdreview.com
 0.0.0.0 ads.dynamic-media.org
 0.0.0.0 ads.e-planning.net
@@ -6788,6 +6790,7 @@
 0.0.0.0 ads.garga.biz
 0.0.0.0 ads.gateway.bg
 0.0.0.0 ads.gawker.com
+0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.genericlink.com
 0.0.0.0 ads.genieessp.com
@@ -6882,6 +6885,7 @@
 0.0.0.0 ads.imagine-inc.com
 0.0.0.0 ads.imagine-inc.net
 0.0.0.0 ads.imaging-resource.com
+0.0.0.0 ads.imagistica.com
 0.0.0.0 ads.imarketservices.com
 0.0.0.0 ads.imdb.nl
 0.0.0.0 ads.imeem.com
@@ -7030,6 +7034,7 @@
 0.0.0.0 ads.mediatwo.com
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.medscape.com
+0.0.0.0 ads.meetcelebs.com
 0.0.0.0 ads.megaproxy.com
 0.0.0.0 ads.metatron.co.il
 0.0.0.0 ads.metromanager.com
@@ -7085,6 +7090,7 @@
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.musicfans.com
 0.0.0.0 ads.musicmatch.com
+0.0.0.0 ads.muslimehelfen.org
 0.0.0.0 ads.mustangworks.com
 0.0.0.0 ads.mybale.com
 0.0.0.0 ads.mybannerswap.com
@@ -7096,6 +7102,7 @@
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nc.cname.inmobi.com
+0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.neg.bg
@@ -7223,6 +7230,7 @@
 0.0.0.0 ads.pornad.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.premium.cz
 0.0.0.0 ads.premiumaccounts.com
@@ -7265,6 +7273,7 @@
 0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.com.br
 0.0.0.0 ads.recoletos.es
+0.0.0.0 ads.redactor.in.ua
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
@@ -7315,6 +7324,7 @@
 0.0.0.0 ads.savannahnow.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scabee.com
+0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.scn.valueclick.jp
 0.0.0.0 ads.scorecardresearch.com
@@ -7462,6 +7472,7 @@
 0.0.0.0 ads.tjwi.info
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.today.com
+0.0.0.0 ads.todoti.com.br
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.topnovini.bg
 0.0.0.0 ads.topwam.com
@@ -8103,11 +8114,13 @@
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.speedbit.com
+0.0.0.0 ads2.techads.info
 0.0.0.0 ads2.tuccus.com
 0.0.0.0 ads2.utopiad.com
 0.0.0.0 ads2.vasmg.com
 0.0.0.0 ads2.victoriaadvocate.com
 0.0.0.0 ads2.virtual-nights.com
+0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.weblogssl.com
 0.0.0.0 ads2.williamhill.com
 0.0.0.0 ads2.xnet.cz
@@ -8805,6 +8818,7 @@
 0.0.0.0 adserver.bridgebase.com
 0.0.0.0 adserver.buzzfirst.com
 0.0.0.0 adserver.cams.com
+0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.chickclick.com
 0.0.0.0 adserver.clashmusic.com
 0.0.0.0 adserver.clix.pt
@@ -8824,6 +8838,7 @@
 0.0.0.0 adserver.directcorp.de
 0.0.0.0 adserver.directforce.com
 0.0.0.0 adserver.dotcommedia.de
+0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.economic.bg
 0.0.0.0 adserver.emulation64.com
 0.0.0.0 adserver.eosads.com
@@ -8851,6 +8866,7 @@
 0.0.0.0 adserver.humanux.com
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.iad1.videohub.tv
+0.0.0.0 adserver.ilango.de
 0.0.0.0 adserver.infotiger.com
 0.0.0.0 adserver.intentiq.com
 0.0.0.0 adserver.iprom.net
@@ -29717,7 +29733,6 @@
 0.0.0.0 files.bannersnack.com
 0.0.0.0 files.cat
 0.0.0.0 files.clickdimensions.com
-0.0.0.0 files.constantcontact.com
 0.0.0.0 files.dsnetwb.com
 0.0.0.0 files.goodadvert.ru
 0.0.0.0 files.goosedigital.ca
@@ -36363,7 +36378,6 @@
 0.0.0.0 imgres.pinsightmedia.com
 0.0.0.0 imgs.adverticum.net
 0.0.0.0 imgserv.adbutler.com
-0.0.0.0 imgssl.constantcontact.com
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imgx.mediav.com
 0.0.0.0 imgyr.eu
