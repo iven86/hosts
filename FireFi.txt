@@ -3642,6 +3642,7 @@
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.mylinea.com
+0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.naked-celebs.com
@@ -6468,6 +6469,7 @@
 0.0.0.0 ads.bninews.com
 0.0.0.0 ads.bnmedia.com
 0.0.0.0 ads.boardtracker.com
+0.0.0.0 ads.boerding.com
 0.0.0.0 ads.boerse-express.com
 0.0.0.0 ads.bondage.com
 0.0.0.0 ads.bonniercorp.com
@@ -6824,6 +6826,7 @@
 0.0.0.0 ads.grokads.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.groupcommerce.com
+0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.grupozeta.es
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
@@ -6983,6 +6986,7 @@
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.lfstmedia.com
+0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.lifehealthpro.com
 0.0.0.0 ads.lifesport.bg
 0.0.0.0 ads.link4ads.com
@@ -7092,6 +7096,8 @@
 0.0.0.0 ads.musicmatch.com
 0.0.0.0 ads.muslimehelfen.org
 0.0.0.0 ads.mustangworks.com
+0.0.0.0 ads.mvscoelho.com
+0.0.0.0 ads.myadv.org
 0.0.0.0 ads.mybale.com
 0.0.0.0 ads.mybannerswap.com
 0.0.0.0 ads.mybet.com
@@ -7197,6 +7203,7 @@
 0.0.0.0 ads.persgroep.adhese.com
 0.0.0.0 ads.persgroep.net
 0.0.0.0 ads.petvet.bg
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.phillipsdata.us
 0.0.0.0 ads.phillyadclub.com
@@ -7268,6 +7275,7 @@
 0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.radioactive.se
 0.0.0.0 ads.rcgroups.com
+0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.realcities.com
@@ -7361,6 +7369,7 @@
 0.0.0.0 ads.simplyhired.com
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.singlescash.com
+0.0.0.0 ads.sjon.info
 0.0.0.0 ads.skelbiu.lt
 0.0.0.0 ads.skinected.com
 0.0.0.0 ads.skupe.net
@@ -7562,6 +7571,7 @@
 0.0.0.0 ads.vipcams.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
+0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vjaffiliates.com
 0.0.0.0 ads.vkushti.tv
 0.0.0.0 ads.vntsm.com
@@ -32197,6 +32207,7 @@
 0.0.0.0 getmmogold.com
 0.0.0.0 getmspcodes.com
 0.0.0.0 getmusicfree.aavalue.com
+0.0.0.0 getmyads.com
 0.0.0.0 getmyfile.org
 0.0.0.0 getpasswordonline.com
 0.0.0.0 getpcfixed044.xyz
@@ -62014,6 +62025,7 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.1betternetwork.com
+0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.absolstats.com
