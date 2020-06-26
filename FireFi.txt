@@ -6532,6 +6532,7 @@
 0.0.0.0 ads.channel4.com
 0.0.0.0 ads.chargeads.com
 0.0.0.0 ads.chartboosts.com
+0.0.0.0 ads.cheabit.com
 0.0.0.0 ads.chickclick.com
 0.0.0.0 ads.china.com
 0.0.0.0 ads.chrbanner.com
@@ -6676,6 +6677,7 @@
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.elmaz.com
+0.0.0.0 ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.emol.com
 0.0.0.0 ads.empoweringmedia.net
@@ -6686,6 +6688,7 @@
 0.0.0.0 ads.eohub.com
 0.0.0.0 ads.epatra.com
 0.0.0.0 ads.epi.es
+0.0.0.0 ads.epi.sk
 0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.eqads.com
 0.0.0.0 ads.ere.net
@@ -6958,6 +6961,7 @@
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.juicyads.com
+0.0.0.0 ads.junctionbox.com
 0.0.0.0 ads.juneauempire.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.justpremium.com
@@ -7020,6 +7024,7 @@
 0.0.0.0 ads.lycos.de
 0.0.0.0 ads.lycos.fr
 0.0.0.0 ads.lzjl.com
+0.0.0.0 ads.ma7.tv
 0.0.0.0 ads.macdailynews.com
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.mail3x.com
@@ -7280,6 +7285,7 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.racunalniske-novice.com
 0.0.0.0 ads.radar.bg
+0.0.0.0 ads.radialserver.com
 0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.radioactive.se
 0.0.0.0 ads.rcgroups.com
@@ -7395,6 +7401,7 @@
 0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.snowball.com
 0.0.0.0 ads.soapcreative.com
+0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialreach.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.sockshots.com
@@ -7615,6 +7622,7 @@
 0.0.0.0 ads.webcash.nl
 0.0.0.0 ads.webground.bg
 0.0.0.0 ads.webhosting.info
+0.0.0.0 ads.webinak.sk
 0.0.0.0 ads.webindia123.com
 0.0.0.0 ads.webkinz.com
 0.0.0.0 ads.webmasterpoint.org
@@ -13683,6 +13691,7 @@
 0.0.0.0 as1.advfn.com
 0.0.0.0 as1.casinocity.com
 0.0.0.0 as1.mistupid.com
+0.0.0.0 as2.adserverhd.com
 0.0.0.0 as2.advfn.com
 0.0.0.0 as2.autoforums.com
 0.0.0.0 as5000.com
@@ -14972,6 +14981,7 @@
 0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.grupos.com.br
 0.0.0.0 banner.hpmdnetwork.ru
+0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.intermega.com.br
 0.0.0.0 banner.inyourpocket.com
@@ -15000,6 +15010,7 @@
 0.0.0.0 banner.play-asia.com
 0.0.0.0 banner.prestigecasino.com
 0.0.0.0 banner.rbc.ru
+0.0.0.0 banner.reinstil.de
 0.0.0.0 banner.relcom.ru
 0.0.0.0 banner.ringofon.com
 0.0.0.0 banner.rootsweb.com
@@ -15271,6 +15282,7 @@
 0.0.0.0 bannerwall.s3.appcnt.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
+0.0.0.0 bannieres.wdmedia.net
 0.0.0.0 banorte.com-wps-portal-banorte-2d519.etrek.in
 0.0.0.0 banorte.com-wps-portal-banorte-be597.bedcollegesindelhi.com
 0.0.0.0 banoteraswaer.com
@@ -62000,6 +62012,7 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdn-us-doubleverify.com
 0.0.0.0 tracker.cl1.fidelizador.com
+0.0.0.0 tracker.comunidadmarriott.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.divvit.com
@@ -62014,6 +62027,7 @@
 0.0.0.0 tracker.leadenhancer.com
 0.0.0.0 tracker.leadforensics.com
 0.0.0.0 tracker.marinsm.com
+0.0.0.0 tracker.mmdlv.it
 0.0.0.0 tracker.mozo.com.au
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.rqmob.com
