@@ -2481,6 +2481,7 @@
 0.0.0.0 a.moitepari.bg
 0.0.0.0 a.monetate.net
 0.0.0.0 a.mouseflow.com
+0.0.0.0 a.muloqot.uz
 0.0.0.0 a.musiclegs.fr
 0.0.0.0 a.musiclegs.it
 0.0.0.0 a.namemilky.com
@@ -6225,6 +6226,7 @@
 0.0.0.0 ads-i.focalink.com
 0.0.0.0 ads-instrument.focalink.com
 0.0.0.0 ads-ipm.adhese.com
+0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-links.com
 0.0.0.0 ads-live.cmgdigital.com
@@ -6352,7 +6354,6 @@
 0.0.0.0 ads.affbuzzads.com
 0.0.0.0 ads.affelix.com
 0.0.0.0 ads.affiliateclub.com
-0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.afftrack.com
 0.0.0.0 ads.afixi.com
@@ -6726,6 +6727,7 @@
 0.0.0.0 ads.fatvine.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.fema-bg.com
+0.0.0.0 ads.femmefab.nl
 0.0.0.0 ads.ferianc.com
 0.0.0.0 ads.fgl.com
 0.0.0.0 ads.fiat-bg.org
@@ -7456,6 +7458,7 @@
 0.0.0.0 ads.switchboard.org
 0.0.0.0 ads.sxx.com
 0.0.0.0 ads.syracuse.com
+0.0.0.0 ads.syscdn.de
 0.0.0.0 ads.sysmesh.com
 0.0.0.0 ads.t-online.de
 0.0.0.0 ads.tagword.com
@@ -7539,6 +7542,7 @@
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.ubee.in
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.uknetguide.co.uk
@@ -7561,6 +7565,8 @@
 0.0.0.0 ads.ussearch.com
 0.0.0.0 ads.usualgirls.com
 0.0.0.0 ads.utopiad.com
+0.0.0.0 ads.uxs.at
+0.0.0.0 ads.v-lazer.com
 0.0.0.0 ads.v-links.net
 0.0.0.0 ads.v3.com
 0.0.0.0 ads.v3exchange.com
@@ -7601,6 +7607,7 @@
 0.0.0.0 ads.vx2.cc
 0.0.0.0 ads.w3hoster.de
 0.0.0.0 ads.w55c.net
+0.0.0.0 ads.walkiberia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watchmygf.net
@@ -8119,6 +8126,7 @@
 0.0.0.0 ads2.ero-advertising.com
 0.0.0.0 ads2.evz.ro
 0.0.0.0 ads2.exhedra.com
+0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.focalink.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.gratisware.com
@@ -8698,6 +8706,7 @@
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adsby.klikki.com
 0.0.0.0 adsby.webtraffic.se
+0.0.0.0 adsbydelema.com
 0.0.0.0 adscale-emea.adnxs.com
 0.0.0.0 adscale.de
 0.0.0.0 adscampaign.net
@@ -9158,6 +9167,8 @@
 0.0.0.0 adsrv.fashion.bg
 0.0.0.0 adsrv.hpg.com.br
 0.0.0.0 adsrv.iol.co.za
+0.0.0.0 adsrv.kobi.tv
+0.0.0.0 adsrv.moebelmarkt.tv
 0.0.0.0 adsrv.swidnica24.pl
 0.0.0.0 adsrv.tuscaloosanews.com
 0.0.0.0 adsrv2.brownpride.com
@@ -10061,6 +10072,7 @@
 0.0.0.0 adx.noahmob.com
 0.0.0.0 adx.ocala.com
 0.0.0.0 adx.openadserve.com
+0.0.0.0 adx.relaksit.ru
 0.0.0.0 adx.starbanner.com
 0.0.0.0 adx.starnewsonline.com
 0.0.0.0 adx.telegram.com
@@ -12097,6 +12109,7 @@
 0.0.0.0 anuelgroup.org
 0.0.0.0 anugrahkostum.com
 0.0.0.0 anuluj.info
+0.0.0.0 anuncios.edicaoms.com.br
 0.0.0.0 anvikbiotech.com
 0.0.0.0 anxiety-depression.com.au
 0.0.0.0 anxiousapples.com
@@ -14978,7 +14991,6 @@
 0.0.0.0 banner.fyber.com
 0.0.0.0 banner.getgo.de
 0.0.0.0 banner.goldenpalace.com
-0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.grupos.com.br
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.icmedia.eu
@@ -21840,7 +21852,6 @@
 0.0.0.0 cognitionet.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitivaperu.com
-0.0.0.0 cognitiveadscience.com
 0.0.0.0 cognitiveintegration.com
 0.0.0.0 cogrem.com
 0.0.0.0 cogsgasandplumbing.com.au
@@ -40167,6 +40178,7 @@
 0.0.0.0 life-is-beautiful.in
 0.0.0.0 lifecycle.co.zw
 0.0.0.0 lifefantastic.ml
+0.0.0.0 lifeimpressions.net
 0.0.0.0 lifelineoutreach.com
 0.0.0.0 lifelinessd.pw
 0.0.0.0 lifemediahouse1.onlinewelten.com
@@ -47448,6 +47460,7 @@
 0.0.0.0 oovelearning.co.nz
 0.0.0.0 oowhe.frost-electric-supply.com
 0.0.0.0 op.standartnews.com
+0.0.0.0 opads.us
 0.0.0.0 oparatoeur5574.operator360mobile.com
 0.0.0.0 opaterdmsnydl.co
 0.0.0.0 opcib.com
@@ -48528,7 +48541,6 @@
 0.0.0.0 patiencebearsessa.com
 0.0.0.0 patisserie-super.fr
 0.0.0.0 patma.ru
-0.0.0.0 patranally.xyz
 0.0.0.0 patriciasolitro.club
 0.0.0.0 patriciaycarlitos.com
 0.0.0.0 patricja.tk
@@ -57167,6 +57179,8 @@
 0.0.0.0 smart-content.mobify.net
 0.0.0.0 smart-eth-contract.site
 0.0.0.0 smart-help-online.com
+0.0.0.0 smart-traffik.com
+0.0.0.0 smart-traffik.io
 0.0.0.0 smart.8live.com
 0.0.0.0 smart.hola.com
 0.0.0.0 smart.mobvista.com
@@ -65742,6 +65756,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 webvkk.esy.es
 0.0.0.0 webwereld.nl.intellitxt.com
+0.0.0.0 webxcdn.com
 0.0.0.0 webxion.com
 0.0.0.0 webzona-segura1rbn.com
 0.0.0.0 wecanprepareyou.com
