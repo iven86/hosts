@@ -6320,6 +6320,7 @@
 0.0.0.0 ads.adone.com
 0.0.0.0 ads.adonion.com
 0.0.0.0 ads.adplxmd.com
+0.0.0.0 ads.adred.de
 0.0.0.0 ads.adrise.tv
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.ads360.com
@@ -7418,6 +7419,7 @@
 0.0.0.0 ads.sopeng.com
 0.0.0.0 ads.sourceforge.net
 0.0.0.0 ads.southbendtribune.com
+0.0.0.0 ads.soweb.gr
 0.0.0.0 ads.space.com
 0.0.0.0 ads.spaceports.com
 0.0.0.0 ads.spaceports.net
@@ -8795,6 +8797,7 @@
 0.0.0.0 adserve.fuse-ad.com
 0.0.0.0 adserve.gogreece.com
 0.0.0.0 adserve.io
+0.0.0.0 adserve.jbs.org
 0.0.0.0 adserve.kargo.com
 0.0.0.0 adserve.kikizo.com
 0.0.0.0 adserve.podaddies.com
@@ -9157,6 +9160,7 @@
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsrocket.net
+0.0.0.0 adsroller.com
 0.0.0.0 adsrv.adplus.co.id
 0.0.0.0 adsrv.ads.eniro.com
 0.0.0.0 adsrv.advanced-television.tv
