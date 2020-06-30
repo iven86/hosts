@@ -2533,6 +2533,7 @@
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.unbounce.com
 0.0.0.0 a.update.51edm.net
+0.0.0.0 a.vartoken.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.villeges.com
@@ -2807,6 +2808,7 @@
 0.0.0.0 about-sexy.com
 0.0.0.0 about.com
 0.0.0.0 about.netster.com
+0.0.0.0 aboutads.gr
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 aboutmonitoring.com
 0.0.0.0 aboutsignis.com
@@ -3695,6 +3697,7 @@
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.pt.doubleclick.net
+0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.punto-informatico.it
 0.0.0.0 ad.pupsik.ru
 0.0.0.0 ad.pyce.info
@@ -19648,7 +19651,6 @@
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.crwdcntrl.net
-0.0.0.0 cdn.curalate.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.dabhit.com
 0.0.0.0 cdn.decibelinsight.net
@@ -23968,8 +23970,6 @@
 0.0.0.0 cupqq.com
 0.0.0.0 cuprovyg.com
 0.0.0.0 curacao.memento-vivi.com
-0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
-0.0.0.0 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 0.0.0.0 curbappealdesign.biz
 0.0.0.0 cure.wfbank.pro
 0.0.0.0 curepipe.zezivrezom.org
@@ -51738,6 +51738,7 @@
 0.0.0.0 raidcomasia.my
 0.0.0.0 rail.us
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 railwayreason.com
 0.0.0.0 rainb00-scama.revupnet.com
 0.0.0.0 rainbow-case.com
 0.0.0.0 rainbow-de.mythings.com
@@ -52065,6 +52066,7 @@
 0.0.0.0 realmofthemadgoditemhack.com
 0.0.0.0 realpropertyrighttime.com
 0.0.0.0 realracinghack.com
+0.0.0.0 realsrv.com
 0.0.0.0 realstats.dhgate.com
 0.0.0.0 realsuccessng.com
 0.0.0.0 realsun.com
@@ -62645,6 +62647,7 @@
 0.0.0.0 tswgqcseq.com
 0.0.0.0 tsxclub.us.intellitxt.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndicate.net
 0.0.0.0 tt.adcocktail.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 tt11.adobe.com
