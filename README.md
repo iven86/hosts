@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to FireFi Mobile fire wall</h1>
 <p align="center">
-    <img src="https://img.shields.io/github/v/release/iven86/hosts" />
+    <img src="https://img.shields.io/github/license/iven86/hosts" />
     <a href="https://github.com/iven86/hosts/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/iven86/hosts" />
     </a>
