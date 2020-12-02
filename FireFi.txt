@@ -4907,6 +4907,7 @@
 0.0.0.0 adkengage.com
 0.0.0.0 ad.kickasstorrents.com
 0.0.0.0 adkinsdeveloping.com
+0.0.0.0 ad.kissanime.nz
 0.0.0.0 adklip.com
 0.0.0.0 adknowledge.com
 0.0.0.0 ad.koreadaily.com
@@ -9177,6 +9178,7 @@
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adweb2.hornymatches.com
 0.0.0.0 ad.webm.tbn.ru
+0.0.0.0 adwebone.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.where.com
 0.0.0.0 adwhirl.com
@@ -10739,6 +10741,7 @@
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.findwhat.com
+0.0.0.0 analytics.fkz.re
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.fotoable.net
@@ -21140,7 +21143,6 @@
 0.0.0.0 consent.adincube.com
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
 0.0.0.0 consent.cmp.oath.com
-0.0.0.0 consent.cookiebot.com.edgekey.net
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 consent.mediaforge.com
@@ -21334,7 +21336,6 @@
 0.0.0.0 conyapa.com
 0.0.0.0 cookiea1.veinteractive.com
 0.0.0.0 cookieatatime.ca
-0.0.0.0 cookiebot.com.edgekey.net
 0.0.0.0 cookiebot.com-v1.edgekey.net
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 cookiebyte.in
@@ -22836,6 +22837,7 @@
 0.0.0.0 dabadfdnnadknbcb.online
 0.0.0.0 dabannase.com
 0.0.0.0 dabcc.us.intellitxt.com
+0.0.0.0 dabiaozhi.com
 0.0.0.0 dable.io
 0.0.0.0 dable.io.edgekey.net
 0.0.0.0 d.abnad.net
@@ -39180,7 +39182,6 @@
 0.0.0.0 lt.hit.gemius.pl
 0.0.0.0 ltktourssafaris.com
 0.0.0.0 ltlyqgo6-site.1tempurl.com
-0.0.0.0 ltmastos.com
 0.0.0.0 ltms.estrazavi.ir
 0.0.0.0 ltok8yjk-site.etempurl.com
 0.0.0.0 lto.personali.com
@@ -39431,6 +39432,7 @@
 0.0.0.0 maderisa.com
 0.0.0.0 mad.excellentmovies.net
 0.0.0.0 madgeniusreview.com
+0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 m.admedia.com
 0.0.0.0 madness-combat.net
@@ -41483,7 +41485,6 @@
 0.0.0.0 mobiactif.es
 0.0.0.0 mobicow.com
 0.0.0.0 mobidea.com
-0.0.0.0 mobi.edgekey.net
 0.0.0.0 mobigamesforpc.com
 0.0.0.0 mobigrr.com
 0.0.0.0 mobilda.com
@@ -47496,7 +47497,6 @@
 0.0.0.0 post.securestudies.com
 0.0.0.0 post.spmailtechno.com
 0.0.0.0 post.voiceads.cn
-0.0.0.0 posumeads.com
 0.0.0.0 poswieciekuchni.pl
 0.0.0.0 potamitis.gr
 0.0.0.0 potbnb.com
@@ -49585,6 +49585,7 @@
 0.0.0.0 regular666.ru
 0.0.0.0 regularizar-acesso3-mobile-app-movel.000webhostapp.com
 0.0.0.0 regularizar-celular-bbmobile-sms.000webhostapp.com
+0.0.0.0 regularplants.com
 0.0.0.0 regupdate-ldentupgrade.gdn
 0.0.0.0 rehab.ru
 0.0.0.0 rehal.jp
@@ -58705,6 +58706,7 @@
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
 0.0.0.0 track.untd.com
+0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track.viralvidi.com
 0.0.0.0 track.visitorpath.com
@@ -59756,7 +59758,6 @@
 0.0.0.0 universalpapercupmachines.com
 0.0.0.0 universalprint.com.co
 0.0.0.0 universal-tao.bid
-0.0.0.0 universcine.com
 0.0.0.0 universehacks.com
 0.0.0.0 universeofhacks.com
 0.0.0.0 universesearches.com
