@@ -8551,6 +8551,7 @@
 0.0.0.0 adunit.chango.ca
 0.0.0.0 adunit.chango.com
 0.0.0.0 adunit.namiflow.com
+0.0.0.0 ad.universcine.com
 0.0.0.0 ad.u.nuggad.net
 0.0.0.0 ad-up.com
 0.0.0.0 ad.uproar.com
@@ -11563,7 +11564,6 @@
 0.0.0.0 api.nanigans.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 api.native.ai
-0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
 0.0.0.0 apiolocus.com
@@ -12536,7 +12536,6 @@
 0.0.0.0 arjunainvestment.com
 0.0.0.0 arjunrammeghwal.com
 0.0.0.0 arkadium-d.openx.net
-0.0.0.0 arkadium-tagan.adlightning.com
 0.0.0.0 arkaust.com.au
 0.0.0.0 arkimpactindia.com
 0.0.0.0 ark.letv.com
@@ -13112,7 +13111,6 @@
 0.0.0.0 atxappliancerepair.com
 0.0.0.0 atxinspection.com
 0.0.0.0 au-01.adtomafusion.com
-0.0.0.0 au1.qualtrics.com
 0.0.0.0 au.2.cqcounter.com
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 au.ads.link4ads.com
@@ -13470,7 +13468,6 @@
 0.0.0.0 ayurvedabeyond.com
 0.0.0.0 ayushguesthouse.com
 0.0.0.0 ayyasindociptamedia.co.id
-0.0.0.0 az1.qualtrics.com
 0.0.0.0 azadbdgroup.com
 0.0.0.0 azadtehsil.ml
 0.0.0.0 azarevi.dom-monster-house.ru
@@ -16726,7 +16723,6 @@
 0.0.0.0 bohoth.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
-0.0.0.0 boisestate.az1.qualtrics.com
 0.0.0.0 boistans.com
 0.0.0.0 boiywers.men
 0.0.0.0 bokotraffic.com
@@ -16942,7 +16938,6 @@
 0.0.0.0 brainfocus-students.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 brainient.com
-0.0.0.0 brainly-tagan.adlightning.com
 0.0.0.0 brainteasers.freestats.com
 0.0.0.0 brainyquote-d.openx.net
 0.0.0.0 brambletyelodge.com.au
@@ -17322,7 +17317,6 @@
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzfeed.amp.permutive.com
 0.0.0.0 buzzfeed.d1.sc.omtrdc.net
-0.0.0.0 buzzfeed-tagan.adlightning.com
 0.0.0.0 buzzfiles.net
 0.0.0.0 buzzfoto.us.intellitxt.com
 0.0.0.0 buzzhumor.us.intellitxt.com
@@ -17509,7 +17503,6 @@
 0.0.0.0 ca09.download
 0.0.0.0 ca18740.tmweb.ru
 0.0.0.0 ca1.bluestreak.com
-0.0.0.0 ca1.qualtrics.com
 0.0.0.0 ca.2.cqcounter.com
 0.0.0.0 ca4-bid.adsrvr.org
 0.0.0.0 ca87.playfabapi.com
@@ -17728,7 +17721,6 @@
 0.0.0.0 canadabook.ca
 0.0.0.0 canada-etransfer.com
 0.0.0.0 canadapost.112.2o7.net
-0.0.0.0 canadapostdigital.ca1.qualtrics.com
 0.0.0.0 canada-refund.com
 0.0.0.0 canadianaidmart.su
 0.0.0.0 canadian-drugs-shop.com
@@ -17852,7 +17844,6 @@
 0.0.0.0 caradisegno.com
 0.0.0.0 carambo.la
 0.0.0.0 carambola-d.openx.net
-0.0.0.0 carambola-tagan.adlightning.com
 0.0.0.0 carambos.esy.es
 0.0.0.0 caravanfs.com
 0.0.0.0 carbonads.com
@@ -19934,6 +19925,7 @@
 0.0.0.0 clickburst.com
 0.0.0.0 clickbux.ru
 0.0.0.0 clickc.admaster.com.cn
+0.0.0.0 click.cartsguru.io
 0.0.0.0 clickcashmoney.com
 0.0.0.0 clickcdn.shareaholic.com
 0.0.0.0 click.celebmoney.com
@@ -20455,7 +20447,6 @@
 0.0.0.0 cnybusinessguide.com
 0.0.0.0 cny.yoyo.org
 0.0.0.0 cnzz.mmstat.com
-0.0.0.0 co1.qualtrics.com
 0.0.0.0 co2-cat.ru
 0.0.0.0 co3corp.com
 0.0.0.0 coachadvisor.it
@@ -21996,7 +21987,6 @@
 0.0.0.0 creatrealyttittleinfo.co
 0.0.0.0 creayepanels.ml
 0.0.0.0 credemc.it
-0.0.0.0 credishe.com
 0.0.0.0 credit-agricole.dhdkuepj.beget.tech
 0.0.0.0 credit-agricolefrance.ga
 0.0.0.0 creditcard16.info
@@ -26161,7 +26151,6 @@
 0.0.0.0 entesharat.torbath.ac.ir
 0.0.0.0 enthro.com
 0.0.0.0 enthusiast-gaming-d.openx.net
-0.0.0.0 enthusiastgaming-tagan.adlightning.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 entirenumber.com
 0.0.0.0 entitlements.jwplayer.com
@@ -26633,7 +26622,6 @@
 0.0.0.0 eu-pn2.adserver.yahoo.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
 0.0.0.0 eu-px.steelhousemedia.com
-0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurebia.net
 0.0.0.0 eurekster.com
@@ -28716,7 +28704,6 @@
 0.0.0.0 fr.85.clickintext.net
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 fra1.ipromote.com
-0.0.0.0 fra1.qualtrics.com
 0.0.0.0 fr.a2dfp.net
 0.0.0.0 fra2.ipromote.com
 0.0.0.0 fraccbosquesdelzumate.tk
@@ -29239,7 +29226,6 @@
 0.0.0.0 freespotifypremiumcodes.com
 0.0.0.0 free-stardollars.com
 0.0.0.0 freestar-d.openx.net
-0.0.0.0 freestar-tagan.adlightning.com
 0.0.0.0 free-stats.com
 0.0.0.0 freestats.com
 0.0.0.0 free-stats.i8.com
@@ -31163,8 +31149,6 @@
 0.0.0.0 gourmetgiftbaskets.112.2o7.net
 0.0.0.0 gouryhfq.beget.tech
 0.0.0.0 gouv.impots.fr.fusiontek.com.ar
-0.0.0.0 gov1.qualtrics.com
-0.0.0.0 gov1.siteintercept.qualtrics.com
 0.0.0.0 gov.aniview.com
 0.0.0.0 gov.au.id312666359-9036410720.w595505.com
 0.0.0.0 govelogistics.com
@@ -31689,7 +31673,6 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 gum.da1.vip.prod.criteo.com
 0.0.0.0 gumgum.com
-0.0.0.0 gumgum-tagan.adlightning.com
 0.0.0.0 gum.hk5.vip.prod.criteo.com
 0.0.0.0 guminska.pl
 0.0.0.0 gumixa.com
@@ -32989,7 +32972,6 @@
 0.0.0.0 hits.webstat.com
 0.0.0.0 hittail.com
 0.0.0.0 hit.topc.org
-0.0.0.0 hitttenevtanin.com
 0.0.0.0 hit.ua
 0.0.0.0 hitwastedgarden.com
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -33126,7 +33108,6 @@
 0.0.0.0 home.com.cgi-bin-webscr.log-dispatch-updat-account.cg-bin-team.updat.server-crypt.cg-bint.securly.data4678744dbj.portal.gruporafaela.com.br
 0.0.0.0 homecraftfurniture.com
 0.0.0.0 homedecorsuppliers.tk
-0.0.0.0 homedepot.az1.qualtrics.com
 0.0.0.0 home.free-banners.com
 0.0.0.0 homehanger.in
 0.0.0.0 homeherbsupply.ru
@@ -33716,7 +33697,6 @@
 0.0.0.0 iad13-usadmm.dotomi.com
 0.0.0.0 iad13-usadmm-ds.dotomi.com
 0.0.0.0 iad1.ipromote.com
-0.0.0.0 iad1.qualtrics.com
 0.0.0.0 iad-2-apex.go.sonobi.com
 0.0.0.0 iad-2.go.sonobi.com
 0.0.0.0 iad2.ipromote.com
@@ -37929,7 +37909,6 @@
 0.0.0.0 leech-lakebuilders.com
 0.0.0.0 leedsads.com
 0.0.0.0 leeenterprises.112.2o7.net
-0.0.0.0 leeenterprises-tagan.adlightning.com
 0.0.0.0 leekaz2.000webhostapp.com
 0.0.0.0 leelasinghberg.org
 0.0.0.0 leeleesobieski.sexybabesx.com
@@ -38463,7 +38442,6 @@
 0.0.0.0 livinchurch.com
 0.0.0.0 livingconstructions.net.au
 0.0.0.0 livinggood.se
-0.0.0.0 livingly-tagan.adlightning.com
 0.0.0.0 livingsocial.sp1.convertro.com
 0.0.0.0 livingspaceblr.com
 0.0.0.0 livinguz.info
@@ -39979,10 +39957,6 @@
 0.0.0.0 material.lionmobi.com
 0.0.0.0 material.mediav.com
 0.0.0.0 material-ssl.mediav.com
-0.0.0.0 math-aids-signup-tagan.adlightning.com
-0.0.0.0 math-aids-tagan.adlightning.com
-0.0.0.0 math-aids-teamsnap-tagan.adlightning.com
-0.0.0.0 math-aids-ten-tagan.adlightning.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
@@ -42968,7 +42942,6 @@
 0.0.0.0 nationalenquirer.us.intellitxt.com
 0.0.0.0 nationalledger.us.intellitxt.com
 0.0.0.0 nationalpost-com.c.richmetrics.com
-0.0.0.0 nationalreview-tagan.adlightning.com
 0.0.0.0 nationalsecuritydirect.com
 0.0.0.0 national-security-info.16mb.com
 0.0.0.0 nationalteaexchange.com
@@ -45843,7 +45816,6 @@
 0.0.0.0 patashala.org
 0.0.0.0 patch-d.openx.net
 0.0.0.0 patch-game.com
-0.0.0.0 patch-tagan.adlightning.com
 0.0.0.0 patenaudeassociates.com
 0.0.0.0 patern.tk
 0.0.0.0 pathackley.com
@@ -46379,7 +46351,6 @@
 0.0.0.0 pennyweb.com
 0.0.0.0 pension-concordia.eu
 0.0.0.0 pensjonat-domino.pl
-0.0.0.0 penske-tagan.adlightning.com
 0.0.0.0 pentacompza.co.za
 0.0.0.0 pentiumbdshop.com
 0.0.0.0 pentonmedia.122.2o7.net
@@ -48375,7 +48346,6 @@
 0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 publicandolo.com
-0.0.0.0 public.api.nicovideo.jp
 0.0.0.0 publicaredicto.com
 0.0.0.0 public.carpediem.fr
 0.0.0.0 publicidad.adlead.com
@@ -48742,8 +48712,6 @@
 0.0.0.0 qualityponno.com
 0.0.0.0 qualityporn.biz
 0.0.0.0 quallpac.com
-0.0.0.0 qualtrics.com.edgekey.net
-0.0.0.0 qualtrics.new.edgekey.net
 0.0.0.0 quangl3m.beget.tech
 0.0.0.0 quanmama.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
@@ -49284,7 +49252,6 @@
 0.0.0.0 realtopplus.ru
 0.0.0.0 realtorbuyersfile.com
 0.0.0.0 realtor-d.openx.net
-0.0.0.0 realtor-tagan.adlightning.com
 0.0.0.0 realtouchbannerwidget.aebn.net
 0.0.0.0 realtracker.com
 0.0.0.0 realtybuyerfiles.us
@@ -50107,7 +50074,6 @@
 0.0.0.0 ritmicamente.it
 0.0.0.0 ritz-bit.com
 0.0.0.0 ritzykey.com
-0.0.0.0 ritzysponge.com
 0.0.0.0 ri-v3.presage.io
 0.0.0.0 rivalsseasonpass.dlcodes.com
 0.0.0.0 rivasearchpage.com
@@ -51912,7 +51878,6 @@
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdk.streaming.adswizz.com
 0.0.0.0 sdk.streamrail.com
-0.0.0.0 sdksync.prod.vuforia.com
 0.0.0.0 sdk.tigertext.me
 0.0.0.0 sdktm.w.inmobi.cn
 0.0.0.0 sdktm.w.inmobi.com
@@ -53107,7 +53072,6 @@
 0.0.0.0 shefa-global.com
 0.0.0.0 shefolaty.tk
 0.0.0.0 shein.fgppchg.fgpp.com
-0.0.0.0 sheknows-tagan.adlightning.com
 0.0.0.0 sheknows.us.intellitxt.com
 0.0.0.0 shelleylalonde.com
 0.0.0.0 shellez.com
@@ -53610,7 +53574,6 @@
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sincerespy.com
 0.0.0.0 sinclair-d.openx.net
-0.0.0.0 sinclair-tagan.adlightning.com
 0.0.0.0 sincronismo-bb.com
 0.0.0.0 sincronismo.is-an-accountant.com
 0.0.0.0 sindirect.adsrvr.org
@@ -53756,7 +53719,6 @@
 0.0.0.0 sjc07-login-ds.dotomi.com
 0.0.0.0 sjc07-usadmm.dotomi.com
 0.0.0.0 sjc07-usadmm-ds.dotomi.com
-0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 sjc-249.sjc-rtb1.rfihub.com
 0.0.0.0 sjc-bh-bgp.contextweb.com
 0.0.0.0 sjc-bh.contextweb.com
@@ -53955,7 +53917,6 @@
 0.0.0.0 slashfilm.us.intellitxt.com
 0.0.0.0 slashphone.us.intellitxt.com
 0.0.0.0 slatchcare.com
-0.0.0.0 slate-tagan.adlightning.com
 0.0.0.0 slayerment.tk
 0.0.0.0 slbbbcom.112.2o7.net
 0.0.0.0 slcdnbhpclwtokt.com
@@ -55111,7 +55072,6 @@
 0.0.0.0 static.apester.com
 0.0.0.0 static.aprod.scopely.io
 0.0.0.0 static.ard.xxxblackbook.com
-0.0.0.0 static-assets.qualtrics.com
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static.audienceinsights.net
 0.0.0.0 static.awempire.com
@@ -57127,7 +57087,6 @@
 0.0.0.0 teethfan.com
 0.0.0.0 teezmo.us
 0.0.0.0 t.effectivemeasure.net
-0.0.0.0 tegna-tagan.adlightning.com
 0.0.0.0 teg-tech.com
 0.0.0.0 tehnolan.ru
 0.0.0.0 teho.com.sg
@@ -57731,7 +57690,6 @@
 0.0.0.0 thisgreenblog.com
 0.0.0.0 thisinzogetstartedphp-untormenting-conjurer.mybluemix.net
 0.0.0.0 thisisyourchangeqq.com
-0.0.0.0 thisoldhouse-tagan.adlightning.com
 0.0.0.0 thisp.in
 0.0.0.0 thissideupdesigns.com
 0.0.0.0 thiswatchticks.com
@@ -58705,6 +58663,7 @@
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
+0.0.0.0 track.unear.net
 0.0.0.0 track.untd.com
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
@@ -66097,7 +66056,6 @@
 0.0.0.0 zamitech.com
 0.0.0.0 zamopanjilok.com
 0.0.0.0 zampolit1990.popunder.ru
-0.0.0.0 zam-tagan.adlightning.com
 0.0.0.0 zango.112.2o7.net
 0.0.0.0 zangocash.com
 0.0.0.0 zango.com
@@ -66281,7 +66239,6 @@
 0.0.0.0 zik-et-dance.com
 0.0.0.0 zilliqa.online
 0.0.0.0 zilllow.us
-0.0.0.0 zillow-tagan.adlightning.com
 0.0.0.0 zilmaraalencar.com.br
 0.0.0.0 zimbras.org
 0.0.0.0 zimeks.com.mk
@@ -66376,7 +66333,6 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 zmskins.com
 0.0.0.0 zmt100.com
-0.0.0.0 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 zndxa.com
 0.0.0.0 z.nightchan.com
