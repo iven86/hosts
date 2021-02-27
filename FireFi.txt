@@ -3846,7 +3846,6 @@
 0.0.0.0 adimpression.startappservice.com
 0.0.0.0 adin.bigpoint.com
 0.0.0.0 adinch.com
-0.0.0.0 adincube.com
 0.0.0.0 adindex.laweekly.com
 0.0.0.0 adindex.villagevoice.com
 0.0.0.0 ad.in.doubleclick.net
@@ -6581,7 +6580,6 @@
 0.0.0.0 ads.mobadvent.com
 0.0.0.0 ads.mobclix.com
 0.0.0.0 adsmobi.com
-0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.mobilebet.com
 0.0.0.0 ads.mobitree.co.kr
 0.0.0.0 ads.moceanads.com
@@ -7002,7 +7000,6 @@
 0.0.0.0 ads.springclick.com
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.spymac.net
-0.0.0.0 ads.squarecrop.net
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.standartnews.com
@@ -7954,7 +7951,6 @@
 0.0.0.0 advertising.palltalk.com
 0.0.0.0 advertising.paltalk.com
 0.0.0.0 advertising.ru
-0.0.0.0 advertisingtag.net
 0.0.0.0 advertising.thediabetesnetwork.com
 0.0.0.0 advertising.tv
 0.0.0.0 advertisingvision.com
@@ -11242,7 +11238,6 @@
 0.0.0.0 bebo.crwdcntrl.net
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 becounted.baja.com
-0.0.0.0 bedsbreath.com
 0.0.0.0 beemray.com
 0.0.0.0 beertraffic.biz
 0.0.0.0 beeswaxdisplay108801632049.s.moatpixel.com
@@ -23344,7 +23339,6 @@
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intentmedia.com
-0.0.0.0 intentmedia.net
 0.0.0.0 interaction.apester.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
@@ -24429,6 +24423,7 @@
 0.0.0.0 lindigitalcw930661141672.s.moatpixel.com
 0.0.0.0 lin-d.openx.net
 0.0.0.0 lindsay.sexybabesx.com
+0.0.0.0 line.jzs001.cn
 0.0.0.0 linewebtoon-d.openx.net
 0.0.0.0 link4ads.com
 0.0.0.0 link4link.com
@@ -26168,7 +26163,6 @@
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobilemessenger.com
 0.0.0.0 mobile.mng-ads.com
-0.0.0.0 mobilepartner.avcdn.net.edgekey.net
 0.0.0.0 mobileposse.com
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 mobile-sdk-resources.jumio.com
@@ -27810,6 +27804,7 @@
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx.4shared.com
+0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.adhaven.com
 0.0.0.0 openx.ajur.info
 0.0.0.0 openx.angelsgroup.org.uk
@@ -28672,7 +28667,6 @@
 0.0.0.0 pixelcounter.marca.com
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
-0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel.everesttech.net
@@ -36037,7 +36031,6 @@
 0.0.0.0 v1adserver.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v1.extreme-dm.com
-0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 v1.nedstatbasic.net
 0.0.0.0 v2.adgoto.com
 0.0.0.0 v2.ads3.ipon.lt
