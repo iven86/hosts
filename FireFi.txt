@@ -4104,6 +4104,7 @@
 0.0.0.0 adnuker.com
 0.0.0.0 ad.nwt.cz
 0.0.0.0 adnxs.com
+0.0.0.0 adnxs-simple.com
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 adobe.adhaven.com
 0.0.0.0 adobe.demdex.net
@@ -5708,6 +5709,7 @@
 0.0.0.0 ads.dobrichonline.com
 0.0.0.0 ads.doctors.co.il
 0.0.0.0 ads.dofunapps.com
+0.0.0.0 ads.doit.com.cn
 0.0.0.0 ads.domainbg.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
@@ -6754,6 +6756,7 @@
 0.0.0.0 adspyre.com
 0.0.0.0 ads.q1media.com
 0.0.0.0 ads.quartermedia.de
+0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.racunalniske-novice.com
@@ -6835,7 +6838,6 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adsrv.swidnica24.pl
 0.0.0.0 adsrv.tuscaloosanews.com
-0.0.0.0 adsrvus.com
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.sabah.com.tr
 0.0.0.0 ads.sacbee.com
@@ -7952,7 +7954,6 @@
 0.0.0.0 adv.marica.bg
 0.0.0.0 adv.medicine.bg
 0.0.0.0 adv.medscape.com
-0.0.0.0 adv.mezon.ru
 0.0.0.0 advmob.cn
 0.0.0.0 adv.mpvc.it
 0.0.0.0 adv.mxmcdn.net
@@ -9440,7 +9441,6 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 apicssdk.onemt.co
 0.0.0.0 api.cxense.com
-0.0.0.0 api.datadoghq.com
 0.0.0.0 api.data.sentinel.mob.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.demandbase.com
@@ -10912,6 +10912,7 @@
 0.0.0.0 baran-eblan.info
 0.0.0.0 barbarousnerve.com
 0.0.0.0 bardiscover.com
+0.0.0.0 baremetrics.com
 0.0.0.0 bar.freelogs.com
 0.0.0.0 bargain-buddy.net
 0.0.0.0 bargainpda.us.intellitxt.com
@@ -13947,6 +13948,7 @@
 0.0.0.0 celtra.com
 0.0.0.0 cengagecsinfosec.112.2o7.net
 0.0.0.0 c.enhance.com
+0.0.0.0 <center><h1>404
 0.0.0.0 <center><h1>404\
 0.0.0.0 center-hack.com
 0.0.0.0 centerofdownload.com
@@ -15747,6 +15749,7 @@
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashtest.cjb.net
 0.0.0.0 craveandlamb.com
 0.0.0.0 craveforcheats.com
@@ -17946,7 +17949,6 @@
 0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com
 0.0.0.0 emxhb.emxdgt.com
-0.0.0.0 en25.com
 0.0.0.0 encountertracker.ws
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 encyclocentral.us.intellitxt.com
@@ -19380,6 +19382,7 @@
 0.0.0.0 france.id108979765-7218227704.w595505.com
 0.0.0.0 france.id130546622-3701190119.w595505.com
 0.0.0.0 france.id131337608-5036396713.w595505.com
+0.0.0.0 franklybundlecarver.com
 0.0.0.0 frankychamp.com
 0.0.0.0 fr.best-hacks.net
 0.0.0.0 fr.cim.clickintext.net
@@ -21781,6 +21784,7 @@
 0.0.0.0 </head>
 0.0.0.0 <head>
 0.0.0.0 </head><body>
+0.0.0.0 <head><title>404
 0.0.0.0 <head><title>404\
 0.0.0.0 healthgrades.112.2o7.net
 0.0.0.0 healthination.122.2o7.net
@@ -21860,6 +21864,7 @@
 0.0.0.0 heyos.com
 0.0.0.0 heytapimg.com.akamaized.net
 0.0.0.0 heywire.com
+0.0.0.0 hf5rbejvpwds.com
 0.0.0.0 hfc195b.com
 0.0.0.0 h-fidelity.online-metrix.net
 0.0.0.0 hfm.checkm8.com
@@ -22233,6 +22238,7 @@
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
+0.0.0.0 huezzcjskf.site
 0.0.0.0 huffingtonpost.crwdcntrl.net
 0.0.0.0 hugde.adocean.pl
 0.0.0.0 hugefileshare.com
@@ -23143,6 +23149,7 @@
 0.0.0.0 intelcorpsupp.112.2o7.net
 0.0.0.0 intelinet-global.net
 0.0.0.0 intelliads.com
+0.0.0.0 intelligenceadx.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intellitxt.com
 0.0.0.0 interaction.apester.com
@@ -25002,6 +25009,7 @@
 0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.oka-zakaz.ru
 0.0.0.0 matomoprod.babelstreet.com
+0.0.0.0 matomo.zwetok.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
 0.0.0.0 mattressusa.122.2o7.net
@@ -27332,6 +27340,7 @@
 0.0.0.0 officialgiveaway.net
 0.0.0.0 official-guide.net
 0.0.0.0 off.screensaver.com
+0.0.0.0 offshoreanglehost.com
 0.0.0.0 ofloc.map.baidu.com
 0.0.0.0 ofw-client-cdn.fyber.com
 0.0.0.0 oglasi.posjetnica.com
@@ -29167,6 +29176,7 @@
 0.0.0.0 prt.stsdk.vivo.com.cn
 0.0.0.0 prt-stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
+0.0.0.0 prudencewiserelapse.com
 0.0.0.0 pr-v1.presage.io
 0.0.0.0 ps2.ign.us.intellitxt.com
 0.0.0.0 ps3emulator.fr
@@ -32270,6 +32280,7 @@
 0.0.0.0 spamnuker.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanishdict-d.openx.net
+0.0.0.0 spannersalesman.com
 0.0.0.0 sparkcodes.com
 0.0.0.0 sparkle.locationlabs.com
 0.0.0.0 sparknetworks.112.2o7.net
@@ -32976,6 +32987,7 @@
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.snacktools.net
 0.0.0.0 stats.spyware-browser.com
+0.0.0.0 stats.stb-ottow.de
 0.0.0.0 stats.style.com
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.superstats.com
@@ -33912,6 +33924,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 templerun2.newzgames.com
 0.0.0.0 templerunforpc.com
+0.0.0.0 t.en25.com
 0.0.0.0 tendertest.com
 0.0.0.0 tend.io
 0.0.0.0 tengo.popunder.ru
@@ -34656,6 +34669,7 @@
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.dsmmadvantage.com
+0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.everydayhealth.com
@@ -35628,7 +35642,9 @@
 0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 us-gmtdmp.mookie1.com
 0.0.0.0 ush.adspecs.yahoo.com
+0.0.0.0 usherprayer.com
 0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
+0.0.0.0 usingirritatecordial.com
 0.0.0.0 us-level1.dyntrk.com
 0.0.0.0 us-ma.sam4m.com
 0.0.0.0 us-match.taboola.com
@@ -35852,6 +35868,7 @@
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venetian.evyy.net
+0.0.0.0 venetrigni.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 venturead.com
 0.0.0.0 venture.boulevards.com
@@ -36105,7 +36122,6 @@
 0.0.0.0 vm3.parabol.object.bg
 0.0.0.0 vm5apis.com
 0.0.0.0 vmed.vrtcal.com
-0.0.0.0 vmmpxl.com
 0.0.0.0 vmn.net
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
@@ -36428,6 +36444,7 @@
 0.0.0.0 webstats.eco.de
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.oanda.com
+0.0.0.0 webstats.one
 0.0.0.0 webstats.plus.net
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webstats.thesoul-publishing.com
@@ -36654,6 +36671,7 @@
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wiregirl.us.intellitxt.com
+0.0.0.0 wirelesseuropebalmy.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wireless.ign.us.intellitxt.com
