@@ -8940,6 +8940,7 @@
 0.0.0.0 analytic.detik.com
 0.0.0.0 analytic.gatewayinterface.com
 0.0.0.0 analytic.spamfighter.com
+0.0.0.0 analyticacdn.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -13556,7 +13557,6 @@
 0.0.0.0 cdn-inner-active.edgekey.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
-0.0.0.0 cdn-loyalty.yotpo.com
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-pci.optimizely.com
@@ -13577,7 +13577,6 @@
 0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn-w.flvpro.com
 0.0.0.0 cdn-webview-pge.unityads.unity3d.com
-0.0.0.0 cdn-widgetsrepository.yotpo.com
 0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.88-f.net
 0.0.0.0 cdn.accelerator.arsdev.net
@@ -14368,7 +14367,6 @@
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 cl.netseer.com
 0.0.0.0 cl0udh0st1ng.com
-0.0.0.0 cl6.perimeterx.net
 0.0.0.0 clad.perfectcorp.com
 0.0.0.0 claimiphone7.net
 0.0.0.0 clair.iad-03.braze.com
@@ -14653,7 +14651,6 @@
 0.0.0.0 client.browseraccelerator.com
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.optimizely.com
-0.0.0.0 client.perimeterx.net
 0.0.0.0 client.rave-api.com
 0.0.0.0 client.sidesearch.lycos.com
 0.0.0.0 clientcdn.pushengage.com
@@ -15065,21 +15062,7 @@
 0.0.0.0 collector-184.tvsquared.com
 0.0.0.0 collector-195.tvsquared.com
 0.0.0.0 collector-428.tvsquared.com
-0.0.0.0 collector-a.perimeterx.net
-0.0.0.0 collector-px0etyn5vq.perimeterx.net
-0.0.0.0 collector-px12xk43jk.perimeterx.net
-0.0.0.0 collector-px3vk96i6i.perimeterx.net
-0.0.0.0 collector-px87q7kx6y.perimeterx.net
-0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
-0.0.0.0 collector-pxhyx10rg3.perimeterx.net
-0.0.0.0 collector-pxikkul2rm.perimeterx.net
-0.0.0.0 collector-pxitevy85i.perimeterx.net
-0.0.0.0 collector-pxkz8zzqmw.perimeterx.net
-0.0.0.0 collector-pxljub4etb.cl6.perimeterx.net
-0.0.0.0 collector-pxo97ybh4j.perimeterx.net
-0.0.0.0 collector-pxuarm9b04.perimeterx.net
-0.0.0.0 collector-pxvi2rjzgl.perimeterx.net
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
 0.0.0.0 collector.cint.com
@@ -19951,7 +19934,6 @@
 0.0.0.0 fu-bf3749f2e0.upalytics.com
 0.0.0.0 fu-e01a50651b.upalytics.com
 0.0.0.0 fuelbuck.com
-0.0.0.0 fukc69xo.us
 0.0.0.0 full-movies-online.cba.pl
 0.0.0.0 full.exmovie.xyz
 0.0.0.0 fullepisodesfree.com
@@ -23183,6 +23165,7 @@
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intellitxt.com
+0.0.0.0 intentsify.io
 0.0.0.0 interaction.apester.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
@@ -23643,7 +23626,6 @@
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.indexww.com
-0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.livehelper.com
 0.0.0.0 js.logentries.com
@@ -24183,6 +24165,7 @@
 0.0.0.0 level3.applifier.com
 0.0.0.0 level3.cedexis.com
 0.0.0.0 levelrate.de
+0.0.0.0 lever-analytics.com
 0.0.0.0 leveragemarketing.112.2o7.net
 0.0.0.0 lfeeder.com
 0.0.0.0 lfov.net
@@ -25932,7 +25915,6 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile-ent.biz
 0.0.0.0 mobile-global.baidu.com
-0.0.0.0 mobile-sdk-api.intercom.io
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
@@ -25980,7 +25962,6 @@
 0.0.0.0 mobilegamehackers.com
 0.0.0.0 mobilehacks.net
 0.0.0.0 mobilehacks4u.com
-0.0.0.0 mobileiconnect.com
 0.0.0.0 mobileiosapi.punchh.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilemessenger.com
@@ -29465,7 +29446,6 @@
 0.0.0.0 pwp.netcabo.pt
 0.0.0.0 pwrdon.com
 0.0.0.0 pwrfcia.com
-0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -30047,6 +30027,7 @@
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
 0.0.0.0 res1.applovin.com
+0.0.0.0 resalag.com
 0.0.0.0 rescator.la
 0.0.0.0 rescator.me
 0.0.0.0 research.de.com
@@ -32137,6 +32118,7 @@
 0.0.0.0 smetrics.creditreport.com
 0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.dickssportinggoods.com
+0.0.0.0 smetrics.fedex.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.freecreditreport.com
 0.0.0.0 smetrics.southwest.com
@@ -33011,7 +32993,6 @@
 0.0.0.0 stats.pckeeper.software
 0.0.0.0 stats.persgroep.be
 0.0.0.0 stats.persgroep.nl
-0.0.0.0 stats.pingdom.com
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 stats.popcap.com
@@ -36128,6 +36109,7 @@
 0.0.0.0 vm3.parabol.object.bg
 0.0.0.0 vm5apis.com
 0.0.0.0 vmed.vrtcal.com
+0.0.0.0 vmmpxl.com
 0.0.0.0 vmn.net
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
@@ -36352,6 +36334,7 @@
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 wdc.15x.net
+0.0.0.0 wdfl.co
 0.0.0.0 wdm.map24.com
 0.0.0.0 wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0 wdxcyber.us.intellitxt.com
