@@ -29202,7 +29202,6 @@
 0.0.0.0 ps4jailbreaker.com
 0.0.0.0 ps4jailbreakk.com
 0.0.0.0 ps4jailbreaks.org
-0.0.0.0 ps7894.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 pscdns.biz
 0.0.0.0 psdown.org
@@ -34851,6 +34850,7 @@
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
 0.0.0.0 tracking22.com
+0.0.0.0 trackingfestival.com
 0.0.0.0 trackingmaster.co.cc
 0.0.0.0 trackingmode.com
 0.0.0.0 trackingsoft.com
