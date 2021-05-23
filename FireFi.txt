@@ -8594,6 +8594,7 @@
 0.0.0.0 alenty.com
 0.0.0.0 alert.com.mt
 0.0.0.0 alert.freepush.com
+0.0.0.0 alertafterthought.com
 0.0.0.0 alerts.internetwasher.com
 0.0.0.0 alertspy.com
 0.0.0.0 alex-hacks.com
@@ -13338,6 +13339,7 @@
 0.0.0.0 cardsfree.net
 0.0.0.0 care2.112.2o7.net
 0.0.0.0 carina.iad.appboy.com
+0.0.0.0 caringcast.com
 0.0.0.0 carinus.iad-03.braze.com
 0.0.0.0 carlsonradisson.112.2o7.net
 0.0.0.0 carmen.sexybabesx.com
@@ -22054,6 +22056,7 @@
 0.0.0.0 home.free-banners.com
 0.0.0.0 home.hit.stat.pl
 0.0.0.0 home.hit.stat24.com
+0.0.0.0 homelycrown.com
 0.0.0.0 homem-shopping.com
 0.0.0.0 homepageking.de
 0.0.0.0 homepjlconline.com.112.2o7.net
@@ -26329,6 +26332,7 @@
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 multipops.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 mundanepollution.com
 0.0.0.0 mundo-vantagens.com
 0.0.0.0 munky.com
 0.0.0.0 muscleandfitnesshers.us.intellitxt.com
