@@ -35760,6 +35760,7 @@
 0.0.0.0 vaime.net.popunder.ru
 0.0.0.0 vaingloryhack.net
 0.0.0.0 val17.com
+0.0.0.0 valerie.forbes.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 validator.lomadee.com
 0.0.0.0 validcheats.com
