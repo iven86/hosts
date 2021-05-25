@@ -1620,6 +1620,7 @@
 0.0.0.0 aahtech.com
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aamhi.com
+0.0.0.0 aamt.today.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
 0.0.0.0 aan.amazon.co.uk
@@ -8890,6 +8891,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
+0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amprtc.media.net
 0.0.0.0 ams-1-apex.go.sonobi.com
 0.0.0.0 ams-1-sync.go.sonobi.com
@@ -9459,6 +9461,7 @@
 0.0.0.0 api-us-east.zqtk.net
 0.0.0.0 api-us.appodealx.com
 0.0.0.0 api-usent.kampyle.com
+0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api-vip.immomo.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api.53.localytics.com
@@ -9591,6 +9594,7 @@
 0.0.0.0 api.lanistaads.com
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.limbik.com
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.localytics.com
 0.0.0.0 api.locately.com
@@ -10230,6 +10234,7 @@
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.luminate.com
 0.0.0.0 assets.mantisadnetwork.com
+0.0.0.0 assets.minutemediacdn.com
 0.0.0.0 assets.moat.com
 0.0.0.0 assets.popmarker.com
 0.0.0.0 assets.privy.com
@@ -11486,6 +11491,8 @@
 0.0.0.0 bip.presage.io
 0.0.0.0 bip.prod.cloud.ogury.io
 0.0.0.0 birigum.iad-03.braze.com
+0.0.0.0 bis.vidazoo.com
+0.0.0.0 bisdr.vidazoo.com
 0.0.0.0 bisikletgonulbirligi.com
 0.0.0.0 bit-tech.uk.intellitxt.com
 0.0.0.0 bitads.net
@@ -12937,6 +12944,7 @@
 0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 buxflow.com
+0.0.0.0 buy.tinypass.com
 0.0.0.0 buycom.122.2o7.net
 0.0.0.0 buyfinasteride.com
 0.0.0.0 buyfluoxetineonline.com
@@ -13880,6 +13888,7 @@
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teads.tv.edgekey.net
 0.0.0.0 cdn.teamskeetimages.com
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.total-media.net
 0.0.0.0 cdn.tracking.bannerflow.com
 0.0.0.0 cdn.tradelab.fr
@@ -15208,6 +15217,7 @@
 0.0.0.0 config.inmobi.cn
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.ioam.de
+0.0.0.0 config.mobilegamestats.com
 0.0.0.0 config.otherlevels.com
 0.0.0.0 config.parsely.com
 0.0.0.0 config.quantumgraph.com
@@ -15268,6 +15278,7 @@
 0.0.0.0 content-cdn.swrve.com
 0.0.0.0 content-prod3.glance-internal.inmobi.com
 0.0.0.0 content-ssl.yieldmanager.com
+0.0.0.0 content-thumbnail.cxpublic.com
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content.ad20.net
@@ -16512,6 +16523,7 @@
 0.0.0.0 dash.qsrch.com
 0.0.0.0 dashapi.chartbeat.com
 0.0.0.0 dashbida.com
+0.0.0.0 dashboard.tinypass.com
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
 0.0.0.0 dat.funheroic.com
@@ -16535,6 +16547,7 @@
 0.0.0.0 data.browseraccelerator.com
 0.0.0.0 data.captifymedia.com
 0.0.0.0 data.cmcore.com
+0.0.0.0 data.cnn.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.countboy.com
 0.0.0.0 data.cpalead.com
@@ -16689,6 +16702,7 @@
 0.0.0.0 dbtechno.us.intellitxt.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dc.ads.linkedin.com
+0.0.0.0 dc.banggood.com
 0.0.0.0 dc.kaboodle.com
 0.0.0.0 dc.letv.com
 0.0.0.0 dc.lsosad.com
@@ -18489,6 +18503,7 @@
 0.0.0.0 expedia8.112.2o7.net
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 experianservicescorp.122.2o7.net
+0.0.0.0 experience.tinypass.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 experteerads.com
 0.0.0.0 experts.us.intellitxt.com
@@ -19904,6 +19919,7 @@
 0.0.0.0 freezyngacardcodes.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
+0.0.0.0 freshworks.com
 0.0.0.0 friendslinks.com
 0.0.0.0 friendtest.us.intellitxt.com
 0.0.0.0 frightenedpotato.com
@@ -21751,6 +21767,7 @@
 0.0.0.0 haters.faboshine.com
 0.0.0.0 havamedia.net
 0.0.0.0 haveuheard.us.intellitxt.com
+0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hax4u.org
 0.0.0.0 haxsite.com
 0.0.0.0 hay-day-hack.com
@@ -22522,8 +22539,10 @@
 0.0.0.0 id.halo.ad.gt
 0.0.0.0 id.hellomagazine.com
 0.0.0.0 id.kbmg.cz
+0.0.0.0 id.sharedid.org
 0.0.0.0 id.sv.rkdms.com
 0.0.0.0 id.theroot.com
+0.0.0.0 id.tinypass.com
 0.0.0.0 id.washingtonpost.com
 0.0.0.0 id1.cn
 0.0.0.0 id1.cn.com
@@ -22741,6 +22760,7 @@
 0.0.0.0 images.pacificpoker.com
 0.0.0.0 images.rambler.ru
 0.0.0.0 images.revcontent.com
+0.0.0.0 images.scanalert.com
 0.0.0.0 images.secureserver.net
 0.0.0.0 images.sexlist.com
 0.0.0.0 images.skenzo.com
@@ -22757,6 +22777,7 @@
 0.0.0.0 images1.paycounter.com
 0.0.0.0 images1.taboola.com
 0.0.0.0 images2.advanstar.com
+0.0.0.0 images2.minutemediacdn.com
 0.0.0.0 images2.taboola.com
 0.0.0.0 images2.zemanta.com
 0.0.0.0 images3.taboola.com
@@ -23214,6 +23235,7 @@
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 invenio.sgn.com
 0.0.0.0 inventionpassenger.com
+0.0.0.0 inventory.vidazoo.com
 0.0.0.0 investing-channel-d.openx.net
 0.0.0.0 investingchannel.us.intellitxt.com
 0.0.0.0 investopedia.us.intellitxt.com
@@ -24714,6 +24736,7 @@
 0.0.0.0 luckybox.pro
 0.0.0.0 luckygamehack.in
 0.0.0.0 luckyhack.com
+0.0.0.0 luckyorange.com
 0.0.0.0 luckypotty.com
 0.0.0.0 luckytds.ru
 0.0.0.0 luckyxdrop.com
@@ -24955,6 +24978,7 @@
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketing.tllms.com
+0.0.0.0 marketing.tunity.com
 0.0.0.0 marketingassets.staples.com.edgekey.net
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketingsolutions.yahoo.com
@@ -25187,6 +25211,7 @@
 0.0.0.0 media.carpediem.fr
 0.0.0.0 media.cashcownetworks.com
 0.0.0.0 media.commissionking.com
+0.0.0.0 media.complex.com
 0.0.0.0 media.contextweb.com
 0.0.0.0 media.datahc.com
 0.0.0.0 media.easyads.bg
@@ -25918,6 +25943,7 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile-ent.biz
 0.0.0.0 mobile-global.baidu.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
@@ -26323,6 +26349,7 @@
 0.0.0.0 mujer-shopping.com
 0.0.0.0 mulher-shopping.com
 0.0.0.0 mulit-hack.com
+0.0.0.0 multi-cluster.directservices.it
 0.0.0.0 multiapp-down.com
 0.0.0.0 multigiftcards.com
 0.0.0.0 multioptik.com
@@ -27079,6 +27106,7 @@
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
 0.0.0.0 o239315.com
+0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o2adpl.hit.gemius.pl
 0.0.0.0 o333o.com
 0.0.0.0 o430870.ingest.sentry.io
@@ -27893,7 +27921,9 @@
 0.0.0.0 p.webengage.com
 0.0.0.0 p0.raasnet.com
 0.0.0.0 p0kec0ins.com
+0.0.0.0 p1.parsely.com
 0.0.0.0 p1.tcr21.tynt.com
+0.0.0.0 p102-clb.allstarcluster.com
 0.0.0.0 p128902.clksite.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p232207.clksite.com
@@ -28553,6 +28583,7 @@
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 pl.gmads.net
 0.0.0.0 pl.search.etargetnet.com
+0.0.0.0 pl.vidazoo.com
 0.0.0.0 pl.yumenetworks.com
 0.0.0.0 pl1.yumenetworks.com
 0.0.0.0 pl106067.puhtml.com
@@ -28892,6 +28923,7 @@
 0.0.0.0 prebid-server.rubiconproject.net.akadns.net
 0.0.0.0 prebid.ad.smaato.net
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 prebid.cootlogix.com
 0.0.0.0 prebid.deepintent.com
 0.0.0.0 prebid.digitru.st
 0.0.0.0 prebid.districtm.ca
@@ -29051,6 +29083,7 @@
 0.0.0.0 producer.getwisdom.io
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
+0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 production-public.tubi.io
 0.0.0.0 production.wootric.com
 0.0.0.0 production.wootric.com.herokudns.com
@@ -29347,6 +29380,7 @@
 0.0.0.0 pubgsilver.com
 0.0.0.0 pubgsmash.com
 0.0.0.0 pubgten.com
+0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
@@ -30532,6 +30566,7 @@
 0.0.0.0 s.atemda.com
 0.0.0.0 s.ato.mx
 0.0.0.0 s.baomoi.xdn.vn
+0.0.0.0 s.beop.io
 0.0.0.0 s.btstatic.com
 0.0.0.0 s.c.appier.net
 0.0.0.0 s.click.aliexpress.com
@@ -30823,6 +30858,7 @@
 0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sandbox.duapps.com
+0.0.0.0 sandbox.tinypass.com
 0.0.0.0 sandra.sexybabesx.com
 0.0.0.0 saniamirza.sexybabesx.com
 0.0.0.0 santacruzsentinelcom.112.2o7.net
@@ -31199,6 +31235,7 @@
 0.0.0.0 search.searchsquire.com
 0.0.0.0 search.sextracker.com
 0.0.0.0 search.spotxchange.com
+0.0.0.0 search.supplyframe.com
 0.0.0.0 search.thinktarget.com
 0.0.0.0 search.xrenoder.com
 0.0.0.0 search2007.info
@@ -32153,6 +32190,7 @@
 0.0.0.0 snagajob.122.2o7.net
 0.0.0.0 snaggy-screen.su
 0.0.0.0 snaggy.su
+0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 snapabug.appspot.com
 0.0.0.0 snapads.com
@@ -32543,6 +32581,7 @@
 0.0.0.0 sss828.welovecpa.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 sstats.adobe.com
+0.0.0.0 sstats.teenvogue.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com.edgekey.net
 0.0.0.0 ssum.casalemedia.com
@@ -32866,6 +32905,7 @@
 0.0.0.0 static.unister-adservices.com
 0.0.0.0 static.va1.vip.prod.criteo.net
 0.0.0.0 static.verticalscope.com
+0.0.0.0 static.vidazoo.com
 0.0.0.0 static.vilynx.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.woopra.com
@@ -32881,6 +32921,7 @@
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 staticd.cdn.industrybrains.com
+0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statistics.s5.com
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.bundestag.de
@@ -35046,6 +35087,7 @@
 0.0.0.0 trk.hot-mob.com
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.kissmetrics.com
+0.0.0.0 trk.klclick3.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.serving-technology003.com
@@ -36558,6 +36600,7 @@
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.am5.vip.prod.criteo.com
 0.0.0.0 widget.as.criteo.com
+0.0.0.0 widget.beop.io
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.crowdignite.com
 0.0.0.0 widget.da.us.criteo.com
@@ -36568,6 +36611,7 @@
 0.0.0.0 widget.hk.as.criteo.com
 0.0.0.0 widget.hk5.vip.prod.criteo.com
 0.0.0.0 widget.jp.as.criteo.com
+0.0.0.0 widget.manychat.com
 0.0.0.0 widget.nl.eu.criteo.com
 0.0.0.0 widget.par.vip.prod.criteo.com
 0.0.0.0 widget.perfectmarket.com
@@ -36832,6 +36876,7 @@
 0.0.0.0 wsback2b.prod.cloud.ogury.io
 0.0.0.0 wsc1.webspectator.com
 0.0.0.0 wsdk-files.webengage.com
+0.0.0.0 wserver.vidazoo.com
 0.0.0.0 wsod.com
 0.0.0.0 wsofreedownload.com
 0.0.0.0 wsp.adskeeper.co.uk
@@ -38897,6 +38942,7 @@
 0.0.0.0 xp2.zedo.com
 0.0.0.0 xpandhacks.net
 0.0.0.0 xpanelfb.com
+0.0.0.0 xpig-dev.directservices.it
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xploitz.net
 0.0.0.0 xplusone.com
