@@ -18091,7 +18091,6 @@
 0.0.0.0 enthro.com
 0.0.0.0 enthusiast-gaming-d.openx.net
 0.0.0.0 enthusiasticdad.com
-0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entravision-d.openx.net
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entree.igetget.com
