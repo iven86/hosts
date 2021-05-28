@@ -29874,6 +29874,7 @@
 0.0.0.0 recoco.it
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
+0.0.0.0 reconditerake.com
 0.0.0.0 record.affiliatelounge.com
 0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
@@ -36960,7 +36961,6 @@
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www-secure-runescape.co
 0.0.0.0 www-start-page.com
 0.0.0.0 www.05168.com.tw
