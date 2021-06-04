@@ -10489,6 +10489,7 @@
 0.0.0.0 axonix.com
 0.0.0.0 axp.zedo.com
 0.0.0.0 axsrv.com
+0.0.0.0 ay.delivery
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ayalapma.com
 0.0.0.0 ayb.dns-look-up.com
