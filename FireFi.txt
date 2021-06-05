@@ -7405,7 +7405,6 @@
 0.0.0.0 adsrv.iol.co.za
 0.0.0.0 adsrv.kobi.tv
 0.0.0.0 adsrv.moebelmarkt.tv
-0.0.0.0 adsrv.swidnica24.pl
 0.0.0.0 adsrv.tuscaloosanews.com
 0.0.0.0 adsrv2.brownpride.com
 0.0.0.0 adsrv2.ihlassondakika.com
@@ -7418,6 +7417,7 @@
 0.0.0.0 adsrvmedia.adk2x.com
 0.0.0.0 adsrvr.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adsrvus.com
 0.0.0.0 adss.comeadvertisewithus.com
 0.0.0.0 adss.hookupbucks.com
 0.0.0.0 adssl-dc2.adtech.de
@@ -24168,7 +24168,6 @@
 0.0.0.0 lecoinsdesavantages.fr
 0.0.0.0 ledicodi.com
 0.0.0.0 lee.blueconic.net
-0.0.0.0 leedsads.com
 0.0.0.0 leeenterprises.112.2o7.net
 0.0.0.0 leeleesobieski.sexybabesx.com
 0.0.0.0 leethax.net
@@ -27348,7 +27347,6 @@
 0.0.0.0 ocworkbench.us.intellitxt.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 odb.outbrain.com
-0.0.0.0 odbierz-bony.ovp.pl
 0.0.0.0 odc.starwave.com
 0.0.0.0 odc.weather.com
 0.0.0.0 oddbanner.bet-at-home.com
@@ -30444,7 +30442,6 @@
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtbproxy.mgid.com
-0.0.0.0 rtbsbengine.com
 0.0.0.0 rtbtradein.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 rtkio-d.openx.net
