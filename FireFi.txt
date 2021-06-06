@@ -23897,7 +23897,6 @@
 0.0.0.0 kissmetrics.com
 0.0.0.0 kixer.com
 0.0.0.0 klaustrade.com
-0.0.0.0 klaviyo.com
 0.0.0.0 klclick.com
 0.0.0.0 klclick1.com
 0.0.0.0 klik.klikadvertising.com
@@ -29599,6 +29598,7 @@
 0.0.0.0 quickdl.net
 0.0.0.0 quickfiled.com
 0.0.0.0 quickfilmz.com
+0.0.0.0 quickkoala.io
 0.0.0.0 quickpwn.us.intellitxt.com
 0.0.0.0 quickresource.eyereturn.com
 0.0.0.0 quicksandear.com
