@@ -35,6 +35,6 @@ Windows spy.
 
 ## Permissions:
 FireFi asks for the following Android permissions:
-Write on your storage: To download the last updated database
+Write on your storage: To download the last updated database.
 
 
