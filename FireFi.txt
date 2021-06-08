@@ -1167,7 +1167,6 @@
 0.0.0.0 641.searchmiracle.com
 0.0.0.0 654.stats.misstrends.com
 0.0.0.0 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
-0.0.0.0 65c6.playfabapi.com
 0.0.0.0 66.6.87.194.dynamic.dol.ru
 0.0.0.0 6674.eu-api.swrve.com
 0.0.0.0 6674.eu-content.swrve.com
@@ -1281,7 +1280,6 @@
 0.0.0.0 90plan.ovh.net
 0.0.0.0 911promotion.com
 0.0.0.0 922.hittail.com
-0.0.0.0 92ab.playfabapi.com
 0.0.0.0 9310.searchmiracle.com
 0.0.0.0 93367.hittail.com
 0.0.0.0 9345478333.cn
@@ -1337,10 +1335,10 @@
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <html><head>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -10565,14 +10563,12 @@
 0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 b2c.com
 0.0.0.0 b3.mookie1.com
-0.0.0.0 b343.playfabapi.com
 0.0.0.0 b3a70b.t.axf8.net
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
 0.0.0.0 b3d.com
 0.0.0.0 b4psads.com
 0.0.0.0 b5057c.r.axf8.net
 0.0.0.0 b5media.us.intellitxt.com
-0.0.0.0 b77ad.playfabapi.com
 0.0.0.0 b92adrs.hit.gemius.pl
 0.0.0.0 b92rs.adocean.pl
 0.0.0.0 ba.afl.rakuten.co.jp
@@ -13217,7 +13213,6 @@
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca1.bluestreak.com
 0.0.0.0 ca4-bid.adsrvr.org
-0.0.0.0 ca87.playfabapi.com
 0.0.0.0 caaarss.us
 0.0.0.0 cablick.com
 0.0.0.0 cache-06.pushwoosh.com
@@ -14782,10 +14777,8 @@
 0.0.0.0 cloud-video.unrulymedia.com
 0.0.0.0 cloud.appcelerator.com
 0.0.0.0 cloud.getpopunder.com
-0.0.0.0 cloud.gsdk.proximabeta.com
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.xdrig.com
-0.0.0.0 cloud2.gsdk.proximabeta.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudcoins.biz
 0.0.0.0 cloudmobi.net
@@ -21203,7 +21196,6 @@
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gscounters.us1.gigya.com
-0.0.0.0 gsdk.proximabeta.com
 0.0.0.0 gsf-cf.softonic.com
 0.0.0.0 gsim.webservicehosts.com
 0.0.0.0 gslbeacon.lijit.com
@@ -32383,7 +32375,6 @@
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificmedia.com
 0.0.0.0 specificpop.com
-0.0.0.0 speed.na.gsdk.proximabeta.com
 0.0.0.0 speed.pointroll.com
 0.0.0.0 speedbar.myway.com
 0.0.0.0 speedclicks.ero-advertising.com
