@@ -1336,9 +1336,9 @@
 0.0.0.0 <html>
 0.0.0.0 <html><head>
 0.0.0.0 <p>Details:
-0.0.0.0 <p>Request
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -20759,7 +20759,6 @@
 0.0.0.0 glb.adtechus.com
 0.0.0.0 glbgcl.logsss.com
 0.0.0.0 glean.pop6.com
-0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glispa.com
 0.0.0.0 glitchez.com
 0.0.0.0 glitter.services.disqus.com
@@ -28631,6 +28630,7 @@
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.ssacdn.com
+0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play-beta.com
 0.0.0.0 play-voice.com
 0.0.0.0 play.aniview.com
