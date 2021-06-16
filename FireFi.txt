@@ -22340,7 +22340,6 @@
 0.0.0.0 i.idio.co
 0.0.0.0 i.imedia.cz
 0.0.0.0 i.ipromote.com
-0.0.0.0 i.isnssdk.com
 0.0.0.0 i.isohunt.to
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.l.cnn.net
@@ -24460,7 +24459,6 @@
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.appchina.com
 0.0.0.0 log.btopenworld.com
-0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.feedjit.com
 0.0.0.0 log.fotoable.com
@@ -25948,7 +25946,6 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile-ent.biz
 0.0.0.0 mobile-global.baidu.com
-0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
@@ -29385,7 +29382,6 @@
 0.0.0.0 pubgsilver.com
 0.0.0.0 pubgsmash.com
 0.0.0.0 pubgten.com
-0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
