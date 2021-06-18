@@ -13773,7 +13773,6 @@
 0.0.0.0 cdn.investingchannel.com
 0.0.0.0 cdn.ip.inpwrd.com
 0.0.0.0 cdn.iqcontentplatform.de
-0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.jampp.com
 0.0.0.0 cdn.jivox.com
@@ -17965,6 +17964,7 @@
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 em.gad-network.com
 0.0.0.0 em.pc-on-internet.com
+0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-hack.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
