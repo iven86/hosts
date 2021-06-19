@@ -1336,9 +1336,9 @@
 0.0.0.0 <html>
 0.0.0.0 <html><head>
 0.0.0.0 <p>Details:
+0.0.0.0 <p>Request
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -5305,7 +5305,6 @@
 0.0.0.0 ads.lanistaads.com
 0.0.0.0 ads.lapalingo.com
 0.0.0.0 ads.laptop.bg
-0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.layer-ad.org
 0.0.0.0 ads.lehighvalleylive.com
 0.0.0.0 ads.leovegas.com
@@ -18024,6 +18023,7 @@
 0.0.0.0 engage.commander1.com
 0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.marketo.com
+0.0.0.0 engage.webshrinker.com
 0.0.0.0 engage10632snprh.deltadna.net
 0.0.0.0 engage10665dd4kq.deltadna.net
 0.0.0.0 engage10791rllrc.deltadna.net
@@ -18778,7 +18778,6 @@
 0.0.0.0 fastdone.info
 0.0.0.0 fastfilesload.com
 0.0.0.0 fastfilez.net
-0.0.0.0 fastgetsoftware.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastleakedmedia.com
@@ -23799,7 +23798,6 @@
 0.0.0.0 kargo.com
 0.0.0.0 kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0 kargovideojstag.s.moatpixel.com
-0.0.0.0 karonty.com
 0.0.0.0 kaspersky.122.2o7.net
 0.0.0.0 kasperthreatpostprod.112.2o7.net
 0.0.0.0 kasterborous.us.intellitxt.com
@@ -27336,6 +27334,7 @@
 0.0.0.0 ocworkbench.us.intellitxt.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 odbierz-bony.ovp.pl
 0.0.0.0 odc.starwave.com
 0.0.0.0 odc.weather.com
 0.0.0.0 oddbanner.bet-at-home.com
@@ -32208,7 +32207,6 @@
 0.0.0.0 snapgiant.com
 0.0.0.0 snaphack.net
 0.0.0.0 snapmobile.asia
-0.0.0.0 snappytvpoc-vh.akamaihd.net
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 sneakystamp.com
 0.0.0.0 sniff.visistat.com
