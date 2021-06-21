@@ -8989,7 +8989,6 @@
 0.0.0.0 analytics.androidandme.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
-0.0.0.0 analytics.api.appdynamics.com
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 analytics.atdmt.com
@@ -9504,8 +9503,6 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.anagog.com
 0.0.0.0 api.android-root-tool.com
-0.0.0.0 api.appcelerator.com
-0.0.0.0 api.appdynamics.com
 0.0.0.0 api.applink.mob.com
 0.0.0.0 api.applovin.com
 0.0.0.0 api.appodeal.com
@@ -9541,7 +9538,6 @@
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.cleverpush.com
-0.0.0.0 api.cloud.appcelerator.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.company-target.com
 0.0.0.0 api.config.sentinel.mob.com
@@ -10018,7 +10014,6 @@
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.advertlets.com
 0.0.0.0 apps.applift.com
-0.0.0.0 apps.appmachine.com
 0.0.0.0 apps.clickcash.com
 0.0.0.0 apps.crowdtangle.com
 0.0.0.0 apps.mobilityware.com
@@ -14775,7 +14770,6 @@
 0.0.0.0 cloud-photo.net
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud-video.unrulymedia.com
-0.0.0.0 cloud.appcelerator.com
 0.0.0.0 cloud.getpopunder.com
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.xdrig.com
@@ -19434,6 +19428,7 @@
 0.0.0.0 france.id131337608-5036396713.w595505.com
 0.0.0.0 franklybundlecarver.com
 0.0.0.0 frankychamp.com
+0.0.0.0 fraud.adjoe.zone
 0.0.0.0 freakads.com
 0.0.0.0 freasoft.com
 0.0.0.0 frecheats.com
@@ -23007,7 +23002,6 @@
 0.0.0.0 in.advertising.yahoo.com
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
-0.0.0.0 in.appcenter.ms
 0.0.0.0 in.bubblestat.com
 0.0.0.0 in.cuebiq.com
 0.0.0.0 in.cybererotica.com
@@ -29069,10 +29063,12 @@
 0.0.0.0 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 0.0.0.0 prod-review.info
 0.0.0.0 prod-services.interactiveone.com
+0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.adtechjp.com
 0.0.0.0 prod.cloud.ogury.io
 0.0.0.0 prod.criteo.com
 0.0.0.0 prod.criteo.net
+0.0.0.0 prod.fraud.adjoe.zone
 0.0.0.0 prod.justpremium.com
 0.0.0.0 prod.leanplum.com
 0.0.0.0 prod.linkitox.com
@@ -30818,7 +30814,6 @@
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 sa1.ipon.lt
 0.0.0.0 sa2.ipon.lt
-0.0.0.0 saas.appdynamics.com
 0.0.0.0 saas.seewhy.com
 0.0.0.0 sabafon.info
 0.0.0.0 sabio.us
@@ -35841,7 +35836,6 @@
 0.0.0.0 vapixel.adsafeprotected.com
 0.0.0.0 varefication.us
 0.0.0.0 variablefitness.com
-0.0.0.0 variantswatches.apphb.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 varsityads.directtrack.com
 0.0.0.0 vast-events-staging.inner-active.mobi
