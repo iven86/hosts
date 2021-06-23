@@ -14363,6 +14363,7 @@
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.advertnative.com
+0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.bounceads.net
 0.0.0.0 click.cartsguru.io
@@ -20113,6 +20114,7 @@
 0.0.0.0 gatotkaca.pw
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
+0.0.0.0 gaug.es
 0.0.0.0 gay.rated100.com
 0.0.0.0 gayadnetwork.com
 0.0.0.0 gayporn.erotic-place.org
