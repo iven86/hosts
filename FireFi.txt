@@ -1316,9 +1316,9 @@
 0.0.0.0 <html>
 0.0.0.0 <html><head>
 0.0.0.0 <p>Details:
+0.0.0.0 <p>Request
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -1380,6 +1380,7 @@
 0.0.0.0 a.doginhispen.com
 0.0.0.0 a.doktordice.com
 0.0.0.0 a.dpmsrv.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.faireagle.com
 0.0.0.0 a.farlex.com
 0.0.0.0 a.fiksu.com
@@ -17246,6 +17247,7 @@
 0.0.0.0 dreamlands.de
 0.0.0.0 dreamlands.net
 0.0.0.0 dreamvip.com
+0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 drive.videoclick.ru
 0.0.0.0 drivecleaner.com
 0.0.0.0 driverguide.us.intellitxt.com
@@ -21062,6 +21064,7 @@
 0.0.0.0 h-d3tracking.rbc.online-metrix.net
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 h-fidelity.online-metrix.net
+0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h-signifyd.online-metrix.net
 0.0.0.0 h-tdcanada.online-metrix.net
 0.0.0.0 h.atdmt.com
@@ -21556,6 +21559,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hearst.blueconic.net
+0.0.0.0 hearst.gscontxt.net
 0.0.0.0 hearstdigital.122.2o7.net
 0.0.0.0 hearstmagazines.112.2o7.net
 0.0.0.0 hearstugo.112.2o7.net
@@ -33159,6 +33163,7 @@
 0.0.0.0 t.goadservices.com
 0.0.0.0 t.grtyb.com
 0.0.0.0 t.iaudienc.com
+0.0.0.0 t.indeed.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.invitemedia.com
 0.0.0.0 t.irtyd.com
@@ -37326,6 +37331,7 @@
 0.0.0.0 www.letssearch.com
 0.0.0.0 www.libereco.net
 0.0.0.0 www.lifeforminc.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.lijit.com
 0.0.0.0 www.link2blogs.com
 0.0.0.0 www.linkads.de
