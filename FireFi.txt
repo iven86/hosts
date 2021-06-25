@@ -1315,8 +1315,8 @@
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <html><head>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
-0.0.0.0 <p>Request
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
 0.0.0.0 <title>301
@@ -9144,6 +9144,7 @@
 0.0.0.0 androidplayhack.com
 0.0.0.0 androidsbestgames.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 androidwifihack.net
 0.0.0.0 andromeda.iad-01.braze.com
 0.0.0.0 andromeda.iad.appboy.com
