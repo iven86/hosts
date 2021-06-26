@@ -4941,7 +4941,6 @@
 0.0.0.0 ads.doctors.co.il
 0.0.0.0 ads.dofunapps.com
 0.0.0.0 ads.doit.com.cn
-0.0.0.0 ads.domain.com
 0.0.0.0 ads.domainbg.com
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.dotomi.com
@@ -7108,6 +7107,7 @@
 0.0.0.0 adserver.fuckaroo.org
 0.0.0.0 adserver.gadu-gadu.pl
 0.0.0.0 adserver.gameparty.net
+0.0.0.0 adserver.generationiron.com
 0.0.0.0 adserver.gorillanation.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -10624,6 +10624,7 @@
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
+0.0.0.0 banner.interich.com
 0.0.0.0 banner.intermega.com.br
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.jobsahead.com
@@ -14868,7 +14869,6 @@
 0.0.0.0 coed-d.openx.net
 0.0.0.0 coedmagazine.us.intellitxt.com
 0.0.0.0 cognitiv.ai
-0.0.0.0 cognitiveadscience.com
 0.0.0.0 cogrem.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
@@ -21519,7 +21519,6 @@
 0.0.0.0 haydayhackers.com
 0.0.0.0 haydayhacks.org
 0.0.0.0 haymarketbusinesspublications.122.2o7.net
-0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0 hb.ad.cpe.dotomi.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.afl.rakuten.co.jp
@@ -24613,7 +24612,6 @@
 0.0.0.0 makeios.com
 0.0.0.0 makemeheal.us.intellitxt.com
 0.0.0.0 makeushot.us.intellitxt.com
-0.0.0.0 malaysia-online-bank-kasino.com
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 malware-scan.com
 0.0.0.0 malwareremovalbot.repairandsecure.com
@@ -26138,7 +26136,6 @@
 0.0.0.0 mylolriotpoints.com
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymobileappz.com
-0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mymoviestube.com
 0.0.0.0 myon.biz
 0.0.0.0 mypagerank.net
@@ -34201,7 +34198,6 @@
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.moreniche.com
 0.0.0.0 track.netshelter.net
-0.0.0.0 track.nuxues.com
 0.0.0.0 track.oainternetservices.com
 0.0.0.0 track.omgpl.com
 0.0.0.0 track.omguk.com
