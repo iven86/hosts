@@ -1316,9 +1316,9 @@
 0.0.0.0 <html>
 0.0.0.0 <html><head>
 0.0.0.0 <p>Details:
-0.0.0.0 <p>Request
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -13551,7 +13551,6 @@
 0.0.0.0 cdn.clickfuse.com
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 cdn.clinch.co
-0.0.0.0 cdn.cloud.altbalaji.com
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.complexmedianetwork.com
@@ -17785,6 +17784,7 @@
 0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.marketo.com
 0.0.0.0 engage.webshrinker.com
+0.0.0.0 engage.windows.com
 0.0.0.0 engage10665dd4kq.deltadna.net
 0.0.0.0 engage10791rllrc.deltadna.net
 0.0.0.0 engage10854wrdcr.deltadna.net
@@ -31241,6 +31241,7 @@
 0.0.0.0 sh.creativcdn.net
 0.0.0.0 shadowfiend.info
 0.0.0.0 shadyscamband.pw
+0.0.0.0 shakegoldfish.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakira.sexybabesx.com
