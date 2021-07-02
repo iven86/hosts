@@ -5455,6 +5455,7 @@
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.patch.com
 0.0.0.0 ads.paxnet.co.kr
+0.0.0.0 ads.paymonex.net
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.pe.com
 0.0.0.0 ads.pebblemedia.adhese.com
