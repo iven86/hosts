@@ -18913,7 +18913,6 @@
 0.0.0.0 findadvertise.engine.adglare.net
 0.0.0.0 findcheat.com
 0.0.0.0 findcommerce.com
-0.0.0.0 findepended.com
 0.0.0.0 findfavour.com
 0.0.0.0 findfreefbcredits.com
 0.0.0.0 findgmailpasswords.com
@@ -27260,7 +27259,6 @@
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx-server.thinknearhub.com
 0.0.0.0 openx.4shared.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.adhaven.com
 0.0.0.0 openx.ajur.info
 0.0.0.0 openx.angelsgroup.org.uk
@@ -30330,7 +30328,6 @@
 0.0.0.0 s23.cnzz.com
 0.0.0.0 s24.cnzz.com
 0.0.0.0 s248.meetrics.net
-0.0.0.0 s24hc8xzag.com
 0.0.0.0 s26.cnzz.com
 0.0.0.0 s26.topstat.com
 0.0.0.0 s28.cnzz.com
@@ -35425,7 +35422,6 @@
 0.0.0.0 venturead.com
 0.0.0.0 venuswilliams.sexybabesx.com
 0.0.0.0 verallohacks.com
-0.0.0.0 verblife-3.co
 0.0.0.0 verblife-4.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
@@ -35665,7 +35661,6 @@
 0.0.0.0 vlog.leadformix.com
 0.0.0.0 vm3.parabol.object.bg
 0.0.0.0 vm5apis.com
-0.0.0.0 vmmpxl.com
 0.0.0.0 vmn.net
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
