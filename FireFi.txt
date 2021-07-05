@@ -16226,7 +16226,6 @@
 0.0.0.0 d-track.send.microad.jp
 0.0.0.0 d-track.send.microadinc.com
 0.0.0.0 d.254a.com
-0.0.0.0 d.aa.online-metrix.net
 0.0.0.0 d.abnad.net
 0.0.0.0 d.adgear.com
 0.0.0.0 d.adroll.com
@@ -17411,7 +17410,6 @@
 0.0.0.0 e-telecharger.com
 0.0.0.0 e-vcdn.anthill.vn
 0.0.0.0 e-worldhacks.com
-0.0.0.0 e.aa.online-metrix.net
 0.0.0.0 e.abnad.net
 0.0.0.0 e.adhaven.com
 0.0.0.0 e.apsalar.com
@@ -18006,7 +18004,6 @@
 0.0.0.0 ets-eu-west-1.track.smaato.net
 0.0.0.0 ets-us-east-1.track.smaato.net
 0.0.0.0 etsy.bttn.io
-0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-analytics.sam4m.com
 0.0.0.0 eu-api.swrve.com
@@ -21062,12 +21059,6 @@
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 gxprocord.com
 0.0.0.0 h-bid.com
-0.0.0.0 h-d3tracking.rbc.online-metrix.net
-0.0.0.0 h-ebay.online-metrix.net
-0.0.0.0 h-fidelity.online-metrix.net
-0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 h-signifyd.online-metrix.net
-0.0.0.0 h-tdcanada.online-metrix.net
 0.0.0.0 h.atdmt.com
 0.0.0.0 h.mobcells.com
 0.0.0.0 h.nexac.com
@@ -21087,7 +21078,6 @@
 0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 h30-deploy.hiconversion.com
 0.0.0.0 h5.isnssdk.com
-0.0.0.0 h6.online-metrix.net
 0.0.0.0 h78xb.pw
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 ha.pushwoosh.com
@@ -29383,7 +29373,6 @@
 0.0.0.0 rb.revolvermaps.com
 0.0.0.0 rb1.design.ru
 0.0.0.0 rbc.medialand.ru
-0.0.0.0 rbc.online-metrix.net
 0.0.0.0 rbcgaru.hit.gemius.pl
 0.0.0.0 rbk.netmng.com
 0.0.0.0 rbmods.se.intellitxt.com
@@ -32933,7 +32922,6 @@
 0.0.0.0 super-cheats.com
 0.0.0.0 super-download.com
 0.0.0.0 superad2.com.sg
-0.0.0.0 superapp.msn.com
 0.0.0.0 superbhacks.com
 0.0.0.0 superbingopalace.com
 0.0.0.0 superbowl2014.streams24.tv
