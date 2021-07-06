@@ -5161,6 +5161,7 @@
 0.0.0.0 ads.host.camz.com
 0.0.0.0 ads.hpg.com.br
 0.0.0.0 ads.hpg.ig.com.br
+0.0.0.0 ads.hsoub.com
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.hurra.de
 0.0.0.0 ads.i-am-bored.com
@@ -6349,6 +6350,7 @@
 0.0.0.0 ads2.helpos.com
 0.0.0.0 ads2.hpg.com.br
 0.0.0.0 ads2.hpg.ig.com.br
+0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.i-kool.com
 0.0.0.0 ads2.iwon.com
 0.0.0.0 ads2.jubii.dk
@@ -7109,6 +7111,7 @@
 0.0.0.0 adserver.gadu-gadu.pl
 0.0.0.0 adserver.gameparty.net
 0.0.0.0 adserver.generationiron.com
+0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.gorillanation.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -7187,6 +7190,7 @@
 0.0.0.0 adserver.sextracker.com
 0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 adserver.sharewareonline.com
+0.0.0.0 adserver.smgfiles.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adserver.snowball.com
 0.0.0.0 adserver.softonic.com
@@ -7201,6 +7205,7 @@
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.trafficsyndicate.com
 0.0.0.0 adserver.trojaner-info.de
+0.0.0.0 adserver.tupolska.com
 0.0.0.0 adserver.tvcatchup.com
 0.0.0.0 adserver.tweakers.net
 0.0.0.0 adserver.twitpic.com
