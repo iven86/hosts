@@ -8969,6 +8969,7 @@
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.ff.avast.com
