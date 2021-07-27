@@ -1315,10 +1315,10 @@
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <html><head>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -8561,7 +8561,6 @@
 0.0.0.0 aldenvids.com
 0.0.0.0 alehop.com
 0.0.0.0 alenty.com
-0.0.0.0 alert.com.mt
 0.0.0.0 alert.freepush.com
 0.0.0.0 alertafterthought.com
 0.0.0.0 alerts.internetwasher.com
