@@ -23692,8 +23692,6 @@
 0.0.0.0 labs.revcontent.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 lacerta.iad.appboy.com
-0.0.0.0 ladsreds.com
-0.0.0.0 ladsup.com
 0.0.0.0 laineygossip.us.intellitxt.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lakeshore.d1.sc.omtrdc.net
@@ -27602,7 +27600,6 @@
 0.0.0.0 padsbrown.com
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
-0.0.0.0 padssup.com
 0.0.0.0 page-not-found.net
 0.0.0.0 page-x.com
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -34231,7 +34228,6 @@
 0.0.0.0 track.uc.cn
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.ultravpn.com
-0.0.0.0 track.undressingpics.work
 0.0.0.0 track.unear.net
 0.0.0.0 track.untd.com
 0.0.0.0 track.vcdc.com
@@ -34362,7 +34358,6 @@
 0.0.0.0 tracking.justpremium.com
 0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.leadlander.com
-0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.listhub.net
