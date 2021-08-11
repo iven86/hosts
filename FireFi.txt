@@ -4486,6 +4486,7 @@
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
 0.0.0.0 adpushup-d.openx.net
+0.0.0.0 adpushup.com
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
 0.0.0.0 adq.nextag.com
