@@ -14710,7 +14710,6 @@
 0.0.0.0 cmp.faktor.mgr.consensu.org
 0.0.0.0 cmp.geodns.tubemogul.com
 0.0.0.0 cmp.optad360.io
-0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cmp.uniconsent.mgr.consensu.org
@@ -15100,7 +15099,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 consent-manager-events.ogury.io
-0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
@@ -32366,7 +32364,6 @@
 0.0.0.0 static.nectarads.com
 0.0.0.0 static.onecms.io
 0.0.0.0 static.openads.motorrad-net.at
-0.0.0.0 static.ordergroove.com
 0.0.0.0 static.par.vip.prod.criteo.net
 0.0.0.0 static.parkingpanel.com
 0.0.0.0 static.parsely.com
