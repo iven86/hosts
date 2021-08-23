@@ -9599,6 +9599,7 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rqmob.com
+0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.sailthru.com
@@ -30400,6 +30401,7 @@
 0.0.0.0 sandbox.tinypass.com
 0.0.0.0 sandra.sexybabesx.com
 0.0.0.0 saniamirza.sexybabesx.com
+0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 santacruzsentinelcom.112.2o7.net
 0.0.0.0 saol.co
 0.0.0.0 sapato01.webtrekk.net
