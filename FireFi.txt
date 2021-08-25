@@ -1317,10 +1317,10 @@
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <html><head>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -9588,7 +9588,6 @@
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.proofpositivemedia.com
 0.0.0.0 api.pubnative.net
-0.0.0.0 api.punchh.com
 0.0.0.0 api.push.world
 0.0.0.0 api.pushspring.com
 0.0.0.0 api.pushwoosh.com
@@ -9674,7 +9673,6 @@
 0.0.0.0 apicit.net
 0.0.0.0 apicosdk.onemt.co
 0.0.0.0 apicssdk.onemt.co
-0.0.0.0 apidq.punchh.com
 0.0.0.0 apie-soft.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 apis.adbro.me
@@ -16891,7 +16889,6 @@
 0.0.0.0 dl.getprivate.net
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.keywordstrategy.org
-0.0.0.0 dl.punchh.com
 0.0.0.0 dl.sj.ijinshan.com
 0.0.0.0 dl1.ezthemes.com
 0.0.0.0 dl3dsemulator.com
@@ -23041,7 +23038,6 @@
 0.0.0.0 is2.websearch.com
 0.0.0.0 isearchtech.com
 0.0.0.0 isgame.ds.duapps.com
-0.0.0.0 isl.punchh.com
 0.0.0.0 islandofhacks.com
 0.0.0.0 ism2trk.com
 0.0.0.0 isopcgames.com
@@ -25602,7 +25598,6 @@
 0.0.0.0 mobileadvertisinghub.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.useinsider.com
-0.0.0.0 mobileandroidapi.punchh.com
 0.0.0.0 mobileapi.motus.com
 0.0.0.0 mobileapi.usebutton.com
 0.0.0.0 mobileapptracking.com
@@ -25617,7 +25612,6 @@
 0.0.0.0 mobilegamehackers.com
 0.0.0.0 mobilehacks.net
 0.0.0.0 mobilehacks4u.com
-0.0.0.0 mobileiosapi.punchh.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilemessenger.com
 0.0.0.0 mobileposse-d.openx.net
@@ -30178,7 +30172,6 @@
 0.0.0.0 s.xvideos.com
 0.0.0.0 s.yieldmo.com
 0.0.0.0 s.youmi.net
-0.0.0.0 s.youtube.com
 0.0.0.0 s.zkcdn.net
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s0.2mdn.net
