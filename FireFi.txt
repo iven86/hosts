@@ -1317,10 +1317,10 @@
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <html><head>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>The
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>301
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
@@ -11091,12 +11091,8 @@
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
 0.0.0.0 beacons.extremereach.io
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beacontest.cardlytics.com
