@@ -10800,7 +10800,6 @@
 0.0.0.0 banners.gayfriendfinder.com
 0.0.0.0 banners.germanfriendfinder.com
 0.0.0.0 banners.getiton.com
-0.0.0.0 banners.golfasian.com
 0.0.0.0 banners.hornywife.com
 0.0.0.0 banners.host.bannerflow.com
 0.0.0.0 banners.hotlinks.net
@@ -24311,7 +24310,6 @@
 0.0.0.0 look.ichlnk.com
 0.0.0.0 look.opskln.com
 0.0.0.0 look.udncoeln.com
-0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
 0.0.0.0 loomarnia.com
@@ -28745,7 +28743,6 @@
 0.0.0.0 proper.io
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 proprofs-d.openx.net
-0.0.0.0 props.id
 0.0.0.0 propsncodegenerator.com
 0.0.0.0 proranktracker.com
 0.0.0.0 prosearchs.in
@@ -38721,6 +38718,7 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zuneplay.com
 0.0.0.0 zwaar.org
+0.0.0.0 zy16eoat1w.com
 0.0.0.0 zynga-d.openx.net
 0.0.0.0 zynga-poker-hack.net
 0.0.0.0 zynga-poker-hacks.com
