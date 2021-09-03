@@ -12700,6 +12700,7 @@
 0.0.0.0 broadcaster.streamate.com
 0.0.0.0 broaddoor.com
 0.0.0.0 broadspring.com
+0.0.0.0 broadstreetads.com
 0.0.0.0 brokdrop.com
 0.0.0.0 broken-tv.com
 0.0.0.0 brokeneagledlc.goblogz.net
@@ -20508,7 +20509,6 @@
 0.0.0.0 gntbcstwzzm.112.2o7.net
 0.0.0.0 go-clicks.de
 0.0.0.0 go-mpulse.net
-0.0.0.0 go-mpulse.net.edgekey.net
 0.0.0.0 go-rank.de
 0.0.0.0 go.accmgr.com
 0.0.0.0 go.aceadsys.net
@@ -22765,7 +22765,6 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 insightexpressai.com.edgekey.net
 0.0.0.0 insightexpresserdd.com
-0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.bizrate.com
 0.0.0.0 insights.dice.com
 0.0.0.0 insights.samsung.com
@@ -22926,7 +22925,6 @@
 0.0.0.0 ip1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 ip193.cn
 0.0.0.0 ip2.ads.stickyadstv.com.akadns.net
-0.0.0.0 ip46s2.go-mpulse.net.edgekey.net
 0.0.0.0 ipad--reviews.com
 0.0.0.0 ipcmarieclaireprod.122.2o7.net
 0.0.0.0 ipcmedia.122.2o7.net
@@ -26344,8 +26342,6 @@
 0.0.0.0 newpsncodegenerator.com
 0.0.0.0 newpsncodegenerator.org
 0.0.0.0 newre-conversions.clickmeter.com
-0.0.0.0 newrelic.com
-0.0.0.0 newrelic.map.fastly.net
 0.0.0.0 news-report24.com
 0.0.0.0 news-today.pw
 0.0.0.0 news.de.intellitxt.com
@@ -30062,7 +30058,6 @@
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 s.estat.com
 0.0.0.0 s.fqtag.com
-0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
 0.0.0.0 s.innovid.com
@@ -30187,7 +30182,6 @@
 0.0.0.0 s18.cnzz.com
 0.0.0.0 s19.cnzz.com
 0.0.0.0 s2.adform.net
-0.0.0.0 s2.go-mpulse.net
 0.0.0.0 s2.hit.stat.pl
 0.0.0.0 s2.hit.stat24.com
 0.0.0.0 s2.mdpcdn.com
@@ -33739,7 +33733,6 @@
 0.0.0.0 tls.ds.duapps.com
 0.0.0.0 tls.dxsvr.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
-0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tm.br.de
@@ -36034,7 +36027,6 @@
 0.0.0.0 wildcard.outbrainimg.com.edgekey.net
 0.0.0.0 wildcard.owneriq.net.edgekey.net
 0.0.0.0 wildcard46.akstat.io.edgekey.net
-0.0.0.0 wildcard46.go-mpulse.net.edgekey.net
 0.0.0.0 wildmistress.com
 0.0.0.0 wileypublishing.112.2o7.net
 0.0.0.0 willhab.oewabox.at
