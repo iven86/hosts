@@ -218,7 +218,6 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -8668,6 +8667,7 @@
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
+0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alpacabreeders.net
 0.0.0.0 alpencors.net
@@ -14592,6 +14592,7 @@
 0.0.0.0 clock.atticasports.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 clomgiriwil.com
+0.0.0.0 closedcows.com
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloud-photo.net
@@ -21725,7 +21726,6 @@
 0.0.0.0 holder.com.ua
 0.0.0.0 holidayvoucher.us
 0.0.0.0 hollandbusinessadvertising.nl
-0.0.0.0 hollps.win
 0.0.0.0 hollyrude.us.intellitxt.com
 0.0.0.0 hollywood.122.2o7.net
 0.0.0.0 hollywood.us.intellitxt.com
@@ -26130,6 +26130,7 @@
 0.0.0.0 naomicampbell.sexybabesx.com
 0.0.0.0 naomiwatts.sexybabesx.com
 0.0.0.0 napi.lanistaads.com
+0.0.0.0 nappyattack.com
 0.0.0.0 naradxb.com
 0.0.0.0 narwhal.mobidia.com
 0.0.0.0 nascardigitalsap.d2.sc.omtrdc.net
@@ -27558,6 +27559,7 @@
 0.0.0.0 param.lionmobi.com
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 parchedangle.com
+0.0.0.0 parchedsofa.com
 0.0.0.0 parishilton.sexybabesx.com
 0.0.0.0 park.above.com
 0.0.0.0 park.ireit.com
@@ -28693,6 +28695,7 @@
 0.0.0.0 proper.io
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 proprofs-d.openx.net
+0.0.0.0 props.id
 0.0.0.0 propsncodegenerator.com
 0.0.0.0 proranktracker.com
 0.0.0.0 prosearchs.in
@@ -31862,6 +31865,7 @@
 0.0.0.0 sponsorpay.com
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
+0.0.0.0 spookysleet.com
 0.0.0.0 sport1.wemfbox.ch
 0.0.0.0 sport5.checkm8.com
 0.0.0.0 sport5digital.checkm8.com
@@ -32731,6 +32735,7 @@
 0.0.0.0 studybreakmedia-d.openx.net
 0.0.0.0 stuff.cdn.biddingx.com
 0.0.0.0 stupendoussleet.com
+0.0.0.0 stupendoussnow.com
 0.0.0.0 stupidcelebrities.us.intellitxt.com
 0.0.0.0 stv24x7.com
 0.0.0.0 stx-assets.sharethrough.com
@@ -33696,6 +33701,7 @@
 0.0.0.0 tintubright.com
 0.0.0.0 tinybar.com
 0.0.0.0 tinyfileshost.com
+0.0.0.0 tinytendency.com
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 tiresomethunder.com
 0.0.0.0 tirolcom.oewabox.at
