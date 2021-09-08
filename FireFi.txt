@@ -4414,6 +4414,7 @@
 0.0.0.0 adopkorea-d.openx.net
 0.0.0.0 adopt.precisead.com
 0.0.0.0 adoptimal.com
+0.0.0.0 adoptum.net
 0.0.0.0 adoric-om.com
 0.0.0.0 adorigin.com
 0.0.0.0 adoringyou.com
@@ -10228,7 +10229,6 @@
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 audio.de.intellitxt.com
-0.0.0.0 audioboom.com
 0.0.0.0 audioload.net
 0.0.0.0 audionewz.net
 0.0.0.0 audit-tcfv2.quantcast.mgr.consensu.org
@@ -14737,6 +14737,10 @@
 0.0.0.0 cny.yoyo.org
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 co-gmtdmp.mookie1.com
+0.0.0.0 co.akisinn.info
+0.0.0.0 co.dewrain.life
+0.0.0.0 co.vaicore.site
+0.0.0.0 co.vaicore.xyz
 0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 coc.extafiles.com
 0.0.0.0 coc.validcheats.com
@@ -17793,6 +17797,7 @@
 0.0.0.0 enthusiast-gaming-d.openx.net
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 entitlements.kochava.com
 0.0.0.0 entravision-d.openx.net
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entree.igetget.com
@@ -22156,6 +22161,7 @@
 0.0.0.0 icloudlog.com
 0.0.0.0 icloudmap.org
 0.0.0.0 icloudunlock.xyz
+0.0.0.0 icm.kochava.com
 0.0.0.0 ico.freelogs.com
 0.0.0.0 icodecrypt.com
 0.0.0.0 icompass.insightexpressai.com
@@ -22795,7 +22801,13 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 instrumentsponge.com
 0.0.0.0 insurancejournal.freestats.com
+0.0.0.0 int.akisinn.info
+0.0.0.0 int.akisinn.site
+0.0.0.0 int.dewrain.life
+0.0.0.0 int.dewrain.site
 0.0.0.0 int.sitestat.com
+0.0.0.0 int.vaicore.site
+0.0.0.0 int.vaicore.xyz
 0.0.0.0 intactro.adocean.pl
 0.0.0.0 intbrands.t.domdex.com
 0.0.0.0 integration-assets.sharethrough.com
@@ -30880,7 +30892,6 @@
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sento.122.2o7.net
-0.0.0.0 sentry.io
 0.0.0.0 sentshared.com
 0.0.0.0 seo4india.com
 0.0.0.0 seomatrix.webtrackingservices.com
@@ -31550,6 +31561,7 @@
 0.0.0.0 smart-traffik.com
 0.0.0.0 smart-traffik.io
 0.0.0.0 smart.hola.com
+0.0.0.0 smart.link
 0.0.0.0 smart.mobvista.com
 0.0.0.0 smart.styria-digital.com
 0.0.0.0 smart.synergy-e.com
@@ -33763,6 +33775,7 @@
 0.0.0.0 todayshow.us.intellitxt.com
 0.0.0.0 toecircle.com
 0.0.0.0 tohacks.com
+0.0.0.0 token.api.kochava.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 toms.us.intellitxt.com
 0.0.0.0 tomscheats.com
@@ -35168,6 +35181,7 @@
 0.0.0.0 vads.net.vn
 0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vafw.adsafeprotected.com
+0.0.0.0 vaicore.xyz
 0.0.0.0 vaime.net.popunder.ru
 0.0.0.0 vaingloryhack.net
 0.0.0.0 val17.com
