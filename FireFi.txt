@@ -18152,7 +18152,6 @@
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 ex0dus-jailbreak.com
 0.0.0.0 exactseek.com
-0.0.0.0 exacttarget.com.edgekey.net
 0.0.0.0 exacttargetapis.com
 0.0.0.0 examinercom.122.2o7.net
 0.0.0.0 examnotes.us.intellitxt.com
@@ -27282,7 +27281,6 @@
 0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ou.shutterfly.com
-0.0.0.0 ouh3igaeb.com
 0.0.0.0 oumax.oupeng.com
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 our.affiliatetracking.net
@@ -34236,7 +34234,6 @@
 0.0.0.0 tracking.justpremium.com
 0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.leadlander.com
-0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lg.com
@@ -35079,8 +35076,6 @@
 0.0.0.0 usergrid.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usermatch.targeting.unrulymedia.com
-0.0.0.0 userreplay.com
-0.0.0.0 userreplay.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.api.jeeng.com
 0.0.0.0 users.effectivebrand.com
