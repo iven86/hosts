@@ -17119,6 +17119,7 @@
 0.0.0.0 dp.specificclick.net
 0.0.0.0 dp2.specificclick.net
 0.0.0.0 dpbolvw.net
+0.0.0.0 dpgawov.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dprevs.com
