@@ -17668,6 +17668,7 @@
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
 0.0.0.0 emaildireto.com.br
+0.0.0.0 emanog.com
 0.0.0.0 emap.admedia.net
 0.0.0.0 emarketer.com
 0.0.0.0 emarketing.sina.com.cn
@@ -22322,6 +22323,7 @@
 0.0.0.0 image.cecash.com
 0.0.0.0 image.i1img.com
 0.0.0.0 image.influenster.com
+0.0.0.0 image.mail.onedrive.com
 0.0.0.0 image.masterstats.com
 0.0.0.0 image.moengage.com
 0.0.0.0 image.richrelevance.com
@@ -34770,6 +34772,7 @@
 0.0.0.0 uk4.hit.stat24.com
 0.0.0.0 ukash-hack.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ukoffzeh.com
 0.0.0.0 ukrbanner.net
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ulcknow.biz
@@ -35073,6 +35076,7 @@
 0.0.0.0 usehack.com
 0.0.0.0 usehacks.com
 0.0.0.0 user-event-tracker-prod.us-east-1.elasticbeanstalk.com
+0.0.0.0 user-shield-check.com
 0.0.0.0 user-sync.adhese.com
 0.0.0.0 user.lucidmedia.com
 0.0.0.0 userflows.ingest.crittercism.com
