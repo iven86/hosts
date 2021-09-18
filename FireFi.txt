@@ -1697,6 +1697,7 @@
 0.0.0.0 absolutelyric.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absorbingband.com
+0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abt-prod-us-east-1-content-star.swrve.com
 0.0.0.0 abtasty.com
@@ -5796,7 +5797,6 @@
 0.0.0.0 ads.videohub.tv
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.vidsense.com
-0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.vimg.net
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
@@ -7113,7 +7113,6 @@
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 adserver.lycos.co.jp
-0.0.0.0 adserver.madeby.ws
 0.0.0.0 adserver.magazyn.pl
 0.0.0.0 adserver.matchcraft.com
 0.0.0.0 adserver.merc.com
@@ -10376,6 +10375,7 @@
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b-aws.huffingtonpost.com
 0.0.0.0 b-code.liadm.com
+0.0.0.0 b-s.tercept.com
 0.0.0.0 b.6sc.co
 0.0.0.0 b.abnad.net
 0.0.0.0 b.adbox.lv
@@ -18158,6 +18158,7 @@
 0.0.0.0 examinercom.122.2o7.net
 0.0.0.0 examnotes.us.intellitxt.com
 0.0.0.0 examplecase.org
+0.0.0.0 exanae.com
 0.0.0.0 exapi-eu.rubiconproject.com
 0.0.0.0 exapi-us-west.rubiconproject.com
 0.0.0.0 exbeting.com
@@ -21955,6 +21956,7 @@
 0.0.0.0 hyperobot.com
 0.0.0.0 hypertracker.com
 0.0.0.0 hyprmx.com
+0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 hzs10.cnzz.com
 0.0.0.0 hzs13.cnzz.com
@@ -30929,6 +30931,7 @@
 0.0.0.0 serve.getpopunder.com
 0.0.0.0 serve.oxcluster.com
 0.0.0.0 serve.popads.net
+0.0.0.0 serve.tercept.com
 0.0.0.0 serve.uberads.com
 0.0.0.0 serve.williamhill.com
 0.0.0.0 serve2.engageclick.com
@@ -33428,7 +33431,6 @@
 0.0.0.0 tenzing.fmpub.net
 0.0.0.0 ter-adserver-origin-ap.prod.adtechjp.com
 0.0.0.0 terapatrick.sexybabesx.com
-0.0.0.0 tercept.com
 0.0.0.0 terihatcher.sexybabesx.com
 0.0.0.0 terminusdisplay296618589072.s.moatpixel.com
 0.0.0.0 termsandprivacy.com
@@ -34965,6 +34967,7 @@
 0.0.0.0 uptodatecontent.net
 0.0.0.0 uptodatemovie.com
 0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 uramog.com
 0.0.0.0 urban.adspirit.de
 0.0.0.0 urbancheats.com
 0.0.0.0 urbanityadnetwork.com
@@ -35084,6 +35087,8 @@
 0.0.0.0 usergrid.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usermatch.targeting.unrulymedia.com
+0.0.0.0 userreplay.com
+0.0.0.0 userreplay.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.api.jeeng.com
 0.0.0.0 users.effectivebrand.com
@@ -35541,6 +35546,7 @@
 0.0.0.0 vlog.leadformix.com
 0.0.0.0 vm3.parabol.object.bg
 0.0.0.0 vm5apis.com
+0.0.0.0 vmmpxl.com
 0.0.0.0 vmn.net
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
