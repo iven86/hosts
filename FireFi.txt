@@ -14330,6 +14330,7 @@
 0.0.0.0 click.advertnative.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.atdmt.com
+0.0.0.0 click.bkdpt.com
 0.0.0.0 click.bounceads.net
 0.0.0.0 click.cartsguru.io
 0.0.0.0 click.celebmoney.com
@@ -17938,6 +17939,7 @@
 0.0.0.0 eten-users.us.intellitxt.com
 0.0.0.0 eth-giving.com
 0.0.0.0 ethicalads.net
+0.0.0.0 etioh.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
@@ -21866,6 +21868,7 @@
 0.0.0.0 hs.interpolls.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 hship.org
+0.0.0.0 hsn.uqhv.net
 0.0.0.0 hst.tradedoubler.com
 0.0.0.0 hstde.tradedoubler.com
 0.0.0.0 hstes.tradedoubler.com
@@ -23442,6 +23445,7 @@
 0.0.0.0 kelmty-tn.com
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 kesconti.com
+0.0.0.0 kesmatic.com
 0.0.0.0 keygen-steam.com
 0.0.0.0 keygen.us
 0.0.0.0 keygen4u.com
@@ -26918,6 +26922,7 @@
 0.0.0.0 ogury.com
 0.0.0.0 ohtulehtadee.hit.gemius.pl
 0.0.0.0 oimg.nbcuni.com
+0.0.0.0 ojrq.net
 0.0.0.0 ok.uk.intellitxt.com
 0.0.0.0 okadsvr.deviantart.com
 0.0.0.0 okadsweb.tiscali.it
@@ -28513,6 +28518,7 @@
 0.0.0.0 pricebandit.com
 0.0.0.0 pricecsgo.net
 0.0.0.0 pridesource.advertserve.com
+0.0.0.0 priefy.com
 0.0.0.0 prijavi.net
 0.0.0.0 primaryads.com
 0.0.0.0 primaryhacks.com
@@ -29018,6 +29024,7 @@
 0.0.0.0 px2ii-ufb66.ads.tremorhub.com
 0.0.0.0 px2m.moatads.com
 0.0.0.0 pxc.otto.de
+0.0.0.0 pxf.io
 0.0.0.0 pxl.ace.advertising.com
 0.0.0.0 pxl.ibpxl.com
 0.0.0.0 pxl.iqm.com
@@ -29147,6 +29154,7 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.scoota.co
 0.0.0.0 r.searchoodle.com
+0.0.0.0 r.sibmail.havasit.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.teads.tv
 0.0.0.0 r.turn.com
@@ -32484,6 +32492,7 @@
 0.0.0.0 stats.scholastic.com
 0.0.0.0 stats.self.com
 0.0.0.0 stats.sextracker.com
+0.0.0.0 stats.sharksice.timetoscore.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.smartbucks.com
 0.0.0.0 stats.smartclip.net
@@ -33060,6 +33069,7 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pusk.ru
+0.0.0.0 t.salesmatemail.com
 0.0.0.0 t.sellpoints.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.singular.net
@@ -34282,6 +34292,7 @@
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.tapinfluence.com
+0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
