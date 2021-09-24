@@ -9995,6 +9995,7 @@
 0.0.0.0 artella.biz
 0.0.0.0 artemis.porntrack.net
 0.0.0.0 artemis.porntrack.nl
+0.0.0.0 artisany.net
 0.0.0.0 artistdirect.us.intellitxt.com
 0.0.0.0 arttoxfb.com
 0.0.0.0 artwork.aim4media.com
@@ -10339,6 +10340,7 @@
 0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
 0.0.0.0 aws.interstitial-broker.fyber.com
 0.0.0.0 aws.rubiconproject.com
+0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
 0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axaldjqt.cn
@@ -13812,6 +13814,7 @@
 0.0.0.0 cdne.cpmstar.com
 0.0.0.0 cdnimg.izooto.com
 0.0.0.0 cdnmedia.xyz
+0.0.0.0 cdnondemand.org
 0.0.0.0 cdnp1.yieldoptimizer.com
 0.0.0.0 cdnpixel.simpli.fi
 0.0.0.0 cdns.amgdgt.com
@@ -15537,6 +15540,7 @@
 0.0.0.0 cpusall.112.2o7.net
 0.0.0.0 cpv.popxml.com
 0.0.0.0 cpvfeed.mediatraffic.com
+0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxiappnexusvpaidvideo235346.s.moatpixel.com
@@ -28157,6 +28161,7 @@
 0.0.0.0 plantsvszombies2download.me
 0.0.0.0 plantsvszombies2pc.com
 0.0.0.0 plantszombies.newzgames.com
+0.0.0.0 plardi.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform-cdn.sharethrough.com
@@ -34435,6 +34440,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trck.a8.net
 0.0.0.0 trckclck.com
+0.0.0.0 trcked.me
 0.0.0.0 trcking4wdm.de
 0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
@@ -34574,6 +34580,7 @@
 0.0.0.0 tsmtrk.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 tssoundplugin.com
+0.0.0.0 tsuam.com
 0.0.0.0 tsxclub.us.intellitxt.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
