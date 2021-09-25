@@ -13956,7 +13956,6 @@
 0.0.0.0 channelintelligence.com
 0.0.0.0 chaoshackss.com
 0.0.0.0 chapmanmediagroup.com
-0.0.0.0 chardwardse.club
 0.0.0.0 charles.huqindustries.co.uk
 0.0.0.0 charlizetheron.sexybabesx.com
 0.0.0.0 chart.advinion.com
@@ -16163,6 +16162,7 @@
 0.0.0.0 cyberweb.engagetech.com
 0.0.0.0 cydoor.com
 0.0.0.0 cypher-lab.com
+0.0.0.0 cyrasi.com
 0.0.0.0 cytron.com
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 cz.adocean.pl
@@ -27662,6 +27662,7 @@
 0.0.0.0 patrickhillery.112.2o7.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 paulsnetwork.com
+0.0.0.0 paxtro.com
 0.0.0.0 pay-ads.com
 0.0.0.0 pay.tranent.nl
 0.0.0.0 paycounter.com
@@ -29534,7 +29535,6 @@
 0.0.0.0 reloadedhacks.org
 0.0.0.0 remain.chartboosts.com
 0.0.0.0 remarketingpixel.com
-0.0.0.0 remistrainew.club
 0.0.0.0 remodelingonlinecom.112.2o7.net
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 remotead-internal.cnet.com
