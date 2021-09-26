@@ -16615,6 +16615,7 @@
 0.0.0.0 den01-search.spotxchange.com
 0.0.0.0 den01.event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
+0.0.0.0 denety.com
 0.0.0.0 denguru.us.intellitxt.com
 0.0.0.0 denise.sexybabesx.com
 0.0.0.0 denmark.filminstan.pw
@@ -31571,6 +31572,7 @@
 0.0.0.0 slt.hit.gemius.pl
 0.0.0.0 sltravelcom.112.2o7.net
 0.0.0.0 sltrib-d.openx.net
+0.0.0.0 sluxur.com
 0.0.0.0 sma.punto.net
 0.0.0.0 smaato-match.dotomi.com
 0.0.0.0 smaato-server.thinknearhub.com
