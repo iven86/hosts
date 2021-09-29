@@ -7247,6 +7247,8 @@
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 0.0.0.0 adservone.com
+0.0.0.0 adservrs.com
+0.0.0.0 adservrs.com.edgekey.net
 0.0.0.0 adserwer.afilo.pl
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfac.eu
@@ -17419,6 +17421,7 @@
 0.0.0.0 e24dp.tns-cs.net
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e35fbf.t.axf8.net
+0.0.0.0 e37364.dscd.akamaiedge.net
 0.0.0.0 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 0.0.0.0 e3f364.r.axf8.net
 0.0.0.0 e406019.com
