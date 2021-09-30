@@ -8865,7 +8865,6 @@
 0.0.0.0 analytic.detik.com
 0.0.0.0 analytic.gatewayinterface.com
 0.0.0.0 analytic.spamfighter.com
-0.0.0.0 analyticacdn.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -28245,6 +28244,7 @@
 0.0.0.0 plmma26extra.streams24.tv
 0.0.0.0 plotrabbit.com
 0.0.0.0 ploy.batmobi.net
+0.0.0.0 ployea.com
 0.0.0.0 plsoyfoods.112.2o7.net
 0.0.0.0 pluckypocket.com
 0.0.0.0 plug.plugerr.com
@@ -28384,6 +28384,7 @@
 0.0.0.0 popunder.paypopup.com
 0.0.0.0 popunder.ru
 0.0.0.0 popunder.smartcpx.com
+0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
@@ -31870,6 +31871,7 @@
 0.0.0.0 spelhacken.nl
 0.0.0.0 spell.itim.vn
 0.0.0.0 spencergifts.112.2o7.net
+0.0.0.0 speop.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spiceworks-d.openx.net
@@ -32510,7 +32512,6 @@
 0.0.0.0 stats.scholastic.com
 0.0.0.0 stats.self.com
 0.0.0.0 stats.sextracker.com
-0.0.0.0 stats.sharksice.timetoscore.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.smartbucks.com
 0.0.0.0 stats.smartclip.net
