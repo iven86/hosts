@@ -12664,6 +12664,7 @@
 0.0.0.0 bravenet.com.invalid
 0.0.0.0 brazzers-hack.com
 0.0.0.0 brazzersfreeaccount.net
+0.0.0.0 breakableinsurance.com
 0.0.0.0 breakgame.org
 0.0.0.0 breakingleaks.com
 0.0.0.0 breaktime.com.tw
@@ -28955,6 +28956,7 @@
 0.0.0.0 pubs.lemonde.fr
 0.0.0.0 pubstatus.sinaapp.com
 0.0.0.0 pubted.com
+0.0.0.0 pubwes.com
 0.0.0.0 pubwise-d.openx.net
 0.0.0.0 pubx.ch
 0.0.0.0 puds.ucweb.com
