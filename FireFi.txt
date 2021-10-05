@@ -19012,6 +19012,7 @@
 0.0.0.0 foaks.com
 0.0.0.0 focus.met.vgwort.de
 0.0.0.0 focusfile.com
+0.0.0.0 folawn.com
 0.0.0.0 folder.adfuture.cn
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
