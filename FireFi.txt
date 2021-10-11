@@ -14173,7 +14173,6 @@
 0.0.0.0 cirm.lsj.com
 0.0.0.0 cisay.cinemamovie.biz
 0.0.0.0 ciscowebex.112.2o7.net
-0.0.0.0 cision.com
 0.0.0.0 citi.bridgetrack.com
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
 0.0.0.0 citicorpcreditservic.tt.omtrdc.net
@@ -14346,6 +14345,7 @@
 0.0.0.0 click.celebmoney.com
 0.0.0.0 click.cheaperforyou.com
 0.0.0.0 click.cheapstuff.com
+0.0.0.0 click.cision.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.email.bbc.com
