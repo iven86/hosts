@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1286,16 +1287,27 @@
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <body\
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1304,7 +1316,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -15689,7 +15700,6 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crittercism.com
 0.0.0.0 crmbuyer.us.intellitxt.com
-0.0.0.0 croissed.info
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
 0.0.0.0 crosspixel.demdex.net
 0.0.0.0 crosspromo.hutchgames.io
@@ -24335,7 +24345,6 @@
 0.0.0.0 lt3.hit.stat24.com
 0.0.0.0 ltgde.adocean.pl
 0.0.0.0 lucidmedia.com
-0.0.0.0 lucklayed.info
 0.0.0.0 lucky-cases.org
 0.0.0.0 lucky-loot.com
 0.0.0.0 luckybox.pro
@@ -34278,6 +34287,7 @@
 0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mobileadstrk.com
+0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.novem.pl
 0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.olx-st.com
