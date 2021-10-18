@@ -7234,6 +7234,7 @@
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.tohsoft.com
 0.0.0.0 adservicedomain.info
+0.0.0.0 adservices.brandcdn.com
 0.0.0.0 adserving.aan.speedshiftmedia.com
 0.0.0.0 adserving.autotrader.com
 0.0.0.0 adserving.cpxadroit.com
@@ -23887,6 +23888,7 @@
 0.0.0.0 lightsingshots.com
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightstep-collector.api.ua.com
+0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
 0.0.0.0 lijit2waycm.netmng.com
 0.0.0.0 likefreehack.com
@@ -31035,6 +31037,7 @@
 0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 servethis.com
 0.0.0.0 serveupload.com
+0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 service.bargain-buddy.net
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
