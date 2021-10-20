@@ -14105,6 +14105,7 @@
 0.0.0.0 cheersfile.net
 0.0.0.0 chefvillehacks.info
 0.0.0.0 cheriefm.fr
+0.0.0.0 cherriescare.com
 0.0.0.0 cherrytube.net
 0.0.0.0 chestionar.ro
 0.0.0.0 chevelles.us.intellitxt.com
@@ -25479,6 +25480,7 @@
 0.0.0.0 mlbsanfrancisco.112.2o7.net
 0.0.0.0 mlm.de
 0.0.0.0 mlog.hiido.com
+0.0.0.0 mlsend.com
 0.0.0.0 mlsglobal.112.2o7.net
 0.0.0.0 mltrk.io
 0.0.0.0 mm.chitika.net
@@ -30897,7 +30899,6 @@
 0.0.0.0 segments.adap.tv
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segments.company-target.com
-0.0.0.0 segmetrics.io
 0.0.0.0 segs.btrll.com
 0.0.0.0 seizefile.co
 0.0.0.0 sejs.moatads.com
@@ -34129,6 +34130,7 @@
 0.0.0.0 track.seadform.net
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.securedvisit.com
+0.0.0.0 track.segmetrics.io
 0.0.0.0 track.send.microad.jp
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.seorate.ru
