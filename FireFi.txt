@@ -17912,7 +17912,6 @@
 0.0.0.0 es.optimost.com
 0.0.0.0 es.sitestat.com
 0.0.0.0 esavefile.com
-0.0.0.0 esd.icloseli.com
 0.0.0.0 esea-drop.com
 0.0.0.0 esea-lounge.com
 0.0.0.0 esellerate.net
@@ -22344,7 +22343,6 @@
 0.0.0.0 image.cecash.com
 0.0.0.0 image.i1img.com
 0.0.0.0 image.influenster.com
-0.0.0.0 image.mail.onedrive.com
 0.0.0.0 image.masterstats.com
 0.0.0.0 image.moengage.com
 0.0.0.0 image.richrelevance.com
@@ -23862,7 +23860,6 @@
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 libs.lavanetwork.net
 0.0.0.0 libs.outbrain.com
-0.0.0.0 licensebuttons.net
 0.0.0.0 licensing.blinkreceipt.com
 0.0.0.0 lidlretargeting.adspirit.de
 0.0.0.0 liehu.ijinshan.com
