@@ -25530,6 +25530,7 @@
 0.0.0.0 mobfox.com
 0.0.0.0 mobgold.com
 0.0.0.0 mobhero.com
+0.0.0.0 mobi.yanosik.pl
 0.0.0.0 mobidea.com
 0.0.0.0 mobigamesforpc.com
 0.0.0.0 mobigrr.com
