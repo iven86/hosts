@@ -18901,6 +18901,8 @@
 0.0.0.0 firest0rm.net
 0.0.0.0 firetrck.com
 0.0.0.0 fireupload.org
+0.0.0.0 fireworkadservices.com
+0.0.0.0 fireworkanalytics.com
 0.0.0.0 firingsquad.us.intellitxt.com
 0.0.0.0 first-pictures.net
 0.0.0.0 first-scr.net
@@ -19723,6 +19725,7 @@
 0.0.0.0 fvalid.appsflyer.com.akamaized.net
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwbntw.com
+0.0.0.0 fwcdn2.com
 0.0.0.0 fwg0b0sfig.s.ad6media.fr
 0.0.0.0 fwmrm.net
 0.0.0.0 fwvc.adsafeprotected.com
