@@ -5221,7 +5221,6 @@
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.juicyads.com
-0.0.0.0 ads.junctionbox.com
 0.0.0.0 ads.juneauempire.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.justpremium.com
@@ -16327,7 +16326,6 @@
 0.0.0.0 dash.prankvine.com
 0.0.0.0 dash.qsrch.com
 0.0.0.0 dashapi.chartbeat.com
-0.0.0.0 dashbida.com
 0.0.0.0 dashboard.tinypass.com
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
