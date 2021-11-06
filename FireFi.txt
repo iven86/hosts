@@ -24638,7 +24638,6 @@
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
-0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
@@ -30452,7 +30451,6 @@
 0.0.0.0 scmp-d.openx.net
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scomcluster.cxense.com
-0.0.0.0 scoobyads.com
 0.0.0.0 scopelight.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scorecardresearch.com.edgekey.net
