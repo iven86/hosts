@@ -16507,6 +16507,7 @@
 0.0.0.0 decenterads.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decision.taplytics.com
+0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
