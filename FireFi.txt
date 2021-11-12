@@ -1,4 +1,3 @@
-0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1275,27 +1274,16 @@
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
-0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
-0.0.0.0 </head>
 0.0.0.0 </html>
-0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <body\
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
-0.0.0.0 <h1>Error
-0.0.0.0 <h3>Guru
-0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
-0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Details:
-0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
-0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1304,6 +1292,7 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
+0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -2080,6 +2069,7 @@
 0.0.0.0 ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
 0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.linkprice.com
 0.0.0.0 ad.linkstorms.com
 0.0.0.0 ad.linksynergy.com
@@ -2122,6 +2112,7 @@
 0.0.0.0 ad.naked-celebs.com
 0.0.0.0 ad.naver.com
 0.0.0.0 ad.netcommunities.com
+0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.nl.doubleclick.be
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.be
@@ -5478,6 +5469,7 @@
 0.0.0.0 ads.sacbee.com
 0.0.0.0 ads.sagabg.net
 0.0.0.0 ads.samba.tv
+0.0.0.0 ads.samsung.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.sanomalehtimedia.fi
 0.0.0.0 ads.sapo.pt
@@ -19375,6 +19367,7 @@
 0.0.0.0 freshgamehacks.com
 0.0.0.0 friendslinks.com
 0.0.0.0 friendtest.us.intellitxt.com
+0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frogaming.com
 0.0.0.0 froggytest.fr.intellitxt.com
@@ -20517,6 +20510,7 @@
 0.0.0.0 gpapercareer.112.2o7.net
 0.0.0.0 gpapermom104.112.2o7.net
 0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 gpotatogenerator.com
 0.0.0.0 gpr.hu
 0.0.0.0 gpskins.com
@@ -23475,6 +23469,8 @@
 0.0.0.0 lga-bh-bgp.contextweb.com
 0.0.0.0 lga-bh.contextweb.com
 0.0.0.0 lga-tr.contextweb.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 lgsmartad.com
 0.0.0.0 li.alibris.com
 0.0.0.0 li.azstarnet.com
 0.0.0.0 li.dailycaller.com
