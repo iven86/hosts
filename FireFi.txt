@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -405,6 +406,7 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
+0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -1274,16 +1276,27 @@
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <body\
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Request
+0.0.0.0 <p>Varnish
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1292,7 +1305,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -8036,7 +8048,6 @@
 0.0.0.0 adwitserver.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adwords2.paretologic.revenuewire.net
-0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 adworks.cc
 0.0.0.0 adworks.rediff.com
 0.0.0.0 adworldnetwork.com
@@ -20707,6 +20718,7 @@
 0.0.0.0 gudja.iad-02.braze.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guest.adultfriendfinder.com
+0.0.0.0 guffawdecipher.com
 0.0.0.0 guildwars2.nextgenhacks.info
 0.0.0.0 guildwars2beta.org
 0.0.0.0 guj.122.2o7.net
@@ -24284,6 +24296,7 @@
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
+0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
@@ -26827,6 +26840,7 @@
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
+0.0.0.0 optnx.com
 0.0.0.0 optout-blglb.net
 0.0.0.0 optout-service.unrulymedia.com
 0.0.0.0 opus.analytics.yahoo.com
