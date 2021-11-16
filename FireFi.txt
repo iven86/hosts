@@ -9346,7 +9346,6 @@
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
 0.0.0.0 api.icloseli.com
-0.0.0.0 api.icmobile.singlewire.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.ihuman.com
 0.0.0.0 api.immomo.com
@@ -15022,7 +15021,6 @@
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convrse.media
 0.0.0.0 cookie-cdn.cookiepro.com
-0.0.0.0 cookie-jam.sgn.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 cookie.monster.com
@@ -22546,7 +22544,6 @@
 0.0.0.0 inuvi.com
 0.0.0.0 inv-nets-eu.admixer.net
 0.0.0.0 inv-nets.admixer.net
-0.0.0.0 invenio.sgn.com
 0.0.0.0 inventionpassenger.com
 0.0.0.0 inventory.vidazoo.com
 0.0.0.0 investingchannel.us.intellitxt.com
@@ -23702,10 +23699,7 @@
 0.0.0.0 locpub.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
-0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
-0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.adap.tv
@@ -30867,7 +30861,6 @@
 0.0.0.0 sitemerkezi.net
 0.0.0.0 sitemeter.com
 0.0.0.0 siterecruit.comscore.com
-0.0.0.0 sitescout.com
 0.0.0.0 sitestat.com
 0.0.0.0 sitestats.com
 0.0.0.0 sitetracker.com
@@ -34480,10 +34473,7 @@
 0.0.0.0 us.criteo.net
 0.0.0.0 us.dotomi.weighted.com.akadns.net
 0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 us.lgtvsdp.com
 0.0.0.0 us.pixel.newscgp.com
-0.0.0.0 us.rdx2.lgtvsdp.com
 0.0.0.0 us.sitestat.com
 0.0.0.0 us.sjc.dotomi.weighted.com.akadns.net
 0.0.0.0 us.sjc.legacy.dotomi.weighted.com.akadns.net
