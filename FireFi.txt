@@ -8046,6 +8046,7 @@
 0.0.0.0 adwhirl.com
 0.0.0.0 adwin.startappservice.com
 0.0.0.0 adwitserver.com
+0.0.0.0 adwords-track.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adwords2.paretologic.revenuewire.net
 0.0.0.0 adwordsecommerce.com.br
@@ -18774,6 +18775,7 @@
 0.0.0.0 followhack.com
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 fonts.ad.admitad.com
+0.0.0.0 fontsctaticx.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 footai.es
 0.0.0.0 footballgamespot.com
@@ -19386,6 +19388,7 @@
 0.0.0.0 front.adpia.vn
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 frontpagecash.com
+0.0.0.0 frontstatics.com
 0.0.0.0 frosgame.com
 0.0.0.0 frtelechargement.com
 0.0.0.0 frtn.socdm.com
@@ -19862,6 +19865,8 @@
 0.0.0.0 gcm.netmng.com
 0.0.0.0 gcmast-cdn.goldspotmedia.com
 0.0.0.0 gcounter.cn
+0.0.0.0 gctatic.com
+0.0.0.0 gctatics.com
 0.0.0.0 gd.geobytes.com
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gd2.mookie1.com
@@ -20631,6 +20636,8 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
+0.0.0.0 gstaticx.com
+0.0.0.0 gstaticxs.com
 0.0.0.0 gsway.info
 0.0.0.0 gsx-appleaccess.com
 0.0.0.0 gt6.sharezips.info
@@ -22456,6 +22463,7 @@
 0.0.0.0 insightxe.pittsburghlive.com
 0.0.0.0 inskinad.com
 0.0.0.0 inskinmedia689754970364.s.moatpixel.com
+0.0.0.0 inslco.bar
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectorclick.com
 0.0.0.0 insta-hack.com
@@ -29962,6 +29970,7 @@
 0.0.0.0 scambiobanner.aruba.it
 0.0.0.0 scanscout.com
 0.0.0.0 scanwith.us.intellitxt.com
+0.0.0.0 scaraabresearch.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 scarfsmash.com
