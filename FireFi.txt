@@ -1662,7 +1662,6 @@
 0.0.0.0 ac.ybinst9.ec.yimg.com
 0.0.0.0 ac9d98.r.axf8.net
 0.0.0.0 acbnews.com
-0.0.0.0 acbsearch.com
 0.0.0.0 acc.adintelligence.net
 0.0.0.0 acc.magixite.com
 0.0.0.0 accaount-secure-update.com
@@ -10072,7 +10071,6 @@
 0.0.0.0 attractivevideos.com
 0.0.0.0 attribution.report
 0.0.0.0 attribution.webmarketing123.com
-0.0.0.0 attributiontracker.com
 0.0.0.0 atwola.com
 0.0.0.0 au-01.adtomafusion.com
 0.0.0.0 au-cdn.effectivemeasure.net
@@ -28237,7 +28235,6 @@
 0.0.0.0 prod.search.deployads.com
 0.0.0.0 prod.sift.co
 0.0.0.0 producecopy.com
-0.0.0.0 producer.getwisdom.io
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
@@ -30842,7 +30839,6 @@
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
-0.0.0.0 silvalliant.info
 0.0.0.0 silver-fir.cd.segmentapis.com
 0.0.0.0 silveragesoftware.com
 0.0.0.0 silvermob.com
