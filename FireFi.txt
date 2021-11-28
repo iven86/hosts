@@ -27795,6 +27795,7 @@
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.ssacdn.com
+0.0.0.0 plausible.mangadex.org
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play-beta.com
 0.0.0.0 play-voice.com
@@ -27858,6 +27859,7 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 ployea.com
+0.0.0.0 ploz.mangadex.org
 0.0.0.0 plsoyfoods.112.2o7.net
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
