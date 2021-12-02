@@ -17476,7 +17476,9 @@
 0.0.0.0 em.gad-network.com
 0.0.0.0 em.pc-on-internet.com
 0.0.0.0 em1.yoursantander.co.uk
+0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-hack.com
+0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
 0.0.0.0 emaildireto.com.br
@@ -20127,6 +20129,7 @@
 0.0.0.0 getyourcheats.com
 0.0.0.0 getyourfree.org
 0.0.0.0 gfacebook.in
+0.0.0.0 gfcim5.gq
 0.0.0.0 gfiled.com
 0.0.0.0 gflinks.industrybrains.com
 0.0.0.0 gfx.webmasterprofitcenter.com
