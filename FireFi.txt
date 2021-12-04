@@ -2370,7 +2370,6 @@
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
 0.0.0.0 ad1.emule-project.org
-0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.ezcybersearch.com
 0.0.0.0 ad1.gamezone.de
 0.0.0.0 ad1.hpg.com.br
@@ -7002,7 +7001,6 @@
 0.0.0.0 adserver.gadu-gadu.pl
 0.0.0.0 adserver.gameparty.net
 0.0.0.0 adserver.generationiron.com
-0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.gorillanation.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -29295,7 +29293,6 @@
 0.0.0.0 rightpundits.us.intellitxt.com
 0.0.0.0 rightstats.com
 0.0.0.0 rimvoyeur.ru
-0.0.0.0 rinconpx.net
 0.0.0.0 ringcentral.112.2o7.net
 0.0.0.0 ringieradro.hit.gemius.pl
 0.0.0.0 ringieradrs.hit.gemius.pl
@@ -36198,7 +36195,6 @@
 0.0.0.0 www.clickcashmoney.com
 0.0.0.0 www.clickedyclick.com
 0.0.0.0 www.clickhelp.net
-0.0.0.0 www.clickhouse.com
 0.0.0.0 www.clickmeter.com
 0.0.0.0 www.clickpapa.com
 0.0.0.0 www.clicksagent.com
