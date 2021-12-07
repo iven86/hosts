@@ -14193,6 +14193,7 @@
 0.0.0.0 click.gospect.com
 0.0.0.0 click.gowadogo.com
 0.0.0.0 click.holland-billing.com
+0.0.0.0 click.hookupinyourcity.com
 0.0.0.0 click.hotlog.ru
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.html.it
@@ -29685,7 +29686,6 @@
 0.0.0.0 s.mobclix.com
 0.0.0.0 s.mopub.com
 0.0.0.0 s.ntv.io
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.po.st
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.rfihub.com
