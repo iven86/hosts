@@ -4017,6 +4017,7 @@
 0.0.0.0 adfarm.mplx.akadns.net
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 adfeat.com
+0.0.0.0 adfeed.marchex.com
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 0.0.0.0 adflash.affairsclub.com
 0.0.0.0 adflight.com
@@ -9350,6 +9351,7 @@
 0.0.0.0 api.growthbeat.com
 0.0.0.0 api.growthpush.com
 0.0.0.0 api.hdtv.letv.com
+0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
 0.0.0.0 api.icloseli.com
@@ -9402,6 +9404,7 @@
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.moengage.com
+0.0.0.0 api.monedata.iomericreceiver.cellrebel.com
 0.0.0.0 api.monetate.net
 0.0.0.0 api.muneris.io
 0.0.0.0 api.myendpoint.io
@@ -12974,6 +12977,7 @@
 0.0.0.0 calendarlive.com
 0.0.0.0 calhacks.org
 0.0.0.0 califia.imaginemedia.net
+0.0.0.0 call-ad-network-api.marchex.com
 0.0.0.0 call-att.com
 0.0.0.0 call-girls.com
 0.0.0.0 call.hackingfree.com
@@ -21741,6 +21745,9 @@
 0.0.0.0 huludev.112.2o7.net
 0.0.0.0 huluplusaccount.com
 0.0.0.0 humandemand.com
+0.0.0.0 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
+0.0.0.0 huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
+0.0.0.0 huq.io
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hus.parkingspa.com
@@ -25246,6 +25253,7 @@
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 mobile.measurelib.com
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.yandexadexchange.net
@@ -25883,6 +25891,7 @@
 0.0.0.0 naughtyadserve.com
 0.0.0.0 nautilus.122.2o7.net
 0.0.0.0 nautilus.tt.omtrdc.net
+0.0.0.0 nav.telematicsdirect.com
 0.0.0.0 navdmp.com
 0.0.0.0 navegg.com
 0.0.0.0 naviblue-team.com
@@ -28094,6 +28103,7 @@
 0.0.0.0 poweronemedia.122.2o7.net
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 ppapgame.com
+0.0.0.0 ppc.adhere.marchex.com
 0.0.0.0 ppcheats.com
 0.0.0.0 ppdninjas.com
 0.0.0.0 ppdviralscripts.us
@@ -28718,6 +28728,7 @@
 0.0.0.0 qitrck.com
 0.0.0.0 qj.us.intellitxt.com
 0.0.0.0 qksrv.com
+0.0.0.0 ql.tc
 0.0.0.0 qlipso.checkm8.com
 0.0.0.0 qlipsodigital.checkm8.com
 0.0.0.0 qlog.adap.tv
@@ -30195,6 +30206,7 @@
 0.0.0.0 sdk-hb-cfg.smaato.net
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-ios.ad.smaato.net
+0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk-services.appsflyer.com
@@ -31773,6 +31785,7 @@
 0.0.0.0 static-ssl.mediav.com
 0.0.0.0 static-tagr.gd1.mookie1.com
 0.0.0.0 static-trackers.adtarget.me
+0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static-uk.addynamo.net
 0.0.0.0 static.4chan-ads.org
 0.0.0.0 static.a-ads.com
