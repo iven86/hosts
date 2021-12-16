@@ -7198,6 +7198,7 @@
 0.0.0.0 adsmart.de
 0.0.0.0 adsmart.net
 0.0.0.0 adsmart.ru
+0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmira.offerstrack.net
 0.0.0.0 adsmobi.com
 0.0.0.0 adsmogo.com
@@ -8861,6 +8862,7 @@
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.metalocator.com
+0.0.0.0 analytics.metrix.ir
 0.0.0.0 analytics.microsoft.com
 0.0.0.0 analytics.mobile-cdn.walmart.com.akadns.net
 0.0.0.0 analytics.mobile.walmart.com
@@ -9404,6 +9406,7 @@
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.moengage.com
+0.0.0.0 api.monedata.io
 0.0.0.0 api.monedata.iomericreceiver.cellrebel.com
 0.0.0.0 api.monetate.net
 0.0.0.0 api.muneris.io
@@ -9477,6 +9480,7 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tappx.com
 0.0.0.0 api.taps.io
+0.0.0.0 api.tapsell.ir
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.target2sell.com
 0.0.0.0 api.theadex.com
@@ -14705,7 +14709,6 @@
 0.0.0.0 cognitiv.ai
 0.0.0.0 cogrem.com
 0.0.0.0 coin-hive.com
-0.0.0.0 coinhive.com
 0.0.0.0 coinsbet.us
 0.0.0.0 coinsforfree.online
 0.0.0.0 coinshunt.com
@@ -15978,6 +15981,7 @@
 0.0.0.0 custom.yieldify.com
 0.0.0.0 custom1.hurricanedigitalmedia.com
 0.0.0.0 customad.cnn.com
+0.0.0.0 customads.co
 0.0.0.0 customer.iad-03.braze.com
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 customtraffic.impactradius.com
@@ -24724,6 +24728,7 @@
 0.0.0.0 metric.volkswagen.com
 0.0.0.0 metric.worldcat.org
 0.0.0.0 metric.yellowpages.com
+0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-logger.spot.im
@@ -25320,7 +25325,6 @@
 0.0.0.0 mologiq.net
 0.0.0.0 mom.freelogs.com
 0.0.0.0 mommyish.us.intellitxt.com
-0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monarchads.com
@@ -27926,6 +27930,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 plus.iwon.com
 0.0.0.0 plus.link4link.com
+0.0.0.0 plus.tapsell.ir
 0.0.0.0 plusbatterypower.com
 0.0.0.0 plusjouesjeuxlimited.fr
 0.0.0.0 pluto.adcycle.com
@@ -30206,6 +30211,7 @@
 0.0.0.0 sdk-hb-cfg.smaato.net
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-ios.ad.smaato.net
+0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-resources.blinkreceipt.com
@@ -31700,7 +31706,6 @@
 0.0.0.0 stardk.tradedoubler.com
 0.0.0.0 stardollcheats.elitegamershub.com
 0.0.0.0 starffa.com
-0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 starstablehack.net
@@ -31835,6 +31840,7 @@
 0.0.0.0 static.clickpapa.com
 0.0.0.0 static.clicktorrent.info
 0.0.0.0 static.clicktripz.com
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.contentabc.com
 0.0.0.0 static.contents.sex-explorer.com
@@ -34838,7 +34844,6 @@
 0.0.0.0 vcomdeepdiscount.112.2o7.net
 0.0.0.0 vcommerce.112.2o7.net
 0.0.0.0 vcommission.com
-0.0.0.0 vcs-va.byteoversea.com
 0.0.0.0 vcu.collserve.com
 0.0.0.0 vdapp.nend.net
 0.0.0.0 vdhu.com
@@ -34869,7 +34874,6 @@
 0.0.0.0 verblife-4.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
-0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verified-download.com
 0.0.0.0 verified-hacks.net
