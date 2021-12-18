@@ -8823,7 +8823,6 @@
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.findwhat.com
-0.0.0.0 analytics.fkz.re
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.freedom.com
@@ -22416,6 +22415,7 @@
 0.0.0.0 include.reinvigorate.net
 0.0.0.0 incognitosearches.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
+0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.bm23.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 incrdble.faboshine.com
@@ -27039,6 +27039,7 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
+0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
@@ -31488,6 +31489,7 @@
 0.0.0.0 sports.ign.us.intellitxt.com
 0.0.0.0 sports.msnbc.us.intellitxt.com
 0.0.0.0 sports.rightpundits.us.intellitxt.com
+0.0.0.0 sportsad.net
 0.0.0.0 sportscarillustrated.us.intellitxt.com
 0.0.0.0 sportsnews-online.info
 0.0.0.0 spot.fitness.com
@@ -35148,7 +35150,6 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrs.cz
 0.0.0.0 vrt.outbrain.com
-0.0.0.0 vrtzcontextualads.com
 0.0.0.0 vs.asianave.com
 0.0.0.0 vs.blackplanet.com
 0.0.0.0 vs.dmtracker.com
