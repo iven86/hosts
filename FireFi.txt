@@ -3901,6 +3901,7 @@
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcdn.33universal.com
 0.0.0.0 adcdn.goo.ne.jp
+0.0.0.0 adcel.co
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.mdf.se
@@ -9342,6 +9343,7 @@
 0.0.0.0 api.engager.ecbsn.com
 0.0.0.0 api.ent.mobileanjian.com
 0.0.0.0 api.ero-advertising.com
+0.0.0.0 api.eu.amplitude.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.fyber.com
 0.0.0.0 api.gameanalytics.com
@@ -9380,6 +9382,7 @@
 0.0.0.0 api.keen.io
 0.0.0.0 api.kiip.me
 0.0.0.0 api.kochava.com
+0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api.lanistaads.com
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
@@ -9614,6 +9617,7 @@
 0.0.0.0 app-abm.marketo.com
 0.0.0.0 app-abq.marketo.com
 0.0.0.0 app-adforce.jp
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-cheats.net
 0.0.0.0 app-config.enhance.co
@@ -10779,6 +10783,7 @@
 0.0.0.0 basepush.com
 0.0.0.0 basic-check.disconnect.me
 0.0.0.0 basicstat.com
+0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
@@ -14465,6 +14470,7 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudcoins.biz
+0.0.0.0 cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
@@ -17132,6 +17138,7 @@
 0.0.0.0 dui88.com
 0.0.0.0 duiba.com.cn
 0.0.0.0 dungeonrampage.haxdo.com
+0.0.0.0 dustywave.com
 0.0.0.0 dvcd.info
 0.0.0.0 dvdcovers.spacash.com
 0.0.0.0 dvdhentai.net
@@ -23470,7 +23477,6 @@
 0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
 0.0.0.0 leadsold.cinemamovie.biz
-0.0.0.0 leady.com
 0.0.0.0 leadzupc.com
 0.0.0.0 league-gamers.com
 0.0.0.0 league-of-hacks.com
@@ -24308,6 +24314,7 @@
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketing.net.home24.de
+0.0.0.0 marketing.net.occhiali24.it
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketing.tllms.com
@@ -24588,6 +24595,7 @@
 0.0.0.0 mediafires.biz
 0.0.0.0 mediaforce.grapeshot.co.uk
 0.0.0.0 mediaforge.com
+0.0.0.0 mediafuse.com
 0.0.0.0 mediageneral.com
 0.0.0.0 mediaiqdigital.com
 0.0.0.0 mediakash.com
@@ -25706,6 +25714,7 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myamzgiftcards.com
 0.0.0.0 myao.adocean.pl
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestmv.com
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybloglog.com
@@ -25997,6 +26006,8 @@
 0.0.0.0 netflixpremiumfree.sharezips.info
 0.0.0.0 netflixtools.com
 0.0.0.0 netincap.com
+0.0.0.0 netmera-web.com
+0.0.0.0 netmera.com
 0.0.0.0 netmng.com
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netseer.com
@@ -28850,6 +28861,7 @@
 0.0.0.0 r8qs.adj.st
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 rabatt-torget.se
+0.0.0.0 rabbitrifle.com
 0.0.0.0 rachelbilson.sexybabesx.com
 0.0.0.0 rachelmcadams.sexybabesx.com
 0.0.0.0 rachelstevens.sexybabesx.com
@@ -31419,6 +31431,7 @@
 0.0.0.0 spc.cefhdghhafdgceifiehdfdad.iban.telemetryverification.net
 0.0.0.0 spd.atdmt.com
 0.0.0.0 spe.atdmt.com
+0.0.0.0 speakol.com
 0.0.0.0 special-movies.com
 0.0.0.0 special-promo.com
 0.0.0.0 specialcontest.pw
@@ -33655,6 +33668,7 @@
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.loopme.me
 0.0.0.0 track.mads.ph
+0.0.0.0 track.mailalert.io
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.mdrctr.com
