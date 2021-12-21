@@ -10002,7 +10002,6 @@
 0.0.0.0 assets.connatix.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.deployads.com
-0.0.0.0 assets.dwell.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
 0.0.0.0 assets.kochava.com
@@ -22147,7 +22146,6 @@
 0.0.0.0 images.cnomy.com
 0.0.0.0 images.ddc.com
 0.0.0.0 images.directtrack.com
-0.0.0.0 images.dwell.com
 0.0.0.0 images.edgeads.org
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.gamefiesta.com
