@@ -10942,6 +10942,8 @@
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beacontest.cardlytics.com
+0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beam.giraffe360.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beam.to
 0.0.0.0 beamincrease.com
@@ -17980,6 +17982,7 @@
 0.0.0.0 evohack.com
 0.0.0.0 evohacks.net
 0.0.0.0 evs.jivox.com
+0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt.bfmio.com
 0.0.0.0 evt.undertone.com
 0.0.0.0 evtvpaid.bfmio.com
@@ -20347,6 +20350,7 @@
 0.0.0.0 go.gba.bbelements.com
 0.0.0.0 go.goldbachpoland.bbelements.com
 0.0.0.0 go.goroost.com
+0.0.0.0 go.icann.org
 0.0.0.0 go.idnes.bbelements.com
 0.0.0.0 go.jetswap.com
 0.0.0.0 go.jozmovie.xyz
@@ -27614,6 +27618,7 @@
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.crowdscience.com
 0.0.0.0 ping.dozuki.com
+0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
 0.0.0.0 ping.taplytics.com
@@ -30516,6 +30521,7 @@
 0.0.0.0 segapi.quantserve.com
 0.0.0.0 seginus.iad-03.braze.com
 0.0.0.0 segment-api.humann.com
+0.0.0.0 segment-cdn.producthunt.com
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-pixel.invitemedia.com
@@ -32683,6 +32689,7 @@
 0.0.0.0 t.trackedlink.net
 0.0.0.0 t.trafmag.com
 0.0.0.0 t.vi-serve.com
+0.0.0.0 t.visitorqueue.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wowanalytics.co.uk
 0.0.0.0 t.zqtk.net
@@ -33670,6 +33677,7 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.mdrctr.com
+0.0.0.0 track.miro.com
 0.0.0.0 track.mob193.com
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.moreniche.com
