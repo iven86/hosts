@@ -10481,7 +10481,6 @@
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
-0.0.0.0 banner.interich.com
 0.0.0.0 banner.intermega.com.br
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.jobsahead.com
@@ -35101,7 +35100,6 @@
 0.0.0.0 visitor-service-us-east-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visitors.lexus-europe.com
-0.0.0.0 visitpath.com
 0.0.0.0 visits.inlocomedia.com
 0.0.0.0 visitweb.com
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
