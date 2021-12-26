@@ -1772,6 +1772,7 @@
 0.0.0.0 ad-cupid.com
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad-display.wikawika.xyz
 0.0.0.0 ad-eliminator.com
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-exchange.toast.com
@@ -9516,6 +9517,7 @@
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.zanox.com
 0.0.0.0 api.zcoup.com
+0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.appsflyer.com
@@ -18331,6 +18333,7 @@
 0.0.0.0 fatfreekitchen.us.intellitxt.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
+0.0.0.0 fave.co
 0.0.0.0 faz.ivwbox.de
 0.0.0.0 fazebet.com
 0.0.0.0 faztplay.com
