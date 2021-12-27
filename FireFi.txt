@@ -1293,9 +1293,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -1665,7 +1665,6 @@
 0.0.0.0 acc.magixite.com
 0.0.0.0 accaount-secure-update.com
 0.0.0.0 accelerationsw.com
-0.0.0.0 acceptable.a-ads.com
 0.0.0.0 accerispartners.com
 0.0.0.0 acces-direct.net
 0.0.0.0 acceso.masminutos.com
@@ -17763,7 +17762,6 @@
 0.0.0.0 espiawhatsapp.net
 0.0.0.0 espiondiscret.com
 0.0.0.0 espn-ak.starwave.com
-0.0.0.0 espn.com.ssl.sc.omtrdc.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 espresso-reklam.eu
@@ -24019,7 +24017,6 @@
 0.0.0.0 look.djfiln.com
 0.0.0.0 look.ichlnk.com
 0.0.0.0 look.opskln.com
-0.0.0.0 look.udncoeln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -33662,7 +33659,6 @@
 0.0.0.0 track.futureshop.ca
 0.0.0.0 track.game18click.com
 0.0.0.0 track.gawker.com
-0.0.0.0 track.hexcan.com
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.idtargeting.com
@@ -33716,7 +33712,6 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tiara.daum.net
-0.0.0.0 track.tkbo.com
 0.0.0.0 track.todayreward.net
 0.0.0.0 track.trafiz.net
 0.0.0.0 track.uc.cn
