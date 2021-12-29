@@ -34092,6 +34092,7 @@
 0.0.0.0 trk.acotrk.com
 0.0.0.0 trk.apperol.com
 0.0.0.0 trk.atomex.net
+0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.blamads.com
