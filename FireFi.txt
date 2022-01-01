@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -217,7 +218,6 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -1276,15 +1276,26 @@
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1293,7 +1304,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -2358,6 +2368,7 @@
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.ezcybersearch.com
 0.0.0.0 ad1.gamezone.de
 0.0.0.0 ad1.hpg.com.br
@@ -8972,6 +8983,7 @@
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 androidads4-3.adcolony.com
+0.0.0.0 androidads4-5.adcolony.com
 0.0.0.0 androidandme.us.intellitxt.com
 0.0.0.0 androidapgameshacks.com
 0.0.0.0 androidappsgameshacks.com
@@ -34089,7 +34101,6 @@
 0.0.0.0 trk.cetrk.com
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.enecto.com
-0.0.0.0 trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.games-to-run123.com
 0.0.0.0 trk.glispa.com
 0.0.0.0 trk.hot-mob.com
