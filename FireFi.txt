@@ -14220,6 +14220,7 @@
 0.0.0.0 click.cision.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.dealshark.com
+0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.findthewebsiteyouneed.com
@@ -18870,6 +18871,7 @@
 0.0.0.0 forumcomm-d.openx.net
 0.0.0.0 forumediainc.us.intellitxt.com
 0.0.0.0 forvideo.at
+0.0.0.0 forwrdnow.com
 0.0.0.0 forza.console2pc.info
 0.0.0.0 forzacarpass.sharezips.info
 0.0.0.0 forzagame.sharezips.info
@@ -28431,6 +28433,7 @@
 0.0.0.0 protvadmd.hit.gemius.pl
 0.0.0.0 protvmd.adocean.pl
 0.0.0.0 proudclick.com
+0.0.0.0 provenpixel.com
 0.0.0.0 provexia.com
 0.0.0.0 proximitykit.radiusnetworks.com
 0.0.0.0 proxy.softonicads.com
