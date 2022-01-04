@@ -9453,7 +9453,6 @@
 0.0.0.0 api.radar.io
 0.0.0.0 api.redshell.io
 0.0.0.0 api.reftagger.com
-0.0.0.0 api.revenuecat.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rudderlabs.com
@@ -36630,7 +36629,6 @@
 0.0.0.0 www.happytofind.com
 0.0.0.0 www.hardcorebymail.com
 0.0.0.0 www.harmonyhollow.net
-0.0.0.0 www.healthgrades.com
 0.0.0.0 www.helltraffic.com
 0.0.0.0 www.helpmedownload.com
 0.0.0.0 www.hentaidatabase.com
