@@ -34006,6 +34006,7 @@
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
 0.0.0.0 trailblazers.122.2o7.net
+0.0.0.0 traildelsfars.com
 0.0.0.0 traileraddict.us.intellitxt.com
 0.0.0.0 trainercrackkey.com
 0.0.0.0 trainerfree.com
