@@ -1292,9 +1292,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -16081,7 +16081,6 @@
 0.0.0.0 d.chango.com
 0.0.0.0 d.dc121677.com
 0.0.0.0 d.eu.criteo.com
-0.0.0.0 d.ifengimg.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 d.liadm.com
@@ -31860,7 +31859,6 @@
 0.0.0.0 static.clickpapa.com
 0.0.0.0 static.clicktorrent.info
 0.0.0.0 static.clicktripz.com
-0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.contentabc.com
 0.0.0.0 static.contents.sex-explorer.com
