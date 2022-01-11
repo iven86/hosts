@@ -9360,7 +9360,6 @@
 0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
-0.0.0.0 api.icloseli.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.ihuman.com
 0.0.0.0 api.immomo.com
@@ -26378,7 +26377,6 @@
 0.0.0.0 o.opentable.com
 0.0.0.0 o.sa.aol.com
 0.0.0.0 o.xbox.com
-0.0.0.0 o0bc.com
 0.0.0.0 o1.inviziads.com
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
@@ -29198,7 +29196,6 @@
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 relay-si.toboads.com
 0.0.0.0 relay.mobile.toboads.com
-0.0.0.0 relaycn.icloseli.com
 0.0.0.0 releasehacks.com
 0.0.0.0 relestar.com
 0.0.0.0 relevantknowledge.com
