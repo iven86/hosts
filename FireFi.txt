@@ -1293,9 +1293,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -4247,7 +4247,6 @@
 0.0.0.0 adminshop.com
 0.0.0.0 adminstage.gohip.com
 0.0.0.0 admintds.megatds.com
-0.0.0.0 admiral.mgr.consensu.org
 0.0.0.0 admitad.com
 0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr
@@ -4414,7 +4413,6 @@
 0.0.0.0 adrolays.de
 0.0.0.0 adroll.com
 0.0.0.0 adroll.com.edgekey.net
-0.0.0.0 adroll.mgr.consensu.org
 0.0.0.0 adrotate.de
 0.0.0.0 adrotate.se
 0.0.0.0 adrotator.com
@@ -9331,7 +9329,6 @@
 0.0.0.0 api.connecto.io
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
-0.0.0.0 api.conversant.mgr.consensu.org
 0.0.0.0 api.coralogix.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.crispadvertising.com
@@ -9538,7 +9535,6 @@
 0.0.0.0 apis.adbro.me
 0.0.0.0 apis.com.br
 0.0.0.0 apis.ihg.com.edgekey.net
-0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.moengage.com
@@ -10127,7 +10123,6 @@
 0.0.0.0 audio.de.intellitxt.com
 0.0.0.0 audioload.net
 0.0.0.0 audionewz.net
-0.0.0.0 audit-tcfv2.quantcast.mgr.consensu.org
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.webinform.hu
 0.0.0.0 audittrack.com
@@ -12791,7 +12786,6 @@
 0.0.0.0 c.scorecardresearch.com
 0.0.0.0 c.securepaths.com
 0.0.0.0 c.sexcounter.com
-0.0.0.0 c.sharethis.mgr.consensu.org
 0.0.0.0 c.smartclick.net
 0.0.0.0 c.socialannex.com
 0.0.0.0 c.spiegel.de
@@ -13393,10 +13387,8 @@
 0.0.0.0 cdn.complexmedianetwork.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
-0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentspread.net
-0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpxinteractive.com
 0.0.0.0 cdn.cquotient.com
@@ -14543,12 +14535,9 @@
 0.0.0.0 cmp.112.2o7.net
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
-0.0.0.0 cmp.faktor.mgr.consensu.org
 0.0.0.0 cmp.geodns.tubemogul.com
 0.0.0.0 cmp.optad360.io
-0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.com
-0.0.0.0 cmp.uniconsent.mgr.consensu.org
 0.0.0.0 cmp.us.intellitxt.com
 0.0.0.0 cmpdotnetjunkiescom.112.2o7.net
 0.0.0.0 cmpglobalvista.112.2o7.net
@@ -14944,8 +14933,6 @@
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.mediaforge.com
-0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
-0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 console.adtarget.com.tr
 0.0.0.0 console.popupsponsor.com
 0.0.0.0 consolesupply.com
@@ -15050,7 +15037,6 @@
 0.0.0.0 convchmp.taboola.com
 0.0.0.0 convectiontoasterovenreviews.biz
 0.0.0.0 converge-digital.com
-0.0.0.0 conversant.mgr.consensu.org
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversationalingelligence.com
 0.0.0.0 conversion-pixel.invitemedia.com
@@ -15072,13 +15058,11 @@
 0.0.0.0 cookie.monster.com
 0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cookiea1.veinteractive.com
-0.0.0.0 cookiebot.com-v1.edgekey.net
 0.0.0.0 cookiee1.veinteractive.com
 0.0.0.0 cookiematch-ap-northeast-1.prod.justpremium.com
 0.0.0.0 cookiematch-us-east-1.prod.justpremium.com
 0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies.cmpnet.com
-0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cookingcom.112.2o7.net
 0.0.0.0 cooksrecipes.us.intellitxt.com
@@ -15596,7 +15580,6 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.exitmonitor.com
-0.0.0.0 cs.liiift.io
 0.0.0.0 cs.lkqd.net
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.media.net
@@ -16066,7 +16049,6 @@
 0.0.0.0 d.abnad.net
 0.0.0.0 d.adgear.com
 0.0.0.0 d.adroll.com
-0.0.0.0 d.adroll.mgr.consensu.org
 0.0.0.0 d.ads.readwriteweb.com
 0.0.0.0 d.adsbyisocket.com
 0.0.0.0 d.adsplay.net
@@ -18224,7 +18206,6 @@
 0.0.0.0 fairhack.com
 0.0.0.0 faker322.pro
 0.0.0.0 faker322.ru
-0.0.0.0 faktor.mgr.consensu.org
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 fallout4free.com
 0.0.0.0 fam-ad.com
@@ -20074,7 +20055,6 @@
 0.0.0.0 geoloc2.geovisite.com
 0.0.0.0 geoloc4.geovisite.com
 0.0.0.0 geolocation.forbes.com
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
 0.0.0.0 geoservice.curse.com
@@ -24994,7 +24974,6 @@
 0.0.0.0 mgjmp.com
 0.0.0.0 mgjournalnow.112.2o7.net
 0.0.0.0 mgoanow.112.2o7.net
-0.0.0.0 mgr.consensu.org
 0.0.0.0 mgstarexponent.112.2o7.net
 0.0.0.0 mgtbo.112.2o7.net
 0.0.0.0 mgtbopanels.112.2o7.net
@@ -26756,7 +26735,6 @@
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 onetoone.112.2o7.net
 0.0.0.0 onetricks.com
-0.0.0.0 onetrust.mgr.consensu.org
 0.0.0.0 oneund.ru
 0.0.0.0 onewaylinkexchange.net
 0.0.0.0 onixcase.com
@@ -26918,7 +26896,6 @@
 0.0.0.0 opt.hit.gemius.pl
 0.0.0.0 opt.ximad.com
 0.0.0.0 optad360.io
-0.0.0.0 optad360.mgr.consensu.org
 0.0.0.0 optaim.com
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
@@ -28245,7 +28222,6 @@
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.us.criteo.com
 0.0.0.0 privacy.virtumundo.com
-0.0.0.0 privacyportal-de.onetrust.com
 0.0.0.0 privatamateure.com
 0.0.0.0 privatecash.com
 0.0.0.0 privefiles.com
@@ -28766,7 +28742,6 @@
 0.0.0.0 qualitygamehacks.com
 0.0.0.0 qualityporn.biz
 0.0.0.0 quantcast.com
-0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcast.partners.tremorhub.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quantcastvpaid04786010.s.moatpixel.com
@@ -30821,7 +30796,6 @@
 0.0.0.0 sharepointads.com
 0.0.0.0 sharest.org
 0.0.0.0 sharestudio.net
-0.0.0.0 sharethis.mgr.consensu.org
 0.0.0.0 sharethrough.adnxs.com
 0.0.0.0 sharethrough.com
 0.0.0.0 shareukfile.com
@@ -31396,7 +31370,6 @@
 0.0.0.0 source-hack.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 sourceforgemedia-computing.t.domdex.com
-0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southcoasttodaycom.112.2o7.net
 0.0.0.0 southparksot.topfree.us
@@ -31763,7 +31736,6 @@
 0.0.0.0 stat.mystat.hu
 0.0.0.0 stat.netinfocompany.bg
 0.0.0.0 stat.onestat.com
-0.0.0.0 stat.optad360.mgr.consensu.org
 0.0.0.0 stat.p24.hu
 0.0.0.0 stat.pchome.net
 0.0.0.0 stat.pl
@@ -31923,7 +31895,6 @@
 0.0.0.0 static.pubdirecte.com
 0.0.0.0 static.publish2.com
 0.0.0.0 static.pxlad.io
-0.0.0.0 static.quantcast.mgr.consensu.org
 0.0.0.0 static.quantcount.com
 0.0.0.0 static.realmediadigital.com
 0.0.0.0 static.rocketreach.co
@@ -32921,7 +32892,6 @@
 0.0.0.0 tds.trafflow.com
 0.0.0.0 tds.tuberl.com
 0.0.0.0 te.adlandpro.com
-0.0.0.0 teads.mgr.consensu.org
 0.0.0.0 teads.tv
 0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 teads245638586802.s.moatpixel.com
@@ -33048,7 +33018,6 @@
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 test.com
 0.0.0.0 test.coremetrics.com
-0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 test.tns-cs.net
 0.0.0.0 test.wiredminds.de
 0.0.0.0 test.yesadvertising.com
@@ -34140,7 +34109,6 @@
 0.0.0.0 trumpia.com
 0.0.0.0 truoptik.com
 0.0.0.0 trust.titanhq.com
-0.0.0.0 trustarc.mgr.consensu.org
 0.0.0.0 trustedhacks.com
 0.0.0.0 trustedtrack.com
 0.0.0.0 trustfolders.com
@@ -34426,7 +34394,6 @@
 0.0.0.0 undertone.com
 0.0.0.0 undertonenetworks.com
 0.0.0.0 undetectedcheats.com
-0.0.0.0 uniconsent.mgr.consensu.org
 0.0.0.0 unified.adsafeprotected.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unimhk.com
@@ -34878,7 +34845,6 @@
 0.0.0.0 velismedia.com
 0.0.0.0 velti.com
 0.0.0.0 vendimob.pl
-0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venetian.evyy.net
 0.0.0.0 venetrigni.com
