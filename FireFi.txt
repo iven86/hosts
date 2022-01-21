@@ -10228,7 +10228,6 @@
 0.0.0.0 aws-oregon-jrtr.rtr.innovid.com.akadns.net
 0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
 0.0.0.0 aws.interstitial-broker.fyber.com
-0.0.0.0 aws.oath.cloud
 0.0.0.0 aws.rubiconproject.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
@@ -14931,7 +14930,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 consent-manager-events.ogury.io
-0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 console.adtarget.com.tr
 0.0.0.0 console.popupsponsor.com
@@ -20328,6 +20326,7 @@
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.eu.bbelements.com
+0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.gba.bbelements.com
 0.0.0.0 go.goldbachpoland.bbelements.com
 0.0.0.0 go.goroost.com
@@ -30643,7 +30642,6 @@
 0.0.0.0 serveupload.com
 0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 service.bargain-buddy.net
-0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
 0.0.0.0 service.innovid.com
 0.0.0.0 service.kingoapp.com
