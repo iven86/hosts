@@ -1293,9 +1293,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -18813,7 +18813,6 @@
 0.0.0.0 followhack.com
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 fonts.ad.admitad.com
-0.0.0.0 fontsctaticx.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 footai.es
 0.0.0.0 footballgamespot.com
@@ -19428,7 +19427,6 @@
 0.0.0.0 front.adpia.vn
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 frontpagecash.com
-0.0.0.0 frontstatics.com
 0.0.0.0 frosgame.com
 0.0.0.0 frtelechargement.com
 0.0.0.0 frtn.socdm.com
@@ -19907,8 +19905,6 @@
 0.0.0.0 gcm.netmng.com
 0.0.0.0 gcmast-cdn.goldspotmedia.com
 0.0.0.0 gcounter.cn
-0.0.0.0 gctatic.com
-0.0.0.0 gctatics.com
 0.0.0.0 gd.geobytes.com
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gd2.mookie1.com
@@ -20681,7 +20677,6 @@
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
 0.0.0.0 gstaticx.com
-0.0.0.0 gstaticxs.com
 0.0.0.0 gsway.info
 0.0.0.0 gsx-appleaccess.com
 0.0.0.0 gt6.sharezips.info
@@ -30060,7 +30055,6 @@
 0.0.0.0 scambiobanner.aruba.it
 0.0.0.0 scanscout.com
 0.0.0.0 scanwith.us.intellitxt.com
-0.0.0.0 scaraabresearch.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 scarfsmash.com
@@ -31472,7 +31466,6 @@
 0.0.0.0 sports.ign.us.intellitxt.com
 0.0.0.0 sports.msnbc.us.intellitxt.com
 0.0.0.0 sports.rightpundits.us.intellitxt.com
-0.0.0.0 sportsad.net
 0.0.0.0 sportscarillustrated.us.intellitxt.com
 0.0.0.0 sportsnews-online.info
 0.0.0.0 spot.fitness.com
