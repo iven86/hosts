@@ -9238,7 +9238,6 @@
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.coralogix.com
-0.0.0.0 api.crashlytics.com
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.cxense.com
@@ -9527,7 +9526,6 @@
 0.0.0.0 app-lon06.marketo.com
 0.0.0.0 app-lon07.marketo.com
 0.0.0.0 app-lon08.marketo.com
-0.0.0.0 app-measurement.com
 0.0.0.0 app-promo.com
 0.0.0.0 app-sj01.marketo.com
 0.0.0.0 app-sj02.marketo.com
@@ -16455,7 +16453,6 @@
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 discreetfield.com
 0.0.0.0 disney.demdex.net
-0.0.0.0 disney.my.sentry.io
 0.0.0.0 disneyinfinity.sharezips.info
 0.0.0.0 dispatcher.360in.com
 0.0.0.0 dispatcher.adxcore.com
@@ -17006,7 +17003,6 @@
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 e.connectad.io
-0.0.0.0 e.crashlytics.com
 0.0.0.0 e.de.inmobi.com
 0.0.0.0 e.deployads.com
 0.0.0.0 e.dlx.addthis.com
@@ -18005,7 +18001,6 @@
 0.0.0.0 fallout4free.com
 0.0.0.0 fam-ad.com
 0.0.0.0 fame.web24news.com
-0.0.0.0 famobi-01.firebaseio.com
 0.0.0.0 famous-mobile.com
 0.0.0.0 famousquarter.com
 0.0.0.0 famut.com
@@ -18492,7 +18487,6 @@
 0.0.0.0 fips.uimserv.net
 0.0.0.0 firal.net
 0.0.0.0 fire-hacks.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
 0.0.0.0 firecracks.com
@@ -22223,7 +22217,6 @@
 0.0.0.0 infratotalduicom.122.2o7.net
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingest.m2appmonitor.com
-0.0.0.0 ingest.sentry.io
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
 0.0.0.0 inhacks.com
@@ -24994,6 +24987,7 @@
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobileburn.us.intellitxt.com
 0.0.0.0 mobilecomputermag.uk.intellitxt.com
+0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobilecore.com
 0.0.0.0 mobilede-dp.nuggad.net
 0.0.0.0 mobilede.nuggad.net
@@ -26069,21 +26063,11 @@
 0.0.0.0 o.sa.aol.com
 0.0.0.0 o.xbox.com
 0.0.0.0 o1.inviziads.com
-0.0.0.0 o107031.ingest.sentry.io
-0.0.0.0 o129937.ingest.sentry.io
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
 0.0.0.0 o239315.com
 0.0.0.0 o2adpl.hit.gemius.pl
-0.0.0.0 o325556.ingest.sentry.io
 0.0.0.0 o333o.com
-0.0.0.0 o334541.ingest.sentry.io
-0.0.0.0 o400018.ingest.sentry.io
-0.0.0.0 o472445.ingest.sentry.io
-0.0.0.0 o491168.ingest.sentry.io
-0.0.0.0 o502263.ingest.sentry.io
-0.0.0.0 o534899.ingest.sentry.io
-0.0.0.0 o77029.ingest.sentry.io
 0.0.0.0 oafishobservation.com
 0.0.0.0 oamtrk.com
 0.0.0.0 oas-c18.adnxs.com
@@ -28885,7 +28869,6 @@
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reporting.tutelatechnologies.com
 0.0.0.0 reportinstaller.random-logic.com
-0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.extreme-dm.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 repository4files.com
@@ -30176,7 +30159,6 @@
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sento.122.2o7.net
-0.0.0.0 sentry.io
 0.0.0.0 sentshared.com
 0.0.0.0 seo4india.com
 0.0.0.0 seomatrix.webtrackingservices.com
@@ -30329,7 +30311,6 @@
 0.0.0.0 sessionm.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
-0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settlecruise.org
 0.0.0.0 setupandcrack.com
@@ -34044,7 +34025,6 @@
 0.0.0.0 update.3lift.com
 0.0.0.0 update.adsrvr.org
 0.0.0.0 update.cpc.sogou.com
-0.0.0.0 update.crashlytics.com
 0.0.0.0 update.hiconversion.com
 0.0.0.0 update.ib.adnxs.com
 0.0.0.0 update.indexww.com
