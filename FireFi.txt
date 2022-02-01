@@ -9389,7 +9389,6 @@
 0.0.0.0 api.userleap.com
 0.0.0.0 api.verify.mob.com
 0.0.0.0 api.verticalscope.com
-0.0.0.0 api.vhx.tv
 0.0.0.0 api.viafoura.co
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.vidora.com
@@ -14039,7 +14038,6 @@
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.advertnative.com
-0.0.0.0 click.aep-email.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.bkdpt.com
@@ -14598,7 +14596,6 @@
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.stats.socialquantum.ru
 0.0.0.0 collector.tealeaf.ibmcloud.com
-0.0.0.0 collector.vhx.tv
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collectoru.us.tvsquared.com
 0.0.0.0 collegefootballnews.us.intellitxt.com
@@ -32233,7 +32230,6 @@
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
 0.0.0.0 t.p.mybuys.com
-0.0.0.0 t.paypal.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 t.salesmatemail.com
@@ -33645,6 +33641,7 @@
 0.0.0.0 trkmydomain.com
 0.0.0.0 trkn.us
 0.0.0.0 trknths.com
+0.0.0.0 trkoptimizer.com
 0.0.0.0 trmit.com
 0.0.0.0 trouvermotdepassefacebook.com
 0.0.0.0 troveofmystery.sharezips.info
