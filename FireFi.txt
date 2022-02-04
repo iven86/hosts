@@ -9237,7 +9237,6 @@
 0.0.0.0 api.connecto.io
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
-0.0.0.0 api.coralogix.com
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.cxense.com
