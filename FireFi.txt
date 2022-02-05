@@ -9840,6 +9840,7 @@
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asia.seadform.net
+0.0.0.0 asia999.website
 0.0.0.0 asian.streamate.com
 0.0.0.0 asianude.com
 0.0.0.0 asimpleinternet.com
@@ -19833,6 +19834,7 @@
 0.0.0.0 german.filminstan.pw
 0.0.0.0 gernewt.info
 0.0.0.0 get-access.host.sk
+0.0.0.0 get-best-prizes.life
 0.0.0.0 get-cracked.com
 0.0.0.0 get-hack.com
 0.0.0.0 get-vids.com
@@ -33231,7 +33233,6 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.smaato.net
-0.0.0.0 track.software-codes.com
 0.0.0.0 track.superad2.com.sg
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tend.io
