@@ -1269,9 +1269,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -26416,7 +26416,6 @@
 0.0.0.0 one.cam4ads.com
 0.0.0.0 one.ru
 0.0.0.0 oneandonlynetwork.com
-0.0.0.0 oneapi.telematicsct.com
 0.0.0.0 onecinema.us
 0.0.0.0 oneclick2download.com
 0.0.0.0 oneid.mmstat.com
