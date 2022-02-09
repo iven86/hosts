@@ -23314,7 +23314,6 @@
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 libs.lavanetwork.net
 0.0.0.0 libs.outbrain.com
-0.0.0.0 licensing.blinkreceipt.com
 0.0.0.0 lidlretargeting.adspirit.de
 0.0.0.0 liehu.ijinshan.com
 0.0.0.0 lifeimpressions.net
@@ -29835,7 +29834,6 @@
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
-0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk.adincube.com
