@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1252,15 +1253,26 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1269,7 +1281,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -5075,7 +5086,6 @@
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jiwire.com
 0.0.0.0 ads.jo-games.com
-0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobclicks.net
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.joemonster.org
@@ -33136,7 +33146,6 @@
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 track.adbooth.net
-0.0.0.0 track.addevent.com
 0.0.0.0 track.addict-mobile.net
 0.0.0.0 track.adform.net
 0.0.0.0 track.adition.com
@@ -33219,6 +33228,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.smaato.net
+0.0.0.0 track.software-codes.com
 0.0.0.0 track.superad2.com.sg
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tend.io
