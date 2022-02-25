@@ -28349,6 +28349,7 @@
 0.0.0.0 px2m.moatads.com
 0.0.0.0 pxc.otto.de
 0.0.0.0 pxf.io
+0.0.0.0 pxl-mailtracker.com
 0.0.0.0 pxl.ace.advertising.com
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.ibpxl.com
