@@ -1,4 +1,3 @@
-0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1253,26 +1252,15 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
-0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
-0.0.0.0 </head>
 0.0.0.0 </html>
-0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
-0.0.0.0 <h1>Error
-0.0.0.0 <h3>Guru
-0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
-0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Details:
-0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
-0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1281,6 +1269,7 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
+0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -13214,7 +13203,6 @@
 0.0.0.0 cdn.britepool.com
 0.0.0.0 cdn.broadstreetads.com
 0.0.0.0 cdn.brsrvr.com
-0.0.0.0 cdn.bskarn.com
 0.0.0.0 cdn.bttrack.com
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.caprofitx.com
@@ -19828,7 +19816,6 @@
 0.0.0.0 german.filminstan.pw
 0.0.0.0 gernewt.info
 0.0.0.0 get-access.host.sk
-0.0.0.0 get-best-prizes.life
 0.0.0.0 get-cracked.com
 0.0.0.0 get-hack.com
 0.0.0.0 get-vids.com
@@ -23477,7 +23464,6 @@
 0.0.0.0 loadus.tm.ssl.exelator.com
 0.0.0.0 loady.de.intellitxt.com
 0.0.0.0 lobby.sexlist.com
-0.0.0.0 loc.bskarn.com
 0.0.0.0 loc1.hitsprocessor.com
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local.emxdgt.com
@@ -24090,7 +24076,6 @@
 0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
-0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
