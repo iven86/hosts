@@ -1269,9 +1269,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -7993,7 +7993,6 @@
 0.0.0.0 adwhirl.com
 0.0.0.0 adwin.startappservice.com
 0.0.0.0 adwitserver.com
-0.0.0.0 adwords-track.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adwords2.paretologic.revenuewire.net
 0.0.0.0 adwordsecommerce.com.br
@@ -25396,7 +25395,6 @@
 0.0.0.0 myamzgiftcards.com
 0.0.0.0 myao.adocean.pl
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
-0.0.0.0 mybestmv.com
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybloglog.com
 0.0.0.0 myboxgo.com
@@ -25466,7 +25464,6 @@
 0.0.0.0 mytheresa.commander1.com
 0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
-0.0.0.0 mytrackingservers.com
 0.0.0.0 mytraf.info
 0.0.0.0 mytraf.ru
 0.0.0.0 mytraff.com
@@ -25573,6 +25570,7 @@
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 nativeapi.supersonicads.com
+0.0.0.0 nativeroll.tv
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nats4.fetishbucks.com
 0.0.0.0 naturalbid.com
