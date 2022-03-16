@@ -1276,9 +1276,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -16604,7 +16604,6 @@
 0.0.0.0 dooweb.us
 0.0.0.0 dopemobi.offerstrack.net
 0.0.0.0 doppler-coins.com
-0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 doppler-roulette.com
 0.0.0.0 dot.wp.pl
 0.0.0.0 dota-dream.com
@@ -29104,7 +29103,6 @@
 0.0.0.0 rome.specificclick.net
 0.0.0.0 rome2crack.com
 0.0.0.0 roomcheats.com
-0.0.0.0 roq.ad
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselynsanchez.sexybabesx.com
 0.0.0.0 rot2.imoti.net
@@ -29160,6 +29158,7 @@
 0.0.0.0 rq.adfox.ru
 0.0.0.0 rq.adtrackdirect.com
 0.0.0.0 rq.trackingadirect.com
+0.0.0.0 rqtrk.eu
 0.0.0.0 rr1.outster.com
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rrpartners.122.2o7.net
@@ -34627,7 +34626,6 @@
 0.0.0.0 vntsm.com
 0.0.0.0 vnumedia01.webtrekk.net
 0.0.0.0 vnunet.uk.intellitxt.com
-0.0.0.0 vod-gcs-cedexis.cbsaavideo.com
 0.0.0.0 vod.topbucks.com
 0.0.0.0 vodafonegroup.122.2o7.net
 0.0.0.0 vodkahack.com
