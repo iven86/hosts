@@ -12873,7 +12873,6 @@
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 campaign.bharatmatrimony.com
-0.0.0.0 campaignmonitor.com
 0.0.0.0 campaigns.f2.com.au
 0.0.0.0 campaigns.outerinfo.com
 0.0.0.0 campaigns2.outerinfo.com
