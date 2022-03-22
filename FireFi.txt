@@ -1260,7 +1260,6 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
-0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
 0.0.0.0 </head>
@@ -1277,9 +1276,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -3960,7 +3959,6 @@
 0.0.0.0 addthis.com.edgekey.net
 0.0.0.0 addtosite.netster.com
 0.0.0.0 addupp.com
-0.0.0.0 addwish.com
 0.0.0.0 addynamix.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
@@ -12456,7 +12454,6 @@
 0.0.0.0 brokeneagledlc.sharezips.info
 0.0.0.0 bronrt.stsdk.vivo.com.cn
 0.0.0.0 bronsite.com
-0.0.0.0 brontops.com
 0.0.0.0 brooke.sexybabesx.com
 0.0.0.0 brookeburns.sexybabesx.com
 0.0.0.0 brort.stsdk.vivo.com.cn
@@ -12921,7 +12918,6 @@
 0.0.0.0 cappa.pl
 0.0.0.0 captainbicycle.com
 0.0.0.0 capture.condenastdigital.com
-0.0.0.0 capturehighered.net
 0.0.0.0 captureimage.site
 0.0.0.0 capturescreen.tech
 0.0.0.0 car-stuff.us.intellitxt.com
@@ -14034,7 +14030,6 @@
 0.0.0.0 cleanshare.net
 0.0.0.0 clear-search.com
 0.0.0.0 clearbluemedia.org
-0.0.0.0 clerk.io
 0.0.0.0 clevernt.com
 0.0.0.0 clexchange.usww.net
 0.0.0.0 cli.linksynergy.com
@@ -14304,7 +14299,6 @@
 0.0.0.0 clomgiriwil.com
 0.0.0.0 closedcows.com
 0.0.0.0 cloud-emea.analytics-egain.com
-0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloud-photo.net
 0.0.0.0 cloud-us.analytics-egain.com
@@ -15840,7 +15834,6 @@
 0.0.0.0 cxense.com.edgekey.net
 0.0.0.0 cxociocom.112.2o7.net
 0.0.0.0 cxocomdev.112.2o7.net
-0.0.0.0 cybba.solutions
 0.0.0.0 cyber-cheat.com
 0.0.0.0 cyber-shop.net
 0.0.0.0 cyberbounty.com
@@ -17455,7 +17448,6 @@
 0.0.0.0 entrepreneur.122.2o7.net
 0.0.0.0 entrepreneur.us.intellitxt.com
 0.0.0.0 entrepreneurpoc.122.2o7.net
-0.0.0.0 enviou.com.br
 0.0.0.0 enviousthread.com
 0.0.0.0 envyjailbreak.com
 0.0.0.0 eontarionow.us.intellitxt.com
@@ -18644,7 +18636,6 @@
 0.0.0.0 forgeofempires.elitegamershub.com
 0.0.0.0 forkcdn.com
 0.0.0.0 format.prod.cloud.ogury.io
-0.0.0.0 formstack.com
 0.0.0.0 fornaxgames.com
 0.0.0.0 forsedrop.com
 0.0.0.0 fort-skins.com
@@ -21768,7 +21759,6 @@
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 idsync.segment.com
 0.0.0.0 idtargeting.com
-0.0.0.0 idx.lat
 0.0.0.0 idyllicdownload.com
 0.0.0.0 ieginc.com
 0.0.0.0 ientrymail.com
@@ -22491,7 +22481,6 @@
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 ir.surveywall-api.survata.com
-0.0.0.0 iraiser.eu
 0.0.0.0 irchan.com
 0.0.0.0 ireel.com
 0.0.0.0 ireklama.cz
@@ -23955,7 +23944,6 @@
 0.0.0.0 madgeniusreview.com
 0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
-0.0.0.0 madkudu.com
 0.0.0.0 madonna.sexybabesx.com
 0.0.0.0 madpenguin.us.intellitxt.com
 0.0.0.0 mads.amazon-adsystem.com
@@ -24101,7 +24089,6 @@
 0.0.0.0 mastershacks.com
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 mastertarget.ru
-0.0.0.0 masterworks.com
 0.0.0.0 match-ap-southeast-1-ecs.sharethrough.com
 0.0.0.0 match-us-west-1-ecs.sharethrough.com
 0.0.0.0 match.adsrvr.org
@@ -27226,7 +27213,6 @@
 0.0.0.0 pharmacybestbuys.com
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pheedo.com
-0.0.0.0 phenompeople.com
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
 0.0.0.0 philips.112.2o7.net
 0.0.0.0 philipslighting.d3.sc.omtrdc.net
@@ -27636,7 +27622,6 @@
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 pmpt.ampxchange.com
-0.0.0.0 pmweb.com.br
 0.0.0.0 pn1.adserver.yahoo.com
 0.0.0.0 pn2.adserver.yahoo.com
 0.0.0.0 pnapi.invoca.net
@@ -30487,7 +30472,6 @@
 0.0.0.0 shopping-homme.com
 0.0.0.0 shopping.112.2o7.net
 0.0.0.0 shoppingads.com
-0.0.0.0 shoptarget.com.br
 0.0.0.0 shoptonmail.fr
 0.0.0.0 shopwf.ru
 0.0.0.0 shortcyber.com
@@ -35097,7 +35081,6 @@
 0.0.0.0 widget.va1.vip.prod.criteo.com
 0.0.0.0 widget.wickedreports.com
 0.0.0.0 widget6.linkwithin.com
-0.0.0.0 widgetbe.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widgets.amung.us
@@ -37684,7 +37667,6 @@
 0.0.0.0 zeldalily.us.intellitxt.com
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zemanta.com
-0.0.0.0 zenaps.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zenkreka.com
 0.0.0.0 zenonia5hack.net
