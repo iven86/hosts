@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -929,6 +930,7 @@
 0.0.0.0 3gupload.112.2o7.net
 0.0.0.0 3lift.com
 0.0.0.0 3m.mediav.com
+0.0.0.0 3o9s.short.gy
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3p3x.adj.st
@@ -1259,15 +1261,26 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Varnish
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1276,7 +1289,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -25686,6 +25698,7 @@
 0.0.0.0 netcomm.spinbox.net
 0.0.0.0 netcommunities.com
 0.0.0.0 netdirect.nl
+0.0.0.0 netech.postaffiliatepro.com
 0.0.0.0 neteco.fr.intellitxt.com
 0.0.0.0 netflame.cc
 0.0.0.0 netflix-accounts.com
