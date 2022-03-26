@@ -1277,9 +1277,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -12903,7 +12903,6 @@
 0.0.0.0 canfinancialpost.112.2o7.net
 0.0.0.0 caniamedia.com
 0.0.0.0 canmag.us.intellitxt.com
-0.0.0.0 cannads.urgrafix.com
 0.0.0.0 cannationalpost.112.2o7.net
 0.0.0.0 canoe.112.2o7.net
 0.0.0.0 canottowa.112.2o7.net
@@ -14084,7 +14083,6 @@
 0.0.0.0 click.mp3.com
 0.0.0.0 click.mrrage.com
 0.0.0.0 click.mygeek.com
-0.0.0.0 click.negociosdigitaisnapratica.com.br
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.payserve.com
 0.0.0.0 click.plista.com
@@ -14292,7 +14290,6 @@
 0.0.0.0 clkoffers.com
 0.0.0.0 clkrev.com
 0.0.0.0 clksite.com
-0.0.0.0 clktrx.com
 0.0.0.0 clkuk.tradedoubler.com
 0.0.0.0 clnks.co
 0.0.0.0 clock-desktop.com
@@ -26970,7 +26967,6 @@
 0.0.0.0 park3.ireit.com
 0.0.0.0 parkcloud.dynadot.com
 0.0.0.0 parkerhacks.com
-0.0.0.0 parketsy.pro
 0.0.0.0 parking.parklogic.com
 0.0.0.0 parking.reg.ru
 0.0.0.0 parkingcrew.net
@@ -30454,7 +30450,6 @@
 0.0.0.0 shelleylalonde.com
 0.0.0.0 shellez.com
 0.0.0.0 sher.index.hu
-0.0.0.0 shermore.info
 0.0.0.0 sherylcrow.sexybabesx.com
 0.0.0.0 shhort.com
 0.0.0.0 shifty-hack.com
