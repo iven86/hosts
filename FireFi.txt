@@ -1277,9 +1277,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -9322,7 +9322,6 @@
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.omniture.com
 0.0.0.0 api.oneaudience.com
-0.0.0.0 api.onesignal.com
 0.0.0.0 api.optimizely.com
 0.0.0.0 api.optinmonster.com
 0.0.0.0 api.optmnstr.com
@@ -14807,6 +14806,7 @@
 0.0.0.0 content.cpxinteractive.com
 0.0.0.0 content.exoticads.com
 0.0.0.0 content.iconadserver.com
+0.0.0.0 content.inhousedsp.com
 0.0.0.0 content.integral-marketing.com
 0.0.0.0 content.ipro.com
 0.0.0.0 content.ireit.com
@@ -16911,6 +16911,7 @@
 0.0.0.0 dsp.youdao.com
 0.0.0.0 dsp3.adtelligent.com
 0.0.0.0 dsparking.com
+0.0.0.0 dspbeacons.error.ihasdsp.inmobi.com
 0.0.0.0 dspcluster.adfarm1.adition.com
 0.0.0.0 dstatic.aceadsys.net
 0.0.0.0 dstillery.com
@@ -21577,6 +21578,7 @@
 0.0.0.0 i.isnssdk.com
 0.0.0.0 i.isohunt.to
 0.0.0.0 i.kissmetrics.com
+0.0.0.0 i.l-dsp.inmobicdn.net
 0.0.0.0 i.l.cnn.net
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.liadm.com
@@ -21661,6 +21663,7 @@
 0.0.0.0 ibis.iad-03.braze.com
 0.0.0.0 ibmvideo.com
 0.0.0.0 ibreak.us
+0.0.0.0 ic.de.inmobi.com
 0.0.0.0 ic.tynt.com
 0.0.0.0 icardcodes.com
 0.0.0.0 ice.112.2o7.net
@@ -22058,6 +22061,7 @@
 0.0.0.0 imonomy.com
 0.0.0.0 imp-dsp.bidgear.com
 0.0.0.0 imp-east.pub.local.emxdgt.com
+0.0.0.0 imp-lb-us2.jampp.com
 0.0.0.0 imp.adzmedia.com
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
@@ -22233,6 +22237,7 @@
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
 0.0.0.0 inhacks.com
+0.0.0.0 inhousedsp.com
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.sms.mob.com
 0.0.0.0 init.startappexchange.com
@@ -29378,6 +29383,7 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
+0.0.0.0 s.iff.inmobi.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.innovid.com.akadns.net
 0.0.0.0 s.ivillage.us.intellitxt.com
@@ -31487,6 +31493,7 @@
 0.0.0.0 static.inviziads.com
 0.0.0.0 static.iterable.com
 0.0.0.0 static.itrack.it
+0.0.0.0 static.jampp.com
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.kleinezeitung.at
@@ -32026,6 +32033,7 @@
 0.0.0.0 supertop100.com
 0.0.0.0 supertracking.net
 0.0.0.0 supply.colossusssp.com
+0.0.0.0 supply.inmobicdn.net
 0.0.0.0 support--icloud.online
 0.0.0.0 support--iphone.online
 0.0.0.0 support-apple-services.net
@@ -34252,6 +34260,7 @@
 0.0.0.0 uw.srv.stackadapt.com
 0.0.0.0 uwselectie.be
 0.0.0.0 uzohacks.com
+0.0.0.0 v-ak.chartboost.com
 0.0.0.0 v-voice.com
 0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.admedia.com
@@ -34435,6 +34444,9 @@
 0.0.0.0 vet-us-east-1.track.smaato.net
 0.0.0.0 veuhub-d.openx.net
 0.0.0.0 vexplay.com
+0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
+0.0.0.0 vg-aws-us-east-1b-hb.rayjump.com
+0.0.0.0 vg-new-hb.rayjump.com
 0.0.0.0 vg-no.c.richmetrics.com
 0.0.0.0 vg-setting.rayjump.com
 0.0.0.0 vg.tns-cs.net
