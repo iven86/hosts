@@ -1277,9 +1277,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -34766,7 +34766,6 @@
 0.0.0.0 walkingdead.movie24.tv
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 walla.yad2.co.il
-0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 wallhackblackops2.com
 0.0.0.0 walmart.112.2o7.net
 0.0.0.0 wandtrade.com
