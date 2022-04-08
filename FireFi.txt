@@ -1277,9 +1277,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
+0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -12391,6 +12391,7 @@
 0.0.0.0 br.realitykings.com
 0.0.0.0 br.rk.com
 0.0.0.0 bradpittnow.us.intellitxt.com
+0.0.0.0 brahe.apptimize.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 braincash.com
 0.0.0.0 brainfall-d.openx.net
@@ -13211,6 +13212,7 @@
 0.0.0.0 cdn.beaconpush.com
 0.0.0.0 cdn.behavioralengine.com
 0.0.0.0 cdn.betrad.com
+0.0.0.0 cdn.bidmatrixdsp.com
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blisspointmedia.com
@@ -22163,6 +22165,7 @@
 0.0.0.0 in3.zog.link
 0.0.0.0 in4.zog.link
 0.0.0.0 inapi.posst.co
+0.0.0.0 inapps.appflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inboxdollars.com
 0.0.0.0 inc2.igexin.com
@@ -24199,6 +24202,7 @@
 0.0.0.0 mct.rkdms.com
 0.0.0.0 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
+0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-nj.lfstmedia.com
 0.0.0.0 md.ournet-analytics.com
 0.0.0.0 mdctrail.com
@@ -26896,6 +26900,7 @@
 0.0.0.0 page-not-found.net
 0.0.0.0 page-x.com
 0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead.topobiavi.com
@@ -27831,6 +27836,7 @@
 0.0.0.0 prebid.org
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 prebids.adnsx.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 precisionpop.com
 0.0.0.0 precrack.com
@@ -30783,6 +30789,7 @@
 0.0.0.0 smaato-server.thinknearhub.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
+0.0.0.0 smadex.com
 0.0.0.0 smallbeginner.com
 0.0.0.0 smart-avenue.fr
 0.0.0.0 smart-data-systems.com
@@ -34146,6 +34153,7 @@
 0.0.0.0 us-sync.taboola.com
 0.0.0.0 us-tracker.inside-graph.com
 0.0.0.0 us-tracking.nextdoor.com
+0.0.0.0 us-trk.bidmatrixdsp.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us-vid-events.taboola.com
 0.0.0.0 us-west-2.ecs.mb.moatads.com
@@ -35217,6 +35225,7 @@
 0.0.0.0 wonderhacks.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
+0.0.0.0 woobids.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 woolyboys.com
 0.0.0.0 woopra.com
