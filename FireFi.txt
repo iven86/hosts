@@ -8272,7 +8272,6 @@
 0.0.0.0 aidu-ads.de
 0.0.0.0 aifind.com
 0.0.0.0 aifind.info
-0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aim-charts.pf.aol.com
 0.0.0.0 aim.aol.com
 0.0.0.0 aim1.adsoftware.com
@@ -11008,7 +11007,6 @@
 0.0.0.0 bhgscrap.112.2o7.net
 0.0.0.0 bhosadwa.com
 0.0.0.0 bhpz.adj.st
-0.0.0.0 bi-analytics.cloudapp.net
 0.0.0.0 bi.adview.pl
 0.0.0.0 bi.medscape.com
 0.0.0.0 bi.yeshen.com
@@ -12458,7 +12456,6 @@
 0.0.0.0 brothersoft.us.intellitxt.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
-0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browseraccelerator.com
 0.0.0.0 browseraid.com
 0.0.0.0 browsergamescheats.net
@@ -12676,7 +12673,6 @@
 0.0.0.0 c1.amazingcounters.com
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.gostats.com
-0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.navrcholu.cz
 0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1.onedmp.com
@@ -26619,7 +26615,6 @@
 0.0.0.0 opt.ximad.com
 0.0.0.0 optad360.io
 0.0.0.0 optaim.com
-0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
 0.0.0.0 optidl.com
 0.0.0.0 optimallimit.com
@@ -33658,8 +33653,6 @@
 0.0.0.0 trk.hot-mob.com
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.kissmetrics.com
-0.0.0.0 trk.klclick2.com
-0.0.0.0 trk.klclick3.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.superads.cn
@@ -34131,7 +34124,6 @@
 0.0.0.0 us-cdn.effectivemeasure.net
 0.0.0.0 us-central.load.exelator.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
-0.0.0.0 us-central1-production-242307.cloudfunctions.net
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.event.prod.bidr.io
 0.0.0.0 us-east-1.local.emxdgt.com
