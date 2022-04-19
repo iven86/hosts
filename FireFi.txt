@@ -31560,7 +31560,6 @@
 0.0.0.0 static2.chartbeat.com
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticd.cdn.industrybrains.com
-0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statistics.s5.com
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.bundestag.de
