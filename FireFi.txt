@@ -1277,9 +1277,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -9389,7 +9389,6 @@
 0.0.0.0 api.userleap.com
 0.0.0.0 api.verify.mob.com
 0.0.0.0 api.verticalscope.com
-0.0.0.0 api.viafoura.co
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.vidora.com
 0.0.0.0 api.viglink.com
@@ -13455,7 +13454,6 @@
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn.valueclick.net
 0.0.0.0 cdn.vdopia.com
-0.0.0.0 cdn.viafoura.net
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viewdeos.com
 0.0.0.0 cdn.viglink.com
@@ -28701,7 +28699,6 @@
 0.0.0.0 realtime.deximedia.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 realtimeads.com
-0.0.0.0 realtimeeventfeeds.viafoura.co
 0.0.0.0 realtouchbannerwidget.aebn.net
 0.0.0.0 realtracker.com
 0.0.0.0 reapercase.com
@@ -31969,7 +31966,6 @@
 0.0.0.0 stylincom.112.2o7.net
 0.0.0.0 su.addthis.com
 0.0.0.0 suavalds.com
-0.0.0.0 sub.viafoura.co
 0.0.0.0 subaruofamerica.112.2o7.net
 0.0.0.0 subchat.net
 0.0.0.0 submit.zapr.in
