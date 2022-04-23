@@ -219,7 +219,6 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -29238,7 +29237,6 @@
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtbproxy.mgid.com
-0.0.0.0 rtbtradein.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 rtl.ivwbox.de
 0.0.0.0 rtmark.net
@@ -34410,7 +34408,6 @@
 0.0.0.0 venuswilliams.sexybabesx.com
 0.0.0.0 verallohacks.com
 0.0.0.0 verblife-3.co
-0.0.0.0 verblife-4.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
 0.0.0.0 verification.jiguang.cn
