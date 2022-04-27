@@ -1276,9 +1276,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -16320,6 +16320,7 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detectspywares.info
 0.0.0.0 detik.serving-sys.com
+0.0.0.0 deutschebahn.sc.omtrdc.net
 0.0.0.0 dev-as.cluep.com
 0.0.0.0 dev-track.adthrive.com
 0.0.0.0 dev.appboy.com
@@ -22472,6 +22473,7 @@
 0.0.0.0 ipsvr06.iperceptions.com
 0.0.0.0 ipv6.adrta.com
 0.0.0.0 ipw.metadsp.co.uk
+0.0.0.0 iqdigital.demdex.net
 0.0.0.0 iqzn-useast.adnxs.com
 0.0.0.0 iqzone.com
 0.0.0.0 ir-de.amazon-adsystem.com
@@ -29929,6 +29931,7 @@
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkclick.mobile.sina.cn
 0.0.0.0 sdkconf.msstatic.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.vrvm.com
