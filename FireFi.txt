@@ -1,4 +1,3 @@
-0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1260,26 +1259,15 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
-0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
-0.0.0.0 </head>
 0.0.0.0 </html>
-0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
-0.0.0.0 <h1>Error
-0.0.0.0 <h3>Guru
-0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
-0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
-0.0.0.0 <p>Backend
-0.0.0.0 <p>Details:
-0.0.0.0 <p>Varnish
-0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1288,6 +1276,7 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
+0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -25414,7 +25403,6 @@
 0.0.0.0 my.iheartradio.com
 0.0.0.0 my.iwon.com
 0.0.0.0 my.mobfox.com
-0.0.0.0 my.rtmark.net
 0.0.0.0 my.statcounter.com
 0.0.0.0 my.surveypopups.com
 0.0.0.0 my.trackjs.com
@@ -27447,7 +27435,6 @@
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.net.akadns.net
-0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.servebom.com
 0.0.0.0 pixel.shareaholic.com
 0.0.0.0 pixel.sitescout.com
@@ -29097,7 +29084,6 @@
 0.0.0.0 rocket-galaxy.net
 0.0.0.0 rocket-league-lounge.com
 0.0.0.0 rocketfuel.com
-0.0.0.0 rocketreach.co
 0.0.0.0 rocksmith2014.sharezips.info
 0.0.0.0 rocksmith2014edition.sharezips.net
 0.0.0.0 rodale.d1.sc.omtrdc.net
@@ -31519,7 +31505,6 @@
 0.0.0.0 static.pxlad.io
 0.0.0.0 static.quantcount.com
 0.0.0.0 static.realmediadigital.com
-0.0.0.0 static.rocketreach.co
 0.0.0.0 static.rqmob.com
 0.0.0.0 static.scanscout.com
 0.0.0.0 static.scroll.com
