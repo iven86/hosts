@@ -1,3 +1,4 @@
+0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -1259,15 +1260,26 @@
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9fingers.com
+0.0.0.0 <!DOCTYPE
 0.0.0.0 </body>
+0.0.0.0 </head>
 0.0.0.0 </html>
+0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
+0.0.0.0 <h1>Error
+0.0.0.0 <h3>Guru
+0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
+0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
+0.0.0.0 <p>Details:
+0.0.0.0 <p>Varnish
+0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -1276,7 +1288,6 @@
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
-0.0.0.0 Timed
 0.0.0.0 \
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -14862,7 +14873,6 @@
 0.0.0.0 conversions.adaptv.advertising.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.clickmeter.com
-0.0.0.0 convertbox.com
 0.0.0.0 convertexperiments.com.edgekey.net
 0.0.0.0 convertingtraffic.com
 0.0.0.0 conviva.com
@@ -18721,7 +18731,6 @@
 0.0.0.0 free-clubpenguin.org
 0.0.0.0 free-codes.info
 0.0.0.0 free-counter.co.uk
-0.0.0.0 free-counters.co.uk
 0.0.0.0 free-csgo-skin.com
 0.0.0.0 free-dominos.co.uk
 0.0.0.0 free-ebookdownloads.com
@@ -30439,6 +30448,7 @@
 0.0.0.0 shelleylalonde.com
 0.0.0.0 shellez.com
 0.0.0.0 sher.index.hu
+0.0.0.0 shermore.info
 0.0.0.0 sherylcrow.sexybabesx.com
 0.0.0.0 shhort.com
 0.0.0.0 shifty-hack.com
@@ -35151,7 +35161,6 @@
 0.0.0.0 wirecomic.com
 0.0.0.0 wiregirl.us.intellitxt.com
 0.0.0.0 wireless.ign.us.intellitxt.com
-0.0.0.0 wirelesseuropebalmy.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
 0.0.0.0 wisepops.com
