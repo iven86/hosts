@@ -22338,6 +22338,7 @@
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 interchangecorporation.122.2o7.net
+0.0.0.0 intercom-clicks.com
 0.0.0.0 intergi.com
 0.0.0.0 interia.hit.gemius.pl
 0.0.0.0 interland.122.2o7.net
@@ -24476,6 +24477,7 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.ariba.com
+0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.autobytel.com
 0.0.0.0 metrics.automobilemag.com
 0.0.0.0 metrics.autotrader.co.uk
