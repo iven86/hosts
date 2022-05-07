@@ -219,6 +219,7 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
+0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -1269,7 +1270,7 @@
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
 0.0.0.0 <h1>Error
-0.0.0.0 <h3>Error
+0.0.0.0 <h3>Guru
 0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
@@ -8875,6 +8876,7 @@
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyticssystems.net
 0.0.0.0 analyticsv2.dol.gr
+0.0.0.0 analytik.xyz
 0.0.0.0 anamovies.com
 0.0.0.0 anandabazar.pushengage.com
 0.0.0.0 anapixel.elmundo.es
@@ -23744,9 +23746,6 @@
 0.0.0.0 longinglettuce.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
-0.0.0.0 look.djfiln.com
-0.0.0.0 look.ichlnk.com
-0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -30393,7 +30392,6 @@
 0.0.0.0 shadowfiend.info
 0.0.0.0 shadyscamband.pw
 0.0.0.0 shakegoldfish.com
-0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakira.sexybabesx.com
 0.0.0.0 shakytaste.com
@@ -33885,7 +33883,6 @@
 0.0.0.0 udm.ri9.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
-0.0.0.0 udncoeln.com
 0.0.0.0 udp.push.mob.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 uefa.pushwoosh.com
