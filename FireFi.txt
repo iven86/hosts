@@ -9357,7 +9357,6 @@
 0.0.0.0 api.saypromo.net
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 api.sdkbox.com
-0.0.0.0 api.sec.miui.com
 0.0.0.0 api.secondstreetapp.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.sentiance.com
@@ -14726,7 +14725,6 @@
 0.0.0.0 config.emb-api.com
 0.0.0.0 config.hiido.com
 0.0.0.0 config.inmobi.com
-0.0.0.0 config.ioam.de
 0.0.0.0 config.mobilegamestats.com
 0.0.0.0 config.otherlevels.com
 0.0.0.0 config.parsely.com
@@ -16033,9 +16031,6 @@
 0.0.0.0 data.iappmobi.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.logentries.com
-0.0.0.0 data.mistat.india.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mob.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
@@ -17721,7 +17716,6 @@
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.lbesecapi.com
-0.0.0.0 events.mapbox.com
 0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.personali.com
 0.0.0.0 events.privy.com
@@ -21016,7 +21010,6 @@
 0.0.0.0 havamedia.net
 0.0.0.0 havasedge.com
 0.0.0.0 haveuheard.us.intellitxt.com
-0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hax4u.org
 0.0.0.0 haxsite.com
 0.0.0.0 hay-day-hack.com
@@ -22494,7 +22487,6 @@
 0.0.0.0 ironforcehack.com
 0.0.0.0 ironhidecheats.com
 0.0.0.0 ironroguecostume.sharezips.info
-0.0.0.0 irqs.ioam.de
 0.0.0.0 irr.ru
 0.0.0.0 irs01.com
 0.0.0.0 is-apple.com
