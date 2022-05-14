@@ -18709,7 +18709,6 @@
 0.0.0.0 france.id108979765-7218227704.w595505.com
 0.0.0.0 france.id130546622-3701190119.w595505.com
 0.0.0.0 france.id131337608-5036396713.w595505.com
-0.0.0.0 franklybundlecarver.com
 0.0.0.0 frankychamp.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 freakads.com
@@ -21492,7 +21491,6 @@
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
-0.0.0.0 huezzcjskf.site
 0.0.0.0 huffingtonpost.crwdcntrl.net
 0.0.0.0 hugde.adocean.pl
 0.0.0.0 hugefileshare.com
@@ -34650,7 +34648,6 @@
 0.0.0.0 volvelle.tech
 0.0.0.0 vomba.com
 0.0.0.0 vombashots.com
-0.0.0.0 voodoo-ads.io
 0.0.0.0 voodoofiles.us.intellitxt.com
 0.0.0.0 vooney.com
 0.0.0.0 vor.cc
