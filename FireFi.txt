@@ -1270,7 +1270,7 @@
 0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
 0.0.0.0 <h1>Error
-0.0.0.0 <h3>Error
+0.0.0.0 <h3>Guru
 0.0.0.0 <head>
 0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
@@ -14051,6 +14051,7 @@
 0.0.0.0 click.cision.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.dealshark.com
+0.0.0.0 click.e.progressive.com
 0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
