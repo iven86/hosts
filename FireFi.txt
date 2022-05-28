@@ -1593,7 +1593,6 @@
 0.0.0.0 about-sexy.com
 0.0.0.0 about.com
 0.0.0.0 about.netster.com
-0.0.0.0 aboutads.gr
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 aboutmonitoring.com
 0.0.0.0 aboutstat.com
@@ -33291,7 +33290,6 @@
 0.0.0.0 tracker.bang.com
 0.0.0.0 tracker.bannerflow.com
 0.0.0.0 tracker.beezup.com
-0.0.0.0 tracker.bongngo.bar
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdnbye.com
