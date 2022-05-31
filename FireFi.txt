@@ -33676,6 +33676,7 @@
 0.0.0.0 trustedtrack.com
 0.0.0.0 trustfolders.com
 0.0.0.0 trustgauge.com
+0.0.0.0 trustpid.com
 0.0.0.0 trustx.org
 0.0.0.0 trw12.com
 0.0.0.0 try.abtasty.com
