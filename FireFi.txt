@@ -18552,6 +18552,7 @@
 0.0.0.0 flixgen.5gbfree.com
 0.0.0.0 flmtelechargers.com
 0.0.0.0 floodprincipal.com
+0.0.0.0 floweryflavor.com
 0.0.0.0 flowgo.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
@@ -23073,7 +23074,6 @@
 0.0.0.0 l4.zedo.com
 0.0.0.0 l5.zedo.com
 0.0.0.0 l6.zedo.com
-0.0.0.0 l6b587txj1.com
 0.0.0.0 l7.zedo.com
 0.0.0.0 l8.zedo.com
 0.0.0.0 la-match.taboola.com
@@ -23726,6 +23726,9 @@
 0.0.0.0 longinglettuce.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
+0.0.0.0 look.djfiln.com
+0.0.0.0 look.ichlnk.com
+0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -33848,6 +33851,7 @@
 0.0.0.0 udm.ri9.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
+0.0.0.0 udncoeln.com
 0.0.0.0 udp.push.mob.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 uefa.pushwoosh.com
@@ -34175,7 +34179,6 @@
 0.0.0.0 users.ucmore.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 ush.adspecs.yahoo.com
-0.0.0.0 usherprayer.com
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 usmsad.tom.com
 0.0.0.0 usnews-d.openx.net
