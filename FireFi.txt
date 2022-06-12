@@ -8589,6 +8589,7 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazon.freecodes.us
 0.0.0.0 amazon.hackingfree.com
+0.0.0.0 amazonaax.com
 0.0.0.0 amazoncards.dlcodes.com
 0.0.0.0 amazoncodefree.com
 0.0.0.0 amazoncodes.freehacks.pw
@@ -34175,6 +34176,7 @@
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.api.jeeng.com
 0.0.0.0 users.effectivebrand.com
+0.0.0.0 users.maxcluster.net
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 users.ucmore.com
 0.0.0.0 usersegment.wpdigital.net
