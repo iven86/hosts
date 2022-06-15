@@ -32178,6 +32178,7 @@
 0.0.0.0 t.beanstalkdata.com
 0.0.0.0 t.blogreaderproject.com
 0.0.0.0 t.bmmetrix.com
+0.0.0.0 t.carta.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.chartboost.com
