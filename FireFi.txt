@@ -13819,6 +13819,7 @@
 0.0.0.0 chickensstation.com
 0.0.0.0 chidc2.outbrain.org
 0.0.0.0 childhe.com
+0.0.0.0 childlikecrowd.com
 0.0.0.0 chilki.bonypin.com
 0.0.0.0 chinarisingexpansiondlc.sharezips.net
 0.0.0.0 chinsnakes.com
@@ -17183,6 +17184,7 @@
 0.0.0.0 edge.uniconsent.com
 0.0.0.0 edge.yieldify.com
 0.0.0.0 edgeio.com
+0.0.0.0 edgexads.com
 0.0.0.0 edgydownload.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edipresse.adocean.pl
@@ -17298,6 +17300,7 @@
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-hack.com
+0.0.0.0 email-links.crowdfireapp.com
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
