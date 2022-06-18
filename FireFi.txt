@@ -16768,6 +16768,7 @@
 0.0.0.0 dp.specificclick.net
 0.0.0.0 dp2.specificclick.net
 0.0.0.0 dpbolvw.net
+0.0.0.0 dpgawov.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dprevs.com
@@ -19336,7 +19337,6 @@
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.xdrig.com
-0.0.0.0 ga87z2o.com
 0.0.0.0 gaae.hit.gemius.pl
 0.0.0.0 gaat.hit.gemius.pl
 0.0.0.0 gaba.hit.gemius.pl
@@ -21793,6 +21793,7 @@
 0.0.0.0 ihavetohave.net
 0.0.0.0 ihc.112.2o7.net
 0.0.0.0 iheaven.us
+0.0.0.0 ihogaetw.com
 0.0.0.0 ilamba.com
 0.0.0.0 ilb.pns.kt.com
 0.0.0.0 ilbanner.com
