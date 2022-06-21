@@ -9265,7 +9265,6 @@
 0.0.0.0 api.hdtv.letv.com
 0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
-0.0.0.0 api.iadvize.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.immomo.com
 0.0.0.0 api.indicative.com
@@ -13092,7 +13091,6 @@
 0.0.0.0 cd.adition.com
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdata.carambo.la
-0.0.0.0 cdlc.iadvize.com
 0.0.0.0 cdm.connatix.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-1.convertexperiments.com
@@ -14448,7 +14446,6 @@
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
-0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 coc.extafiles.com
 0.0.0.0 coc.validcheats.com
 0.0.0.0 cocaskins.net
@@ -19218,7 +19215,6 @@
 0.0.0.0 frtyb.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
-0.0.0.0 fstatic.iadvize.com
 0.0.0.0 ftpclean.com
 0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 ftpgood.com
@@ -20957,7 +20953,6 @@
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hakerr.pl
 0.0.0.0 hal9000.redintelligence.net
-0.0.0.0 halc.iadvize.com
 0.0.0.0 halleberry.sexybabesx.com
 0.0.0.0 halliimp.com
 0.0.0.0 hallmarkibmcom.112.2o7.net
@@ -23172,7 +23167,6 @@
 0.0.0.0 lbn.ru
 0.0.0.0 lbnyj2.bidder.owneriq.net
 0.0.0.0 lbsjc.bidder.owneriq.net
-0.0.0.0 lc.iadvize.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 lcf.cmplay.cmcm.com
@@ -31456,7 +31450,6 @@
 0.0.0.0 static.hqdrugs.com
 0.0.0.0 static.httpool.com.mk
 0.0.0.0 static.hyprmx.com
-0.0.0.0 static.iadvize.com
 0.0.0.0 static.ifa.camads.net
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
@@ -37338,7 +37331,6 @@
 0.0.0.0 xmlpitstop.us.intellitxt.com
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xmoneymakers.com
-0.0.0.0 xmpp-ha-alb.iadvize.com
 0.0.0.0 xn--c-irm.money
 0.0.0.0 xn--cgo500-iz7b.com
 0.0.0.0 xn--cgoempre-71a8356e.com
