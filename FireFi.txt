@@ -14046,6 +14046,7 @@
 0.0.0.0 click.cheaperforyou.com
 0.0.0.0 click.cheapstuff.com
 0.0.0.0 click.cision.com
+0.0.0.0 click.classmates.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.e.progressive.com
@@ -32170,6 +32171,7 @@
 0.0.0.0 t.afftrackr.com
 0.0.0.0 t.ants.vn
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.armchairbookie.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
@@ -32189,6 +32191,7 @@
 0.0.0.0 t.dtscout.com
 0.0.0.0 t.effectivemeasure.net
 0.0.0.0 t.eloqua.com
+0.0.0.0 t.email.superdrug.com
 0.0.0.0 t.en25.com
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.firstpromoter.com
@@ -32213,6 +32216,7 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.news.browns-restaurants.co.uk
+0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
 0.0.0.0 t.p.mybuys.com
@@ -33177,6 +33181,7 @@
 0.0.0.0 track.futureshop.ca
 0.0.0.0 track.game18click.com
 0.0.0.0 track.gawker.com
+0.0.0.0 track.homejobs.careers
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.idtargeting.com
@@ -33196,6 +33201,7 @@
 0.0.0.0 track.miro.com
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.moreniche.com
+0.0.0.0 track.nationalgunrights.org
 0.0.0.0 track.netshelter.net
 0.0.0.0 track.oainternetservices.com
 0.0.0.0 track.omgpl.com
@@ -33618,6 +33624,7 @@
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.tidaltv.com
+0.0.0.0 trk.us-learn-teacher-poetry.xyz
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk14.logger.co.kr
@@ -33627,6 +33634,7 @@
 0.0.0.0 trkn.us
 0.0.0.0 trknths.com
 0.0.0.0 trkoptimizer.com
+0.0.0.0 trkpnt.ongage.net
 0.0.0.0 trmit.com
 0.0.0.0 trouvermotdepassefacebook.com
 0.0.0.0 troveofmystery.sharezips.info
@@ -34713,6 +34721,7 @@
 0.0.0.0 wahacondrax.iad-03.braze.com
 0.0.0.0 walemedia.com
 0.0.0.0 walgrns.112.2o7.net
+0.0.0.0 walkets.click
 0.0.0.0 walkingdead.movie24.tv
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 walla.yad2.co.il
