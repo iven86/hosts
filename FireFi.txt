@@ -27253,7 +27253,6 @@
 0.0.0.0 pietexture.com
 0.0.0.0 pillscash.com
 0.0.0.0 pilmedia.ads.visionweb.no
-0.0.0.0 pilotaffiliate.com
 0.0.0.0 pimphacks.com
 0.0.0.0 pimpinggadgets.com
 0.0.0.0 pimpout.com
@@ -34318,7 +34317,6 @@
 0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vapixel.adsafeprotected.com
 0.0.0.0 varefication.us
-0.0.0.0 variablefitness.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 varsityads.directtrack.com
 0.0.0.0 vast-events-staging.inner-active.mobi
