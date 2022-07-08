@@ -1278,7 +1278,7 @@
 0.0.0.0 <html>
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
+0.0.0.0 <p>hostname
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -13849,7 +13849,6 @@
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 chumtv.122.2o7.net
 0.0.0.0 churchdwightsizmek22033498.s.moatpixel.com
-0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 ci.beap.ad.yieldmanager.net
 0.0.0.0 ci.iasds01.com
 0.0.0.0 ci.intuit.com
@@ -18498,7 +18497,6 @@
 0.0.0.0 firingsquad.us.intellitxt.com
 0.0.0.0 first-pictures.net
 0.0.0.0 first-scr.net
-0.0.0.0 first.iovation.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstbookmark.com
 0.0.0.0 firsthack.com
