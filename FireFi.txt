@@ -14048,6 +14048,7 @@
 0.0.0.0 click.classmates.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.dealshark.com
+0.0.0.0 click.digital.metaquestmail.com
 0.0.0.0 click.e.progressive.com
 0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
@@ -28066,7 +28067,6 @@
 0.0.0.0 proximitykit.radiusnetworks.com
 0.0.0.0 proxy.softonicads.com
 0.0.0.0 prpops.com
-0.0.0.0 prsaln.com
 0.0.0.0 prscripts.com
 0.0.0.0 prsitecheck.com
 0.0.0.0 prstats.postrelease.com
