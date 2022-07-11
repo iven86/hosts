@@ -9874,6 +9874,7 @@
 0.0.0.0 assets.adspruce.com
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.adtaily.com
+0.0.0.0 assets.anzuinfra.com
 0.0.0.0 assets.appboycdn.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.bounceexchange.com
@@ -12908,6 +12909,7 @@
 0.0.0.0 capi.connatix.com
 0.0.0.0 capitaldownloads.net
 0.0.0.0 cappa.pl
+0.0.0.0 caps-server.anzu.io
 0.0.0.0 captainbicycle.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 captureimage.site
@@ -16941,6 +16943,7 @@
 0.0.0.0 dyn.ak1.cc
 0.0.0.0 dyn.naiadsystems.com
 0.0.0.0 dynad.website.bg
+0.0.0.0 dynamic-l1.anzuinfra.com
 0.0.0.0 dynamic.aol.com
 0.0.0.0 dynamic.cannedbanners.com
 0.0.0.0 dynamic.criteo.com
@@ -17338,6 +17341,7 @@
 0.0.0.0 employ26.112.2o7.net
 0.0.0.0 employment.112.2o7.net
 0.0.0.0 emptyescort.com
+0.0.0.0 emqx.anzuinfra.com
 0.0.0.0 ems2bmen.com
 0.0.0.0 emulateur3ds.com
 0.0.0.0 emulatordb.com
@@ -17691,6 +17695,7 @@
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.adwidecenter.com
 0.0.0.0 events.aerserv.com
+0.0.0.0 events.anzuinfra.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.api.vungle.com
@@ -23064,11 +23069,13 @@
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l00t.farm
+0.0.0.0 l1-1.anzu.io
 0.0.0.0 l1.britannica.com
 0.0.0.0 l1.cdn.qnsr.com
 0.0.0.0 l1.qsstats.com
 0.0.0.0 l1.zedo.com
 0.0.0.0 l2.zedo.com
+0.0.0.0 l3-2.anzuinfra.com
 0.0.0.0 l3.evidon.com
 0.0.0.0 l3.zedo.com
 0.0.0.0 l4.zedo.com
@@ -23640,6 +23647,7 @@
 0.0.0.0 logi7.xiti.com
 0.0.0.0 logi8.xiti.com
 0.0.0.0 logi9.xiti.com
+0.0.0.0 logic.anzuinfra.com
 0.0.0.0 logiciel-pour-pirater-un-compte-facebook.com
 0.0.0.0 logicielpirater.fr
 0.0.0.0 logicielslibrespirater.com
@@ -33617,6 +33625,7 @@
 0.0.0.0 trk.hot-mob.com
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.kissmetrics.com
+0.0.0.0 trk.klclick1.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.superads.cn
@@ -33858,6 +33867,7 @@
 0.0.0.0 udmserve.net
 0.0.0.0 udncoeln.com
 0.0.0.0 udp.push.mob.com
+0.0.0.0 ue.applovin.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 uefa.pushwoosh.com
 0.0.0.0 ufc-streams.com
