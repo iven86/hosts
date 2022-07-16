@@ -14301,7 +14301,6 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudcoins.biz
-0.0.0.0 cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudiq.com
 0.0.0.0 cloudmobi.net
@@ -23081,6 +23080,7 @@
 0.0.0.0 l4.zedo.com
 0.0.0.0 l5.zedo.com
 0.0.0.0 l6.zedo.com
+0.0.0.0 l6b587txj1.com
 0.0.0.0 l7.zedo.com
 0.0.0.0 l8.zedo.com
 0.0.0.0 la-match.taboola.com
