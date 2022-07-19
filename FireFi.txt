@@ -8653,6 +8653,7 @@
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 amp.st.sageanalyst.net
 0.0.0.0 ampedmedia.directtrack.com
+0.0.0.0 ampleclick.com
 0.0.0.0 amplify-com-mktg.imgix.net
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
