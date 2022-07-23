@@ -4883,7 +4883,6 @@
 0.0.0.0 ads.fatvine.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.fema-bg.com
-0.0.0.0 ads.femmefab.nl
 0.0.0.0 ads.ferianc.com
 0.0.0.0 ads.fiat-bg.org
 0.0.0.0 ads.fidelity-media.com
@@ -6195,7 +6194,6 @@
 0.0.0.0 ads2.ero-advertising.com
 0.0.0.0 ads2.evz.ro
 0.0.0.0 ads2.exhedra.com
-0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.focalink.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.gratisware.com
@@ -7222,7 +7220,6 @@
 0.0.0.0 adsrvmedia.adk2x.com
 0.0.0.0 adsrvr.com
 0.0.0.0 adsrvr.org
-0.0.0.0 adsrvus.com
 0.0.0.0 adss.comeadvertisewithus.com
 0.0.0.0 adss.hookupbucks.com
 0.0.0.0 adssl-dc2.adtech.de
@@ -26724,7 +26721,6 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
-0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
