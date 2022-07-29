@@ -12404,6 +12404,7 @@
 0.0.0.0 bravenet.com
 0.0.0.0 bravenet.com.invalid
 0.0.0.0 braze.com
+0.0.0.0 braze.eu
 0.0.0.0 brazzers-hack.com
 0.0.0.0 brazzersfreeaccount.net
 0.0.0.0 breadbalance.com
