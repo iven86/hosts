@@ -4883,6 +4883,7 @@
 0.0.0.0 ads.fatvine.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.fema-bg.com
+0.0.0.0 ads.femmefab.nl
 0.0.0.0 ads.ferianc.com
 0.0.0.0 ads.fiat-bg.org
 0.0.0.0 ads.fidelity-media.com
@@ -6194,6 +6195,7 @@
 0.0.0.0 ads2.ero-advertising.com
 0.0.0.0 ads2.evz.ro
 0.0.0.0 ads2.exhedra.com
+0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.focalink.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.gratisware.com
@@ -8586,7 +8588,6 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazon.freecodes.us
 0.0.0.0 amazon.hackingfree.com
-0.0.0.0 amazonaax.com
 0.0.0.0 amazoncards.dlcodes.com
 0.0.0.0 amazoncodefree.com
 0.0.0.0 amazoncodes.freehacks.pw
@@ -16767,7 +16768,6 @@
 0.0.0.0 dp.specificclick.net
 0.0.0.0 dp2.specificclick.net
 0.0.0.0 dpbolvw.net
-0.0.0.0 dpgawov.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dprevs.com
@@ -21792,7 +21792,6 @@
 0.0.0.0 ihavetohave.net
 0.0.0.0 ihc.112.2o7.net
 0.0.0.0 iheaven.us
-0.0.0.0 ihogaetw.com
 0.0.0.0 ilamba.com
 0.0.0.0 ilb.pns.kt.com
 0.0.0.0 ilbanner.com
@@ -26723,6 +26722,7 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
+0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
