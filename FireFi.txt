@@ -18603,6 +18603,7 @@
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 fonts.ad.admitad.com
 0.0.0.0 foo.cosmocode.de
+0.0.0.0 foo.software
 0.0.0.0 footai.es
 0.0.0.0 footballgamespot.com
 0.0.0.0 footerroll.admedia.com
