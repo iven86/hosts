@@ -5376,7 +5376,6 @@
 0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.privatefeeds.com
-0.0.0.0 ads.privatemedia.co
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.proboards.com
 0.0.0.0 ads.profitsdeluxe.com
@@ -14932,7 +14931,6 @@
 0.0.0.0 cori.pw
 0.0.0.0 coriolis.accuweather.com
 0.0.0.0 corm.hit.gemius.pl
-0.0.0.0 cormast.com
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 cortex.vidora.com
 0.0.0.0 cosmopolitads.com
@@ -24106,7 +24104,6 @@
 0.0.0.0 mathtag.com.edgekey.net
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.crossiety.app
-0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
@@ -27397,6 +27394,7 @@
 0.0.0.0 pixel.adtelligent.com
 0.0.0.0 pixel.advanseads.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel.blog.hu
 0.0.0.0 pixel.bounceexchange.com
 0.0.0.0 pixel.captora.com
