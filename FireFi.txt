@@ -3916,7 +3916,6 @@
 0.0.0.0 adconion.com
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcontent2.allaccess.com.ph
-0.0.0.0 adcontrolsolutions.net
 0.0.0.0 adcount.hollywood.com
 0.0.0.0 adcounter.theglobeandmail.com
 0.0.0.0 adcreative.naver.com
@@ -14933,7 +14932,6 @@
 0.0.0.0 corm.hit.gemius.pl
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 cortex.vidora.com
-0.0.0.0 cosmopolitads.com
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 costargroup.112.2o7.net
 0.0.0.0 cotads.adscale.de
@@ -25468,7 +25466,6 @@
 0.0.0.0 mypowermall.com
 0.0.0.0 mypsncodes.com
 0.0.0.0 myreff.com
-0.0.0.0 mysafeads.com
 0.0.0.0 mysavings.directtrack.com
 0.0.0.0 myscreen.com
 0.0.0.0 mysearch-engine.com
@@ -31995,7 +31992,6 @@
 0.0.0.0 superstats.com
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com
-0.0.0.0 supertracking.net
 0.0.0.0 supply.colossusssp.com
 0.0.0.0 supply.inmobicdn.net
 0.0.0.0 support--icloud.online
@@ -32680,7 +32676,6 @@
 0.0.0.0 thechive-d.openx.net
 0.0.0.0 theclanofhack.com
 0.0.0.0 theclashroyale.com
-0.0.0.0 theclickads.com
 0.0.0.0 thecoolpics.com
 0.0.0.0 thecounter.com
 0.0.0.0 thedailyreward.com
