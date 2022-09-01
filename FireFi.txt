@@ -31031,7 +31031,6 @@
 0.0.0.0 socialgameshelp.com
 0.0.0.0 socialhacks.net
 0.0.0.0 socialitelife.us.intellitxt.com
-0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 socialspark.com
 0.0.0.0 socialwarshack.org
 0.0.0.0 socialwebhacks.com
