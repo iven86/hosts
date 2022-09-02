@@ -10190,6 +10190,7 @@
 0.0.0.0 av1.xdrig.com
 0.0.0.0 avadvance.com
 0.0.0.0 avalon.topbucks.com
+0.0.0.0 avalonalbum.com
 0.0.0.0 avantcase.com
 0.0.0.0 avantlink.com
 0.0.0.0 avast.d0wnloadz.net
@@ -10228,6 +10229,7 @@
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
 0.0.0.0 awesomeagreement.com
+0.0.0.0 awesomeattack.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -11262,6 +11264,7 @@
 0.0.0.0 bitskins.com.ua
 0.0.0.0 bittenandbound.us.intellitxt.com
 0.0.0.0 bizad.nikkeibp.co.jp
+0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizbor.popunder.ru
 0.0.0.0 bizible.com
 0.0.0.0 bizjournals-d.openx.net
@@ -12993,6 +12996,7 @@
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
 0.0.0.0 calmcactus.com
+0.0.0.0 calypsocapsule.com
 0.0.0.0 cam.demdex.net
 0.0.0.0 camaro-s.com
 0.0.0.0 cameron.sexybabesx.com
@@ -14839,6 +14843,7 @@
 0.0.0.0 comscoreresearch.com
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0 concernedcondition.com
+0.0.0.0 concerneddrink.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 conde.amp.permutive.com
@@ -15021,6 +15026,7 @@
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convrse.media
+0.0.0.0 cookchalk.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
@@ -15519,6 +15525,7 @@
 0.0.0.0 crosspromo.hutchgames.io
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion.weplayer.cc
+0.0.0.0 crowdedmass.com
 0.0.0.0 crowdgravity.com
 0.0.0.0 crsky2004.yeah.net
 0.0.0.0 crsspxl.com
@@ -15929,6 +15936,7 @@
 0.0.0.0 curse-talker.com
 0.0.0.0 cursevoice.epickeys.com
 0.0.0.0 curtaincows.com
+0.0.0.0 curvedsquirrel.com
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 custom.plausible.io
@@ -18137,6 +18145,7 @@
 0.0.0.0 fairfax.demdex.net
 0.0.0.0 fairfaxau.d1.sc.omtrdc.net
 0.0.0.0 fairfaxau.demdex.net
+0.0.0.0 fairfeeling.com
 0.0.0.0 fairhack.com
 0.0.0.0 faker322.pro
 0.0.0.0 faker322.ru
@@ -19412,6 +19421,7 @@
 0.0.0.0 furry-drop.net
 0.0.0.0 furrydrop.com
 0.0.0.0 furrydrop.net
+0.0.0.0 furryfork.com
 0.0.0.0 furycheats.com
 0.0.0.0 fuse.forbes.com
 0.0.0.0 fuseops.com
@@ -20153,6 +20163,7 @@
 0.0.0.0 glbgcl.logsss.com
 0.0.0.0 glean.pop6.com
 0.0.0.0 glispa.com
+0.0.0.0 glisteningsign.com
 0.0.0.0 glitchez.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
@@ -21207,6 +21218,7 @@
 0.0.0.0 healthyconsumerlifestyles.com
 0.0.0.0 heap.com
 0.0.0.0 heapanalytics.com
+0.0.0.0 hearinglizards.com
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hearst.blueconic.net
 0.0.0.0 hearst.gscontxt.net
@@ -21249,6 +21261,7 @@
 0.0.0.0 helltrades.com
 0.0.0.0 helltraffic.com
 0.0.0.0 help.mysearch.com
+0.0.0.0 helpcollar.com
 0.0.0.0 helpdesk.marketbill.com
 0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 helpfilez.com
@@ -22850,6 +22863,7 @@
 0.0.0.0 jossstone.sexybabesx.com
 0.0.0.0 jounlock.com
 0.0.0.0 journalregistercompany.122.2o7.net
+0.0.0.0 joyoussurprise.com
 0.0.0.0 jozmovie.xyz
 0.0.0.0 jp-g2.gumgum.com
 0.0.0.0 jp-gmtdmp.mookie1.com
@@ -23585,6 +23599,7 @@
 0.0.0.0 livejasminfreecredits.com
 0.0.0.0 livejasminhack.net
 0.0.0.0 livelylaugh.com
+0.0.0.0 livelyreward.com
 0.0.0.0 livemovie.me.uk
 0.0.0.0 livenation.122.2o7.net
 0.0.0.0 livenation.sp1.convertro.com
@@ -23953,6 +23968,7 @@
 0.0.0.0 luckyxdrop.com
 0.0.0.0 lucyliu.sexybabesx.com
 0.0.0.0 lucypinder.sexybabesx.com
+0.0.0.0 ludicrousarch.com
 0.0.0.0 luksona.popunder.ru
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lunarads.com
@@ -24097,6 +24113,8 @@
 0.0.0.0 magic-exchange.com
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magicadz.co
+0.0.0.0 magicaljoin.com
+0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
 0.0.0.0 magicchance.com
 0.0.0.0 magiccheats.com
@@ -24996,6 +25014,7 @@
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
 0.0.0.0 mintrace.com
+0.0.0.0 minuterhythm.com
 0.0.0.0 miraclespin.com
 0.0.0.0 mirageads.net
 0.0.0.0 mirrorcoukcelebs.skimlinks.com
@@ -26092,6 +26111,7 @@
 0.0.0.0 nossl.policeone.com
 0.0.0.0 nosurveyhack.net
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 nothingunit.com
 0.0.0.0 notification-box.com
 0.0.0.0 notification.lionmobi.com
 0.0.0.0 notification.webengage.com
@@ -27093,6 +27113,7 @@
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 parchedangle.com
 0.0.0.0 parchedsofa.com
+0.0.0.0 pardonpopular.com
 0.0.0.0 parishilton.sexybabesx.com
 0.0.0.0 park.above.com
 0.0.0.0 park.ireit.com
@@ -27376,6 +27397,7 @@
 0.0.0.0 phpadsnew.wn.com
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
+0.0.0.0 physicalbikes.com
 0.0.0.0 physorg.uk.intellitxt.com
 0.0.0.0 physorg.us.intellitxt.com
 0.0.0.0 pi.ispot.tv
@@ -27644,6 +27666,7 @@
 0.0.0.0 place-telechargement.com
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 placed.com
+0.0.0.0 placeframe.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 placeofentertainment.org
 0.0.0.0 placeplay.com
@@ -27730,6 +27753,7 @@
 0.0.0.0 plsoyfoods.112.2o7.net
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
+0.0.0.0 pluckytaste.com
 0.0.0.0 plug.plugerr.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugins.blueconic.net
@@ -28327,6 +28351,7 @@
 0.0.0.0 psvitaromsgames.com
 0.0.0.0 psx.ign.us.intellitxt.com
 0.0.0.0 psy.mtree.com
+0.0.0.0 psychedelicchess.com
 0.0.0.0 pt-gmtdmp.mookie1.com
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
@@ -29143,6 +29168,7 @@
 0.0.0.0 ringierag.112.2o7.net
 0.0.0.0 ringierro.adocean.pl
 0.0.0.0 ringierrs.adocean.pl
+0.0.0.0 ringplant.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 ringsurf.us.intellitxt.com
 0.0.0.0 ringtone.com
@@ -29842,6 +29868,8 @@
 0.0.0.0 scanscout.com
 0.0.0.0 scanwith.us.intellitxt.com
 0.0.0.0 scarcesign.com
+0.0.0.0 scaredsnakes.com
+0.0.0.0 scaredswing.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scarlett.sexybabesx.com
@@ -30963,6 +30991,7 @@
 0.0.0.0 smetrics1.experian.com
 0.0.0.0 smf.spring-tns.net
 0.0.0.0 smibs.112.2o7.net
+0.0.0.0 smilingcattle.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smitegemsgiveaway.com
 0.0.0.0 smoggysnakes.com
@@ -30985,6 +31014,7 @@
 0.0.0.0 snagajob.122.2o7.net
 0.0.0.0 snaggy-screen.su
 0.0.0.0 snaggy.su
+0.0.0.0 snailscart.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 snapabug.appspot.com
@@ -31184,6 +31214,7 @@
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spike669.popunder.ru
+0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinmedia-d.openx.net
@@ -31192,6 +31223,7 @@
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 spire.aarki.net
 0.0.0.0 spirebaboon.com
+0.0.0.0 spitefulstop.com
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.hit.gemius.pl
 0.0.0.0 spl.zeotap.com
@@ -32757,6 +32789,7 @@
 0.0.0.0 testdata.coremetrics.com
 0.0.0.0 testerl.pw
 0.0.0.0 testgamesjob.com
+0.0.0.0 teststocking.com
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 texasholdemfreechips.com
 0.0.0.0 texasholdempoker.prod-review.info
@@ -34088,7 +34121,9 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unathleticmag.us.intellitxt.com
+0.0.0.0 unbecomingbikes.com
 0.0.0.0 uncoached.us.intellitxt.com
+0.0.0.0 understoodocean.com
 0.0.0.0 undertone.com
 0.0.0.0 undertonenetworks.com
 0.0.0.0 undetectedcheats.com
@@ -34793,6 +34828,7 @@
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 voxcustomdfp152282307853.s.moatpixel.com
 0.0.0.0 voxvidint960547728228.s.moatpixel.com
+0.0.0.0 voyagepotato.com
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vpaid.springserve.com
 0.0.0.0 vpc.altitude-arena.com
@@ -37570,6 +37606,7 @@
 0.0.0.0 yahoo.ivwbox.de
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yamaha.122.2o7.net
+0.0.0.0 yamstamp.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yatrk.xyz
 0.0.0.0 yavteam.com
