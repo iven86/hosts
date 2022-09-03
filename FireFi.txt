@@ -10493,7 +10493,6 @@
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.grupos.com.br
 0.0.0.0 banner.hpmdnetwork.ru
-0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.intermega.com.br
 0.0.0.0 banner.inyourpocket.com
@@ -20593,7 +20592,6 @@
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
 0.0.0.0 grunerandjahr.112.2o7.net
-0.0.0.0 grychiphidu.com
 0.0.0.0 grypers.eu
 0.0.0.0 gs.spylog.ru
 0.0.0.0 gscontxt.net
