@@ -22477,7 +22477,6 @@
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intellitxt.com
-0.0.0.0 intentsify.io
 0.0.0.0 interaction.apester.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
@@ -33543,6 +33542,7 @@
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intentsify.io
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.jetpackdigital.com
