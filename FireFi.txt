@@ -10098,6 +10098,7 @@
 0.0.0.0 atspace.de.intellitxt.com
 0.0.0.0 attackfile.com
 0.0.0.0 attr.appsflyer.com
+0.0.0.0 attractionbanana.com
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attractivevideos.com
 0.0.0.0 attribution.report
@@ -25513,6 +25514,7 @@
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 multipops.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 mundanenail.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 mundo-vantagens.com
 0.0.0.0 munky.com
@@ -27847,7 +27849,6 @@
 0.0.0.0 poollivetourhack.net
 0.0.0.0 poolpartypromotion.com
 0.0.0.0 pop-bazar.com
-0.0.0.0 pop-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 pop-over.powered-by.securewebsiteaccess.com
 0.0.0.0 pop-under.ru
 0.0.0.0 pop.popuptoast.com
@@ -29669,15 +29670,12 @@
 0.0.0.0 s2s.aniview.com
 0.0.0.0 s2s.mparticle.com
 0.0.0.0 s2s.singular.net
-0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.addthis.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.cnzz.com
 0.0.0.0 s3.hit.stat.pl
 0.0.0.0 s3.hit.stat24.com
 0.0.0.0 s3.lightboxcdn.com
-0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.pageranktop.com
 0.0.0.0 s3.shinystat.com
 0.0.0.0 s3.shinystat.it
