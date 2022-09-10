@@ -11242,7 +11242,6 @@
 0.0.0.0 bins.lop.com
 0.0.0.0 binweevilsdoshcodes.com
 0.0.0.0 biopharmastore.com
-0.0.0.0 biosda.com
 0.0.0.0 bioshockinfinite.sharezips.info
 0.0.0.0 biosmagazine.uk.intellitxt.com
 0.0.0.0 bip.presage.io
