@@ -17891,7 +17891,6 @@
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kumulos.com
-0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.personali.com
@@ -25178,7 +25177,6 @@
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.juicyads.com
-0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 mobile.measurelib.com
 0.0.0.0 mobile.mng-ads.com
@@ -29089,7 +29087,6 @@
 0.0.0.0 requestfordownloads.com
 0.0.0.0 res-push.ad.jiguang.cn
 0.0.0.0 res.adplus.co.id
-0.0.0.0 res.cloudinary.com
 0.0.0.0 res.levexis.com
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
