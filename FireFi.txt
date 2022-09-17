@@ -26022,7 +26022,6 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
-0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -32495,7 +32494,6 @@
 0.0.0.0 t.mtagmonetizationc.com
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.neodatagroup.com
-0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
@@ -32959,6 +32957,7 @@
 0.0.0.0 thechive-d.openx.net
 0.0.0.0 theclanofhack.com
 0.0.0.0 theclashroyale.com
+0.0.0.0 theclickads.com
 0.0.0.0 thecoolpics.com
 0.0.0.0 thecounter.com
 0.0.0.0 thedailyreward.com
