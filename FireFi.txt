@@ -12798,7 +12798,6 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 c.marketgid.com
 0.0.0.0 c.mgid.com
-0.0.0.0 c.msn.com
 0.0.0.0 c.mtro.co
 0.0.0.0 c.mydirectweb.com
 0.0.0.0 c.mystat-in.net
