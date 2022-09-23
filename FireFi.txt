@@ -22130,7 +22130,6 @@
 0.0.0.0 images.perf-serving.com
 0.0.0.0 images.rambler.ru
 0.0.0.0 images.revcontent.com
-0.0.0.0 images.salsify.com
 0.0.0.0 images.secureserver.net
 0.0.0.0 images.sexlist.com
 0.0.0.0 images.skenzo.com
