@@ -13713,7 +13713,6 @@
 0.0.0.0 cdns.au1.gigya.com
 0.0.0.0 cdns.eu1.gigya.com
 0.0.0.0 cdns.eu2.gigya.com
-0.0.0.0 cdns.gigya.com
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
 0.0.0.0 cdns.us1.gigya.com
@@ -25844,7 +25843,6 @@
 0.0.0.0 nativeroll.tv
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nats4.fetishbucks.com
-0.0.0.0 naturalbid.com
 0.0.0.0 naturalhealth.us.intellitxt.com
 0.0.0.0 natureworldnews.us.intellitxt.com
 0.0.0.0 naughtyadserve.com
@@ -32510,6 +32508,7 @@
 0.0.0.0 t.mtagmonetizationc.com
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.neodatagroup.com
+0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
