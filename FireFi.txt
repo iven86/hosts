@@ -10148,7 +10148,6 @@
 0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
 0.0.0.0 au.www.sabela.com
-0.0.0.0 au1.gigya.com
 0.0.0.0 auctera.gotrackier.com
 0.0.0.0 auction-banner.unityads.unity3d.com
 0.0.0.0 auction-load.unityads.unity3d.com
@@ -13710,15 +13709,8 @@
 0.0.0.0 cdnp1.yieldoptimizer.com
 0.0.0.0 cdnpixel.simpli.fi
 0.0.0.0 cdns.amgdgt.com
-0.0.0.0 cdns.au1.gigya.com
-0.0.0.0 cdns.eu1.gigya.com
-0.0.0.0 cdns.eu2.gigya.com
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
-0.0.0.0 cdns.us1.gigya.com
-0.0.0.0 cdns1.gigya.com
-0.0.0.0 cdns2.gigya.com
-0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstoremedia.com
@@ -17812,12 +17804,10 @@
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu01.nr-data.net
 0.0.0.0 eu1-spiky.wzrkt.com
-0.0.0.0 eu1.gigya.com
 0.0.0.0 eu1.heatmap.it
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eu1.snoobi.com
 0.0.0.0 eu1.wzrkt.com
-0.0.0.0 eu2.gigya.com
 0.0.0.0 eu2.madsone.com
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eucsgo.com
@@ -18237,9 +18227,6 @@
 0.0.0.0 farethief.com
 0.0.0.0 farm.plista.com
 0.0.0.0 farm.thinktarget.com
-0.0.0.0 farm5.eu1.gigya.com
-0.0.0.0 farm5.gigya.com
-0.0.0.0 farm5.us1.gigya.com
 0.0.0.0 farmepiccheats.elitegamershub.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farmingsimulator.dlcodes.com
@@ -23393,11 +23380,8 @@
 0.0.0.0 lazylink.us
 0.0.0.0 lb-adsdis.mng-ads.com
 0.0.0.0 lb-adsmob.mng-ads.com
-0.0.0.0 lb-d.us1.gigya.com
 0.0.0.0 lb.aatkit.com
 0.0.0.0 lb.affilae.com
-0.0.0.0 lb.au1.gigya.com
-0.0.0.0 lb.eu1.gigya.com
 0.0.0.0 lb.fruitflan.com
 0.0.0.0 lb.web-stat.com
 0.0.0.0 lb3d.tj.ijinshan.com
@@ -34450,7 +34434,6 @@
 0.0.0.0 us01.xmlsearch.findwhat.com
 0.0.0.0 us1-sdk.bluedot.io
 0.0.0.0 us1-spiky.wzrkt.com
-0.0.0.0 us1.gigya.com
 0.0.0.0 us1.siteimprove.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 us2.siteimprove.com
