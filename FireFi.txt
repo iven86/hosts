@@ -20577,7 +20577,6 @@
 0.0.0.0 grammy2014.streams24.tv
 0.0.0.0 grandeveryday.com
 0.0.0.0 grandfantasiahack.com
-0.0.0.0 grandioseguide.com
 0.0.0.0 grandtheftauto5hacks.com
 0.0.0.0 grandtheftauto5hacks.net
 0.0.0.0 grandtheftautogangsters.com
@@ -24171,7 +24170,6 @@
 0.0.0.0 magazines.sp1.convertro.com
 0.0.0.0 magic-exchange.com
 0.0.0.0 magic.cmcm.com
-0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
@@ -26815,7 +26813,6 @@
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
 0.0.0.0 opera-server.thinknearhub.com
 0.0.0.0 operationchicken.com
-0.0.0.0 operationkettle.com
 0.0.0.0 opercase.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opienetwork.com
@@ -33669,6 +33666,7 @@
 0.0.0.0 tracking.optimatic.com
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.pandoiq.com
+0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0 tracking.profitsource.net
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 tracking.publicidees.com
