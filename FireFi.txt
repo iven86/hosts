@@ -24406,6 +24406,8 @@
 0.0.0.0 mcraftaccount.com
 0.0.0.0 mcraftgiftcodes.com
 0.0.0.0 mcraftgifts.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mct.rkdms.com
 0.0.0.0 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
@@ -25271,6 +25273,7 @@
 0.0.0.0 mom.freelogs.com
 0.0.0.0 momentus.gotrackier.com
 0.0.0.0 mommyish.us.intellitxt.com
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monarchads.com
