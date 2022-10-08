@@ -10999,8 +10999,6 @@
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beacontest.cardlytics.com
-0.0.0.0 beam-ws.giraffe360.com
-0.0.0.0 beam.giraffe360.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beam.to
 0.0.0.0 beamincrease.com
@@ -24196,6 +24194,7 @@
 0.0.0.0 magazines.sp1.convertro.com
 0.0.0.0 magic-exchange.com
 0.0.0.0 magic.cmcm.com
+0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
@@ -26853,6 +26852,7 @@
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
 0.0.0.0 opera-server.thinknearhub.com
 0.0.0.0 operationchicken.com
+0.0.0.0 operationkettle.com
 0.0.0.0 opercase.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opienetwork.com
@@ -34724,7 +34724,6 @@
 0.0.0.0 venturead.com
 0.0.0.0 venuswilliams.sexybabesx.com
 0.0.0.0 verallohacks.com
-0.0.0.0 verblife-3.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
 0.0.0.0 verification.jiguang.cn
