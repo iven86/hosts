@@ -11289,6 +11289,7 @@
 0.0.0.0 bins.lop.com
 0.0.0.0 binweevilsdoshcodes.com
 0.0.0.0 biopharmastore.com
+0.0.0.0 biosda.com
 0.0.0.0 bioshockinfinite.sharezips.info
 0.0.0.0 biosmagazine.uk.intellitxt.com
 0.0.0.0 bip.presage.io
@@ -15490,6 +15491,7 @@
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crash.163.com
+0.0.0.0 crashchance.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics.com
@@ -21200,6 +21202,7 @@
 0.0.0.0 handbl.ivwbox.de
 0.0.0.0 handelsblatt.met.vgwort.de
 0.0.0.0 handelsblatt01.webtrekk.net
+0.0.0.0 handsomehose.com
 0.0.0.0 handyfield.com
 0.0.0.0 hanklist.com
 0.0.0.0 hapjes-maken.eu
@@ -26999,7 +27002,6 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
-0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
