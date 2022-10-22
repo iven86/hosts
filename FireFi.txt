@@ -22506,7 +22506,6 @@
 0.0.0.0 insightxe.pittsburghlive.com
 0.0.0.0 inskinad.com
 0.0.0.0 inskinmedia689754970364.s.moatpixel.com
-0.0.0.0 inslco.bar
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectorclick.com
 0.0.0.0 insta-hack.com
@@ -26060,6 +26059,7 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -27002,6 +27002,7 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
+0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
@@ -27558,7 +27559,6 @@
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
 0.0.0.0 ping.taplytics.com
-0.0.0.0 ping.ublock.org
 0.0.0.0 ping1.unicast.com
 0.0.0.0 pingapi.accengage.com
 0.0.0.0 pinger.ads.nexage.com
@@ -33946,7 +33946,6 @@
 0.0.0.0 trk.acotrk.com
 0.0.0.0 trk.apperol.com
 0.0.0.0 trk.atomex.net
-0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.blamads.com
