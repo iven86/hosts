@@ -15401,7 +15401,6 @@
 0.0.0.0 coxnet.112.2o7.net
 0.0.0.0 coxnetmasterglobal.112.2o7.net
 0.0.0.0 coxtv.us.intellitxt.com
-0.0.0.0 cp.abbp1.pw
 0.0.0.0 cp.oupeng.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cp16688.cn
@@ -22787,7 +22786,6 @@
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 itxt2.us.intellitxt.com
 0.0.0.0 itxt3.us.intellitxt.com
-0.0.0.0 iubzka.online
 0.0.0.0 iunlockiphone5hq.com
 0.0.0.0 iupload4you.com
 0.0.0.0 iuploadfile.com
@@ -27168,7 +27166,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.com
-0.0.0.0 pagefair.net
 0.0.0.0 pagepeels.sexmoney.com
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
@@ -33886,7 +33883,6 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trck.a8.net
 0.0.0.0 trckclck.com
-0.0.0.0 trcked.me
 0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
 0.0.0.0 tredir.go.com
@@ -33946,6 +33942,7 @@
 0.0.0.0 trk.acotrk.com
 0.0.0.0 trk.apperol.com
 0.0.0.0 trk.atomex.net
+0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.blamads.com
