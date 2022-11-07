@@ -32708,6 +32708,7 @@
 0.0.0.0 tangibleteam.com
 0.0.0.0 tango-d.openx.net
 0.0.0.0 tangomedia.112.2o7.net
+0.0.0.0 tangyamount.com
 0.0.0.0 tanki.best-hacks.net
 0.0.0.0 tankihack.best-hacks.net
 0.0.0.0 tap-cdn.rubiconproject.com
