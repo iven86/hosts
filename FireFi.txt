@@ -14246,6 +14246,7 @@
 0.0.0.0 click.cision.com
 0.0.0.0 click.classmates.com
 0.0.0.0 click.clktraker.com
+0.0.0.0 click.comm.rcibank.co.uk
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.digital.metaquestmail.com
 0.0.0.0 click.e.progressive.com
@@ -14276,6 +14277,7 @@
 0.0.0.0 click.mrrage.com
 0.0.0.0 click.mygeek.com
 0.0.0.0 click.news.vans.com
+0.0.0.0 click.nl.npr.org
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.payserve.com
 0.0.0.0 click.plista.com
@@ -32850,6 +32852,7 @@
 0.0.0.0 techworld.nl.intellitxt.com
 0.0.0.0 techzine.nl.intellitxt.com
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 tediousticket.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teen.streamate.com
 0.0.0.0 teenboobstube.com
