@@ -14352,6 +14352,7 @@
 0.0.0.0 clicks.beap.ad.yieldmanager.net
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
+0.0.0.0 clicks.eventbrite.com
 0.0.0.0 clicks.firstname.com
 0.0.0.0 clicks.mobrand.net
 0.0.0.0 clicks.mods.de
@@ -26859,7 +26860,6 @@
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
 0.0.0.0 opera-server.thinknearhub.com
 0.0.0.0 operationchicken.com
-0.0.0.0 operationkettle.com
 0.0.0.0 opercase.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opienetwork.com
