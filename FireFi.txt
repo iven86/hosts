@@ -27561,6 +27561,7 @@
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
 0.0.0.0 ping.taplytics.com
+0.0.0.0 ping.ublock.org
 0.0.0.0 ping1.unicast.com
 0.0.0.0 pingapi.accengage.com
 0.0.0.0 pinger.ads.nexage.com
