@@ -3937,6 +3937,7 @@
 0.0.0.0 adamsfilms.com
 0.0.0.0 adamsmarkhotels.com
 0.0.0.0 adan.xtendmedia.com
+0.0.0.0 adanging.blog
 0.0.0.0 adap.tv
 0.0.0.0 adapace.gotrackier.com
 0.0.0.0 adapex.io
@@ -7073,6 +7074,7 @@
 0.0.0.0 adserver.buzzfirst.com
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.cdnstream.com
+0.0.0.0 adserver.cherryfind.co.uk
 0.0.0.0 adserver.chickclick.com
 0.0.0.0 adserver.clashmusic.com
 0.0.0.0 adserver.clix.pt
@@ -7117,6 +7119,7 @@
 0.0.0.0 adserver.humanux.com
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
+0.0.0.0 adserver.industryarena.com
 0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.infotiger.com
 0.0.0.0 adserver.iprom.net
@@ -7127,6 +7130,7 @@
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver.juicybucks.com
 0.0.0.0 adserver.kissfm.ro
+0.0.0.0 adserver.kontent.com
 0.0.0.0 adserver.kontextua.com
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.lanacion.com.ar
@@ -7165,6 +7169,7 @@
 0.0.0.0 adserver.passion.com
 0.0.0.0 adserver.penthouse.com
 0.0.0.0 adserver.phatmax.net
+0.0.0.0 adserver.piksel.mk
 0.0.0.0 adserver.pl
 0.0.0.0 adserver.playtv.fr
 0.0.0.0 adserver.portalofevil.com
@@ -7210,6 +7215,7 @@
 0.0.0.0 adserver.videohub.tv
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.virtuous.co.uk
+0.0.0.0 adserver.waggonerguide.com
 0.0.0.0 adserver.webads.nl
 0.0.0.0 adserver.webmasterbond.com
 0.0.0.0 adserver.x3.hu
@@ -7232,6 +7238,7 @@
 0.0.0.0 adserver2.popdata.de
 0.0.0.0 adserver2.realtracker.com
 0.0.0.0 adserver3.realtracker.com
+0.0.0.0 adserver5b.xyz
 0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
@@ -7260,6 +7267,7 @@
 0.0.0.0 adservingfront.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
+0.0.0.0 adservio.tech
 0.0.0.0 adservone.com
 0.0.0.0 adservrs.com
 0.0.0.0 adservrs.com.edgekey.net
@@ -28914,6 +28922,7 @@
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rc.semilo.individuad.net
 0.0.0.0 rc2.dmtracker.com
+0.0.0.0 rcadserver.com
 0.0.0.0 rcci.122.2o7.net
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-images.amazon.com
@@ -29257,6 +29266,7 @@
 0.0.0.0 rewardprogram.allalla.com
 0.0.0.0 rewards.yoursitebar.com
 0.0.0.0 rewardsforpoints.info
+0.0.0.0 rexadvert.xyz
 0.0.0.0 reyden-x.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfp.fout.jp
