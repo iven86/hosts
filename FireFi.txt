@@ -8653,7 +8653,6 @@
 0.0.0.0 allteenmodel.com
 0.0.0.0 allteenvideo.com
 0.0.0.0 allthecheats.net
-0.0.0.0 alltheinternet.com
 0.0.0.0 alltheweb.ru
 0.0.0.0 alltraff.info
 0.0.0.0 alltraff.spb.ru
@@ -20362,6 +20361,7 @@
 0.0.0.0 go.pub2srv.com
 0.0.0.0 go.realvu.net
 0.0.0.0 go.redirectingat.com
+0.0.0.0 go.scmagazine.com
 0.0.0.0 go.searchanyway.com
 0.0.0.0 go.searchlock.com
 0.0.0.0 go.shareaholic.com
@@ -33684,6 +33684,7 @@
 0.0.0.0 tracking.bannerflow.com
 0.0.0.0 tracking.batanga.com
 0.0.0.0 tracking.batanga.net
+0.0.0.0 tracking.baypacketaddressepisode.makeup
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.cdiscount.com
 0.0.0.0 tracking.clickmeter.com
