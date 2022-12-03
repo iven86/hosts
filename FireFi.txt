@@ -8998,7 +8998,6 @@
 0.0.0.0 analytics.santander.co.uk
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 analytics.shareaholic.com
-0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.soup.io
@@ -24368,7 +24367,6 @@
 0.0.0.0 mathtag.com.edgekey.net
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.crossiety.app
-0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
 0.0.0.0 matt-zone.com
