@@ -8950,6 +8950,7 @@
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
+0.0.0.0 analytics.lucid.app
 0.0.0.0 analytics.ma.tune.com
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.mailmunch.co
