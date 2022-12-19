@@ -13140,6 +13140,7 @@
 0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 cartoonpornguide.com
 0.0.0.0 cartstack.com
+0.0.0.0 carvecakes.com
 0.0.0.0 cas.as.criteo.com
 0.0.0.0 cas.clickability.com
 0.0.0.0 cas.cluep.com
