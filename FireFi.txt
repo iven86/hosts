@@ -2490,7 +2490,6 @@
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emediate.se
 0.0.0.0 ad1.emule-project.org
-0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.ezcybersearch.com
 0.0.0.0 ad1.gamezone.de
 0.0.0.0 ad1.hpg.com.br
@@ -24058,7 +24057,6 @@
 0.0.0.0 lt3.hit.stat24.com
 0.0.0.0 ltgde.adocean.pl
 0.0.0.0 lucidmedia.com
-0.0.0.0 lucklayed.info
 0.0.0.0 lucky-cases.org
 0.0.0.0 lucky-loot.com
 0.0.0.0 luckybox.pro
