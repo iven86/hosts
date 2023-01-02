@@ -10035,6 +10035,7 @@
 0.0.0.0 askmen.us.intellitxt.com
 0.0.0.0 askmen2.us.intellitxt.com
 0.0.0.0 asmedia.adsupplyssl.com
+0.0.0.0 aso1.net
 0.0.0.0 asphalt8.hackfree.us
 0.0.0.0 asphalt8airborne.hackscheats.org
 0.0.0.0 asphalt8airbornehack.com
