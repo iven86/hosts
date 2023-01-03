@@ -31113,6 +31113,7 @@
 0.0.0.0 smartyads.com
 0.0.0.0 smashfree.net
 0.0.0.0 smashingsports.co
+0.0.0.0 smashquartz.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smetrics.10daily.com.au
 0.0.0.0 smetrics.aa.com
