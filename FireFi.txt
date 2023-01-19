@@ -20339,6 +20339,7 @@
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.dhs.gov
+0.0.0.0 go.dnsfilter.com
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.ezoic.net
