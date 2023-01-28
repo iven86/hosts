@@ -10021,7 +10021,6 @@
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asia.seadform.net
-0.0.0.0 asia999.website
 0.0.0.0 asian.streamate.com
 0.0.0.0 asianude.com
 0.0.0.0 asimpleinternet.com
@@ -27695,7 +27694,6 @@
 0.0.0.0 pixel.adtelligent.com
 0.0.0.0 pixel.advanseads.com
 0.0.0.0 pixel.advertising.com
-0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel.blog.hu
 0.0.0.0 pixel.bounceexchange.com
 0.0.0.0 pixel.captora.com
@@ -27885,6 +27883,7 @@
 0.0.0.0 plsoyfoods.112.2o7.net
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
+0.0.0.0 pluckytaste.com
 0.0.0.0 plug.plugerr.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugins.blueconic.net
