@@ -12605,6 +12605,7 @@
 0.0.0.0 brazzers-hack.com
 0.0.0.0 brazzersfreeaccount.net
 0.0.0.0 breadbalance.com
+0.0.0.0 breahant.site
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breakgame.org
 0.0.0.0 breakingleaks.com
@@ -17153,6 +17154,7 @@
 0.0.0.0 dubai.best-top.biz
 0.0.0.0 duiba.com.cn
 0.0.0.0 dungeonrampage.haxdo.com
+0.0.0.0 dustyhammer.com
 0.0.0.0 dustywave.com
 0.0.0.0 dvcd.info
 0.0.0.0 dvdcovers.spacash.com
@@ -24479,6 +24481,7 @@
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.effectivemeasure.net
 0.0.0.0 me.xdrig.com
+0.0.0.0 measlymiddle.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuread.com
 0.0.0.0 measuremap.com
@@ -25652,6 +25655,7 @@
 0.0.0.0 musicleaked.com
 0.0.0.0 musicmembersarea.com
 0.0.0.0 musicoffaith.aavalue.com
+0.0.0.0 muteknife.com
 0.0.0.0 muwmedia.com
 0.0.0.0 muziczion.com
 0.0.0.0 mv.outbrain.com
