@@ -1814,6 +1814,7 @@
 0.0.0.0 acegroup.net
 0.0.0.0 acemedia.info
 0.0.0.0 acemedic.com
+0.0.0.0 acemlnb.com
 0.0.0.0 acento.com
 0.0.0.0 aceshowbiz.us.intellitxt.com
 0.0.0.0 acestats.com
@@ -8961,6 +8962,7 @@
 0.0.0.0 analytics.mobile-cdn.walmart.com.akadns.net
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.momentum-institut.at
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.moz.com
 0.0.0.0 analytics.msn.com
