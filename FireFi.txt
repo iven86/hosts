@@ -10843,7 +10843,6 @@
 0.0.0.0 basdong.com
 0.0.0.0 base-cdn.admarvel.com
 0.0.0.0 baseballheroes.haxdo.com
-0.0.0.0 basebanner.com
 0.0.0.0 baselinemag.us.intellitxt.com
 0.0.0.0 basemultimedia.com
 0.0.0.0 baseofhacks.com
@@ -30490,6 +30489,7 @@
 0.0.0.0 sernoodmovies.com
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 serpens.iad.appboy.com
+0.0.0.0 serpentshampoo.com
 0.0.0.0 serv-api.target2sell.com
 0.0.0.0 serv.adspeed.com
 0.0.0.0 serv.clicksor.net
@@ -33770,7 +33770,6 @@
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.tapinfluence.com
-0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
