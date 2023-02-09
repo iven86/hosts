@@ -4549,8 +4549,10 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-b.focalink.com
+0.0.0.0 ads-backend.chaincliq.com
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads-bilek.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
@@ -4647,6 +4649,7 @@
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.ads360.com
 0.0.0.0 ads.adsbookie.com
+0.0.0.0 ads.adsbtc.fun
 0.0.0.0 ads.adscholar.com
 0.0.0.0 ads.adsfirefly.com
 0.0.0.0 ads.adshareware.net
@@ -7311,6 +7314,7 @@
 0.0.0.0 adsmart.de
 0.0.0.0 adsmart.net
 0.0.0.0 adsmart.ru
+0.0.0.0 adsmartracker.com
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmobi.com
 0.0.0.0 adsmogo.com
@@ -7344,6 +7348,7 @@
 0.0.0.0 adsplay.net
 0.0.0.0 adsponse.de
 0.0.0.0 adspot.tfgapps.com
+0.0.0.0 adspredictiv.com
 0.0.0.0 adspruce.com
 0.0.0.0 adspserving.com
 0.0.0.0 adspsp.com
@@ -17802,6 +17807,7 @@
 0.0.0.0 etargetnet.com
 0.0.0.0 eten-users.us.intellitxt.com
 0.0.0.0 eth-giving.com
+0.0.0.0 ethereum-ads.com
 0.0.0.0 ethicalads.net
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etracker.com
@@ -25155,6 +25161,7 @@
 0.0.0.0 mitsubishi.112.2o7.net
 0.0.0.0 miva.com
 0.0.0.0 mix-test.uts.ngdata.com
+0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedhacks.com
 0.0.0.0 mixedreading.com
@@ -31039,6 +31046,7 @@
 0.0.0.0 skinxtrader.com
 0.0.0.0 skipp-hacks.net
 0.0.0.0 skippyfile.com
+0.0.0.0 skisofa.com
 0.0.0.0 skroutza.skroutz.gr
 0.0.0.0 skull-bets.io
 0.0.0.0 sky.estat.com
@@ -33675,6 +33683,7 @@
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.28-91473-wbm.co.uk
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
@@ -33697,6 +33706,7 @@
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.cdiscount.com
 0.0.0.0 tracking.clickmeter.com
+0.0.0.0 tracking.concedehousingstrainnotice.hair
 0.0.0.0 tracking.conversionads.com
 0.0.0.0 tracking.craktraffic.com
 0.0.0.0 tracking.crazyegg.com
@@ -33740,6 +33750,7 @@
 0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mobileadstrk.com
+0.0.0.0 tracking.namerealopendrawflesh.makeup
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.novem.pl
 0.0.0.0 tracking.oe24.at
@@ -33752,6 +33763,7 @@
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
+0.0.0.0 tracking.playerobjectwordingbasinbank.makeup
 0.0.0.0 tracking.profitsource.net
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 tracking.publicidees.com
@@ -33778,6 +33790,7 @@
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vacationsmadeeasy.com
+0.0.0.0 tracking.vagueunlikecowerscreamforbid.hair
 0.0.0.0 tracking.validclick.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veille-referencement.com
