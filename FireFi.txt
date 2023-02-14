@@ -8558,6 +8558,7 @@
 0.0.0.0 alfreethought.org
 0.0.0.0 alfy.com
 0.0.0.0 algorix.co
+0.0.0.0 aliasanvil.com
 0.0.0.0 alibabaslots.com
 0.0.0.0 alibuba.web1000.com
 0.0.0.0 aliciakeys.sexybabesx.com
@@ -8913,6 +8914,7 @@
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.console.aws.a2z.com
+0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.digital-metric.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dnsfilter.com
@@ -11040,6 +11042,7 @@
 0.0.0.0 belointeractive.122.2o7.net
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
+0.0.0.0 benefits.sovendus.com
 0.0.0.0 benfly.net
 0.0.0.0 benget.com
 0.0.0.0 bengilani.com
@@ -30767,6 +30770,7 @@
 0.0.0.0 shim.btrll.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shiveringspot.com
 0.0.0.0 shlinks.industrybrains.com
 0.0.0.0 shockcheats.com
 0.0.0.0 shocking-news.info
