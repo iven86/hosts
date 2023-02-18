@@ -398,7 +398,6 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
-0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -18767,7 +18766,6 @@
 0.0.0.0 fix-apple-maan-error.info
 0.0.0.0 fix-files.com
 0.0.0.0 fix-system-security-virus-alert.info
-0.0.0.0 fixel.ai
 0.0.0.0 fixshort.com
 0.0.0.0 fixya.us.intellitxt.com
 0.0.0.0 fizzylabs.afftrack.com
