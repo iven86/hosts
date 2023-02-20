@@ -1273,12 +1273,12 @@
 0.0.0.0 <?xml
 0.0.0.0 <body>
 0.0.0.0 <center><h1>301\
-0.0.0.0 <center><h1>500
+0.0.0.0 <center><h1>404
 0.0.0.0 <h1>Error
 0.0.0.0 <h3>Error
 0.0.0.0 <head>
 0.0.0.0 <head><title>301\
-0.0.0.0 <head><title>500
+0.0.0.0 <head><title>404
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
