@@ -10856,6 +10856,7 @@
 0.0.0.0 basdong.com
 0.0.0.0 base-cdn.admarvel.com
 0.0.0.0 baseballheroes.haxdo.com
+0.0.0.0 basebanner.com
 0.0.0.0 baselinemag.us.intellitxt.com
 0.0.0.0 basemultimedia.com
 0.0.0.0 baseofhacks.com
@@ -14300,6 +14301,7 @@
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.inn.co.il
 0.0.0.0 click.ipc.ru
+0.0.0.0 click.justwatch.com
 0.0.0.0 click.jve.net
 0.0.0.0 click.khingtracking.com
 0.0.0.0 click.kmindex.ru
@@ -21883,6 +21885,7 @@
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.jp
 0.0.0.0 i3.putags.com
+0.0.0.0 i305175.net
 0.0.0.0 i4u.us.intellitxt.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 ia.iinfo.cz
@@ -25998,6 +26001,7 @@
 0.0.0.0 needforspeedrivals.sharezips.info
 0.0.0.0 needforspeedrivalsdownload.com
 0.0.0.0 needforspeedrivalspoints.sharezips.info
+0.0.0.0 needlessnorth.com
 0.0.0.0 needyneedle.com
 0.0.0.0 negadbg.hit.gemius.pl
 0.0.0.0 neighborlywatch.com
@@ -27254,6 +27258,7 @@
 0.0.0.0 pageurl.btrll.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paidstats.com
+0.0.0.0 painstakingpickle.com
 0.0.0.0 pakcircles.com
 0.0.0.0 pakjevoordeel.net
 0.0.0.0 pal-item.us.intellitxt.com
@@ -27757,7 +27762,6 @@
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
-0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.indieclick.com
