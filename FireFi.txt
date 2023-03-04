@@ -398,6 +398,7 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
+0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -10036,6 +10037,7 @@
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asia.seadform.net
+0.0.0.0 asia999.website
 0.0.0.0 asian.streamate.com
 0.0.0.0 asianude.com
 0.0.0.0 asimpleinternet.com
@@ -14282,6 +14284,7 @@
 0.0.0.0 click.comm.rcibank.co.uk
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.digital.metaquestmail.com
+0.0.0.0 click.discord.com
 0.0.0.0 click.e.bbcmail.co.uk
 0.0.0.0 click.e.progressive.com
 0.0.0.0 click.em.blizzard.com
@@ -29960,6 +29963,7 @@
 0.0.0.0 sacrificedsecretspack.sharezips.info
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
+0.0.0.0 sadloaf.com
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
