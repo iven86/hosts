@@ -27946,7 +27946,6 @@
 0.0.0.0 plsoyfoods.112.2o7.net
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
-0.0.0.0 pluckytaste.com
 0.0.0.0 plug.plugerr.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugins.blueconic.net
@@ -30831,6 +30830,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shiveringspot.com
+0.0.0.0 shiverscissors.com
 0.0.0.0 shlinks.industrybrains.com
 0.0.0.0 shockcheats.com
 0.0.0.0 shocking-news.info
@@ -33853,6 +33853,7 @@
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.tapinfluence.com
+0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
