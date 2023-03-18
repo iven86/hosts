@@ -2229,7 +2229,6 @@
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.mobiuspace.net
-0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.motiveinteractive.com
@@ -4472,7 +4471,6 @@
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 adp.ikena.com
 0.0.0.0 adpacks.com
-0.0.0.0 adpenguin.biz
 0.0.0.0 adpepper.com
 0.0.0.0 adpepper.dk
 0.0.0.0 adpepper.nl
@@ -33964,6 +33962,7 @@
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
 0.0.0.0 trailblazers.122.2o7.net
+0.0.0.0 traildelsfars.com
 0.0.0.0 traileraddict.us.intellitxt.com
 0.0.0.0 trainercrackkey.com
 0.0.0.0 trainerfree.com
