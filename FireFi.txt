@@ -8921,7 +8921,6 @@
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.digital-metric.com
 0.0.0.0 analytics.disneyinternational.com
-0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.emarketer.com
@@ -17633,7 +17632,6 @@
 0.0.0.0 engage-network.influencemobile.com
 0.0.0.0 engage.com
 0.0.0.0 engage.commander1.com
-0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.marketo.com
 0.0.0.0 engage.vzw.com
 0.0.0.0 engage.webshrinker.com
@@ -20381,7 +20379,6 @@
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.dhs.gov
-0.0.0.0 go.dnsfilter.com
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.ezoic.net
