@@ -35419,6 +35419,7 @@
 0.0.0.0 wellmadefrog.com
 0.0.0.0 wellmediaonline.com
 0.0.0.0 weltonline01.webtrekk.net
+0.0.0.0 welved.com
 0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
