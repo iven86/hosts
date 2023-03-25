@@ -7360,7 +7360,6 @@
 0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
-0.0.0.0 adsroller.com
 0.0.0.0 adsrv.adplus.co.id
 0.0.0.0 adsrv.advanced-television.tv
 0.0.0.0 adsrv.bangbros.com
@@ -33614,7 +33613,6 @@
 0.0.0.0 track.futureshop.ca
 0.0.0.0 track.game18click.com
 0.0.0.0 track.gawker.com
-0.0.0.0 track.homejobs.careers
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.idtargeting.com
