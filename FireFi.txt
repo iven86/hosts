@@ -14316,6 +14316,7 @@
 0.0.0.0 click.mygeek.com
 0.0.0.0 click.news.vans.com
 0.0.0.0 click.nl.npr.org
+0.0.0.0 click.nvgaming.nvidia.com
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.payserve.com
 0.0.0.0 click.plista.com
