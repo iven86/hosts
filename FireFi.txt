@@ -7360,6 +7360,7 @@
 0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
+0.0.0.0 adsroller.com
 0.0.0.0 adsrv.adplus.co.id
 0.0.0.0 adsrv.advanced-television.tv
 0.0.0.0 adsrv.bangbros.com
@@ -20202,7 +20203,6 @@
 0.0.0.0 getyourcheats.com
 0.0.0.0 getyourfree.org
 0.0.0.0 gfacebook.in
-0.0.0.0 gfcim5.gq
 0.0.0.0 gfiled.com
 0.0.0.0 gflinks.industrybrains.com
 0.0.0.0 gfx.webmasterprofitcenter.com
