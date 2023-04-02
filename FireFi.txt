@@ -1181,6 +1181,7 @@
 0.0.0.0 7adpower.com
 0.0.0.0 7art-screensavers.com
 0.0.0.0 7bpeople.com
+0.0.0.0 7cnq.net
 0.0.0.0 7come11casino.com
 0.0.0.0 7days.ws
 0.0.0.0 7f077.v.fwmrm.net
@@ -21530,6 +21531,7 @@
 0.0.0.0 hits.netgeography.net
 0.0.0.0 hits.nextstat.com
 0.0.0.0 hits.puls.lv
+0.0.0.0 hits.sh
 0.0.0.0 hits.spylog.com
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hits.truehits.in.th
