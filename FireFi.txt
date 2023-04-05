@@ -20811,6 +20811,7 @@
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 guannan.3322.net
 0.0.0.0 guard.mob.com
+0.0.0.0 guardeddirection.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guardian.amp.permutive.com
 0.0.0.0 guardianapps.co.uk
