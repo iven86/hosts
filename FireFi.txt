@@ -32596,7 +32596,6 @@
 0.0.0.0 t.afftrackr.com
 0.0.0.0 t.ants.vn
 0.0.0.0 t.appsflyer.com
-0.0.0.0 t.armchairbookie.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
