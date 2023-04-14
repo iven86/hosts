@@ -298,7 +298,6 @@
 0.0.0.0 123counter.superstats.com
 0.0.0.0 123counts.com
 0.0.0.0 123found.com
-0.0.0.0 123freeavatars.com
 0.0.0.0 123go.net
 0.0.0.0 123invention.com
 0.0.0.0 123keno.com
