@@ -7433,6 +7433,7 @@
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adt.m7z.net
 0.0.0.0 adt.xdrig.com
+0.0.0.0 adt598.com
 0.0.0.0 adtactics.com
 0.0.0.0 adtag-or2-697022674.us-west-2.elb.amazonaws.com
 0.0.0.0 adtag.ad.smaato.net
@@ -17464,7 +17465,6 @@
 0.0.0.0 edragoncityhack.com
 0.0.0.0 edsa.122.2o7.net
 0.0.0.0 edskes.com.site-id.nl
-0.0.0.0 educationdynamics.com
 0.0.0.0 educationmanagementl.tt.omtrdc.net
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
@@ -17825,6 +17825,7 @@
 0.0.0.0 esty.com
 0.0.0.0 esxemulator.com
 0.0.0.0 et-eus.w.inmobi.com
+0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.eulerian.net
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 et.mobadvent.com
@@ -35491,6 +35492,7 @@
 0.0.0.0 widget.crowdignite.com
 0.0.0.0 widget.da.us.criteo.com
 0.0.0.0 widget.da1.vip.prod.criteo.com
+0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.engageya.com
 0.0.0.0 widget.eu.criteo.com
 0.0.0.0 widget.fitanalytics.com
