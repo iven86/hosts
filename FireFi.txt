@@ -4572,7 +4572,6 @@
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-i.focalink.com
 0.0.0.0 ads-instrument.focalink.com
-0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0 ads-links.com
@@ -7243,7 +7242,6 @@
 0.0.0.0 adserver2.popdata.de
 0.0.0.0 adserver2.realtracker.com
 0.0.0.0 adserver3.realtracker.com
-0.0.0.0 adserver5b.xyz
 0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
@@ -17756,7 +17754,6 @@
 0.0.0.0 eremedia.112.2o7.net
 0.0.0.0 ericablasberg.sexybabesx.com
 0.0.0.0 erie.smartage.net
-0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
 0.0.0.0 erofan.com
 0.0.0.0 erosvillage.com
