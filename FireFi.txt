@@ -4505,6 +4505,7 @@
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-i.focalink.com
 0.0.0.0 ads-instrument.focalink.com
+0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-links.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -13366,7 +13367,6 @@
 0.0.0.0 cdn.orbengine.com
 0.0.0.0 cdn.otherlevels.com
 0.0.0.0 cdn.p-n.io
-0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.pardot.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.permutive.app
@@ -23811,7 +23811,6 @@
 0.0.0.0 magazines.sp1.convertro.com
 0.0.0.0 magic-exchange.com
 0.0.0.0 magic.cmcm.com
-0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
