@@ -5577,7 +5577,6 @@
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.snowball.com
-0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialreach.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.sockshots.com
@@ -23811,6 +23810,7 @@
 0.0.0.0 magazines.sp1.convertro.com
 0.0.0.0 magic-exchange.com
 0.0.0.0 magic.cmcm.com
+0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
@@ -24880,7 +24880,6 @@
 0.0.0.0 mobisla.com
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 mobperads.net
 0.0.0.0 mobpowertech.com
 0.0.0.0 mobstac.com
 0.0.0.0 mobvista.com
