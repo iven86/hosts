@@ -5063,7 +5063,6 @@
 0.0.0.0 ads.grokads.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.groupcommerce.com
-0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.grupozeta.es
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
@@ -10129,7 +10128,6 @@
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
 0.0.0.0 awesomeagreement.com
-0.0.0.0 awesomeattack.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -11145,7 +11143,6 @@
 0.0.0.0 bitskins.com.ua
 0.0.0.0 bittenandbound.us.intellitxt.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizbor.popunder.ru
 0.0.0.0 bizible.com
 0.0.0.0 bizjournals-d.openx.net
@@ -21059,7 +21056,6 @@
 0.0.0.0 highschoolstoryhack.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 highwaystech.co
-0.0.0.0 hilariouscap.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 hilaryduff.sexybabesx.com
 0.0.0.0 hilaryswank.sexybabesx.com
@@ -21216,7 +21212,6 @@
 0.0.0.0 home.hit.stat24.com
 0.0.0.0 homedepot.tt.omtrdc.net
 0.0.0.0 homelycrown.com
-0.0.0.0 homelysleep.com
 0.0.0.0 homem-shopping.com
 0.0.0.0 homepageking.de
 0.0.0.0 homepjlconline.com.112.2o7.net
@@ -23218,6 +23213,7 @@
 0.0.0.0 lin-d.openx.net
 0.0.0.0 lindsay.sexybabesx.com
 0.0.0.0 link-booster.de
+0.0.0.0 link.axios.com
 0.0.0.0 link.bannersystem.cz
 0.0.0.0 link.ixs1.net
 0.0.0.0 link.krxd.net
@@ -23812,7 +23808,6 @@
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
-0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
 0.0.0.0 magicchance.com
 0.0.0.0 magiccheats.com
@@ -25406,7 +25401,6 @@
 0.0.0.0 naomiwatts.sexybabesx.com
 0.0.0.0 napi.lanistaads.com
 0.0.0.0 nappyattack.com
-0.0.0.0 naradxb.com
 0.0.0.0 narwhal.mobidia.com
 0.0.0.0 nascardigitalsap.d2.sc.omtrdc.net
 0.0.0.0 nasdaq.122.2o7.net
@@ -27663,7 +27657,6 @@
 0.0.0.0 presentation-atl1.turn.com
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 presentationtracking.netflix.com
-0.0.0.0 presentbedroom.com
 0.0.0.0 presentskins.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 prestigehackforghosts.dlcodes.com
@@ -28471,6 +28464,7 @@
 0.0.0.0 realtracker.com
 0.0.0.0 reapercase.com
 0.0.0.0 reason7crack.com
+0.0.0.0 rebelhen.com
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
@@ -30591,7 +30585,6 @@
 0.0.0.0 snagajob.122.2o7.net
 0.0.0.0 snaggy-screen.su
 0.0.0.0 snaggy.su
-0.0.0.0 snailscart.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 snapabug.appspot.com
@@ -30799,7 +30792,6 @@
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 spire.aarki.net
 0.0.0.0 spirebaboon.com
-0.0.0.0 spitefulstop.com
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.hit.gemius.pl
 0.0.0.0 spl.zeotap.com
@@ -32340,7 +32332,6 @@
 0.0.0.0 testdata.coremetrics.com
 0.0.0.0 testerl.pw
 0.0.0.0 testgamesjob.com
-0.0.0.0 teststocking.com
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 texasholdemfreechips.com
 0.0.0.0 texasholdempoker.prod-review.info
@@ -33649,7 +33640,6 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unathleticmag.us.intellitxt.com
-0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominglamp.com
 0.0.0.0 uncoached.us.intellitxt.com
 0.0.0.0 understoodocean.com
@@ -37276,7 +37266,6 @@
 0.0.0.0 z166o1s1kfkha8gsnfm9gq.82435.com
 0.0.0.0 z2.zedo.com
 0.0.0.0 z2jakqoshx.com
-0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 z5x.net
 0.0.0.0 za-cdn.effectivemeasure.net
 0.0.0.0 za-gmtdmp.mookie1.com
