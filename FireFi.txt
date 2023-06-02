@@ -18653,7 +18653,6 @@
 0.0.0.0 free-amazongift-cards.com
 0.0.0.0 free-android-hack.com
 0.0.0.0 free-apple-iphone.net
-0.0.0.0 free-banners.com
 0.0.0.0 free-clubpenguin.com
 0.0.0.0 free-clubpenguin.org
 0.0.0.0 free-codes.info
