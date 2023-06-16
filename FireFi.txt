@@ -13342,6 +13342,7 @@
 0.0.0.0 cdn.mochiads.com
 0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.mookie1.com
+0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mplxtms.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.my-pc-cleaner.org
@@ -25365,6 +25366,7 @@
 0.0.0.0 n.thestar.com
 0.0.0.0 n149adserv.com
 0.0.0.0 n180adserv.com
+0.0.0.0 n2.mouseflow.com
 0.0.0.0 n2.smartyads.com
 0.0.0.0 n214adserv.com
 0.0.0.0 n24se.nuggad.net
@@ -25906,6 +25908,7 @@
 0.0.0.0 o1.inviziads.com
 0.0.0.0 o2.eyereturn.com
 0.0.0.0 o2.hit.gemius.pl
+0.0.0.0 o2.mouseflow.com
 0.0.0.0 o239315.com
 0.0.0.0 o2adpl.hit.gemius.pl
 0.0.0.0 o333o.com
