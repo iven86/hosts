@@ -8928,7 +8928,6 @@
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticssystems.net
 0.0.0.0 analyticsv2.dol.gr
-0.0.0.0 analytik.xyz
 0.0.0.0 anamovies.com
 0.0.0.0 anapixel.elmundo.es
 0.0.0.0 anapixel.marca.com
@@ -14294,7 +14293,6 @@
 0.0.0.0 clnks.co
 0.0.0.0 clock-desktop.com
 0.0.0.0 clock.atticasports.com
-0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 clomgiriwil.com
 0.0.0.0 closedcows.com
@@ -28442,6 +28440,7 @@
 0.0.0.0 readersdigest.tt.omtrdc.net
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
+0.0.0.0 readingopera.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
 0.0.0.0 reagroup.122.2o7.net
