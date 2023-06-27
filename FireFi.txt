@@ -23239,6 +23239,7 @@
 0.0.0.0 links-and-traffic.com
 0.0.0.0 links-ranking.de
 0.0.0.0 links.crackportal.com
+0.0.0.0 links.email.crunchbase.com
 0.0.0.0 links.industrybrains.com
 0.0.0.0 links.outster.com
 0.0.0.0 links.services.disqus.com
@@ -33647,6 +33648,7 @@
 0.0.0.0 ums.adtechus.com
 0.0.0.0 umtrack.com
 0.0.0.0 un-accident-video.jibonerareknamtaka.com
+0.0.0.0 unaccountablepie.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unathleticmag.us.intellitxt.com
