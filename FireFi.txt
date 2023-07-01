@@ -14697,6 +14697,7 @@
 0.0.0.0 comscoreresearch.com
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0 concernedcondition.com
+0.0.0.0 concerneddrink.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condeconsumermarketing.112.2o7.net
@@ -14871,6 +14872,7 @@
 0.0.0.0 convertingtraffic.com
 0.0.0.0 conviva.com
 0.0.0.0 convrse.media
+0.0.0.0 cookchalk.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
@@ -20862,7 +20864,6 @@
 0.0.0.0 hackzonne.net
 0.0.0.0 hackzs.com
 0.0.0.0 hades.getsocial.im
-0.0.0.0 hadskiz.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hakerr.pl
 0.0.0.0 hal9000.redintelligence.net
@@ -24545,6 +24546,7 @@
 0.0.0.0 metrics.worldmarket.com
 0.0.0.0 metrics.zillow.com
 0.0.0.0 metricscollector.lp.xcal.tv
+0.0.0.0 metricswave.com
 0.0.0.0 metrilo.com
 0.0.0.0 metriweb.be
 0.0.0.0 metropcs.mobileposse.com
@@ -30792,6 +30794,7 @@
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spike669.popunder.ru
+0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinmedia-d.openx.net
@@ -33159,7 +33162,6 @@
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
 0.0.0.0 tracking22.com
-0.0.0.0 trackingfestival.com
 0.0.0.0 trackingmaster.co.cc
 0.0.0.0 trackingmode.com
 0.0.0.0 trackingsoft.com
