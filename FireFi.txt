@@ -37359,6 +37359,7 @@
 0.0.0.0 zionia.com
 0.0.0.0 ziploaded.com
 0.0.0.0 zipmulti.com
+0.0.0.0 zippingcare.com
 0.0.0.0 zippydownloads.com
 0.0.0.0 zippyshares.biz
 0.0.0.0 zirve100.com
