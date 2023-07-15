@@ -10126,7 +10126,6 @@
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
 0.0.0.0 awesomeagreement.com
-0.0.0.0 awesomeattack.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -11142,7 +11141,6 @@
 0.0.0.0 bitskins.com.ua
 0.0.0.0 bittenandbound.us.intellitxt.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizbor.popunder.ru
 0.0.0.0 bizible.com
 0.0.0.0 bizjournals-d.openx.net
@@ -21060,7 +21058,6 @@
 0.0.0.0 highschoolstoryhack.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 highwaystech.co
-0.0.0.0 hilariouscap.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 hilaryduff.sexybabesx.com
 0.0.0.0 hilaryswank.sexybabesx.com
@@ -21217,7 +21214,6 @@
 0.0.0.0 home.hit.stat24.com
 0.0.0.0 homedepot.tt.omtrdc.net
 0.0.0.0 homelycrown.com
-0.0.0.0 homelysleep.com
 0.0.0.0 homem-shopping.com
 0.0.0.0 homepageking.de
 0.0.0.0 homepjlconline.com.112.2o7.net
@@ -23815,7 +23811,6 @@
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
-0.0.0.0 magicalmonth.com
 0.0.0.0 magiccase.net
 0.0.0.0 magicchance.com
 0.0.0.0 magiccheats.com
@@ -27669,7 +27664,6 @@
 0.0.0.0 presentation-atl1.turn.com
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 presentationtracking.netflix.com
-0.0.0.0 presentbedroom.com
 0.0.0.0 presentskins.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 prestigehackforghosts.dlcodes.com
@@ -28447,7 +28441,6 @@
 0.0.0.0 readersdigest.tt.omtrdc.net
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
-0.0.0.0 readingopera.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
 0.0.0.0 reagroup.122.2o7.net
@@ -30598,7 +30591,6 @@
 0.0.0.0 snagajob.122.2o7.net
 0.0.0.0 snaggy-screen.su
 0.0.0.0 snaggy.su
-0.0.0.0 snailscart.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 snapabug.appspot.com
@@ -30797,7 +30789,6 @@
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spike669.popunder.ru
-0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinmedia-d.openx.net
@@ -30806,7 +30797,6 @@
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 spire.aarki.net
 0.0.0.0 spirebaboon.com
-0.0.0.0 spitefulstop.com
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.hit.gemius.pl
 0.0.0.0 spl.zeotap.com
@@ -32349,7 +32339,6 @@
 0.0.0.0 testdata.coremetrics.com
 0.0.0.0 testerl.pw
 0.0.0.0 testgamesjob.com
-0.0.0.0 teststocking.com
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 texasholdemfreechips.com
 0.0.0.0 texasholdempoker.prod-review.info
@@ -33339,7 +33328,6 @@
 0.0.0.0 trk.atomex.net
 0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
-0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.blamads.com
 0.0.0.0 trk.cetrk.com
 0.0.0.0 trk.clinch.co
@@ -33659,7 +33647,6 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unathleticmag.us.intellitxt.com
-0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominglamp.com
 0.0.0.0 uncoached.us.intellitxt.com
 0.0.0.0 understoodocean.com
