@@ -34101,7 +34101,6 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
-0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
