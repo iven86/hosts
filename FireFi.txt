@@ -1249,9 +1249,10 @@
 0.0.0.0 <p>Varnish
 0.0.0.0 <p>hostname
 0.0.0.0 <title>503
-0.0.0.0 =
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
+0.0.0.0 Forbidden</h1></center>
+0.0.0.0 Forbidden</title></head>
 0.0.0.0 Found</title>
 0.0.0.0 HTML
 0.0.0.0 Malvertising\
@@ -13657,7 +13658,6 @@
 0.0.0.0 chapmanmediagroup.com
 0.0.0.0 chargecracker.com
 0.0.0.0 charlizetheron.sexybabesx.com
-0.0.0.0 charset="utf-8">
 0.0.0.0 chart.advinion.com
 0.0.0.0 chart.dk
 0.0.0.0 chart.superstats.com
@@ -15982,7 +15982,6 @@
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
 0.0.0.0 dat.funheroic.com
-0.0.0.0 data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_ogq+KzZcnlp5fO/ZGNRUQ9nVuhzSU1WVsdr9TccF9Xa1NYqGHp0Fk+Lc5HuxuvcyM+lF+7YJ5l8KEuqXxsueYQ=="
 0.0.0.0 data-beacons.s-onetag.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
@@ -17259,14 +17258,12 @@
 0.0.0.0 em.gad-network.com
 0.0.0.0 em.pc-on-internet.com
 0.0.0.0 em1.yoursantander.co.uk
-0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-hack.com
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
 0.0.0.0 email-links.crowdfireapp.com
 0.0.0.0 email-open.adtidy.net
 0.0.0.0 email-open.adtidy.org
-0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
 0.0.0.0 emaildireto.com.br
@@ -21372,7 +21369,6 @@
 0.0.0.0 html.wnbc.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 html5.gamemonetize.com
-0.0.0.0 html>
 0.0.0.0 htmlcenter.us.intellitxt.com
 0.0.0.0 htmldialer.parisvoyeur.com
 0.0.0.0 htmlhubing.xyz
@@ -21617,7 +21613,6 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 id527347220-7229513996.p250632.com
 0.0.0.0 id608939235-5535903207.o239315.com
-0.0.0.0 id="target"
 0.0.0.0 idaplay.com
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
@@ -25396,7 +25391,6 @@
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
 0.0.0.0 naj22.proasdf.com
-0.0.0.0 name="viewport"
 0.0.0.0 nameadmininc.com
 0.0.0.0 namedia.com
 0.0.0.0 namimedia.com
@@ -28445,7 +28439,6 @@
 0.0.0.0 readersdigest.tt.omtrdc.net
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
-0.0.0.0 readingopera.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
 0.0.0.0 reagroup.122.2o7.net
@@ -28603,8 +28596,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 reklame.unwired-i.net
 0.0.0.0 reklamer.com.ua
-0.0.0.0 rel="icon"
-0.0.0.0 rel="preconnect"
 0.0.0.0 relap.io
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-ba.toboads.com
@@ -30891,7 +30882,6 @@
 0.0.0.0 sr.rlcdn.com
 0.0.0.0 sr2.liveperson.net
 0.0.0.0 srbijacafe.org
-0.0.0.0 src="/js/parking.2.106.5.js"></script>
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 srng.net
 0.0.0.0 srtb.msn.com
