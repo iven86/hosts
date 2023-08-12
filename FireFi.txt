@@ -1249,7 +1249,6 @@
 0.0.0.0 <p>Varnish
 0.0.0.0 <p>hostname
 0.0.0.0 <title>503
-0.0.0.0 =
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Found</title>
@@ -9194,7 +9193,6 @@
 0.0.0.0 ap.www.sabela.com
 0.0.0.0 apac-sg-ad-track.aralego.com
 0.0.0.0 apap.filminstan.pw
-0.0.0.0 apathetictheory.com
 0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apc.socdm.com
 0.0.0.0 apcoi.com
@@ -13658,7 +13656,6 @@
 0.0.0.0 chapmanmediagroup.com
 0.0.0.0 chargecracker.com
 0.0.0.0 charlizetheron.sexybabesx.com
-0.0.0.0 charset="utf-8">
 0.0.0.0 chart.advinion.com
 0.0.0.0 chart.dk
 0.0.0.0 chart.superstats.com
@@ -14698,7 +14695,6 @@
 0.0.0.0 comscoreresearch.com
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0 concernedcondition.com
-0.0.0.0 concerneddrink.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condeconsumermarketing.112.2o7.net
@@ -14873,7 +14869,6 @@
 0.0.0.0 convertingtraffic.com
 0.0.0.0 conviva.com
 0.0.0.0 convrse.media
-0.0.0.0 cookchalk.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
@@ -15983,7 +15978,6 @@
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
 0.0.0.0 dat.funheroic.com
-0.0.0.0 data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_ogq+KzZcnlp5fO/ZGNRUQ9nVuhzSU1WVsdr9TccF9Xa1NYqGHp0Fk+Lc5HuxuvcyM+lF+7YJ5l8KEuqXxsueYQ=="
 0.0.0.0 data-beacons.s-onetag.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
@@ -16136,7 +16130,6 @@
 0.0.0.0 de17a.com
 0.0.0.0 deadpangate.com
 0.0.0.0 deadpanmarble.com
-0.0.0.0 deadpantruck.com
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
@@ -16167,7 +16160,6 @@
 0.0.0.0 deerhunter2014cheat.com
 0.0.0.0 deezerpremiumplusfree.com
 0.0.0.0 defaulthacks.com
-0.0.0.0 defectivesun.com
 0.0.0.0 defencelab.com
 0.0.0.0 defendyourpc.com
 0.0.0.0 defenza.com
@@ -21371,7 +21363,6 @@
 0.0.0.0 html.wnbc.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 html5.gamemonetize.com
-0.0.0.0 html>
 0.0.0.0 htmlcenter.us.intellitxt.com
 0.0.0.0 htmldialer.parisvoyeur.com
 0.0.0.0 htmlhubing.xyz
@@ -21616,7 +21607,6 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 id527347220-7229513996.p250632.com
 0.0.0.0 id608939235-5535903207.o239315.com
-0.0.0.0 id="target"
 0.0.0.0 idaplay.com
 0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
@@ -25396,7 +25386,6 @@
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
 0.0.0.0 naj22.proasdf.com
-0.0.0.0 name="viewport"
 0.0.0.0 nameadmininc.com
 0.0.0.0 namedia.com
 0.0.0.0 namimedia.com
@@ -28602,8 +28591,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 reklame.unwired-i.net
 0.0.0.0 reklamer.com.ua
-0.0.0.0 rel="icon"
-0.0.0.0 rel="preconnect"
 0.0.0.0 relap.io
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-ba.toboads.com
@@ -30795,7 +30782,6 @@
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spike669.popunder.ru
-0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinmedia-d.openx.net
@@ -30890,7 +30876,6 @@
 0.0.0.0 sr.rlcdn.com
 0.0.0.0 sr2.liveperson.net
 0.0.0.0 srbijacafe.org
-0.0.0.0 src="/js/parking.2.106.5.js"></script>
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 srng.net
 0.0.0.0 srtb.msn.com
