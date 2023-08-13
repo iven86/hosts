@@ -10875,6 +10875,7 @@
 0.0.0.0 bertelwissenprod.122.2o7.net
 0.0.0.0 beseen.com
 0.0.0.0 besidehacks.com
+0.0.0.0 bespoke.iln8.net
 0.0.0.0 best-ads.com
 0.0.0.0 best-cheat.org
 0.0.0.0 best-cheats24.com
@@ -21936,6 +21937,7 @@
 0.0.0.0 imp.double.net
 0.0.0.0 imp.emxdgt.com
 0.0.0.0 imp.euroads.no
+0.0.0.0 imp.i312864.net
 0.0.0.0 imp.optaim.com
 0.0.0.0 imp.rfp.fout.jp
 0.0.0.0 imp.startappservice.com
@@ -23904,6 +23906,7 @@
 0.0.0.0 marketron.com
 0.0.0.0 marketworksinc.122.2o7.net
 0.0.0.0 marksandspencer.122.2o7.net
+0.0.0.0 marlowpillow.sjv.io
 0.0.0.0 marmalade.adthrive.com
 0.0.0.0 maroon5.streams24.tv
 0.0.0.0 maroonspider.com
@@ -26750,6 +26753,7 @@
 0.0.0.0 papi.mynativeplatform.com
 0.0.0.0 par.vip.prod.criteo.com
 0.0.0.0 par.vip.prod.criteo.net
+0.0.0.0 parachutehome.sjv.io
 0.0.0.0 parade.122.2o7.net
 0.0.0.0 paradiseofhacks.com
 0.0.0.0 paradoxfactor.com
@@ -27663,6 +27667,7 @@
 0.0.0.0 prettyboring.us.intellitxt.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
+0.0.0.0 prf.hn
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg3429.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
@@ -32937,6 +32942,7 @@
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.smaato.net
 0.0.0.0 track.software-codes.com
+0.0.0.0 track.spe.schoolmessenger.com
 0.0.0.0 track.superad2.com.sg
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tend.io
