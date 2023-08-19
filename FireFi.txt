@@ -9195,6 +9195,7 @@
 0.0.0.0 ap.www.sabela.com
 0.0.0.0 apac-sg-ad-track.aralego.com
 0.0.0.0 apap.filminstan.pw
+0.0.0.0 apathetictheory.com
 0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apc.socdm.com
 0.0.0.0 apcoi.com
@@ -16133,6 +16134,7 @@
 0.0.0.0 de17a.com
 0.0.0.0 deadpangate.com
 0.0.0.0 deadpanmarble.com
+0.0.0.0 deadpantruck.com
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
@@ -16163,6 +16165,7 @@
 0.0.0.0 deerhunter2014cheat.com
 0.0.0.0 deezerpremiumplusfree.com
 0.0.0.0 defaulthacks.com
+0.0.0.0 defectivesun.com
 0.0.0.0 defencelab.com
 0.0.0.0 defendyourpc.com
 0.0.0.0 defenza.com
@@ -32999,7 +33002,6 @@
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdnbye.com
-0.0.0.0 tracker.comunidadmarriott.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.engageclick.com
@@ -34105,6 +34107,7 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
+0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
@@ -34529,7 +34532,6 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weatherbug.adsbynimbus.com
 0.0.0.0 web-clients.mynativeads.com
-0.0.0.0 web-redirecting.com
 0.0.0.0 web-screenshot.com
 0.0.0.0 web-sdk.control.kochava.com
 0.0.0.0 web-sdk.urbanairship.com
