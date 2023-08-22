@@ -1251,8 +1251,6 @@
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
-0.0.0.0 Forbidden</h1></center>
-0.0.0.0 Forbidden</title></head>
 0.0.0.0 Found</title>
 0.0.0.0 HTML
 0.0.0.0 Malvertising\
@@ -17266,6 +17264,7 @@
 0.0.0.0 email-open.adtidy.org
 0.0.0.0 email-reflex.com
 0.0.0.0 email.advertising.com
+0.0.0.0 email.mg1.substack.com
 0.0.0.0 emaildireto.com.br
 0.0.0.0 emaillinks.soundiiz.com
 0.0.0.0 emap.admedia.net
