@@ -1251,8 +1251,6 @@
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
-0.0.0.0 Forbidden</h1></center>
-0.0.0.0 Forbidden</title></head>
 0.0.0.0 Found</title>
 0.0.0.0 HTML
 0.0.0.0 Malvertising\
@@ -26886,6 +26884,7 @@
 0.0.0.0 pc-providence-collect-us-east-1.tealiumiq.com
 0.0.0.0 pc-providence-collect.tealiumiq.com
 0.0.0.0 pc-providence-visitor-service-us-east-1.tealiumiq.com
+0.0.0.0 pc-tc.s3-eu-west-1.amazonaws.com
 0.0.0.0 pc.adonweb.ru
 0.0.0.0 pc031-edgup.ads.tremorhub.com
 0.0.0.0 pc051-k4snh.ads.tremorhub.com
@@ -28100,6 +28099,7 @@
 0.0.0.0 pureadexchange.com
 0.0.0.0 purebits.net
 0.0.0.0 purecheats.net
+0.0.0.0 pureclarity.net
 0.0.0.0 purecrystalhacks.com
 0.0.0.0 pureleads.com
 0.0.0.0 push-api.topaz-analytics.com
