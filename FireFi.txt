@@ -1,6 +1,4 @@
 0.0.0.0 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-0.0.0.0 (addDetection)
-0.0.0.0 +=
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -4016,7 +4014,6 @@
 0.0.0.0 add.yahoo.com
 0.0.0.0 add2net.com
 0.0.0.0 add4.de
-0.0.0.0 addDetection
 0.0.0.0 addash.co
 0.0.0.0 addbonus.com
 0.0.0.0 addcocgems.com
@@ -16293,7 +16290,6 @@
 0.0.0.0 deskwizz.com
 0.0.0.0 desmovies.com
 0.0.0.0 despicablemehack.com
-0.0.0.0 destinationUrl
 0.0.0.0 destructoid.us.intellitxt.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
@@ -18574,7 +18570,6 @@
 0.0.0.0 forumcomm-d.openx.net
 0.0.0.0 forumediainc.us.intellitxt.com
 0.0.0.0 forvideo.at
-0.0.0.0 forwardingUrl
 0.0.0.0 forwrdnow.com
 0.0.0.0 forza.console2pc.info
 0.0.0.0 forzacarpass.sharezips.info
@@ -21381,7 +21376,6 @@
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 hts2.adpremium.org
 0.0.0.0 hts4.adpremium.org
-0.0.0.0 http-equiv="refresh"
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
 0.0.0.0 httpring.qq.com
@@ -22040,8 +22034,6 @@
 0.0.0.0 in1.wzrkt.com
 0.0.0.0 in3.zog.link
 0.0.0.0 in4.zog.link
-0.0.0.0 inIframe
-0.0.0.0 inPopUp
 0.0.0.0 inapi.posst.co
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inboxdollars.com
