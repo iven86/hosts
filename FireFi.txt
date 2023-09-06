@@ -8962,6 +8962,7 @@
 0.0.0.0 androidblender.com
 0.0.0.0 androidcentral.us.intellitxt.com
 0.0.0.0 androidcommunity.us.intellitxt.com
+0.0.0.0 androiddownload.net
 0.0.0.0 androidgamehacks.info
 0.0.0.0 androidgamemods.com
 0.0.0.0 androidgamescheats.com
