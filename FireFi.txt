@@ -390,7 +390,6 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
-0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -17511,7 +17510,6 @@
 0.0.0.0 etargetnet.com
 0.0.0.0 eten-users.us.intellitxt.com
 0.0.0.0 eth-giving.com
-0.0.0.0 ethereum-ads.com
 0.0.0.0 ethicalads.net
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etracker.com
