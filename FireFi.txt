@@ -7293,7 +7293,6 @@
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
-0.0.0.0 adstage.io
 0.0.0.0 adstanding.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstax-match-proxy.adrtx.net
@@ -13651,7 +13650,6 @@
 0.0.0.0 chackscheats.com
 0.0.0.0 chairscrack.com
 0.0.0.0 challenge.360in.com
-0.0.0.0 chameleon.ad
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
@@ -23000,7 +22998,6 @@
 0.0.0.0 latinoreview.us.intellitxt.com
 0.0.0.0 latinpost.us.intellitxt.com
 0.0.0.0 laughablecopper.com
-0.0.0.0 laughcloth.com
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
 0.0.0.0 launches.appsflyer.com
@@ -23260,6 +23257,7 @@
 0.0.0.0 linkto-ext-hp-com.ct.impactradius.com
 0.0.0.0 linktrack.bravenet.com
 0.0.0.0 linkur.org
+0.0.0.0 linkvertise.com
 0.0.0.0 linkz.com
 0.0.0.0 linkz.it
 0.0.0.0 lintv.122.2o7.net
@@ -32932,6 +32930,7 @@
 0.0.0.0 track.omguk.com
 0.0.0.0 track.popmog.com
 0.0.0.0 track.pricespider.com
+0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 track.prizeglobal.net
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.radtracking.com
@@ -34858,6 +34857,7 @@
 0.0.0.0 wizard101giveaway.com
 0.0.0.0 wizard101giveaway.net
 0.0.0.0 wl.aniview.com.edgekey.net
+0.0.0.0 wl.spotify.com
 0.0.0.0 wlaptoplogic.122.2o7.net
 0.0.0.0 wlb1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 wlb2.cdn.stickyadstv.com.akadns.net
