@@ -9192,7 +9192,6 @@
 0.0.0.0 ap.www.sabela.com
 0.0.0.0 apac-sg-ad-track.aralego.com
 0.0.0.0 apap.filminstan.pw
-0.0.0.0 apathetictheory.com
 0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apc.socdm.com
 0.0.0.0 apcoi.com
@@ -16135,7 +16134,6 @@
 0.0.0.0 de17a.com
 0.0.0.0 deadpangate.com
 0.0.0.0 deadpanmarble.com
-0.0.0.0 deadpantruck.com
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
@@ -16166,7 +16164,6 @@
 0.0.0.0 deerhunter2014cheat.com
 0.0.0.0 deezerpremiumplusfree.com
 0.0.0.0 defaulthacks.com
-0.0.0.0 defectivesun.com
 0.0.0.0 defencelab.com
 0.0.0.0 defendyourpc.com
 0.0.0.0 defenza.com
