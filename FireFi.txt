@@ -27867,6 +27867,7 @@
 0.0.0.0 protect-x.com
 0.0.0.0 protect.geoedge.be
 0.0.0.0 protectcrev.com
+0.0.0.0 protectivemetrics.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
 0.0.0.0 protexting.com
@@ -29355,6 +29356,7 @@
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
+0.0.0.0 safeanalytics.net
 0.0.0.0 safeappz.org
 0.0.0.0 safedownloadsrus157.com
 0.0.0.0 safehackz.com
