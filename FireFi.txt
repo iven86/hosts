@@ -17621,6 +17621,7 @@
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.spotxchange.com
 0.0.0.0 eventbrite.122.2o7.net
+0.0.0.0 eventexistence.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events-api.otherlevels.com
@@ -22997,6 +22998,7 @@
 0.0.0.0 latinoreview.us.intellitxt.com
 0.0.0.0 latinpost.us.intellitxt.com
 0.0.0.0 laughablecopper.com
+0.0.0.0 laughcloth.com
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
 0.0.0.0 launches.appsflyer.com
@@ -28665,7 +28667,6 @@
 0.0.0.0 resalag.com
 0.0.0.0 rescator.la
 0.0.0.0 rescator.me
-0.0.0.0 research.de.com
 0.0.0.0 researchnow.com
 0.0.0.0 reseaux-telecoms.fr.intellitxt.com
 0.0.0.0 reseller.sexyads.com
@@ -33141,6 +33142,7 @@
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.ukwm.co.uk
+0.0.0.0 tracking.utlservice.com
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vacationsmadeeasy.com
 0.0.0.0 tracking.vagueunlikecowerscreamforbid.hair
