@@ -29128,6 +29128,7 @@
 0.0.0.0 s.cpx.to
 0.0.0.0 s.cxt.ms
 0.0.0.0 s.d.adup-tech.com
+0.0.0.0 s.dmmew.com
 0.0.0.0 s.doktordice.com
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 s.effectivemeasure.net
@@ -29842,6 +29843,7 @@
 0.0.0.0 securedopen-bp.com
 0.0.0.0 securefile.info
 0.0.0.0 securefileupload.com
+0.0.0.0 securely-protectsoft.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
