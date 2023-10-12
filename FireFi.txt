@@ -15182,6 +15182,7 @@
 0.0.0.0 coxnet.112.2o7.net
 0.0.0.0 coxnetmasterglobal.112.2o7.net
 0.0.0.0 coxtv.us.intellitxt.com
+0.0.0.0 cozyhillside.com
 0.0.0.0 cp.oupeng.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cp16688.cn
@@ -16184,6 +16185,7 @@
 0.0.0.0 delfin.bg
 0.0.0.0 delfinproject.com
 0.0.0.0 delhack.net
+0.0.0.0 delicatecascade.com
 0.0.0.0 delicatecase.com
 0.0.0.0 delightcash.com
 0.0.0.0 delightful.112.2o7.net
@@ -34716,7 +34718,9 @@
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
+0.0.0.0 whisperingcascade.com
 0.0.0.0 whisperingcrib.com
+0.0.0.0 whisperingsummit.com
 0.0.0.0 white.sexer.com
 0.0.0.0 whitecastle.122.2o7.net
 0.0.0.0 whitelabel.media.net
