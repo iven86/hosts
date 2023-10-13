@@ -3988,6 +3988,7 @@
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclix.com
 0.0.0.0 adclix.org
+0.0.0.0 adclixx.net
 0.0.0.0 adcloud-dp.nuggad.net
 0.0.0.0 adcloud.net
 0.0.0.0 adclub.de
@@ -4343,6 +4344,7 @@
 0.0.0.0 adnet.pravda.com.ua
 0.0.0.0 adnet.ru
 0.0.0.0 adnet.worldreviewer.com
+0.0.0.0 adnetasia.com
 0.0.0.0 adnetgalt.hit.gemius.pl
 0.0.0.0 adnetinteractive.com
 0.0.0.0 adnetinternational.com
