@@ -390,6 +390,7 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
+0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -11122,7 +11123,6 @@
 0.0.0.0 bins.lop.com
 0.0.0.0 binweevilsdoshcodes.com
 0.0.0.0 biopharmastore.com
-0.0.0.0 biosda.com
 0.0.0.0 bioshockinfinite.sharezips.info
 0.0.0.0 biosmagazine.uk.intellitxt.com
 0.0.0.0 bip.presage.io
@@ -15349,6 +15349,7 @@
 0.0.0.0 crid.bfmio.com
 0.0.0.0 criminalcase-cheats.com
 0.0.0.0 criminalcasegamehack.com
+0.0.0.0 crimsonmeadow.com
 0.0.0.0 crispads.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
@@ -15382,6 +15383,7 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.org
 0.0.0.0 crysis3keygen.org
+0.0.0.0 crystalboulevard.com
 0.0.0.0 crzycheats.com
 0.0.0.0 cs-go.deals
 0.0.0.0 cs-money.money
@@ -25815,6 +25817,8 @@
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 nr-events.taboola.com
+0.0.0.0 nr.mmcdn.com
+0.0.0.0 nr.static.mmcdn.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nrc.sd.duapps.com
 0.0.0.0 nrc.tapas.net
@@ -33263,6 +33267,7 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 traktum.com
 0.0.0.0 trane-ir-corp-ingersollrand.112.2o7.net
+0.0.0.0 tranquilcanyon.com
 0.0.0.0 tranquilside.com
 0.0.0.0 trans.hiido.com
 0.0.0.0 transfergrab.com
