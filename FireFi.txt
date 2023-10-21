@@ -5321,7 +5321,6 @@
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
-0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.neg.bg
 0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netcommunities.com
@@ -13543,6 +13542,7 @@
 0.0.0.0 ce.lijit.com
 0.0.0.0 ce7.org
 0.0.0.0 cecash.com
+0.0.0.0 ceciliavenus.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cedato.com
 0.0.0.0 ceffincfin.com
@@ -16054,6 +16054,7 @@
 0.0.0.0 datplus.springserve.com
 0.0.0.0 datskins.com
 0.0.0.0 dau.fyber.com
+0.0.0.0 daughterstone.com
 0.0.0.0 dav-webdesign.virtualave.net
 0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 dawnguard.dlcodes.com
@@ -31594,6 +31595,7 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stickyadstv.com.akadns.net
 0.0.0.0 stiffgame.com
+0.0.0.0 stimulatingsneeze.com
 0.0.0.0 stinger-ad.bidr.io
 0.0.0.0 stir.semilo.com
 0.0.0.0 stm-cdn.cn.miaozhen.com
@@ -33068,11 +33070,9 @@
 0.0.0.0 tracking.bannerflow.com
 0.0.0.0 tracking.batanga.com
 0.0.0.0 tracking.batanga.net
-0.0.0.0 tracking.baypacketaddressepisode.makeup
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.cdiscount.com
 0.0.0.0 tracking.clickmeter.com
-0.0.0.0 tracking.concedehousingstrainnotice.hair
 0.0.0.0 tracking.conversionads.com
 0.0.0.0 tracking.craktraffic.com
 0.0.0.0 tracking.crazyegg.com
@@ -33115,7 +33115,6 @@
 0.0.0.0 tracking.medpagetoday.com
 0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
-0.0.0.0 tracking.namerealopendrawflesh.makeup
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.novem.pl
 0.0.0.0 tracking.oe24.at
@@ -33128,7 +33127,6 @@
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
-0.0.0.0 tracking.playerobjectwordingbasinbank.makeup
 0.0.0.0 tracking.profitsource.net
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 tracking.publicidees.com
@@ -33156,7 +33154,6 @@
 0.0.0.0 tracking.utlservice.com
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vacationsmadeeasy.com
-0.0.0.0 tracking.vagueunlikecowerscreamforbid.hair
 0.0.0.0 tracking.validclick.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veille-referencement.com
@@ -33182,6 +33179,7 @@
 0.0.0.0 tracknet.twyn.com
 0.0.0.0 tracksitetraffic1.com
 0.0.0.0 tracktrue.clicktrue.biz
+0.0.0.0 trackuhub.com
 0.0.0.0 trackyourstats.com
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 tracy.tutoads.tv
