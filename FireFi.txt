@@ -5321,6 +5321,7 @@
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
+0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.neg.bg
 0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netcommunities.com
@@ -7176,7 +7177,6 @@
 0.0.0.0 adservingfront.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
-0.0.0.0 adservio.tech
 0.0.0.0 adservone.com
 0.0.0.0 adservrs.com
 0.0.0.0 adservrs.com.edgekey.net
@@ -11287,7 +11287,6 @@
 0.0.0.0 bnkr8dev.112.2o7.net
 0.0.0.0 bnmhg.com
 0.0.0.0 bnmla.com
-0.0.0.0 bnnrrv.qontentum.de
 0.0.0.0 bnrs.ilm.ee
 0.0.0.0 bo.goadservices.com
 0.0.0.0 bo2-hack.com
@@ -15781,7 +15780,6 @@
 0.0.0.0 cushiondrum.com
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 custom-wrs.api.responsys.net
-0.0.0.0 custom.plausible.io
 0.0.0.0 custom.yieldify.com
 0.0.0.0 custom1.hurricanedigitalmedia.com
 0.0.0.0 customad.cnn.com
