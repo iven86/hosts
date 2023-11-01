@@ -9686,6 +9686,7 @@
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
 0.0.0.0 applyads.com
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appmm.zapr.in
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 appmyass.com
@@ -33705,7 +33706,6 @@
 0.0.0.0 unlck.us
 0.0.0.0 unlcked.net
 0.0.0.0 unlckr.me
-0.0.0.0 unless.com
 0.0.0.0 unlimited-hacks.net
 0.0.0.0 unlimited-portals.com
 0.0.0.0 unlimitedfileshare.com
