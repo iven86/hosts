@@ -18446,6 +18446,7 @@
 0.0.0.0 firstimpression.io
 0.0.0.0 firstleak.com
 0.0.0.0 firstlightera.com
+0.0.0.0 firsttexture.com
 0.0.0.0 firstuploader.com
 0.0.0.0 fishadz.pressflex.net
 0.0.0.0 fishclix.com
@@ -23219,6 +23220,7 @@
 0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
 0.0.0.0 link.bannersystem.cz
+0.0.0.0 link.email.usmagazine.com
 0.0.0.0 link.ixs1.net
 0.0.0.0 link.krxd.net
 0.0.0.0 link.link.ru
@@ -29853,6 +29855,7 @@
 0.0.0.0 securefileupload.com
 0.0.0.0 securely-protectsoft.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemetrics.apple.com.cn
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
 0.0.0.0 securinews.free.fr
