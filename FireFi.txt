@@ -33381,6 +33381,7 @@
 0.0.0.0 trucosdeclubpenguin.net
 0.0.0.0 trucoslibre.com
 0.0.0.0 trucosparafacebook.com
+0.0.0.0 truculentrate.com
 0.0.0.0 true-hacks.com
 0.0.0.0 true25.com
 0.0.0.0 trueclickads.net
