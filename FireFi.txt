@@ -219,7 +219,6 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -10125,7 +10124,6 @@
 0.0.0.0 awemedia.net
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
-0.0.0.0 awesomeagreement.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -14307,7 +14305,6 @@
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudapi.imrworldwide.com
-0.0.0.0 cloudcoins.biz
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudiq.com
 0.0.0.0 cloudmobi.net
@@ -24077,6 +24074,7 @@
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.effectivemeasure.net
 0.0.0.0 me.xdrig.com
+0.0.0.0 meadowlullaby.com
 0.0.0.0 measlymiddle.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuread.com
@@ -25635,7 +25633,6 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
-0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -25643,7 +25640,6 @@
 0.0.0.0 newshared.com
 0.0.0.0 newsinteractive.112.2o7.net
 0.0.0.0 newsinternational.122.2o7.net
-0.0.0.0 newsletter-link.com
 0.0.0.0 newsletter.adsonar.com
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 newsok.112.2o7.net
@@ -33084,7 +33080,6 @@
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.dsmmadvantage.com
-0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.everydayhealth.com
