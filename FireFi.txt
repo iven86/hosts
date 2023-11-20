@@ -32319,6 +32319,7 @@
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
