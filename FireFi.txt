@@ -19184,6 +19184,7 @@
 0.0.0.0 fullysoftware.com
 0.0.0.0 fun.lbn.ru
 0.0.0.0 functionalcrown.com
+0.0.0.0 functionalfeather.com
 0.0.0.0 functionalhack.info
 0.0.0.0 fungamecheats.com
 0.0.0.0 funinformatique.com
