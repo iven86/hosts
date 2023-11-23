@@ -19147,6 +19147,7 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 frontpagecash.com
+0.0.0.0 fronttoad.com
 0.0.0.0 frosgame.com
 0.0.0.0 frtelechargement.com
 0.0.0.0 frtn.socdm.com
