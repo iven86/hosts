@@ -10124,6 +10124,7 @@
 0.0.0.0 awemedia.net
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
+0.0.0.0 awesomeagreement.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -17320,7 +17321,6 @@
 0.0.0.0 engage.com
 0.0.0.0 engage.commander1.com
 0.0.0.0 engage.vzw.com
-0.0.0.0 engage.webshrinker.com
 0.0.0.0 engage.windows.com
 0.0.0.0 engage10854wrdcr.deltadna.net
 0.0.0.0 engage12348wrdvs.deltadna.net
@@ -17953,7 +17953,6 @@
 0.0.0.0 fantasyhack.com
 0.0.0.0 faq.carpediem.fr
 0.0.0.0 faqts.us.intellitxt.com
-0.0.0.0 faracoon.com
 0.0.0.0 farcry3.sharezips.info
 0.0.0.0 farecastcom.122.2o7.net
 0.0.0.0 farethief.com
@@ -31981,6 +31980,7 @@
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
 0.0.0.0 t.p.mybuys.com
+0.0.0.0 t.podcast.co
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 t.salesmatemail.com
@@ -33084,6 +33084,7 @@
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.dsmmadvantage.com
+0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.everydayhealth.com
