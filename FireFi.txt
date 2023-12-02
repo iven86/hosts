@@ -5204,7 +5204,6 @@
 0.0.0.0 ads.kurir-info.rs
 0.0.0.0 ads.kyalon.net
 0.0.0.0 ads.lanistaads.com
-0.0.0.0 ads.lapalingo.com
 0.0.0.0 ads.laptop.bg
 0.0.0.0 ads.layer-ad.org
 0.0.0.0 ads.lehighvalleylive.com
@@ -26424,7 +26423,6 @@
 0.0.0.0 openx.engagedmediamags.com
 0.0.0.0 openx.filestube.com
 0.0.0.0 openx.imoti.net
-0.0.0.0 openx.kgmedia.eu
 0.0.0.0 openx.kokoma.pl
 0.0.0.0 openx.mercatormedia.com
 0.0.0.0 openx.nagrzyby.pl
@@ -33263,7 +33261,6 @@
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.buyservices.com
-0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.hyteck.de
 0.0.0.0 traffic.liveuniversenetwork.com
 0.0.0.0 traffic.outbrain.com
@@ -34225,6 +34222,7 @@
 0.0.0.0 vibe.us.intellitxt.com
 0.0.0.0 viber.hack-team.org
 0.0.0.0 vibrantmedia.com
+0.0.0.0 vibrantsundown.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-d.openx.net
 0.0.0.0 victoriaadvocate.112.2o7.net
