@@ -30345,6 +30345,7 @@
 0.0.0.0 simpsontappedouthack.com
 0.0.0.0 sims4crack.com
 0.0.0.0 sims4downloadx.com
+0.0.0.0 simulateswing.com
 0.0.0.0 simulator-mod.com
 0.0.0.0 simulator2013mods.com
 0.0.0.0 sin01-event.spotxchange.com
