@@ -5031,7 +5031,6 @@
 0.0.0.0 ads.garga.biz
 0.0.0.0 ads.gateway.bg
 0.0.0.0 ads.gawker.com
-0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.genericlink.com
 0.0.0.0 ads.geoads.net
@@ -9875,7 +9874,6 @@
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asia.seadform.net
-0.0.0.0 asia999.website
 0.0.0.0 asian.streamate.com
 0.0.0.0 asianude.com
 0.0.0.0 asimpleinternet.com
@@ -22997,7 +22995,6 @@
 0.0.0.0 landing.trafficz.com
 0.0.0.0 landingpages.sunnytoolz.com
 0.0.0.0 landings.trafficz.com
-0.0.0.0 lanistaads.com
 0.0.0.0 laptoplogic.us.intellitxt.com
 0.0.0.0 laptopmag.122.2o7.net
 0.0.0.0 laptopmag.us.intellitxt.com
@@ -32949,6 +32946,7 @@
 0.0.0.0 track.atom-data.io
 0.0.0.0 track.blogcounter.de
 0.0.0.0 track.blogmeetsbrand.com
+0.0.0.0 track.canva.com
 0.0.0.0 track.cbs.com
 0.0.0.0 track.celtra.com
 0.0.0.0 track.childrensalon.com
@@ -33408,7 +33406,6 @@
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.tidaltv.com
-0.0.0.0 trk.us-learn-teacher-poetry.xyz
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk14.logger.co.kr
@@ -34401,7 +34398,6 @@
 0.0.0.0 volkswagen.122.2o7.net
 0.0.0.0 voluum.com
 0.0.0.0 voluumtrk2.com
-0.0.0.0 volvelle.tech
 0.0.0.0 vomba.com
 0.0.0.0 vombashots.com
 0.0.0.0 voodoofiles.us.intellitxt.com
