@@ -16328,6 +16328,7 @@
 0.0.0.0 devs.data.mob.com
 0.0.0.0 devshed.us.intellitxt.com
 0.0.0.0 devteamjailbreak.com
+0.0.0.0 dewdroplagoon.com
 0.0.0.0 dewisri.pw
 0.0.0.0 dezines.com
 0.0.0.0 df.mic.mob.com
@@ -19151,6 +19152,7 @@
 0.0.0.0 freezingbuilding.com
 0.0.0.0 freezvps.com
 0.0.0.0 freezyngacardcodes.com
+0.0.0.0 frequentflesh.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
 0.0.0.0 freshrelevance.com
