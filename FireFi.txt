@@ -1630,7 +1630,6 @@
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxads.com
-0.0.0.0 aaxdetect.com
 0.0.0.0 ab-gb.mgid.com
 0.0.0.0 ab-mknodepub.marketo.com
 0.0.0.0 ab-nb.marketgid.com
@@ -5441,7 +5440,6 @@
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.powweb.com
 0.0.0.0 ads.ppvmedien.de
-0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.premium.cz
 0.0.0.0 ads.premiumaccounts.com
@@ -20392,7 +20390,6 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
-0.0.0.0 gstaticx.com
 0.0.0.0 gsway.info
 0.0.0.0 gsx-appleaccess.com
 0.0.0.0 gt6.sharezips.info
@@ -20477,7 +20474,6 @@
 0.0.0.0 gudja.iad-02.braze.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guest.adultfriendfinder.com
-0.0.0.0 guffawdecipher.com
 0.0.0.0 guildwars2.nextgenhacks.info
 0.0.0.0 guildwars2beta.org
 0.0.0.0 guj.122.2o7.net
@@ -25666,6 +25662,7 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -25673,6 +25670,7 @@
 0.0.0.0 newshared.com
 0.0.0.0 newsinteractive.112.2o7.net
 0.0.0.0 newsinternational.122.2o7.net
+0.0.0.0 newsletter-link.com
 0.0.0.0 newsletter.adsonar.com
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 newsok.112.2o7.net
@@ -33138,7 +33136,6 @@
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.dsmmadvantage.com
-0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.everydayhealth.com
