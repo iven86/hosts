@@ -13036,6 +13036,7 @@
 0.0.0.0 catrg.peer39.net
 0.0.0.0 cats-crash-hack.info
 0.0.0.0 catscase.com
+0.0.0.0 cattlecommittee.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cavemancircus.us.intellitxt.com
@@ -20912,6 +20913,7 @@
 0.0.0.0 handyincrease.com
 0.0.0.0 hanklist.com
 0.0.0.0 hapjes-maken.eu
+0.0.0.0 haplesshydrant.com
 0.0.0.0 happycase.top
 0.0.0.0 happytofind.com
 0.0.0.0 haqable.com
@@ -31628,6 +31630,7 @@
 0.0.0.0 steaxcommunity.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
+0.0.0.0 steepscale.com
 0.0.0.0 steocomnnity.com
 0.0.0.0 steomcannunily.com
 0.0.0.0 step-service.crossinstall.io
