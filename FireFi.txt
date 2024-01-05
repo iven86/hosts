@@ -30741,6 +30741,7 @@
 0.0.0.0 softwaretun.com
 0.0.0.0 softwareupdaterlp.com
 0.0.0.0 soggysponge.com
+0.0.0.0 soggyzoo.com
 0.0.0.0 sohh.us.intellitxt.com
 0.0.0.0 soka-adserver.c1exchange.com
 0.0.0.0 soldegratuit.com
