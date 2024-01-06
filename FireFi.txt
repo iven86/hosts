@@ -8066,7 +8066,6 @@
 0.0.0.0 adwitserver.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adwords2.paretologic.revenuewire.net
-0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 adworks.cc
 0.0.0.0 adworks.rediff.com
 0.0.0.0 adworldnetwork.com
@@ -10125,7 +10124,6 @@
 0.0.0.0 awemedia.net
 0.0.0.0 awempire.com
 0.0.0.0 awesome-case.com
-0.0.0.0 awesomeagreement.com
 0.0.0.0 awesomehacks.org
 0.0.0.0 awesomeload.com
 0.0.0.0 awesometube.net
@@ -25664,7 +25662,6 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
-0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -26511,6 +26508,7 @@
 0.0.0.0 orf.oewabox.at
 0.0.0.0 orfw.adsafeprotected.com
 0.0.0.0 orgdotcom.com
+0.0.0.0 orientedargument.com
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 origin-ics.fivemillionfriends.com
 0.0.0.0 origin-tracking.trulia.com
