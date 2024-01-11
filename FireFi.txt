@@ -29428,6 +29428,7 @@
 0.0.0.0 samba.tv
 0.0.0.0 samhacker.com
 0.0.0.0 sample-api-v2.crazyegg.com
+0.0.0.0 samplesamba.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsunggiveaways.com
@@ -29560,6 +29561,7 @@
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingslip.com
+0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
 0.0.0.0 screen1shot.net
 0.0.0.0 screencapture.site
@@ -37401,6 +37403,7 @@
 0.0.0.0 zenkreka.com
 0.0.0.0 zenonia5hack.net
 0.0.0.0 zenzuu.com
+0.0.0.0 zephyrlabyrinth.com
 0.0.0.0 zeroredirect1.com
 0.0.0.0 zerw.org
 0.0.0.0 zeus.ad.intl.xiaomi.com
