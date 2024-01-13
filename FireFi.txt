@@ -7528,7 +7528,6 @@
 0.0.0.0 adv.mpvc.it
 0.0.0.0 adv.mxmcdn.net
 0.0.0.0 adv.netinfo.bg
-0.0.0.0 adv.neverbuy.com
 0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.novinar.bg
 0.0.0.0 adv.p2pbg.com
@@ -17752,7 +17751,6 @@
 0.0.0.0 exchangead.com
 0.0.0.0 exchangecash.de
 0.0.0.0 exchangeclicksonline.com
-0.0.0.0 exchangedetail.com
 0.0.0.0 exchangeskin.pro
 0.0.0.0 excite.us.intellitxt.com
 0.0.0.0 exclusiotv.be
@@ -20889,6 +20887,7 @@
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hakerr.pl
 0.0.0.0 hal9000.redintelligence.net
+0.0.0.0 halcyoncanyon.com
 0.0.0.0 halleberry.sexybabesx.com
 0.0.0.0 halliimp.com
 0.0.0.0 hallmarkibmcom.112.2o7.net
