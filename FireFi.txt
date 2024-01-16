@@ -11124,6 +11124,7 @@
 0.0.0.0 bioshockinfinite.sharezips.info
 0.0.0.0 biosmagazine.uk.intellitxt.com
 0.0.0.0 bip.presage.io
+0.0.0.0 birthdaybelief.com
 0.0.0.0 bis.vidazoo.com
 0.0.0.0 bisdr.vidazoo.com
 0.0.0.0 bisikletgonulbirligi.com
@@ -14702,6 +14703,7 @@
 0.0.0.0 computingcentral.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
+0.0.0.0 concernedchange.com
 0.0.0.0 concernedcondition.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
@@ -27354,6 +27356,7 @@
 0.0.0.0 placeplay.com
 0.0.0.0 placeskins.com
 0.0.0.0 placeupload.com
+0.0.0.0 placidactivity.com
 0.0.0.0 planet-source-code.us.intellitxt.com
 0.0.0.0 planetactive.com
 0.0.0.0 planetgamecube.us.intellitxt.com
