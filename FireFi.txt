@@ -1644,7 +1644,6 @@
 0.0.0.0 abacho.net
 0.0.0.0 abackafterthought.com
 0.0.0.0 abackchain.com
-0.0.0.0 abackframe.com
 0.0.0.0 abacus.geocities.com
 0.0.0.0 abacus.netster.com
 0.0.0.0 abandonedaction.com
@@ -7293,7 +7292,6 @@
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
-0.0.0.0 adstanding.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
@@ -16146,7 +16144,6 @@
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 de17a.com
 0.0.0.0 deadpangate.com
-0.0.0.0 deadpanmarble.com
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
@@ -17219,7 +17216,6 @@
 0.0.0.0 eks-prod-1c.vungle.com
 0.0.0.0 ekszgamesoft.com
 0.0.0.0 elasticchange.com
-0.0.0.0 elasticducks.com
 0.0.0.0 elderlyscissors.com
 0.0.0.0 elderlytown.com
 0.0.0.0 elderscrollsonline.gamespress.net
@@ -17753,6 +17749,7 @@
 0.0.0.0 exchangead.com
 0.0.0.0 exchangecash.de
 0.0.0.0 exchangeclicksonline.com
+0.0.0.0 exchangedetail.com
 0.0.0.0 exchangeskin.pro
 0.0.0.0 excite.us.intellitxt.com
 0.0.0.0 exclusiotv.be
@@ -25663,6 +25660,7 @@
 0.0.0.0 news.de.intellitxt.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -29804,7 +29802,6 @@
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 searskmartcom.112.2o7.net
 0.0.0.0 seashare.net
-0.0.0.0 seashoreturn.com
 0.0.0.0 seasoncode.sharezips.info
 0.0.0.0 seasonfull.com
 0.0.0.0 seasonpass.sharezips.net
@@ -37239,7 +37236,6 @@
 0.0.0.0 yituf.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.p.adnxs.com
-0.0.0.0 yldbt.com
 0.0.0.0 yllix.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ym.adnxs.com
