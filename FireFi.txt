@@ -390,7 +390,6 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
-0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -1578,7 +1577,6 @@
 0.0.0.0 a7p7.com
 0.0.0.0 a7search.com
 0.0.0.0 a8.net
-0.0.0.0 a8a8altrk.com
 0.0.0.0 a9.com
 0.0.0.0 a985.casalemedia.com
 0.0.0.0 a987.casalemedia.com
@@ -7292,6 +7290,7 @@
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
+0.0.0.0 adstanding.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
@@ -17330,6 +17329,7 @@
 0.0.0.0 engage-network.influencemobile.com
 0.0.0.0 engage.com
 0.0.0.0 engage.commander1.com
+0.0.0.0 engage.tines.com
 0.0.0.0 engage.vzw.com
 0.0.0.0 engage.windows.com
 0.0.0.0 engage10854wrdcr.deltadna.net
@@ -17749,7 +17749,6 @@
 0.0.0.0 exchangead.com
 0.0.0.0 exchangecash.de
 0.0.0.0 exchangeclicksonline.com
-0.0.0.0 exchangedetail.com
 0.0.0.0 exchangeskin.pro
 0.0.0.0 excite.us.intellitxt.com
 0.0.0.0 exclusiotv.be
@@ -17789,7 +17788,6 @@
 0.0.0.0 expertvillage.us.intellitxt.com
 0.0.0.0 expired-targeted.com
 0.0.0.0 explorads.com
-0.0.0.0 expmediadirect1.com
 0.0.0.0 expo-max.com
 0.0.0.0 exponea.com
 0.0.0.0 exponential.com
@@ -18669,7 +18667,6 @@
 0.0.0.0 free-amazongift-cards.com
 0.0.0.0 free-android-hack.com
 0.0.0.0 free-apple-iphone.net
-0.0.0.0 free-banners.com
 0.0.0.0 free-clubpenguin.com
 0.0.0.0 free-clubpenguin.org
 0.0.0.0 free-codes.info
@@ -20364,6 +20361,7 @@
 0.0.0.0 grippedownloads.co
 0.0.0.0 gripvortex.com
 0.0.0.0 grmtech.net
+0.0.0.0 grouchybrothers.com
 0.0.0.0 groundtruth.com
 0.0.0.0 group11.iperceptions.com
 0.0.0.0 grouplotto.aavalue.com
@@ -20386,6 +20384,7 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
+0.0.0.0 gstaticx.com
 0.0.0.0 gsway.info
 0.0.0.0 gsx-appleaccess.com
 0.0.0.0 gt6.sharezips.info
@@ -22520,7 +22519,6 @@
 0.0.0.0 jailbreaktut.com
 0.0.0.0 jailbreakyourps4.com
 0.0.0.0 jailbroken.co
-0.0.0.0 jaizouji.com
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 james.adbutler.de
 0.0.0.0 jaminfinity.tk
@@ -22629,9 +22627,11 @@
 0.0.0.0 jrcom.112.2o7.net
 0.0.0.0 jrcompanyhack.com
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js-api.otherlevels.com
 0.0.0.0 js-at.goldbach.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 js-tags.otherlevels.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 js.ad-stir.com
 0.0.0.0 js.ad.mediamond.it
@@ -22733,6 +22733,7 @@
 0.0.0.0 jsu.mgid.com
 0.0.0.0 jt.india.com
 0.0.0.0 ju2g8tzj.com
+0.0.0.0 jubilantglimmer.com
 0.0.0.0 juegos-hack.info
 0.0.0.0 juegoshackeados.info
 0.0.0.0 juggler.services.disqus.com
@@ -25518,6 +25519,7 @@
 0.0.0.0 nebnr.112.2o7.net
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 nebula-team.com
+0.0.0.0 nebulacrescent.com
 0.0.0.0 nedstat.com
 0.0.0.0 nedstat.net
 0.0.0.0 nedstat.nl
@@ -25719,7 +25721,6 @@
 0.0.0.0 nhl.112.2o7.net
 0.0.0.0 nhl14.sharezips.info
 0.0.0.0 nhl14ultimateteampass.sharezips.info
-0.0.0.0 nhpfvdlbjg.com
 0.0.0.0 nht-2.extreme-dm.com
 0.0.0.0 nht-3.extreme-dm.com
 0.0.0.0 nicecheat.eu
@@ -25799,6 +25800,7 @@
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 no.counter.mtgnewmedia.se
 0.0.0.0 nocostgiftcards.com
+0.0.0.0 nocturnalloom.com
 0.0.0.0 nodeny.targetspot.com
 0.0.0.0 nodevice.uk.intellitxt.com
 0.0.0.0 noel.cheriefm.fr
@@ -26711,7 +26713,6 @@
 0.0.0.0 p250632.com
 0.0.0.0 p287.atemda.com
 0.0.0.0 p2p.adv.vz.ru
-0.0.0.0 p2r14.com
 0.0.0.0 p30839.clksite.com
 0.0.0.0 p491.atemda.com
 0.0.0.0 p4dt2-4nrdw.ads.tremorhub.com
@@ -29043,7 +29044,6 @@
 0.0.0.0 rtbf09.metriweb.be
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidder.net
-0.0.0.0 rtbidhost.com
 0.0.0.0 rtbplatform.net
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
@@ -30928,7 +30928,6 @@
 0.0.0.0 spurioussteam.com
 0.0.0.0 spx.owneriq.net
 0.0.0.0 spy-kill.com
-0.0.0.0 spykemediatrack.com
 0.0.0.0 spylog.com
 0.0.0.0 spylog.ru
 0.0.0.0 spymac.us.intellitxt.com
@@ -33143,7 +33142,6 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 tracking.everydayhealth.com
-0.0.0.0 tracking.exipure.com
 0.0.0.0 tracking.fanbridge.com
 0.0.0.0 tracking.fathomseo.com
 0.0.0.0 tracking.fccinteractive.com
@@ -33323,6 +33321,7 @@
 0.0.0.0 traktum.com
 0.0.0.0 trane-ir-corp-ingersollrand.112.2o7.net
 0.0.0.0 tranquilcanyon.com
+0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilside.com
 0.0.0.0 trans.hiido.com
 0.0.0.0 transfergrab.com
@@ -37236,6 +37235,7 @@
 0.0.0.0 yituf.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.p.adnxs.com
+0.0.0.0 yldbt.com
 0.0.0.0 yllix.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ym.adnxs.com
