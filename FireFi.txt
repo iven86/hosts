@@ -390,6 +390,7 @@
 0.0.0.0 1in.cqcounter.com
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
+0.0.0.0 1link2020.com
 0.0.0.0 1millionlotto.net
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1nl.cqcounter.com
@@ -7356,7 +7357,6 @@
 0.0.0.0 adthor.com
 0.0.0.0 adthrive.com
 0.0.0.0 adthru.com
-0.0.0.0 adthurst.com
 0.0.0.0 adtier.toboads.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtilt.com
@@ -29052,7 +29052,6 @@
 0.0.0.0 rtl.ivwbox.de
 0.0.0.0 rtmark.net
 0.0.0.0 rtp-static.marketo.com
-0.0.0.0 rtpdn11.com
 0.0.0.0 rtr.innovid.com
 0.0.0.0 rtr.innovid.com.akadns.net
 0.0.0.0 rtrgt2.com
