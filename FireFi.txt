@@ -5464,7 +5464,6 @@
 0.0.0.0 ads.pushplay.com
 0.0.0.0 ads.q1media.com
 0.0.0.0 ads.quartermedia.de
-0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.racunalniske-novice.com
