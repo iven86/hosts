@@ -21410,6 +21410,7 @@
 0.0.0.0 hubadnetwork.com
 0.0.0.0 hubfast.com
 0.0.0.0 hubmyfile.com
+0.0.0.0 hubspotlinks.com
 0.0.0.0 hubzoom.com
 0.0.0.0 hudbee.com
 0.0.0.0 hueads.com
