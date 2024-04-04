@@ -4332,6 +4332,7 @@
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adn.lrb.co.uk
 0.0.0.0 adn.static-files.com
+0.0.0.0 adnami.io
 0.0.0.0 adnection.com
 0.0.0.0 adnet-media.net
 0.0.0.0 adnet-plus.com
@@ -10229,6 +10230,7 @@
 0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 b2c.com
 0.0.0.0 b3.mookie1.com
+0.0.0.0 b3.videoamp.com
 0.0.0.0 b3a70b.t.axf8.net
 0.0.0.0 b3d.com
 0.0.0.0 b4psads.com
