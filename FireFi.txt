@@ -8238,7 +8238,6 @@
 0.0.0.0 affiliates.nl
 0.0.0.0 affiliates.pinnaclesports.com
 0.0.0.0 affiliates.reunion.com
-0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.streetindex.com
 0.0.0.0 affiliates.thinkhost.net
@@ -8707,7 +8706,6 @@
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 amp.st.sageanalyst.net
 0.0.0.0 ampedmedia.directtrack.com
-0.0.0.0 ampleclick.com
 0.0.0.0 amplify-com-mktg.imgix.net
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
@@ -19647,7 +19645,6 @@
 0.0.0.0 geek-pc.net
 0.0.0.0 geek.us.intellitxt.com
 0.0.0.0 geekstogo.us.intellitxt.com
-0.0.0.0 gekko.spiceworks.com
 0.0.0.0 gelatogems.com
 0.0.0.0 gellar.sexybabesx.com
 0.0.0.0 gem-inc.com
