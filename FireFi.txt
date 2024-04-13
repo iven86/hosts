@@ -4028,7 +4028,6 @@
 0.0.0.0 addictivetechnologies.net
 0.0.0.0 addition-games.com
 0.0.0.0 addition4u.com
-0.0.0.0 additionant.com
 0.0.0.0 addjump.com
 0.0.0.0 addme.com
 0.0.0.0 addmefastfreebot.com
@@ -14900,7 +14899,6 @@
 0.0.0.0 coolwebsearch.com
 0.0.0.0 coolwebstats.com
 0.0.0.0 coop.crwdcntrl.net
-0.0.0.0 coordinatedcub.com
 0.0.0.0 cootlogix.com
 0.0.0.0 copperchickens.com
 0.0.0.0 copperheadsecurity.com
@@ -15770,7 +15768,6 @@
 0.0.0.0 cucdn.genesismedia.com
 0.0.0.0 cudaminer.com
 0.0.0.0 cuebiq.com
-0.0.0.0 culturedcrayon.com
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 cumonamateurs.com
 0.0.0.0 cumshotvideos.com
@@ -16539,7 +16536,6 @@
 0.0.0.0 docactive.com
 0.0.0.0 dockdigestion.com
 0.0.0.0 docketupload.com
-0.0.0.0 docksalmon.com
 0.0.0.0 docs1.iwon.com
 0.0.0.0 docsofyours.com
 0.0.0.0 docsworking.com
@@ -18647,7 +18643,6 @@
 0.0.0.0 fra-col.eum-appdynamics.com
 0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 frailflock.com
-0.0.0.0 frailoffer.com
 0.0.0.0 france.get4games.com
 0.0.0.0 france.id100429421-9222533281.e406019.com
 0.0.0.0 france.id108979765-7218227704.w595505.com
@@ -19153,7 +19148,6 @@
 0.0.0.0 freshrelevance.com
 0.0.0.0 friendslinks.com
 0.0.0.0 friendtest.us.intellitxt.com
-0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frogaming.com
 0.0.0.0 froggytest.fr.intellitxt.com
@@ -22146,7 +22140,6 @@
 0.0.0.0 innity.com
 0.0.0.0 innity.net
 0.0.0.0 innocentflowers.com
-0.0.0.0 innocentinvention.com
 0.0.0.0 innocentwax.com
 0.0.0.0 innovid.com
 0.0.0.0 innovid.com.akadns.net
@@ -24675,7 +24668,6 @@
 0.0.0.0 milbglobal.112.2o7.net
 0.0.0.0 milioner.popunder.ru
 0.0.0.0 military.us.intellitxt.com
-0.0.0.0 militaryverse.com
 0.0.0.0 millajovovich.sexybabesx.com
 0.0.0.0 millennialmedia.com
 0.0.0.0 millionairesweetheart.com
@@ -27809,7 +27801,6 @@
 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 prod.sift.co
-0.0.0.0 producecopy.com
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
@@ -30184,10 +30175,8 @@
 0.0.0.0 shakegoldfish.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakira.sexybabesx.com
-0.0.0.0 shakyseat.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shallownation.us.intellitxt.com
-0.0.0.0 shallowsmile.com
 0.0.0.0 shalltry.com
 0.0.0.0 shanding.ucoz.es
 0.0.0.0 shannendoherty.sexybabesx.com
@@ -30551,7 +30540,6 @@
 0.0.0.0 slckg-nugvu.ads.tremorhub.com
 0.0.0.0 slckg-qrmhc.ads.tremorhub.com
 0.0.0.0 sleep.vermontteddybear.com
-0.0.0.0 sleepcartoon.com
 0.0.0.0 slickaffiliate.com
 0.0.0.0 slickcheats.com
 0.0.0.0 slicktext.com
@@ -30572,7 +30560,6 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com
-0.0.0.0 smallbeginner.com
 0.0.0.0 smart-avenue.fr
 0.0.0.0 smart-data-systems.com
 0.0.0.0 smart-traffik.com
@@ -30943,7 +30930,6 @@
 0.0.0.0 spywords.com
 0.0.0.0 sqlservercentral.us.intellitxt.com
 0.0.0.0 squarefootball.uk.intellitxt.com
-0.0.0.0 squirrelhands.com
 0.0.0.0 sr-tag.abtasty.com
 0.0.0.0 sr-weight.rlcdn.com
 0.0.0.0 sr.rlcdn.com
@@ -31704,7 +31690,6 @@
 0.0.0.0 stretchsquirrel.com
 0.0.0.0 strikead.com
 0.0.0.0 strikeiron.com
-0.0.0.0 stripedburst.com
 0.0.0.0 stripplayer.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 stroer-d.openx.net
@@ -32724,7 +32709,6 @@
 0.0.0.0 todacell.com
 0.0.0.0 todayinfos.us
 0.0.0.0 todayshow.us.intellitxt.com
-0.0.0.0 toecircle.com
 0.0.0.0 tohacks.com
 0.0.0.0 token.api.kochava.com
 0.0.0.0 token.rubiconproject.com
@@ -33320,7 +33304,6 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 traktum.com
 0.0.0.0 trane-ir-corp-ingersollrand.112.2o7.net
-0.0.0.0 tranquilcanyon.com
 0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilside.com
 0.0.0.0 trans.hiido.com
@@ -34599,7 +34582,6 @@
 0.0.0.0 we-hack.com
 0.0.0.0 we.sharezips.info
 0.0.0.0 weakwiki.com
-0.0.0.0 wearbasin.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weatherbug.adsbynimbus.com
 0.0.0.0 web-clients.mynativeads.com
@@ -34952,7 +34934,6 @@
 0.0.0.0 wms-tools.com
 0.0.0.0 wo.gumgum.com
 0.0.0.0 wolfskindlc.goblogz.net
-0.0.0.0 womanear.com
 0.0.0.0 womensforum.us.intellitxt.com
 0.0.0.0 womenshealth.de.intellitxt.com
 0.0.0.0 wonderful-hacks.com
