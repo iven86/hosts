@@ -2029,6 +2029,7 @@
 0.0.0.0 ad.directrev.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.dmpi.net
+0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.dogpile.com
 0.0.0.0 ad.domainfactory.de
@@ -14307,7 +14308,6 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudflareinsights.com
-0.0.0.0 cloudiq.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 cloudservice24.kingsoft-office-service.com
@@ -26724,7 +26724,6 @@
 0.0.0.0 pacap.us
 0.0.0.0 pacyhacks.com
 0.0.0.0 pad-v3.presage.io
-0.0.0.0 paddleangle.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
@@ -29552,7 +29551,6 @@
 0.0.0.0 scr3en.com
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
-0.0.0.0 screechingslip.com
 0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
 0.0.0.0 screen1shot.net
@@ -34142,7 +34140,6 @@
 0.0.0.0 venturead.com
 0.0.0.0 venuswilliams.sexybabesx.com
 0.0.0.0 verallohacks.com
-0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verified-download.com
