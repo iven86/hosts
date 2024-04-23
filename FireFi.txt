@@ -21696,6 +21696,7 @@
 0.0.0.0 iggamestop.com
 0.0.0.0 iggy.cnn-local.info
 0.0.0.0 ign.us.intellitxt.com
+0.0.0.0 ignals.com
 0.0.0.0 ignifyecom.s3.amazonaws.com
 0.0.0.0 igp06.gameloft.com
 0.0.0.0 igpasshack.com
