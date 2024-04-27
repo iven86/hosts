@@ -22818,7 +22818,6 @@
 0.0.0.0 kellyclarkson.sexybabesx.com
 0.0.0.0 kelmty-tn.com
 0.0.0.0 kesconti.com
-0.0.0.0 kesmatic.com
 0.0.0.0 keygen-steam.com
 0.0.0.0 keygen.us
 0.0.0.0 keygen4u.com
@@ -33183,7 +33182,6 @@
 0.0.0.0 tracking.spiderbait.com
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
-0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
