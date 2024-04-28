@@ -4056,6 +4056,7 @@
 0.0.0.0 adengage.com
 0.0.0.0 adengine.theglobe.net
 0.0.0.0 adetracking.com
+0.0.0.0 adeure.com
 0.0.0.0 adeva.de
 0.0.0.0 adevents.msn.com
 0.0.0.0 adeventtracker.spotify.com
