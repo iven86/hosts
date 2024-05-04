@@ -25419,7 +25419,6 @@
 0.0.0.0 naftemporiki.nuggad.net
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
-0.0.0.0 naj22.proasdf.com
 0.0.0.0 nameadmininc.com
 0.0.0.0 namedia.com
 0.0.0.0 namimedia.com
@@ -26645,7 +26644,6 @@
 0.0.0.0 ox.invia.cz
 0.0.0.0 ox.pigu.lt
 0.0.0.0 ox.tossoffads.com
-0.0.0.0 ox1.shopcool.com.tw
 0.0.0.0 ox2.sterta.pl
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
@@ -33292,7 +33290,6 @@
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
 0.0.0.0 trailblazers.122.2o7.net
-0.0.0.0 traildelsfars.com
 0.0.0.0 traileraddict.us.intellitxt.com
 0.0.0.0 trainercrackkey.com
 0.0.0.0 trainerfree.com
@@ -34716,7 +34713,6 @@
 0.0.0.0 wellmadefrog.com
 0.0.0.0 wellmediaonline.com
 0.0.0.0 weltonline01.webtrekk.net
-0.0.0.0 welved.com
 0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
