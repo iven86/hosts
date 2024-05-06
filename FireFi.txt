@@ -9734,6 +9734,7 @@
 0.0.0.0 aps.hearstnp.com
 0.0.0.0 apsalar.com
 0.0.0.0 apsoutheast-match.deepintent.com
+0.0.0.0 aptabase.com
 0.0.0.0 apture.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apv-launcher.minute.ly
@@ -33706,6 +33707,7 @@
 0.0.0.0 undertonenetworks.com
 0.0.0.0 undetectedcheats.com
 0.0.0.0 unid.go.com
+0.0.0.0 unidentifiedanalytics.web.app
 0.0.0.0 unified.adsafeprotected.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unimhk.com
