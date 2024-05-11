@@ -9803,7 +9803,6 @@
 0.0.0.0 artella.biz
 0.0.0.0 artemis.porntrack.net
 0.0.0.0 artemis.porntrack.nl
-0.0.0.0 artisany.net
 0.0.0.0 artistdirect.us.intellitxt.com
 0.0.0.0 arttoxfb.com
 0.0.0.0 artwork.aim4media.com
@@ -17980,7 +17979,6 @@
 0.0.0.0 fast-adv.it
 0.0.0.0 fast-hack.com
 0.0.0.0 fast-png.com
-0.0.0.0 fast-redirecting.com
 0.0.0.0 fast-scr.pw
 0.0.0.0 fast-trade.su
 0.0.0.0 fast-trade.tech
