@@ -27902,7 +27902,6 @@
 0.0.0.0 protect-x.com
 0.0.0.0 protect.geoedge.be
 0.0.0.0 protectcrev.com
-0.0.0.0 protectivemetrics.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
 0.0.0.0 protexting.com
@@ -28178,7 +28177,6 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.quantserve.com
-0.0.0.0 px.spiceworks.com
 0.0.0.0 px.steelhousemedia.com
 0.0.0.0 px.tvadsync.com
 0.0.0.0 px2.moatads.com
@@ -31618,7 +31616,6 @@
 0.0.0.0 step-service.crossinstall.io
 0.0.0.0 stepan007.popunder.ru
 0.0.0.0 stepnation.com
-0.0.0.0 stepplane.com
 0.0.0.0 stf.terra.com.br
 0.0.0.0 sticker.yadro.ru
 0.0.0.0 stickfile.net
