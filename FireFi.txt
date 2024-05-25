@@ -34688,7 +34688,6 @@
 0.0.0.0 webtrekk.mediaset.net
 0.0.0.0 webtrend25.hemscott.com
 0.0.0.0 webtrends.besite.be
-0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webtrendslive.com
 0.0.0.0 webuser.uk.intellitxt.com
 0.0.0.0 webview.unityads.unity3d.com
