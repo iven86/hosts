@@ -14051,6 +14051,7 @@
 0.0.0.0 click.e.zoom.us
 0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
+0.0.0.0 click.email.lhh.com
 0.0.0.0 click.email.microsoftemail.com
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.email.strawberry.no
@@ -32032,6 +32033,7 @@
 0.0.0.0 t.visitorqueue.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wowanalytics.co.uk
+0.0.0.0 t.x.co
 0.0.0.0 t.zqtk.net
 0.0.0.0 t0.c.appier.net
 0.0.0.0 t0.extreme-dm.com
