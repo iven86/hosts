@@ -23077,6 +23077,7 @@
 0.0.0.0 leadboltapps.net
 0.0.0.0 leadclick.com
 0.0.0.0 leadfiles.net
+0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
@@ -32150,6 +32151,7 @@
 0.0.0.0 tags.viewdeos.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tags1.eclkspsa.com
+0.0.0.0 tagtoo.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
