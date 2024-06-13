@@ -29844,6 +29844,7 @@
 0.0.0.0 servad.mynet.com
 0.0.0.0 servads.fansshare.com
 0.0.0.0 servads.net
+0.0.0.0 servclick1move.com
 0.0.0.0 serve-east.acuityplatform.com
 0.0.0.0 serve-prod1204.uberads.com
 0.0.0.0 serve.ads.chaturbate.com
