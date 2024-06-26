@@ -13868,6 +13868,7 @@
 0.0.0.0 cl-c.netseer.com
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 cl.netseer.com
+0.0.0.0 cl.turkishairlines.com
 0.0.0.0 cl0udh0st1ng.com
 0.0.0.0 clad.perfectcorp.com
 0.0.0.0 claimiphone7.net
