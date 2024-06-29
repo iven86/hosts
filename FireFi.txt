@@ -1768,7 +1768,6 @@
 0.0.0.0 achapeloflove.com
 0.0.0.0 achmedia.com
 0.0.0.0 achtungachtung.com
-0.0.0.0 acid-adserver.click
 0.0.0.0 acieh.onecinema.us
 0.0.0.0 acim.com
 0.0.0.0 acjp.com
@@ -17909,6 +17908,7 @@
 0.0.0.0 fast-adv.it
 0.0.0.0 fast-hack.com
 0.0.0.0 fast-png.com
+0.0.0.0 fast-redirecting.com
 0.0.0.0 fast-scr.pw
 0.0.0.0 fast-trade.su
 0.0.0.0 fast-trade.tech
@@ -18351,7 +18351,6 @@
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineclicks.com
 0.0.0.0 finelchck.biz
-0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
 0.0.0.0 fiona.ai.net
 0.0.0.0 fips.uimserv.net
