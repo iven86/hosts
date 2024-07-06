@@ -1703,6 +1703,7 @@
 0.0.0.0 absolutelyric.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absorbingband.com
+0.0.0.0 absorbingcorn.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
 0.0.0.0 abtest.alibaba.com
@@ -7047,7 +7048,6 @@
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.moitepari.bg
 0.0.0.0 adserver.motorpresse.de
-0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.mylinea.com
 0.0.0.0 adserver.myownemail.com
 0.0.0.0 adserver.netcollex.co.uk
@@ -18351,6 +18351,7 @@
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineclicks.com
 0.0.0.0 finelchck.biz
+0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
 0.0.0.0 fiona.ai.net
 0.0.0.0 fips.uimserv.net
@@ -21156,6 +21157,7 @@
 0.0.0.0 homo6.com
 0.0.0.0 hondahookup.us.intellitxt.com
 0.0.0.0 hongkiat.us.intellitxt.com
+0.0.0.0 honorablehall.com
 0.0.0.0 honorableland.com
 0.0.0.0 hook.integromat.com
 0.0.0.0 hook.yieldbuild.com
