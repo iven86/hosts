@@ -9229,6 +9229,7 @@
 0.0.0.0 api.altamob.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.applink.mob.com
+0.0.0.0 api.appmetrica.yandex.ru
 0.0.0.0 api.appodeal.com
 0.0.0.0 api.appodealx.com
 0.0.0.0 api.appsee.com
@@ -9667,7 +9668,6 @@
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
 0.0.0.0 applyads.com
-0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appmm.zapr.in
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 appmyass.com
@@ -22798,6 +22798,7 @@
 0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 knac.us.intellitxt.com
 0.0.0.0 knightsanddragonshack.com
+0.0.0.0 knitstamp.com
 0.0.0.0 knorex.com
 0.0.0.0 knottyswing.com
 0.0.0.0 knowyourmobile.uk.intellitxt.com
@@ -27596,6 +27597,7 @@
 0.0.0.0 pricebandit.com
 0.0.0.0 pricecsgo.net
 0.0.0.0 priceypies.com
+0.0.0.0 pricklydebt.com
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 priefy.com
 0.0.0.0 prijavi.net
@@ -28554,7 +28556,11 @@
 0.0.0.0 rentcom.tt.omtrdc.net
 0.0.0.0 rephacks.net
 0.0.0.0 replaycontroller.4seeresults.com
+0.0.0.0 report-1.appmetrica.webvisor.com
+0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-ads-to.pubnation.com
+0.0.0.0 report-partners.appmetrica.yandex.net
+0.0.0.0 report.ap.yandex-net.ru
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.mitsubishicars.com
 0.0.0.0 reporting.aatkit.com
