@@ -31615,6 +31615,7 @@
 0.0.0.0 super-cheats.com
 0.0.0.0 super-download.com
 0.0.0.0 superad2.com.sg
+0.0.0.0 superawesome.tv
 0.0.0.0 superbhacks.com
 0.0.0.0 superbingopalace.com
 0.0.0.0 superbowl2014.streams24.tv
