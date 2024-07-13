@@ -5433,7 +5433,6 @@
 0.0.0.0 ads.pornad.com
 0.0.0.0 ads.pornerbros.com
 0.0.0.0 ads.powweb.com
-0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.premium.cz
 0.0.0.0 ads.premiumaccounts.com
@@ -18978,7 +18977,6 @@
 0.0.0.0 freesamsung.org
 0.0.0.0 freeserverhostingminecraft.com
 0.0.0.0 freeshoppingsavvy.com
-0.0.0.0 freeskreen.com
 0.0.0.0 freeskypecredit.com
 0.0.0.0 freeskypecredit.com-promotions.us
 0.0.0.0 freeskypecredit.net
@@ -32933,7 +32931,6 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1-a1502-bi.co.uk
-0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.28-91473-wbm.co.uk
