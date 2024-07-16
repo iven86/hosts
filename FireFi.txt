@@ -12581,6 +12581,7 @@
 0.0.0.0 c.cnzz.com
 0.0.0.0 c.codeonclick.com
 0.0.0.0 c.compete.com
+0.0.0.0 c.corporate-fundraising.co.uk
 0.0.0.0 c.data.mob.com
 0.0.0.0 c.deployads.com
 0.0.0.0 c.ecliks.com
