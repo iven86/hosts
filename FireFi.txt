@@ -26612,7 +26612,6 @@
 0.0.0.0 pacap.us
 0.0.0.0 pacyhacks.com
 0.0.0.0 pad-v3.presage.io
-0.0.0.0 padsbrown.com
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
 0.0.0.0 page-not-found.net
@@ -34317,7 +34316,6 @@
 0.0.0.0 wahacondrax.iad-03.braze.com
 0.0.0.0 walemedia.com
 0.0.0.0 walgrns.112.2o7.net
-0.0.0.0 walkets.click
 0.0.0.0 walkingdead.movie24.tv
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 walla.yad2.co.il
