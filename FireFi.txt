@@ -17199,6 +17199,7 @@
 0.0.0.0 em.pc-on-internet.com
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-hack.com
+0.0.0.0 email-link.adtidy.info
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
 0.0.0.0 email-links.crowdfireapp.com
@@ -23619,6 +23620,7 @@
 0.0.0.0 lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 0.0.0.0 lynx.cognitivlabs.com
 0.0.0.0 lyrics.us.intellitxt.com
+0.0.0.0 lyricshook.com
 0.0.0.0 lytics.io
 0.0.0.0 lz.mainentrypoint.com
 0.0.0.0 lzjl.com
@@ -24147,6 +24149,7 @@
 0.0.0.0 medienhaus.nuggad.net
 0.0.0.0 medindia.us.intellitxt.com
 0.0.0.0 medio.com
+0.0.0.0 mediumshort.com
 0.0.0.0 medlafare.com
 0.0.0.0 medleyads.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
@@ -24215,6 +24218,7 @@
 0.0.0.0 metadsp.co.uk
 0.0.0.0 metaffiliation.com
 0.0.0.0 metagaua.hit.gemius.pl
+0.0.0.0 metajaws.com
 0.0.0.0 metanetwork.com
 0.0.0.0 metanetwork.net
 0.0.0.0 metaresolver.com
@@ -26453,6 +26457,7 @@
 0.0.0.0 overblog.ezakus.net
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overconfidentfood.com
+0.0.0.0 overkick.com
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 oversee.net
 0.0.0.0 overstockcom.112.2o7.net
@@ -27347,6 +27352,7 @@
 0.0.0.0 pod.infinitypersonals.com
 0.0.0.0 pod.manplay.com
 0.0.0.0 pod.sexsearch.com
+0.0.0.0 poemprompt.com
 0.0.0.0 pointcodes4free.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointlessprofit.com
@@ -28542,6 +28548,7 @@
 0.0.0.0 reloadedcracking.com
 0.0.0.0 reloadedhacks.com
 0.0.0.0 reloadedhacks.org
+0.0.0.0 reloadphoto.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
@@ -30593,6 +30600,7 @@
 0.0.0.0 soggysponge.com
 0.0.0.0 soggyzoo.com
 0.0.0.0 sohh.us.intellitxt.com
+0.0.0.0 soicos.com
 0.0.0.0 soka-adserver.c1exchange.com
 0.0.0.0 soldegratuit.com
 0.0.0.0 soldiersinccheat.elitegamershub.com
@@ -30944,6 +30952,7 @@
 0.0.0.0 stardk.tradedoubler.com
 0.0.0.0 stardollcheats.elitegamershub.com
 0.0.0.0 starffa.com
+0.0.0.0 starkscale.com
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 starstablehack.net
@@ -31622,6 +31631,7 @@
 0.0.0.0 supercars.us.intellitxt.com
 0.0.0.0 supercell.net
 0.0.0.0 supercheatsandhacks.com
+0.0.0.0 superchichair.com
 0.0.0.0 superclix.de
 0.0.0.0 superfastsservers.com
 0.0.0.0 superficial.crwdcntrl.net
@@ -37250,6 +37260,7 @@
 0.0.0.0 zonawm.biz.popunder.ru
 0.0.0.0 zoneoffiles.com
 0.0.0.0 zonepa.com
+0.0.0.0 zonewedgeshaft.com
 0.0.0.0 zoomfiles.net
 0.0.0.0 zoomovies.org
 0.0.0.0 zoomshort.com
