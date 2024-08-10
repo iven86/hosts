@@ -9724,7 +9724,6 @@
 0.0.0.0 aqt.adalliance.io
 0.0.0.0 aquabilling.com
 0.0.0.0 aquasoft.us.intellitxt.com
-0.0.0.0 aquaticanswer.com
 0.0.0.0 aquaticowl.com
 0.0.0.0 ar-gmtdmp.mookie1.com
 0.0.0.0 ar.2.cqcounter.com
@@ -18349,7 +18348,6 @@
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineclicks.com
 0.0.0.0 finelchck.biz
-0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
 0.0.0.0 fiona.ai.net
 0.0.0.0 fips.uimserv.net
