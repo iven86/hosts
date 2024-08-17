@@ -1703,7 +1703,6 @@
 0.0.0.0 absolutelyric.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absorbingband.com
-0.0.0.0 absorbingcorn.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
 0.0.0.0 abtest.alibaba.com
@@ -4577,7 +4576,6 @@
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.ads360.com
 0.0.0.0 ads.adsbookie.com
-0.0.0.0 ads.adsbtc.fun
 0.0.0.0 ads.adscholar.com
 0.0.0.0 ads.adsfirefly.com
 0.0.0.0 ads.adshareware.net
@@ -14259,7 +14257,6 @@
 0.0.0.0 clnks.co
 0.0.0.0 clock-desktop.com
 0.0.0.0 clock.atticasports.com
-0.0.0.0 cloisteredcord.com
 0.0.0.0 clomgiriwil.com
 0.0.0.0 closedcows.com
 0.0.0.0 cloud-emea.analytics-egain.com
@@ -21156,7 +21153,6 @@
 0.0.0.0 homo6.com
 0.0.0.0 hondahookup.us.intellitxt.com
 0.0.0.0 hongkiat.us.intellitxt.com
-0.0.0.0 honorablehall.com
 0.0.0.0 honorableland.com
 0.0.0.0 hook.integromat.com
 0.0.0.0 hook.yieldbuild.com
@@ -33098,7 +33094,6 @@
 0.0.0.0 tradingmarkets.us.intellitxt.com
 0.0.0.0 traf.biz
 0.0.0.0 traffic-exchange.com
-0.0.0.0 traffic-redirecting.com
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.buyservices.com
