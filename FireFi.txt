@@ -8098,6 +8098,7 @@
 0.0.0.0 adyug.com
 0.0.0.0 adywind.com
 0.0.0.0 adz.rashflash.com
+0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
@@ -22697,7 +22698,6 @@
 0.0.0.0 kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0 kargovideojstag.s.moatpixel.com
 0.0.0.0 karma.mdpcdn.com
-0.0.0.0 karonty.com
 0.0.0.0 kaspersky.122.2o7.net
 0.0.0.0 kasperthreatpostprod.112.2o7.net
 0.0.0.0 kasterborous.us.intellitxt.com
