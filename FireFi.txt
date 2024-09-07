@@ -4117,7 +4117,6 @@
 0.0.0.0 adhese.standaard.be
 0.0.0.0 adhigh.net
 0.0.0.0 adhitzads.com
-0.0.0.0 adhoc4.net
 0.0.0.0 adhome.biz
 0.0.0.0 adhone.com
 0.0.0.0 adhood.com
@@ -5310,7 +5309,6 @@
 0.0.0.0 ads.narrowline.com
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nationchannel.com
-0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.neg.bg
@@ -22981,7 +22979,6 @@
 0.0.0.0 leadfiles.net
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
-0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
 0.0.0.0 leadsold.cinemamovie.biz
 0.0.0.0 leadspace.com
@@ -32937,7 +32934,6 @@
 0.0.0.0 tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
-0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.28-91473-wbm.co.uk
