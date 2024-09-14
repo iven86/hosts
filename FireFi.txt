@@ -4118,6 +4118,7 @@
 0.0.0.0 adhese.standaard.be
 0.0.0.0 adhigh.net
 0.0.0.0 adhitzads.com
+0.0.0.0 adhoc4.net
 0.0.0.0 adhome.biz
 0.0.0.0 adhone.com
 0.0.0.0 adhood.com
@@ -12873,7 +12874,6 @@
 0.0.0.0 canwest.112.2o7.net
 0.0.0.0 canwestdose.112.2o7.net
 0.0.0.0 canwestglobal.112.2o7.net
-0.0.0.0 capablecows.com
 0.0.0.0 capcityadvcom.112.2o7.net
 0.0.0.0 capecodonlinecom.112.2o7.net
 0.0.0.0 capi.connatix.com
@@ -22980,6 +22980,7 @@
 0.0.0.0 leadfiles.net
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
+0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
 0.0.0.0 leadsold.cinemamovie.biz
 0.0.0.0 leadspace.com
@@ -27588,7 +27589,6 @@
 0.0.0.0 prestigehackforghosts.dlcodes.com
 0.0.0.0 prettyboring.us.intellitxt.com
 0.0.0.0 previousplayground.com
-0.0.0.0 previouspotato.com
 0.0.0.0 prf.hn
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg3429.smartadserver.com
@@ -37269,7 +37269,6 @@
 0.0.0.0 zucks.net
 0.0.0.0 zufiles.com
 0.0.0.0 zug.us.intellitxt.com
-0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zumedianetwork.com
 0.0.0.0 zumobi.com
 0.0.0.0 zuneplay.com
