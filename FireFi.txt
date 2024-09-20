@@ -10124,6 +10124,7 @@
 0.0.0.0 axsrv.com
 0.0.0.0 ay.delivery
 0.0.0.0 ay.eastmoney.com
+0.0.0.0 ayads.co
 0.0.0.0 ayalapma.com
 0.0.0.0 ayb.dns-look-up.com
 0.0.0.0 ayb.lop.com
@@ -24125,6 +24126,7 @@
 0.0.0.0 mediaserver.bwinpartypartners.it
 0.0.0.0 mediashakers.com
 0.0.0.0 mediasmart.io
+0.0.0.0 mediasquare.fr
 0.0.0.0 mediatex.in
 0.0.0.0 mediatext.com
 0.0.0.0 mediation.adnxs.com
@@ -26081,6 +26083,7 @@
 0.0.0.0 official-guide.net
 0.0.0.0 officialcheats.info
 0.0.0.0 officialgiveaway.net
+0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 oglasnikadhr.hit.gemius.pl
 0.0.0.0 ogury.com
@@ -26606,6 +26609,7 @@
 0.0.0.0 p_third.advertmedias.com
 0.0.0.0 p_third.apsmediaagency.com
 0.0.0.0 p_third.cpmtrafficker.com
+0.0.0.0 paa-reporting-advertising.amazon
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pacap.us
@@ -28678,6 +28682,7 @@
 0.0.0.0 ri.revolvermaps.com
 0.0.0.0 rich-bets.one
 0.0.0.0 rich.otherlevels.com
+0.0.0.0 richaudience.com
 0.0.0.0 richboysblog.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.pushwoosh.com
@@ -30837,6 +30842,7 @@
 0.0.0.0 sse.qubit.com
 0.0.0.0 ssend.microad.jp
 0.0.0.0 sshowads.pubmatic.com
+0.0.0.0 sskzlabs.com
 0.0.0.0 ssl-avd.innity.net
 0.0.0.0 ssl-nrk.tns-cs.net
 0.0.0.0 ssl-s.idio.co
