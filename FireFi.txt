@@ -4577,6 +4577,7 @@
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.ads360.com
 0.0.0.0 ads.adsbookie.com
+0.0.0.0 ads.adsbtc.fun
 0.0.0.0 ads.adscholar.com
 0.0.0.0 ads.adsfirefly.com
 0.0.0.0 ads.adshareware.net
@@ -31951,7 +31952,6 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.leadplace.fr
-0.0.0.0 tag.links-analytics.com
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mention-me.com
 0.0.0.0 tag.mtrcs.samba.tv
