@@ -19769,6 +19769,7 @@
 0.0.0.0 getweathercast.com
 0.0.0.0 getwhatsappforpc.com
 0.0.0.0 getxbox360codes.com
+0.0.0.0 getxmlisi.com
 0.0.0.0 getyourcheats.com
 0.0.0.0 getyourfree.org
 0.0.0.0 gfacebook.in
@@ -20090,6 +20091,7 @@
 0.0.0.0 goto.maxifiles.com
 0.0.0.0 gotofreehack24.com
 0.0.0.0 gotoip55.com
+0.0.0.0 gotoyahoo.com
 0.0.0.0 gotphaze.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gottabemobile.us.intellitxt.com
