@@ -6275,7 +6275,6 @@
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.speedbit.com
-0.0.0.0 ads2.techads.info
 0.0.0.0 ads2.tuccus.com
 0.0.0.0 ads2.utopiad.com
 0.0.0.0 ads2.victoriaadvocate.com
@@ -8045,7 +8044,6 @@
 0.0.0.0 adwealth.com
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adweb2.hornymatches.com
-0.0.0.0 adwebone.com
 0.0.0.0 adwhirl.com
 0.0.0.0 adwin.startappservice.com
 0.0.0.0 adwitserver.com
@@ -15724,7 +15722,6 @@
 0.0.0.0 cucdn.genesismedia.com
 0.0.0.0 cudaminer.com
 0.0.0.0 cuebiq.com
-0.0.0.0 cumbersomecloud.com
 0.0.0.0 cumonamateurs.com
 0.0.0.0 cumshotvideos.com
 0.0.0.0 cunnyhoney.com
@@ -32324,7 +32321,6 @@
 0.0.0.0 thechive-d.openx.net
 0.0.0.0 theclanofhack.com
 0.0.0.0 theclashroyale.com
-0.0.0.0 theclickads.com
 0.0.0.0 thecoolpics.com
 0.0.0.0 thecounter.com
 0.0.0.0 thedailyreward.com
@@ -32931,7 +32927,6 @@
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.truehits.in.th
 0.0.0.0 tracker.truehits.net
-0.0.0.0 tracker.vgame.us
 0.0.0.0 tracker.vinsight.de
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackers.adtarget.me
@@ -32943,7 +32938,6 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1betternetwork.com
-0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.28-91473-wbm.co.uk
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
@@ -34227,7 +34221,6 @@
 0.0.0.0 vodafonetr.sc.omtrdc.net
 0.0.0.0 vodkahack.com
 0.0.0.0 voicefive.com
-0.0.0.0 voicelessvein.com
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 volatilevessel.com
 0.0.0.0 volkswagen.122.2o7.net
