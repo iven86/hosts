@@ -12874,6 +12874,7 @@
 0.0.0.0 canwest.112.2o7.net
 0.0.0.0 canwestdose.112.2o7.net
 0.0.0.0 canwestglobal.112.2o7.net
+0.0.0.0 capablecows.com
 0.0.0.0 capcityadvcom.112.2o7.net
 0.0.0.0 capecodonlinecom.112.2o7.net
 0.0.0.0 capi.connatix.com
@@ -14657,6 +14658,7 @@
 0.0.0.0 computingcentral.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
+0.0.0.0 concernedchange.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condeconsumermarketing.112.2o7.net
@@ -15740,6 +15742,7 @@
 0.0.0.0 customer.iad-03.braze.com
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 customtraffic.impactradius.com
+0.0.0.0 cutcurrent.com
 0.0.0.0 cutechin.com
 0.0.0.0 cv.apprupt.com
 0.0.0.0 cv.bsvideos.com
@@ -27596,6 +27599,7 @@
 0.0.0.0 prestigehackforghosts.dlcodes.com
 0.0.0.0 prettyboring.us.intellitxt.com
 0.0.0.0 previousplayground.com
+0.0.0.0 previouspotato.com
 0.0.0.0 prf.hn
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg3429.smartadserver.com
@@ -28120,6 +28124,7 @@
 0.0.0.0 qs.oewabox.at
 0.0.0.0 qs.wemfbox.ch
 0.0.0.0 qsearch.media.net
+0.0.0.0 quacksquirrel.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quakemarketing.com
 0.0.0.0 quality-hacks.com
@@ -29399,6 +29404,7 @@
 0.0.0.0 scarlett.sexybabesx.com
 0.0.0.0 scars-acne.com
 0.0.0.0 scatteredheat.com
+0.0.0.0 scatteredquiver.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 scdown.qq.com
 0.0.0.0 scenepirat.us
@@ -31481,6 +31487,7 @@
 0.0.0.0 steaxcommunity.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
+0.0.0.0 steepscale.com
 0.0.0.0 steocomnnity.com
 0.0.0.0 steomcannunily.com
 0.0.0.0 step-service.crossinstall.io
@@ -34223,6 +34230,7 @@
 0.0.0.0 vodafonetr.sc.omtrdc.net
 0.0.0.0 vodkahack.com
 0.0.0.0 voicefive.com
+0.0.0.0 voicelessvein.com
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 volatilevessel.com
 0.0.0.0 volkswagen.122.2o7.net
