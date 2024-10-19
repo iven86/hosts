@@ -2263,7 +2263,6 @@
 0.0.0.0 ad.sgdgjarfpp123.com
 0.0.0.0 ad.shop.tbn.ru
 0.0.0.0 ad.si.doubleclick.net
-0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.sitelement.sk
 0.0.0.0 ad.sitemaji.com
