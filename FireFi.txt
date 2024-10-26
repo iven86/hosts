@@ -7169,7 +7169,6 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
-0.0.0.0 adsfactor.net
 0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adsfeed3.brabys.co.za
 0.0.0.0 adsfs.oppomobile.com
@@ -8043,6 +8042,7 @@
 0.0.0.0 adwealth.com
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adweb2.hornymatches.com
+0.0.0.0 adwebone.com
 0.0.0.0 adwhirl.com
 0.0.0.0 adwin.startappservice.com
 0.0.0.0 adwitserver.com
@@ -11026,7 +11026,6 @@
 0.0.0.0 bidr.io
 0.0.0.0 bidr.trellian.com
 0.0.0.0 bids.concert.io
-0.0.0.0 bidsopt.com
 0.0.0.0 bidstream.advertserve.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bidtellect.com
