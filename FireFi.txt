@@ -13979,6 +13979,7 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
+0.0.0.0 click-2.eu
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-safe.com
 0.0.0.0 click-west.acuityplatform.com
@@ -14806,6 +14807,7 @@
 0.0.0.0 contineljs.com
 0.0.0.0 continent17.free.fr
 0.0.0.0 continuumdownload.com
+0.0.0.0 contrack.link
 0.0.0.0 control.123banners.com
 0.0.0.0 control.adap.tv
 0.0.0.0 control.kochava.com
@@ -28259,6 +28261,7 @@
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rampageskins.com
 0.0.0.0 rampidads.com
+0.0.0.0 randkuj.xyz
 0.0.0.0 randomwowkey.com
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
@@ -32561,6 +32564,7 @@
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tntclix.co.uk
 0.0.0.0 tnttv.112.2o7.net
+0.0.0.0 to-go1.eu
 0.0.0.0 tobink.com
 0.0.0.0 todacell.com
 0.0.0.0 todayinfos.us
@@ -32775,6 +32779,7 @@
 0.0.0.0 track-683.trafiz.net
 0.0.0.0 track-711.trafiz.net
 0.0.0.0 track-east.mobileadtrading.com
+0.0.0.0 track-on.pl
 0.0.0.0 track-your-fedex-package.org
 0.0.0.0 track.15x.net
 0.0.0.0 track.absoluteclickscom.com
@@ -34019,6 +34024,7 @@
 0.0.0.0 vg.tns-cs.net
 0.0.0.0 vgdownloads.net
 0.0.0.0 vgfree.com
+0.0.0.0 vgnp3trk.com
 0.0.0.0 vht.tradedoubler.com
 0.0.0.0 vi-serve.com
 0.0.0.0 via.batch.com
