@@ -13979,6 +13979,7 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
+0.0.0.0 click-1.pl
 0.0.0.0 click-2.eu
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-safe.com
@@ -14075,6 +14076,7 @@
 0.0.0.0 click2paid.com
 0.0.0.0 click2pics.net
 0.0.0.0 click360v2-ingest.azurewebsites.net
+0.0.0.0 click4.pro
 0.0.0.0 click4images.net
 0.0.0.0 click4img.com
 0.0.0.0 clickability.com
@@ -19927,8 +19929,10 @@
 0.0.0.0 gntbcstwxia.112.2o7.net
 0.0.0.0 gntbcstwzzm.112.2o7.net
 0.0.0.0 go-clicks.de
+0.0.0.0 go-link.network
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rank.de
+0.0.0.0 go-redirect.pl
 0.0.0.0 go.accmgr.com
 0.0.0.0 go.aceadsys.net
 0.0.0.0 go.ad2up.com
@@ -22973,6 +22977,7 @@
 0.0.0.0 ldynamicspublicapi.leadforensics.com
 0.0.0.0 lead-123.com
 0.0.0.0 lead-analytics.nl
+0.0.0.0 lead02.com
 0.0.0.0 leadaffiliates.com
 0.0.0.0 leadback.advertising.com
 0.0.0.0 leadback.netseer.com
@@ -25237,6 +25242,7 @@
 0.0.0.0 mygamehack.com
 0.0.0.0 mygamersarena.com
 0.0.0.0 myglobalsearch.com
+0.0.0.0 mylead-tracking.tracknow.info
 0.0.0.0 mylink-today.com
 0.0.0.0 mylinkbox.com
 0.0.0.0 mylolriotpoints.com
@@ -28365,6 +28371,7 @@
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
+0.0.0.0 re-direct.pl
 0.0.0.0 re-directme.com
 0.0.0.0 re.revolvermaps.com
 0.0.0.0 reachjunction.com
@@ -28470,6 +28477,7 @@
 0.0.0.0 redirectx.net
 0.0.0.0 reditions.net
 0.0.0.0 redmas.com
+0.0.0.0 redrection.pro
 0.0.0.0 redroomnetwork.com
 0.0.0.0 redshell.io
 0.0.0.0 redsn0wjb.net
