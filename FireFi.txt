@@ -23311,7 +23311,6 @@
 0.0.0.0 lockergnome.us.intellitxt.com
 0.0.0.0 lockredirect.com
 0.0.0.0 locktrk.com
-0.0.0.0 locpub.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -24843,7 +24842,6 @@
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 monetizemore.com
 0.0.0.0 monetizer101.com
-0.0.0.0 moneyexpert.co.uk
 0.0.0.0 moneyexpert.com
 0.0.0.0 moneyh.wemfbox.ch
 0.0.0.0 moneyisecondgod.com
@@ -26484,7 +26482,6 @@
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owb101.goo.ne.jp
-0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
@@ -26681,7 +26678,6 @@
 0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 pangolin16.isnssdk.com
-0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
 0.0.0.0 panoramicplane.com
 0.0.0.0 panther1.cpxinteractive.com
@@ -27788,7 +27784,6 @@
 0.0.0.0 prompt.zangocash.com
 0.0.0.0 pronanchacks.com
 0.0.0.0 pronetadvertising.com
-0.0.0.0 proof-x.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
@@ -29778,7 +29773,6 @@
 0.0.0.0 securedopen-bp.com
 0.0.0.0 securefile.info
 0.0.0.0 securefileupload.com
-0.0.0.0 securely-protectsoft.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemetrics.apple.com.cn
 0.0.0.0 securepubads.g.doubleclick.net
@@ -30650,7 +30644,6 @@
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 sophiabush.sexybabesx.com
 0.0.0.0 sor-sdk.follow-apps.com
-0.0.0.0 sordidsmile.com
 0.0.0.0 sortable.com
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 soski.popunder.ru
@@ -31626,7 +31619,6 @@
 0.0.0.0 sugoicounter.com
 0.0.0.0 sulake.pushwoosh.com
 0.0.0.0 sulkycook.com
-0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
 0.0.0.0 summitbusinessmedia.112.2o7.net
 0.0.0.0 summoners-war-hack.com
@@ -32959,8 +32951,6 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1betternetwork.com
-0.0.0.0 tracking.28-91473-wbm.co.uk
-0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com
