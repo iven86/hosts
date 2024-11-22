@@ -14066,6 +14066,7 @@
 0.0.0.0 click.uamtrk.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.union.ucweb.com
+0.0.0.0 click.v.visionlab.es
 0.0.0.0 click.zeroclickdirect.com
 0.0.0.0 click.zxxds.net
 0.0.0.0 click2.yllix.com
