@@ -799,6 +799,7 @@
 0.0.0.0 2df7e.v.fwmrm.net
 0.0.0.0 2in1pill.com
 0.0.0.0 2kpixel.quantserve.com
+0.0.0.0 2linkpath.com
 0.0.0.0 2mdn.net
 0.0.0.0 2nd-thought.com
 0.0.0.0 2o7.com
@@ -995,6 +996,7 @@
 0.0.0.0 4af7c20b-7646-4fb7-b64f-ae0a8c51c1f1.register.collector.scopely.io
 0.0.0.0 4affiliate.net
 0.0.0.0 4click.biz
+0.0.0.0 4clicker.pro
 0.0.0.0 4cywq-eqnre.ads.tremorhub.com
 0.0.0.0 4d5.net
 0.0.0.0 4dsply.com
@@ -16087,6 +16089,7 @@
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
+0.0.0.0 deal-on.eu
 0.0.0.0 dealdotcom.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
 0.0.0.0 dealnews.122.2o7.net
@@ -16342,6 +16345,7 @@
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-hacks.com
+0.0.0.0 direct-re2.pl
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 direct.fairfax.com.au
@@ -23561,6 +23565,7 @@
 0.0.0.0 lovelyfreindsvisit.com
 0.0.0.0 low-hacker.popunder.ru
 0.0.0.0 lowes.tt.omtrdc.net
+0.0.0.0 lowest-price.eu
 0.0.0.0 loxtk.com
 0.0.0.0 lp.ezdownloadpro.info
 0.0.0.0 lp.ncdownloader.com
@@ -28361,6 +28366,7 @@
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
 0.0.0.0 re-direct.pl
+0.0.0.0 re-direct1.com
 0.0.0.0 re-directme.com
 0.0.0.0 re.revolvermaps.com
 0.0.0.0 reachjunction.com
@@ -28704,6 +28710,7 @@
 0.0.0.0 rightmoveanalytics.co.uk
 0.0.0.0 rightpundits.us.intellitxt.com
 0.0.0.0 rightstats.com
+0.0.0.0 riktok.pl
 0.0.0.0 rimvoyeur.ru
 0.0.0.0 ringcentral.112.2o7.net
 0.0.0.0 ringieradro.hit.gemius.pl
