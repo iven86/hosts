@@ -1665,6 +1665,7 @@
 0.0.0.0 abitz.com
 0.0.0.0 able2know.us.intellitxt.com
 0.0.0.0 ablink.comms.trainline.com
+0.0.0.0 ablink.info.wise.com
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 abnett.hypermart.net
@@ -11026,6 +11027,7 @@
 0.0.0.0 bidr.io
 0.0.0.0 bidr.trellian.com
 0.0.0.0 bids.concert.io
+0.0.0.0 bidsopt.com
 0.0.0.0 bidstream.advertserve.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bidtellect.com
@@ -33071,7 +33073,6 @@
 0.0.0.0 tracknet.twyn.com
 0.0.0.0 tracksitetraffic1.com
 0.0.0.0 tracktrue.clicktrue.biz
-0.0.0.0 trackuhub.com
 0.0.0.0 trackyourstats.com
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 tracy.tutoads.tv
