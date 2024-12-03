@@ -14116,6 +14116,7 @@
 0.0.0.0 clicklog.info
 0.0.0.0 clickmate.io
 0.0.0.0 clickmedia.ro
+0.0.0.0 clickngo.pro
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.adultplex.com
@@ -15999,6 +16000,7 @@
 0.0.0.0 datawork24.com
 0.0.0.0 dataxu.com
 0.0.0.0 date.ventivmedia.com
+0.0.0.0 datenow.link
 0.0.0.0 dathackhaha.com
 0.0.0.0 dating.friendsearch.com
 0.0.0.0 datplus.springserve.com
@@ -28466,6 +28468,7 @@
 0.0.0.0 redirect.webnowa.com
 0.0.0.0 redirect.xmladfeed.com
 0.0.0.0 redirectcpv.com
+0.0.0.0 redirecting8.eu
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectlock.com
 0.0.0.0 redirects.coldhardcash.com
