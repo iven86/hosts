@@ -21323,7 +21323,6 @@
 0.0.0.0 huadn.hit.gemius.pl
 0.0.0.0 hub.adlpartner.com
 0.0.0.0 hub.com.pl
-0.0.0.0 hubadnetwork.com
 0.0.0.0 hubfast.com
 0.0.0.0 hubmyfile.com
 0.0.0.0 hubspotlinks.com
@@ -28665,7 +28664,6 @@
 0.0.0.0 revieweee.com
 0.0.0.0 reviews.domainplayersclub.com
 0.0.0.0 reviewscircle.com
-0.0.0.0 revive.docmatic.org
 0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
@@ -30651,7 +30649,6 @@
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 sophiabush.sexybabesx.com
 0.0.0.0 sor-sdk.follow-apps.com
-0.0.0.0 sordidsmile.com
 0.0.0.0 sortable.com
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 soski.popunder.ru
