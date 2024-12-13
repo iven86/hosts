@@ -10851,6 +10851,7 @@
 0.0.0.0 best-ads.com
 0.0.0.0 best-cheat.org
 0.0.0.0 best-cheats24.com
+0.0.0.0 best-click.pro
 0.0.0.0 best-files.org
 0.0.0.0 best-free-file.com
 0.0.0.0 best-freehacks.com
@@ -18360,6 +18361,7 @@
 0.0.0.0 fips.uimserv.net
 0.0.0.0 firal.net
 0.0.0.0 fire-hacks.com
+0.0.0.0 fireads.online
 0.0.0.0 fireads.org
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
@@ -26674,6 +26676,7 @@
 0.0.0.0 pamela.sexybabesx.com
 0.0.0.0 pamila.medlafare.com
 0.0.0.0 panacinema.pw
+0.0.0.0 panatenlink.pl
 0.0.0.0 pandapopcheats.xyz
 0.0.0.0 pandasoftware.112.2o7.net
 0.0.0.0 pandawamovie.com
@@ -27829,6 +27832,7 @@
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 prt-stsdk.vivo.com.cn
 0.0.0.0 prt.stsdk.vivo.com.cn
+0.0.0.0 prufenzo.xyz
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 ps.eyeota.net
