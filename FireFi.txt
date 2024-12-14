@@ -8254,6 +8254,7 @@
 0.0.0.0 affinity-xml.t.domdex.com
 0.0.0.0 affinity.go2jump.org
 0.0.0.0 affiz.net
+0.0.0.0 afflnx.com
 0.0.0.0 affntwklnk.com
 0.0.0.0 affrh2019.com
 0.0.0.0 afftracking.justanswer.com
@@ -8971,7 +8972,6 @@
 0.0.0.0 angl.pagecount.com
 0.0.0.0 angmar.112.2o7.net
 0.0.0.0 angmil.112.2o7.net
-0.0.0.0 angossa.com
 0.0.0.0 angpar.112.2o7.net
 0.0.0.0 angry-birds-epic.com
 0.0.0.0 angryhack.com
@@ -14409,6 +14409,7 @@
 0.0.0.0 cnt2.pocitadlo.cz
 0.0.0.0 cntj.zj.dcys.ijinshan.com
 0.0.0.0 cnv.event.prod.bidr.io
+0.0.0.0 cnvlink.com
 0.0.0.0 cnvrsns.clickmeter.com
 0.0.0.0 cny.yoyo.org
 0.0.0.0 cnzz.mmstat.com
@@ -20433,6 +20434,7 @@
 0.0.0.0 gxprocord.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-bid.com
+0.0.0.0 h-trck.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 h.nexac.com
 0.0.0.0 h.online-metrix.net
@@ -23130,7 +23132,6 @@
 0.0.0.0 light-screen.net
 0.0.0.0 light-screnshots.net
 0.0.0.0 light.privatefeeds.com
-0.0.0.0 lightcast.leadscoringcenter.com
 0.0.0.0 lightdrop.top
 0.0.0.0 lightingshots.com
 0.0.0.0 lightning.cnn.com
@@ -28274,6 +28275,7 @@
 0.0.0.0 rampageskins.com
 0.0.0.0 rampidads.com
 0.0.0.0 randkuj.xyz
+0.0.0.0 randkula.online
 0.0.0.0 randomwowkey.com
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
@@ -30656,6 +30658,7 @@
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 sophiabush.sexybabesx.com
 0.0.0.0 sor-sdk.follow-apps.com
+0.0.0.0 sordidsmile.com
 0.0.0.0 sortable.com
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 soski.popunder.ru
@@ -32860,6 +32863,7 @@
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 track.prizeglobal.net
+0.0.0.0 track.przejdzdostrony.pl
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.radtracking.com
 0.0.0.0 track.recreativ.ru
@@ -32929,7 +32933,6 @@
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
-0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.engageclick.com
