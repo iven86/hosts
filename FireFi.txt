@@ -14116,7 +14116,6 @@
 0.0.0.0 clicklink.jp
 0.0.0.0 clicklinkz.com
 0.0.0.0 clicklog.info
-0.0.0.0 clickmate.io
 0.0.0.0 clickmedia.ro
 0.0.0.0 clickngo.pro
 0.0.0.0 clickonometrics.pl
@@ -32933,6 +32932,7 @@
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
+0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.engageclick.com
@@ -34548,7 +34548,6 @@
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 webtracker.jp
 0.0.0.0 webtrackerplus.com
-0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtraxx.de
 0.0.0.0 webtrekk.mediaset.net
