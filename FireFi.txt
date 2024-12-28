@@ -19082,7 +19082,6 @@
 0.0.0.0 friendtest.us.intellitxt.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frogaming.com
-0.0.0.0 frogator.com
 0.0.0.0 froggytest.fr.intellitxt.com
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 frontpage-stats.rbl.ms
@@ -22937,6 +22936,7 @@
 0.0.0.0 latin3.directtrack.com
 0.0.0.0 latinoreview.us.intellitxt.com
 0.0.0.0 latinpost.us.intellitxt.com
+0.0.0.0 laughcloth.com
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
 0.0.0.0 launches.appsflyer.com
