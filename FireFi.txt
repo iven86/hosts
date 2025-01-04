@@ -26690,7 +26690,6 @@
 0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 pangolin16.isnssdk.com
-0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
 0.0.0.0 panoramicplane.com
 0.0.0.0 panther1.cpxinteractive.com
@@ -30658,7 +30657,6 @@
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 sophiabush.sexybabesx.com
 0.0.0.0 sor-sdk.follow-apps.com
-0.0.0.0 sordidsmile.com
 0.0.0.0 sortable.com
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 soski.popunder.ru
