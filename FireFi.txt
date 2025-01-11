@@ -19958,6 +19958,7 @@
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.ezoic.net
+0.0.0.0 go.first.org
 0.0.0.0 go.gba.bbelements.com
 0.0.0.0 go.goldbachpoland.bbelements.com
 0.0.0.0 go.goroost.com
@@ -23092,7 +23093,6 @@
 0.0.0.0 lga-bh-bgp.contextweb.com
 0.0.0.0 lga-bh.contextweb.com
 0.0.0.0 lga-tr.contextweb.com
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lgsmartad.com
 0.0.0.0 li.alibris.com
 0.0.0.0 li.azstarnet.com
