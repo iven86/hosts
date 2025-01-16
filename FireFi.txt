@@ -20236,6 +20236,7 @@
 0.0.0.0 grandtheftauto5hacks.com
 0.0.0.0 grandtheftauto5hacks.net
 0.0.0.0 grandtheftautogangsters.com
+0.0.0.0 granlite.com
 0.0.0.0 grant-skins.com
 0.0.0.0 granturismo.console2pc.info
 0.0.0.0 grapeshot.co.uk
@@ -27414,6 +27415,7 @@
 0.0.0.0 polaris.tns-cs.net
 0.0.0.0 poldk.nuggad.net
 0.0.0.0 policy.rayjump.com
+0.0.0.0 polishedfolly.com
 0.0.0.0 politads.com
 0.0.0.0 polyad.net
 0.0.0.0 pontiflex.com
