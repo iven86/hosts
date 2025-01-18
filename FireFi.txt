@@ -1821,7 +1821,6 @@
 0.0.0.0 actualite-de-stars.fr.intellitxt.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
-0.0.0.0 actuallything.com
 0.0.0.0 actualnames.com
 0.0.0.0 actualresearch.com
 0.0.0.0 actualsearch.com
@@ -8972,6 +8971,7 @@
 0.0.0.0 angl.pagecount.com
 0.0.0.0 angmar.112.2o7.net
 0.0.0.0 angmil.112.2o7.net
+0.0.0.0 angossa.com
 0.0.0.0 angpar.112.2o7.net
 0.0.0.0 angry-birds-epic.com
 0.0.0.0 angryhack.com
@@ -32199,7 +32199,6 @@
 0.0.0.0 techworld.nl.intellitxt.com
 0.0.0.0 techzine.nl.intellitxt.com
 0.0.0.0 ted.dailymail.co.uk
-0.0.0.0 tediousticket.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teen.streamate.com
 0.0.0.0 teenboobstube.com
