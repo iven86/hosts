@@ -1821,6 +1821,7 @@
 0.0.0.0 actualite-de-stars.fr.intellitxt.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
+0.0.0.0 actuallything.com
 0.0.0.0 actualnames.com
 0.0.0.0 actualresearch.com
 0.0.0.0 actualsearch.com
@@ -3883,7 +3884,6 @@
 0.0.0.0 adapt.tv
 0.0.0.0 adapter.kaffnet.com
 0.0.0.0 adaptv.pixel.invitemedia.com
-0.0.0.0 adaranth.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adatom.com
@@ -5692,7 +5692,6 @@
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
-0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
@@ -14066,7 +14065,6 @@
 0.0.0.0 click.silvercash.com
 0.0.0.0 click.sureonlinefind.com
 0.0.0.0 click.top10sites.com
-0.0.0.0 click.twcwigs.com
 0.0.0.0 click.uamtrk.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.union.ucweb.com
