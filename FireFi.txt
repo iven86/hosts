@@ -9956,7 +9956,6 @@
 0.0.0.0 atlaseducation.aavalue.com
 0.0.0.0 atlashacks.com
 0.0.0.0 atlassolutions.com
-0.0.0.0 ato.mx
 0.0.0.0 atomhack.net
 0.0.0.0 atomic.sharezips.info
 0.0.0.0 atpco.ur.gcion.com
@@ -20906,7 +20905,6 @@
 0.0.0.0 hdmoviefull.com
 0.0.0.0 hdmovieon.com
 0.0.0.0 hdmoviespot.com
-0.0.0.0 hdscout.com
 0.0.0.0 hdshow-online.com
 0.0.0.0 hdstreaming.me
 0.0.0.0 hdtvclub.info
@@ -32197,6 +32195,7 @@
 0.0.0.0 techworld.nl.intellitxt.com
 0.0.0.0 techzine.nl.intellitxt.com
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 tediousticket.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teen.streamate.com
 0.0.0.0 teenboobstube.com
