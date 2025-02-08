@@ -219,7 +219,6 @@
 0.0.0.0 0nlyzoo.com
 0.0.0.0 0pencase.com
 0.0.0.0 0xsearch.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-2-free.com
 0.0.0.0 1-se.com
 0.0.0.0 1.cataloc.msk.ru
@@ -5692,6 +5691,7 @@
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
@@ -9956,6 +9956,7 @@
 0.0.0.0 atlaseducation.aavalue.com
 0.0.0.0 atlashacks.com
 0.0.0.0 atlassolutions.com
+0.0.0.0 ato.mx
 0.0.0.0 atomhack.net
 0.0.0.0 atomic.sharezips.info
 0.0.0.0 atpco.ur.gcion.com
@@ -20308,7 +20309,6 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
-0.0.0.0 gstaticx.com
 0.0.0.0 gsway.info
 0.0.0.0 gsx-appleaccess.com
 0.0.0.0 gt6.sharezips.info
@@ -25575,7 +25575,6 @@
 0.0.0.0 newshared.com
 0.0.0.0 newsinteractive.112.2o7.net
 0.0.0.0 newsinternational.122.2o7.net
-0.0.0.0 newsletter-link.com
 0.0.0.0 newsletter.adsonar.com
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 newsok.112.2o7.net
@@ -25583,7 +25582,6 @@
 0.0.0.0 newspush.sinajs.cn
 0.0.0.0 newsquestdigitalmedia.122.2o7.net
 0.0.0.0 newsregular.com
-0.0.0.0 newstarads.com
 0.0.0.0 newstimeslivecom.112.2o7.net
 0.0.0.0 newstoob.us.intellitxt.com
 0.0.0.0 newsuperhacks.com
