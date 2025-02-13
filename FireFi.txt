@@ -15745,7 +15745,6 @@
 0.0.0.0 customads.co
 0.0.0.0 customer.cludo.com
 0.0.0.0 customer.iad-03.braze.com
-0.0.0.0 customeriomail.com
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 customtraffic.impactradius.com
 0.0.0.0 cutechin.com
@@ -16888,6 +16887,7 @@
 0.0.0.0 e-cinema24.com
 0.0.0.0 e-currencyhacks.com
 0.0.0.0 e-debtconsolidation.com
+0.0.0.0 e-eu.customeriomail.com
 0.0.0.0 e-filesroom.com
 0.0.0.0 e-gamespace.com
 0.0.0.0 e-gamespot.com
@@ -16915,6 +16915,7 @@
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 e.connectad.io
+0.0.0.0 e.customeriomail.com
 0.0.0.0 e.de.inmobi.com
 0.0.0.0 e.deployads.com
 0.0.0.0 e.dlx.addthis.com
@@ -32791,6 +32792,7 @@
 0.0.0.0 track-683.trafiz.net
 0.0.0.0 track-711.trafiz.net
 0.0.0.0 track-east.mobileadtrading.com
+0.0.0.0 track-eu.customer.io
 0.0.0.0 track-on.eu
 0.0.0.0 track-on.pl
 0.0.0.0 track-your-fedex-package.org
