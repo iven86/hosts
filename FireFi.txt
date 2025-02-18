@@ -33128,6 +33128,7 @@
 0.0.0.0 trc.pushnami.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trck.a8.net
+0.0.0.0 trck.mtrgt.id
 0.0.0.0 trckclck.com
 0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
