@@ -5687,6 +5687,7 @@
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
@@ -22137,7 +22138,6 @@
 0.0.0.0 intext.billboard.cz
 0.0.0.0 intext.lookit.cz
 0.0.0.0 intl-paypal-com.com
-0.0.0.0 intnotif.club
 0.0.0.0 intogossip.us.intellitxt.com
 0.0.0.0 intomobile.us.intellitxt.com
 0.0.0.0 intouch.arcsoft.com
@@ -22770,7 +22770,6 @@
 0.0.0.0 klkstrm.kargo.com
 0.0.0.0 klog.hiido.com
 0.0.0.0 klsdee.com
-0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 knac.us.intellitxt.com
 0.0.0.0 knightsanddragonshack.com
 0.0.0.0 knitstamp.com
@@ -25663,7 +25662,6 @@
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 no.counter.mtgnewmedia.se
 0.0.0.0 nocostgiftcards.com
-0.0.0.0 nocturnalloom.com
 0.0.0.0 nodeny.targetspot.com
 0.0.0.0 nodevice.uk.intellitxt.com
 0.0.0.0 noel.cheriefm.fr
