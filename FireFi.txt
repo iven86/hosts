@@ -19831,6 +19831,7 @@
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.inmobi.com
+0.0.0.0 glasscoyote.com
 0.0.0.0 glassgrip.biz
 0.0.0.0 glb.adtechus.com
 0.0.0.0 glean.pop6.com
@@ -26057,6 +26058,7 @@
 0.0.0.0 official-guide.net
 0.0.0.0 officialcheats.info
 0.0.0.0 officialgiveaway.net
+0.0.0.0 offshoregeology.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 oglasnikadhr.hit.gemius.pl
@@ -32711,6 +32713,7 @@
 0.0.0.0 tr.2.cqcounter.com
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 tr.affiliate.hu
+0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.ch.adlink.net
 0.0.0.0 tr.himedia.individuad.net
