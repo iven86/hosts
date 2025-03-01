@@ -9951,7 +9951,6 @@
 0.0.0.0 atlaseducation.aavalue.com
 0.0.0.0 atlashacks.com
 0.0.0.0 atlassolutions.com
-0.0.0.0 ato.mx
 0.0.0.0 atomhack.net
 0.0.0.0 atomic.sharezips.info
 0.0.0.0 atpco.ur.gcion.com
@@ -22948,7 +22947,6 @@
 0.0.0.0 ldynamicspublicapi.leadforensics.com
 0.0.0.0 lead-123.com
 0.0.0.0 lead-analytics.nl
-0.0.0.0 lead02.com
 0.0.0.0 leadaffiliates.com
 0.0.0.0 leadback.advertising.com
 0.0.0.0 leadback.netseer.com
@@ -28006,9 +28004,7 @@
 0.0.0.0 push.xdrig.com
 0.0.0.0 push5.adups.com
 0.0.0.0 pushaction.foxpush.com
-0.0.0.0 pushame.com
 0.0.0.0 pushance.com
-0.0.0.0 pushazer.com
 0.0.0.0 pushcloud.org
 0.0.0.0 pushengage.com
 0.0.0.0 pushid-noneu.truecaller.com
