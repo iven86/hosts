@@ -1817,7 +1817,6 @@
 0.0.0.0 actualite-de-stars.fr.intellitxt.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
-0.0.0.0 actuallything.com
 0.0.0.0 actualnames.com
 0.0.0.0 actualresearch.com
 0.0.0.0 actualsearch.com
@@ -28424,7 +28423,6 @@
 0.0.0.0 redirect.webnowa.com
 0.0.0.0 redirect.xmladfeed.com
 0.0.0.0 redirectcpv.com
-0.0.0.0 redirecting8.eu
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectlock.com
 0.0.0.0 redirects.coldhardcash.com
