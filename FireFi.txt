@@ -28756,6 +28756,7 @@
 0.0.0.0 rocketfuel.com
 0.0.0.0 rocksmith2014.sharezips.info
 0.0.0.0 rocksmith2014edition.sharezips.net
+0.0.0.0 rockstarwriter.com
 0.0.0.0 rodale.d1.sc.omtrdc.net
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 rogde.adocean.pl
