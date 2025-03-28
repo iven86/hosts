@@ -26598,6 +26598,7 @@
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
 0.0.0.0 page-not-found.net
+0.0.0.0 page-redirect.eu
 0.0.0.0 page-x.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
@@ -33184,6 +33185,7 @@
 0.0.0.0 trix.net
 0.0.0.0 trixcase.com
 0.0.0.0 trk-int.addealsnetwork.com
+0.0.0.0 trk.4ff.pro
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.acotrk.com
 0.0.0.0 trk.apperol.com
