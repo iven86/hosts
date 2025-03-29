@@ -4531,7 +4531,6 @@
 0.0.0.0 ads.51.net
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.73dpi.com
-0.0.0.0 ads.a-snag-smartmoney.fyi
 0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.accelerator-media.com
@@ -8100,7 +8099,6 @@
 0.0.0.0 adzmedia.com
 0.0.0.0 adzone.ro
 0.0.0.0 adzones.com
-0.0.0.0 adzrevads.com
 0.0.0.0 adztec.com
 0.0.0.0 ae.adserver.yahoo.com
 0.0.0.0 ae.amgdgt.com
@@ -9951,6 +9949,7 @@
 0.0.0.0 atlaseducation.aavalue.com
 0.0.0.0 atlashacks.com
 0.0.0.0 atlassolutions.com
+0.0.0.0 ato.mx
 0.0.0.0 atomhack.net
 0.0.0.0 atomic.sharezips.info
 0.0.0.0 atpco.ur.gcion.com
@@ -32910,7 +32909,6 @@
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
-0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.absolstats.com
 0.0.0.0 tracking.adalyser.com
