@@ -10129,7 +10129,6 @@
 0.0.0.0 azkempire.com
 0.0.0.0 azongift.com
 0.0.0.0 azsearch.org
-0.0.0.0 aztracking.net
 0.0.0.0 azureteens.com
 0.0.0.0 b-1st.com
 0.0.0.0 b-aws.aol.com
@@ -22772,7 +22771,6 @@
 0.0.0.0 klixfiles.com
 0.0.0.0 klkstrm.kargo.com
 0.0.0.0 klog.hiido.com
-0.0.0.0 klsdee.com
 0.0.0.0 knac.us.intellitxt.com
 0.0.0.0 knightsanddragonshack.com
 0.0.0.0 knitstamp.com
@@ -22950,6 +22948,7 @@
 0.0.0.0 ldynamicspublicapi.leadforensics.com
 0.0.0.0 lead-123.com
 0.0.0.0 lead-analytics.nl
+0.0.0.0 lead02.com
 0.0.0.0 leadaffiliates.com
 0.0.0.0 leadback.advertising.com
 0.0.0.0 leadback.netseer.com
@@ -32832,7 +32831,6 @@
 0.0.0.0 track.tend.io
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
-0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.todayreward.net
 0.0.0.0 track.trafiz.net
