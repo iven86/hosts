@@ -2114,7 +2114,6 @@
 0.0.0.0 ad.it.chilinext.com
 0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.ittoolbox.com
-0.0.0.0 ad.jacotei.com.br
 0.0.0.0 ad.jamba.de
 0.0.0.0 ad.jamba.it
 0.0.0.0 ad.jamba.net
@@ -13489,7 +13488,6 @@
 0.0.0.0 ce.lijit.com
 0.0.0.0 ce7.org
 0.0.0.0 cecash.com
-0.0.0.0 ceciliavenus.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cedato.com
 0.0.0.0 ceffincfin.com
@@ -20910,7 +20908,6 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -26636,7 +26633,6 @@
 0.0.0.0 pamela.sexybabesx.com
 0.0.0.0 pamila.medlafare.com
 0.0.0.0 panacinema.pw
-0.0.0.0 panatenlink.pl
 0.0.0.0 pandapopcheats.xyz
 0.0.0.0 pandasoftware.112.2o7.net
 0.0.0.0 pandawamovie.com
@@ -32907,7 +32903,6 @@
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1betternetwork.com
-0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.absolstats.com
 0.0.0.0 tracking.adalyser.com
@@ -33959,7 +33954,6 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
-0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
