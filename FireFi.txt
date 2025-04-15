@@ -17187,6 +17187,7 @@
 0.0.0.0 email-open.adtidy.net
 0.0.0.0 email-open.adtidy.org
 0.0.0.0 email-reflex.com
+0.0.0.0 email-trk.ihg-businessedge.com
 0.0.0.0 email.advertising.com
 0.0.0.0 email.mg1.substack.com
 0.0.0.0 emaildireto.com.br
