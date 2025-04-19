@@ -22806,7 +22806,6 @@
 0.0.0.0 ksw26-transmisja.pl
 0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
-0.0.0.0 kubient.com
 0.0.0.0 kustusch.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvors.com
@@ -23885,7 +23884,6 @@
 0.0.0.0 maxexp.com
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximhack.com
-0.0.0.0 maximiser.net
 0.0.0.0 maximize.gammacash.com
 0.0.0.0 maximumcash.com
 0.0.0.0 maxmydl.com
