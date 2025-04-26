@@ -8850,7 +8850,6 @@
 0.0.0.0 analytics.santander.co.uk
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 analytics.shareaholic.com
-0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.soup.io
@@ -13488,6 +13487,7 @@
 0.0.0.0 ce.lijit.com
 0.0.0.0 ce7.org
 0.0.0.0 cecash.com
+0.0.0.0 ceciliavenus.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cedato.com
 0.0.0.0 ceffincfin.com
@@ -14621,7 +14621,6 @@
 0.0.0.0 compass-v2.deliverimp.com
 0.0.0.0 compass.adop.cc
 0.0.0.0 competehack.com
-0.0.0.0 compiledoctor.com
 0.0.0.0 complex-media-d.openx.net
 0.0.0.0 complex.us.intellitxt.com
 0.0.0.0 complexcom.skimlinks.com
@@ -15988,7 +15987,6 @@
 0.0.0.0 datplus.springserve.com
 0.0.0.0 datskins.com
 0.0.0.0 dau.fyber.com
-0.0.0.0 daughterstone.com
 0.0.0.0 dav-webdesign.virtualave.net
 0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 dawnguard.dlcodes.com
@@ -23884,6 +23882,7 @@
 0.0.0.0 maxexp.com
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximhack.com
+0.0.0.0 maximiser.net
 0.0.0.0 maximize.gammacash.com
 0.0.0.0 maximumcash.com
 0.0.0.0 maxmydl.com
