@@ -1690,7 +1690,6 @@
 0.0.0.0 abrp.net
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 abrtp1.marketo.com
-0.0.0.0 abruptroad.com
 0.0.0.0 abs.proxistore.com
 0.0.0.0 abscbn-news-online.info
 0.0.0.0 abscbnetoph.biz
@@ -12408,7 +12407,6 @@
 0.0.0.0 britney.sexybabesx.com
 0.0.0.0 britneyexperts.us.intellitxt.com
 0.0.0.0 brnys.netmng.com
-0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broadcaster.streamate.com
 0.0.0.0 broadspring.com
@@ -17661,7 +17659,6 @@
 0.0.0.0 exchangeskin.pro
 0.0.0.0 excite.us.intellitxt.com
 0.0.0.0 exclusiotv.be
-0.0.0.0 exclusivebrass.com
 0.0.0.0 exclusivenewhacks.com
 0.0.0.0 exclusividadesvip.es
 0.0.0.0 execution-use.ci360.sas.com
@@ -28325,7 +28322,6 @@
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
-0.0.0.0 re-direct.pl
 0.0.0.0 re-direct1.com
 0.0.0.0 re-directme.com
 0.0.0.0 re.revolvermaps.com
