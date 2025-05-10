@@ -23880,7 +23880,6 @@
 0.0.0.0 maxexp.com
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximhack.com
-0.0.0.0 maximiser.net
 0.0.0.0 maximize.gammacash.com
 0.0.0.0 maximumcash.com
 0.0.0.0 maxmydl.com
@@ -33200,7 +33199,6 @@
 0.0.0.0 trk42.net
 0.0.0.0 trkmydomain.com
 0.0.0.0 trkn.us
-0.0.0.0 trknths.com
 0.0.0.0 trkoptimizer.com
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 trmit.com
