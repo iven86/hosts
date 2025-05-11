@@ -13979,6 +13979,7 @@
 0.0.0.0 click.bkdpt.com
 0.0.0.0 click.bounceads.net
 0.0.0.0 click.cartsguru.io
+0.0.0.0 click.ccg.nintendo.com
 0.0.0.0 click.celebmoney.com
 0.0.0.0 click.cheaperforyou.com
 0.0.0.0 click.cheapstuff.com
