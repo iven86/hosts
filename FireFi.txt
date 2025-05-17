@@ -20905,6 +20905,7 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
+0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -29558,7 +29559,6 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.vrvm.com
-0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdkm.w.inmobi.cn
@@ -30644,7 +30644,6 @@
 0.0.0.0 specialcontest.pw
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialgifts4me.com
-0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificmedia.com
 0.0.0.0 specificpop.com
@@ -33948,6 +33947,7 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
+0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
