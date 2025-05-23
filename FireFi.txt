@@ -1244,9 +1244,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -4495,6 +4495,7 @@
 0.0.0.0 ads-fr.ret01.ligatus.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-i.focalink.com
+0.0.0.0 ads-img.mozilla.org
 0.0.0.0 ads-instrument.focalink.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-links.com
@@ -5436,6 +5437,7 @@
 0.0.0.0 ads.privatefeeds.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.proboards.com
+0.0.0.0 ads.prod.webservices.mozgcp.net
 0.0.0.0 ads.profitsdeluxe.com
 0.0.0.0 ads.program3.com
 0.0.0.0 ads.propertycasualty360.com
