@@ -14125,6 +14125,7 @@
 0.0.0.0 clickserve.uk.dartsearch.net
 0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 clicksimpact.cashtrk.com
+0.0.0.0 clicksinfo.thefork.co.uk
 0.0.0.0 clicksn.com
 0.0.0.0 clicksor.com
 0.0.0.0 clicktag.de
