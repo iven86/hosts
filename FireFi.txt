@@ -15896,7 +15896,6 @@
 0.0.0.0 damnimcute.us.intellitxt.com
 0.0.0.0 danasdirt.us.intellitxt.com
 0.0.0.0 danban.com
-0.0.0.0 dancemistake.com
 0.0.0.0 danicapatrick.sexybabesx.com
 0.0.0.0 danielahantuchova.sexybabesx.com
 0.0.0.0 daniweb.us.intellitxt.com
@@ -16091,7 +16090,6 @@
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decknetwork.net
 0.0.0.0 decoderactive.com
-0.0.0.0 decoycreation.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deepcom.com
 0.0.0.0 deepintent.com
@@ -23882,7 +23880,6 @@
 0.0.0.0 maxexp.com
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximhack.com
-0.0.0.0 maximiser.net
 0.0.0.0 maximize.gammacash.com
 0.0.0.0 maximumcash.com
 0.0.0.0 maxmydl.com
@@ -24122,7 +24119,6 @@
 0.0.0.0 medienhaus.nuggad.net
 0.0.0.0 medindia.us.intellitxt.com
 0.0.0.0 medio.com
-0.0.0.0 mediumshort.com
 0.0.0.0 medlafare.com
 0.0.0.0 medleyads.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
@@ -25164,7 +25160,6 @@
 0.0.0.0 myamzgiftcards.com
 0.0.0.0 myao.adocean.pl
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
-0.0.0.0 mybetterdl.com
 0.0.0.0 mybloglog.com
 0.0.0.0 myboxgo.com
 0.0.0.0 mybrandcentral.com
@@ -25259,7 +25254,6 @@
 0.0.0.0 n.thestar.com
 0.0.0.0 n149adserv.com
 0.0.0.0 n180adserv.com
-0.0.0.0 n2.mouseflow.com
 0.0.0.0 n2.smartyads.com
 0.0.0.0 n214adserv.com
 0.0.0.0 n24se.nuggad.net
@@ -28514,7 +28508,6 @@
 0.0.0.0 reloadedcracking.com
 0.0.0.0 reloadedhacks.com
 0.0.0.0 reloadedhacks.org
-0.0.0.0 reloadphoto.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
