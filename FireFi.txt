@@ -14001,6 +14001,7 @@
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.email.strawberry.no
 0.0.0.0 click.emails.argos.co.uk
+0.0.0.0 click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0 click.findthewebsiteyouneed.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.gospect.com
@@ -24119,6 +24120,7 @@
 0.0.0.0 medienhaus.nuggad.net
 0.0.0.0 medindia.us.intellitxt.com
 0.0.0.0 medio.com
+0.0.0.0 mediumshort.com
 0.0.0.0 medlafare.com
 0.0.0.0 medleyads.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
@@ -27730,7 +27732,6 @@
 0.0.0.0 promote.pair.com
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 promotion.partnercash.de
-0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 promotions.betfred.com
 0.0.0.0 promotools.islive.nl
 0.0.0.0 promotools.vpscash.nl
@@ -28319,7 +28320,6 @@
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
 0.0.0.0 re-direct.pl
-0.0.0.0 re-direct1.com
 0.0.0.0 re-directme.com
 0.0.0.0 re.revolvermaps.com
 0.0.0.0 reachjunction.com
@@ -28509,6 +28509,7 @@
 0.0.0.0 reloadedcracking.com
 0.0.0.0 reloadedhacks.com
 0.0.0.0 reloadedhacks.org
+0.0.0.0 reloadphoto.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
