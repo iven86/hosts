@@ -16074,7 +16074,6 @@
 0.0.0.0 deadpool.sharezips.info
 0.0.0.0 deadrising3.sharezips.info
 0.0.0.0 deadrising3seasonpass.sharezips.info
-0.0.0.0 deal-on.eu
 0.0.0.0 dealdotcom.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
 0.0.0.0 dealnews.122.2o7.net
@@ -22400,6 +22399,7 @@
 0.0.0.0 jampp.com
 0.0.0.0 janetjackson.sexybabesx.com
 0.0.0.0 jatxt.com
+0.0.0.0 jauchuwa.net
 0.0.0.0 javainstall.org
 0.0.0.0 jb.revolvermaps.com
 0.0.0.0 jbeet.cjt1.net
@@ -23204,6 +23204,7 @@
 0.0.0.0 livejasminfreecredits.com
 0.0.0.0 livejasminhack.net
 0.0.0.0 livelylaugh.com
+0.0.0.0 livelyreward.com
 0.0.0.0 livemovie.me.uk
 0.0.0.0 livenation.122.2o7.net
 0.0.0.0 livenation.sp1.convertro.com
@@ -23531,7 +23532,6 @@
 0.0.0.0 lovelyfreindsvisit.com
 0.0.0.0 low-hacker.popunder.ru
 0.0.0.0 lowes.tt.omtrdc.net
-0.0.0.0 lowest-price.eu
 0.0.0.0 loxtk.com
 0.0.0.0 lp.ezdownloadpro.info
 0.0.0.0 lp.ncdownloader.com
@@ -27878,7 +27878,6 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
 0.0.0.0 ptimeinc.chartbeat.net
-0.0.0.0 ptoushoa.com
 0.0.0.0 ptp4ever.net
 0.0.0.0 pu.plugrush.com
 0.0.0.0 pu.trafficshop.com
@@ -28609,7 +28608,6 @@
 0.0.0.0 revieweee.com
 0.0.0.0 reviews.domainplayersclub.com
 0.0.0.0 reviewscircle.com
-0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
@@ -32720,7 +32718,6 @@
 0.0.0.0 track-711.trafiz.net
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-eu.customer.io
-0.0.0.0 track-on.eu
 0.0.0.0 track-on.pl
 0.0.0.0 track-your-fedex-package.org
 0.0.0.0 track.15x.net
