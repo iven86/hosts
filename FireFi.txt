@@ -1250,8 +1250,6 @@
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
-0.0.0.0 Found</title>
-0.0.0.0 HTML
 0.0.0.0 Malvertising\
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
@@ -16465,7 +16463,6 @@
 0.0.0.0 doctorbzb.com
 0.0.0.0 doctorcleaner.com
 0.0.0.0 doctorsassociatesrx.112.2o7.net
-0.0.0.0 document
 0.0.0.0 dodsdexonline.dexknows.com
 0.0.0.0 dofollinz.net
 0.0.0.0 dofushack.sharezips.info
