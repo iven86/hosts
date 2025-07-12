@@ -1244,9 +1244,9 @@
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
+0.0.0.0 <p>Backend
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>first
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -2273,7 +2273,6 @@
 0.0.0.0 ad.strict.tbn.ru
 0.0.0.0 ad.style
 0.0.0.0 ad.sxp.smartclip.net
-0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.tenderteen.com
@@ -14046,6 +14045,7 @@
 0.0.0.0 click.sureonlinefind.com
 0.0.0.0 click.top10sites.com
 0.0.0.0 click.uamtrk.com
+0.0.0.0 click.uber.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 click.v.visionlab.es
@@ -23492,8 +23492,6 @@
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 look.djfiln.com
-0.0.0.0 look.ichlnk.com
-0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -34761,7 +34759,6 @@
 0.0.0.0 worldtravelguide.uk.intellitxt.com
 0.0.0.0 worldtrendingvideos.info
 0.0.0.0 worldwide-cash.net
-0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worldwidehacking.com
 0.0.0.0 worldzgamez.com
 0.0.0.0 worriednumber.com
