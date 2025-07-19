@@ -4499,6 +4499,7 @@
 0.0.0.0 ads-mediafin.adhese.com
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
+0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 ads-resources.waze.com
@@ -10764,6 +10765,7 @@
 0.0.0.0 beacon.mediahuis.be
 0.0.0.0 beacon.mhtr.be
 0.0.0.0 beacon.my.salesforce.com
+0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.riskified.com
@@ -15724,6 +15726,7 @@
 0.0.0.0 customads.co
 0.0.0.0 customer.cludo.com
 0.0.0.0 customer.iad-03.braze.com
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 customtraffic.impactradius.com
 0.0.0.0 cutechin.com
@@ -22396,7 +22399,6 @@
 0.0.0.0 jampp.com
 0.0.0.0 janetjackson.sexybabesx.com
 0.0.0.0 jatxt.com
-0.0.0.0 jauchuwa.net
 0.0.0.0 javainstall.org
 0.0.0.0 jb.revolvermaps.com
 0.0.0.0 jbeet.cjt1.net
@@ -23493,6 +23495,8 @@
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 look.djfiln.com
+0.0.0.0 look.ichlnk.com
+0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -28810,6 +28814,7 @@
 0.0.0.0 rpgenerator.net
 0.0.0.0 rpgratuit.com
 0.0.0.0 rprewards.com
+0.0.0.0 rpt-ads.vidaahub.com
 0.0.0.0 rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
 0.0.0.0 rq.adfox.ru
@@ -28827,6 +28832,7 @@
 0.0.0.0 rs2.adledge.com
 0.0.0.0 rs2.qq.com
 0.0.0.0 rs6.net
+0.0.0.0 rsc-ads.vidaahub.com
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 rt.ad-score.com
@@ -32177,6 +32183,7 @@
 0.0.0.0 tenmagazines.us.intellitxt.com
 0.0.0.0 tennessean.us.intellitxt.com
 0.0.0.0 tenzing.fmpub.net
+0.0.0.0 ter-jrnl-oc.vidaahub.com
 0.0.0.0 terapatrick.sexybabesx.com
 0.0.0.0 terihatcher.sexybabesx.com
 0.0.0.0 terminusdisplay296618589072.s.moatpixel.com
@@ -33543,6 +33550,7 @@
 0.0.0.0 unohack.com
 0.0.0.0 unonoticias.net
 0.0.0.0 unrealhack.com
+0.0.0.0 unruly.co
 0.0.0.0 unrulymedia.com
 0.0.0.0 untd.com
 0.0.0.0 unusualtitle.com
