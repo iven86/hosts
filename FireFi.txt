@@ -17702,6 +17702,7 @@
 0.0.0.0 exponential.com
 0.0.0.0 exponential54894892.s.moatpixel.com
 0.0.0.0 exponentialjsint8023749877114.s.moatpixel.com
+0.0.0.0 exportdialog.com
 0.0.0.0 exposedhacks.com
 0.0.0.0 express-gens.com
 0.0.0.0 express-submit.de
@@ -23069,6 +23070,7 @@
 0.0.0.0 lib6.libstat.com
 0.0.0.0 libereco.net
 0.0.0.0 libergaming.com
+0.0.0.0 libraryfacts.com
 0.0.0.0 libros-gratis.org
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.de.coremetrics.com
