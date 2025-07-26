@@ -24121,7 +24121,6 @@
 0.0.0.0 medienhaus.nuggad.net
 0.0.0.0 medindia.us.intellitxt.com
 0.0.0.0 medio.com
-0.0.0.0 mediumshort.com
 0.0.0.0 medlafare.com
 0.0.0.0 medleyads.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
@@ -28509,7 +28508,6 @@
 0.0.0.0 reloadedcracking.com
 0.0.0.0 reloadedhacks.com
 0.0.0.0 reloadedhacks.org
-0.0.0.0 reloadphoto.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
@@ -33943,7 +33941,6 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
-0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
