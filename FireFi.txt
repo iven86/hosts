@@ -9841,6 +9841,7 @@
 0.0.0.0 ask-a-chick.com
 0.0.0.0 ask-fm-tracker.com
 0.0.0.0 ask.log.kuyun.com
+0.0.0.0 askdriver.com
 0.0.0.0 askfinder.org
 0.0.0.0 askfmhackfinder.com
 0.0.0.0 askfmtracker.info
@@ -11013,6 +11014,7 @@
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bidfnt-asia.adsmoloco.com
 0.0.0.0 bidgear.com
+0.0.0.0 bidpapers.com
 0.0.0.0 bidr.io
 0.0.0.0 bidr.trellian.com
 0.0.0.0 bids.concert.io
