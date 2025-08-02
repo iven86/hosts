@@ -15901,7 +15901,6 @@
 0.0.0.0 damnimcute.us.intellitxt.com
 0.0.0.0 danasdirt.us.intellitxt.com
 0.0.0.0 danban.com
-0.0.0.0 dancemistake.com
 0.0.0.0 danicapatrick.sexybabesx.com
 0.0.0.0 danielahantuchova.sexybabesx.com
 0.0.0.0 daniweb.us.intellitxt.com
@@ -16095,7 +16094,6 @@
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decknetwork.net
 0.0.0.0 decoderactive.com
-0.0.0.0 decoycreation.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deepcom.com
 0.0.0.0 deepintent.com
@@ -33945,6 +33943,7 @@
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vertadnet.com
 0.0.0.0 vertamedia.com
+0.0.0.0 verticalmass.com
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
