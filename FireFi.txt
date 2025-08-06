@@ -18054,7 +18054,6 @@
 0.0.0.0 fe.lea.jubii.dk
 0.0.0.0 fe.lea.lycos.de
 0.0.0.0 fe.lea.spray.se
-0.0.0.0 feathr.co
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 fecebook.com
 0.0.0.0 fedex.demdex.net
@@ -27361,6 +27360,7 @@
 0.0.0.0 policy.rayjump.com
 0.0.0.0 polishedfolly.com
 0.0.0.0 politads.com
+0.0.0.0 polo.feathr.co
 0.0.0.0 polyad.net
 0.0.0.0 pontiflex.com
 0.0.0.0 pool-colruytgroup.adhese.com
@@ -32309,6 +32309,7 @@
 0.0.0.0 thelocalsearchnetwork.com
 0.0.0.0 thelotterysecrets.net
 0.0.0.0 thelrein.com
+0.0.0.0 themangotea.com
 0.0.0.0 themanroom.us.intellitxt.com
 0.0.0.0 themexp.ezthemes.com
 0.0.0.0 themodernwarfare3hack.net
