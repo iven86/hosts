@@ -25101,7 +25101,6 @@
 0.0.0.0 multipops.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
-0.0.0.0 mundanepollution.com
 0.0.0.0 mundo-vantagens.com
 0.0.0.0 munky.com
 0.0.0.0 muscleandfitnesshers.us.intellitxt.com
@@ -28662,7 +28661,6 @@
 0.0.0.0 rightmoveanalytics.co.uk
 0.0.0.0 rightpundits.us.intellitxt.com
 0.0.0.0 rightstats.com
-0.0.0.0 riktok.pl
 0.0.0.0 rimvoyeur.ru
 0.0.0.0 ringcentral.112.2o7.net
 0.0.0.0 ringieradro.hit.gemius.pl
