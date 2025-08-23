@@ -7023,7 +7023,6 @@
 0.0.0.0 adserver.kontextua.com
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.lanacion.com.ar
-0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.legacy-network.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.lonuncavisto.com
@@ -8764,7 +8763,6 @@
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.codigo.se
-0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.console.aws.a2z.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.edgekey.net
@@ -29246,7 +29244,6 @@
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
-0.0.0.0 safeanalytics.net
 0.0.0.0 safeappz.org
 0.0.0.0 safedownloadsrus157.com
 0.0.0.0 safehackz.com
