@@ -22844,7 +22844,6 @@
 0.0.0.0 l4.zedo.com
 0.0.0.0 l5.zedo.com
 0.0.0.0 l6.zedo.com
-0.0.0.0 l6b587txj1.com
 0.0.0.0 l7.zedo.com
 0.0.0.0 l8.zedo.com
 0.0.0.0 la-match.taboola.com
@@ -33727,7 +33726,6 @@
 0.0.0.0 usefulforgames.com
 0.0.0.0 usehack.com
 0.0.0.0 usehacks.com
-0.0.0.0 user-shield-check.com
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user-sync.adhese.com
 0.0.0.0 userflows.ingest.crittercism.com
