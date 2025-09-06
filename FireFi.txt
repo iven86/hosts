@@ -4434,7 +4434,6 @@
 0.0.0.0 adreactor.com
 0.0.0.0 adready.com
 0.0.0.0 adreadytractions.com
-0.0.0.0 adreclaim.com
 0.0.0.0 adrecom.net
 0.0.0.0 adrecover.com
 0.0.0.0 adrecreate.com
@@ -20945,7 +20944,6 @@
 0.0.0.0 heute.ivwbox.de
 0.0.0.0 hewitt.sexybabesx.com
 0.0.0.0 hexagon-analytics.com
-0.0.0.0 hexcan.com
 0.0.0.0 hexus.uk.intellitxt.com
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyblink.me
@@ -22958,7 +22956,6 @@
 0.0.0.0 leadfiles.net
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
-0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
 0.0.0.0 leadsold.cinemamovie.biz
 0.0.0.0 leadspace.com
@@ -32415,7 +32412,6 @@
 0.0.0.0 tidaltv.com
 0.0.0.0 tidaltv.com.akadns.net
 0.0.0.0 tidbitscom.skimlinks.com
-0.0.0.0 tidint.pro
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tie.iprom.net
 0.0.0.0 tigershark.adultadworld.com
