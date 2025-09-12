@@ -22808,6 +22808,7 @@
 0.0.0.0 kustusch.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvors.com
+0.0.0.0 kvsadman.com
 0.0.0.0 kwserver.adhispanic.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kz.tns-counter.ru
@@ -32274,6 +32275,7 @@
 0.0.0.0 theclashroyale.com
 0.0.0.0 thecoolpics.com
 0.0.0.0 thecounter.com
+0.0.0.0 thecrazychili.com
 0.0.0.0 thedailyreward.com
 0.0.0.0 thedailystarcom.112.2o7.net
 0.0.0.0 thedataworld.com
