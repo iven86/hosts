@@ -7318,7 +7318,6 @@
 0.0.0.0 adtastic.com
 0.0.0.0 adtds.trackads.net
 0.0.0.0 adtds2.maxconvert.com
-0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtech.us
@@ -20944,6 +20943,7 @@
 0.0.0.0 heute.ivwbox.de
 0.0.0.0 hewitt.sexybabesx.com
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 hexcan.com
 0.0.0.0 hexus.uk.intellitxt.com
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyblink.me
@@ -22957,6 +22957,7 @@
 0.0.0.0 leadfiles.net
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
+0.0.0.0 leadplace.fr
 0.0.0.0 leads.su
 0.0.0.0 leadsold.cinemamovie.biz
 0.0.0.0 leadspace.com
