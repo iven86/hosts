@@ -1234,19 +1234,17 @@
 0.0.0.0 </html>
 0.0.0.0 <?xml
 0.0.0.0 <body>
-0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
 0.0.0.0 <h1>Error
 0.0.0.0 <h3>Error
 0.0.0.0 <head>
-0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
 0.0.0.0 <hr>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>certificate
+0.0.0.0 <p>hostname
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -1774,6 +1772,7 @@
 0.0.0.0 aclasscelebs.us.intellitxt.com
 0.0.0.0 aclickads.com
 0.0.0.0 acme.tango.me
+0.0.0.0 acobt.tech
 0.0.0.0 aconti.de
 0.0.0.0 aconti.net
 0.0.0.0 acpmagazines.112.2o7.net
@@ -22732,6 +22731,7 @@
 0.0.0.0 kibana.leadboxer.com
 0.0.0.0 kickasshacks.net
 0.0.0.0 kickmovies.com
+0.0.0.0 kickoffo.site
 0.0.0.0 kickplays.com
 0.0.0.0 kiip.me
 0.0.0.0 kikmessengerforpcs.com
@@ -22921,6 +22921,7 @@
 0.0.0.0 layout1.realtracker.com
 0.0.0.0 lazy-gamers.com
 0.0.0.0 lazy.rayjump.com
+0.0.0.0 lazybumblebee.com
 0.0.0.0 lazylink.us
 0.0.0.0 lb-adsdis.mng-ads.com
 0.0.0.0 lb-adsmob.mng-ads.com
@@ -23801,6 +23802,7 @@
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingassets.staples.com.edgekey.net
+0.0.0.0 marketingcloudapis.com
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketingweek.imgix.net
@@ -25518,6 +25520,7 @@
 0.0.0.0 newpsncodegenerator.com
 0.0.0.0 newpsncodegenerator.org
 0.0.0.0 newre-conversions.clickmeter.com
+0.0.0.0 news-cdn.site
 0.0.0.0 news-report24.com
 0.0.0.0 news-today.pw
 0.0.0.0 news.de.intellitxt.com
@@ -26151,6 +26154,7 @@
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onecinema.us
 0.0.0.0 oneclick2download.com
+0.0.0.0 onegg.site
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onelovehacks.com
@@ -28056,6 +28060,7 @@
 0.0.0.0 q1digital.checkm8.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q4mn.adj.st
+0.0.0.0 qa-analytics.com
 0.0.0.0 qc.smartadserver.com
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 qctop.com
@@ -36937,6 +36942,7 @@
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yastatic.net
 0.0.0.0 yatrk.xyz
 0.0.0.0 yavteam.com
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
