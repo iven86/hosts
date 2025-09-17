@@ -15845,6 +15845,7 @@
 0.0.0.0 d2crazy.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
+0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d3.zedo.com
 0.0.0.0 d3fd89.r.axf8.net
@@ -17771,6 +17772,7 @@
 0.0.0.0 f.gm.mob.com
 0.0.0.0 f.monetate.net
 0.0.0.0 f.nexac.com
+0.0.0.0 f.pie.org
 0.0.0.0 f.screensavers.com
 0.0.0.0 f.thanksearch.com
 0.0.0.0 f24.adventori.com
@@ -26699,6 +26701,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
+0.0.0.0 partnerlinks.io
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.10bet.com
 0.0.0.0 partners.adultadworld.com
@@ -31830,6 +31833,7 @@
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
 0.0.0.0 t.p.mybuys.com
+0.0.0.0 t.pie.org
 0.0.0.0 t.podcast.co
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pubmatic.com
@@ -36942,7 +36946,6 @@
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yandexadexchange.net
-0.0.0.0 yastatic.net
 0.0.0.0 yatrk.xyz
 0.0.0.0 yavteam.com
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
