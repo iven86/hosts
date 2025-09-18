@@ -32540,6 +32540,7 @@
 0.0.0.0 toolbar.wishbone.com
 0.0.0.0 toolbotx.com
 0.0.0.0 toolcheat.com
+0.0.0.0 toolforthought.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tools.ad-net.co.uk
 0.0.0.0 tools.naughtyamerica.com
@@ -37170,6 +37171,7 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
+0.0.0.0 zeydoo.com
 0.0.0.0 zfhg.digitaldesire.com
 0.0.0.0 zfile.us
 0.0.0.0 zgsdk.zhugeio.com
