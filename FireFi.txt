@@ -14256,6 +14256,7 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudflareinsights.com
+0.0.0.0 cloudguppy.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 cloudservice24.kingsoft-office-service.com
@@ -14659,6 +14660,7 @@
 0.0.0.0 conf.xdrig.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 confidencegames.com
+0.0.0.0 confidencetalks.com
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config.88-f.net
 0.0.0.0 config.ad-brix.com
@@ -15992,6 +15994,7 @@
 0.0.0.0 dav-webdesign.virtualave.net
 0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 dawnguard.dlcodes.com
+0.0.0.0 daybreaklights.com
 0.0.0.0 daylogs.com
 0.0.0.0 dayzalpha.com
 0.0.0.0 dayzstandalone.gamespress.net
@@ -18283,6 +18286,7 @@
 0.0.0.0 filingpal.com
 0.0.0.0 filingspace.com
 0.0.0.0 fillmytank4free.com
+0.0.0.0 fillthemap.com
 0.0.0.0 film-25.ru
 0.0.0.0 filmdrunk.us.intellitxt.com
 0.0.0.0 filmenstreaminggratuit.com
@@ -20789,6 +20793,7 @@
 0.0.0.0 haltgame.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
+0.0.0.0 hamsterspot.com
 0.0.0.0 handbag.uk.intellitxt.com
 0.0.0.0 handbagcom.skimlinks.com
 0.0.0.0 handbl.ivwbox.de
@@ -31524,6 +31529,7 @@
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 studioomovie.com
 0.0.0.0 study.snapads.com
+0.0.0.0 studycooking.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stupendoussnow.com
 0.0.0.0 stupidcelebrities.us.intellitxt.com
