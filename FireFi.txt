@@ -4566,7 +4566,6 @@
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.ads360.com
 0.0.0.0 ads.adsbookie.com
-0.0.0.0 ads.adsbtc.fun
 0.0.0.0 ads.adscholar.com
 0.0.0.0 ads.adsfirefly.com
 0.0.0.0 ads.adshareware.net
@@ -12257,6 +12256,7 @@
 0.0.0.0 boersego-ads.de
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boilingbeetle.com
+0.0.0.0 boilingmadsoup.com
 0.0.0.0 bokotraffic.com
 0.0.0.0 boldchat.com
 0.0.0.0 boldride.us.intellitxt.com
@@ -15158,7 +15158,6 @@
 0.0.0.0 cpusall.112.2o7.net
 0.0.0.0 cpv.popxml.com
 0.0.0.0 cpvfeed.mediatraffic.com
-0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxiappnexusvpaidvideo235346.s.moatpixel.com
@@ -32462,6 +32461,7 @@
 0.0.0.0 tinnily.info
 0.0.0.0 tintubright.com
 0.0.0.0 tinybar.com
+0.0.0.0 tinybluewhale.com
 0.0.0.0 tinyfileshost.com
 0.0.0.0 tinytendency.com
 0.0.0.0 tirerackcom.112.2o7.net
