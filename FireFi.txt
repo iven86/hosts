@@ -4113,6 +4113,7 @@
 0.0.0.0 adhone.com
 0.0.0.0 adhood.com
 0.0.0.0 adhr.hit.gemius.pl
+0.0.0.0 adhub.media
 0.0.0.0 adhunter.media
 0.0.0.0 adi.admicro.vn
 0.0.0.0 adi.bigmir.net
@@ -8336,6 +8337,7 @@
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 airoflot.com
 0.0.0.0 airomexico.com
+0.0.0.0 airplanecoffee.com
 0.0.0.0 airpush.com
 0.0.0.0 airtan.com
 0.0.0.0 aistat.net
@@ -34056,6 +34058,7 @@
 0.0.0.0 video1.fastclick.net
 0.0.0.0 videoadex.com
 0.0.0.0 videoads-cloud.rovio.com
+0.0.0.0 videoadstech.org
 0.0.0.0 videoamp.com
 0.0.0.0 videoclick.ru
 0.0.0.0 videoclientsservicescalls.outbrain.com
