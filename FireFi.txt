@@ -4290,7 +4290,6 @@
 0.0.0.0 adminstage.gohip.com
 0.0.0.0 admintds.megatds.com
 0.0.0.0 admitad.com
-0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.net
 0.0.0.0 admized.com
@@ -19136,7 +19135,6 @@
 0.0.0.0 future7ios7.com
 0.0.0.0 futurelooks.us.intellitxt.com
 0.0.0.0 futurepublications.uk.intellitxt.com
-0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfifth.com
 0.0.0.0 futuristicframe.com
 0.0.0.0 fuzeclick.offerstrack.net
@@ -20913,7 +20911,6 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -21845,7 +21842,6 @@
 0.0.0.0 imimobile.com
 0.0.0.0 immanalytics.com
 0.0.0.0 immediatemedia.amp.permutive.com
-0.0.0.0 immensehoney.com
 0.0.0.0 immosct.wemfbox.ch
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imonitor.nethost.cz
@@ -33753,7 +33749,6 @@
 0.0.0.0 usergrid.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usermatch.targeting.unrulymedia.com
-0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.api.jeeng.com
