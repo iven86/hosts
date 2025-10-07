@@ -1379,6 +1379,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.vartoken.com
+0.0.0.0 a.vdo.ai
 0.0.0.0 a.vertamedia.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
@@ -14109,6 +14110,7 @@
 0.0.0.0 clicks.babylon-x.com
 0.0.0.0 clicks.bannerboxes.com
 0.0.0.0 clicks.beap.ad.yieldmanager.net
+0.0.0.0 clicks.checkatrade.com
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.eventbrite.com
@@ -20266,6 +20268,7 @@
 0.0.0.0 grouplotto.aavalue.com
 0.0.0.0 groutlance.com
 0.0.0.0 growlr.adsbynimbus.com
+0.0.0.0 growthrx.in
 0.0.0.0 growtopia.work
 0.0.0.0 grptrker.com
 0.0.0.0 grunerandjahr.112.2o7.net
