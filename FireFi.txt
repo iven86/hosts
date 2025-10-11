@@ -8088,7 +8088,6 @@
 0.0.0.0 adyug.com
 0.0.0.0 adywind.com
 0.0.0.0 adz.rashflash.com
-0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
@@ -11041,7 +11040,6 @@
 0.0.0.0 bighop.com
 0.0.0.0 bigmoviesplus.com
 0.0.0.0 bigpond.122.2o7.net
-0.0.0.0 bigreal.org
 0.0.0.0 bigrewards.com
 0.0.0.0 bigrxdiscountmedstore.com
 0.0.0.0 bigsellstaff.cn
@@ -13964,8 +13962,6 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
-0.0.0.0 click-1.pl
-0.0.0.0 click-2.eu
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-safe.com
 0.0.0.0 click-west.acuityplatform.com
@@ -20915,6 +20911,7 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
+0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -23077,7 +23074,6 @@
 0.0.0.0 li.pmc.com
 0.0.0.0 li.pxl.ace.advertising.com
 0.0.0.0 li.realtor.com
-0.0.0.0 li.walmart.com
 0.0.0.0 li.ziffimages.com
 0.0.0.0 liadm.com
 0.0.0.0 lib.vmweb.net
@@ -25707,6 +25703,7 @@
 0.0.0.0 novitadelgiorno.com
 0.0.0.0 now-movie.com
 0.0.0.0 now.eloqua.com
+0.0.0.0 nowaymail.com
 0.0.0.0 nowdownloadhack.com
 0.0.0.0 nowfunnygame.com
 0.0.0.0 nowmusik.com
@@ -33246,7 +33243,6 @@
 0.0.0.0 trustedtrack.com
 0.0.0.0 trustfolders.com
 0.0.0.0 trustgauge.com
-0.0.0.0 trustpid.com
 0.0.0.0 trustx.org
 0.0.0.0 trw12.com
 0.0.0.0 try.abtasty.com
@@ -37239,7 +37235,6 @@
 0.0.0.0 zumedianetwork.com
 0.0.0.0 zumobi.com
 0.0.0.0 zuneplay.com
-0.0.0.0 zy16eoat1w.com
 0.0.0.0 zynga-poker-hack.net
 0.0.0.0 zynga-poker-hacks.com
 0.0.0.0 zyngapoker.hackfree.us
