@@ -12882,6 +12882,7 @@
 0.0.0.0 cardgames.gamefiesta.com
 0.0.0.0 cardgen.co
 0.0.0.0 cardingmafia.net
+0.0.0.0 cardmethod.com
 0.0.0.0 cards.cardfountain.com
 0.0.0.0 cards.free.cardfountain.com
 0.0.0.0 cardsfree.net
@@ -19113,6 +19114,7 @@
 0.0.0.0 funruncoinsgenerator.com
 0.0.0.0 funshared.com
 0.0.0.0 funskins.ezthemes.com
+0.0.0.0 funtoyplanet.com
 0.0.0.0 furiousfiles.com
 0.0.0.0 furniturecom.112.2o7.net
 0.0.0.0 furnlevitz.112.2o7.net
@@ -20779,6 +20781,7 @@
 0.0.0.0 hackzonne.net
 0.0.0.0 hackzs.com
 0.0.0.0 hades.getsocial.im
+0.0.0.0 haikusoap.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hakerr.pl
 0.0.0.0 hal9000.redintelligence.net
@@ -24618,6 +24621,7 @@
 0.0.0.0 minglecase.net
 0.0.0.0 minglecase.pro
 0.0.0.0 mini-pic.su
+0.0.0.0 minibilling.com
 0.0.0.0 minihosted.com
 0.0.0.0 minionrush.freehakz.com
 0.0.0.0 minionrushhack.simpledownloadz.com
@@ -28195,6 +28199,7 @@
 0.0.0.0 rachelstevens.sexybabesx.com
 0.0.0.0 rachelweisz.sexybabesx.com
 0.0.0.0 racinghackreal.com
+0.0.0.0 rackforstorage.com
 0.0.0.0 rad.msn.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarstats.com
@@ -37027,6 +37032,7 @@
 0.0.0.0 yotefiles.com
 0.0.0.0 you-trader.com
 0.0.0.0 youborafds01.com
+0.0.0.0 youcandrawanything.com
 0.0.0.0 youcunts.com
 0.0.0.0 youdownloadreadynow.com
 0.0.0.0 youfiling.com
