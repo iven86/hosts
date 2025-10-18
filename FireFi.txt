@@ -4508,7 +4508,6 @@
 0.0.0.0 ads-secure.videohub.tv
 0.0.0.0 ads-static.phonepe.com
 0.0.0.0 ads-stream.com
-0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-us.pictela.net
 0.0.0.0 ads-ussj1.focalink.com
@@ -4876,7 +4875,6 @@
 0.0.0.0 ads.drf.com
 0.0.0.0 ads.dropspam.com
 0.0.0.0 ads.drugs.com
-0.0.0.0 ads.dtpnetwork.biz
 0.0.0.0 ads.dvdreview.com
 0.0.0.0 ads.dynamic-media.org
 0.0.0.0 ads.e-planning.net
@@ -16330,7 +16328,6 @@
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-hacks.com
-0.0.0.0 direct-re2.pl
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 direct.fairfax.com.au
@@ -22753,6 +22750,7 @@
 0.0.0.0 killerstartups.us.intellitxt.com
 0.0.0.0 kimhaynesphoto.com
 0.0.0.0 kindads.com
+0.0.0.0 kindlereunion.com
 0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 king-skin.net
 0.0.0.0 kinghackerworld.com
@@ -34082,7 +34080,6 @@
 0.0.0.0 videosup.us
 0.0.0.0 videotroncom.112.2o7.net
 0.0.0.0 vidhaze.com
-0.0.0.0 vidible.tv
 0.0.0.0 vidilife.crwdcntrl.net
 0.0.0.0 vidnet.us.intellitxt.com
 0.0.0.0 vidora.com
