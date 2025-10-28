@@ -10644,6 +10644,7 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
+0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batch.upsight-api.com
 0.0.0.0 batmanarkhamorigins.aldenvids.com
@@ -22449,6 +22450,7 @@
 0.0.0.0 jeuxpirate.fr
 0.0.0.0 jeuxpsvitagratuit.com
 0.0.0.0 jeuxtricheur.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jfhvip.com
 0.0.0.0 jg.revolvermaps.com
