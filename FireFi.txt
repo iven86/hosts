@@ -11061,6 +11061,7 @@
 0.0.0.0 billhlp.com
 0.0.0.0 billingsupportcenter.com
 0.0.0.0 billpics.com
+0.0.0.0 billtable.com
 0.0.0.0 bimg.abv.bg
 0.0.0.0 bimg.msk.bg
 0.0.0.0 bimlocal.com
@@ -15720,6 +15721,7 @@
 0.0.0.0 curse-talker.com
 0.0.0.0 cursevoice.epickeys.com
 0.0.0.0 curtaincows.com
+0.0.0.0 curveshore.com
 0.0.0.0 cushiondrum.com
 0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 custom-wrs.api.responsys.net
@@ -18704,6 +18706,7 @@
 0.0.0.0 freedatadown.com
 0.0.0.0 freedlcool.com
 0.0.0.0 freedldz.com
+0.0.0.0 freedomgrail.com
 0.0.0.0 freedomofsoftware.com
 0.0.0.0 freedomsaved.com
 0.0.0.0 freedota2game.com
@@ -23164,6 +23167,7 @@
 0.0.0.0 linksexchange.net
 0.0.0.0 linkshighway.com
 0.0.0.0 linkshighway.net
+0.0.0.0 linksoutside.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linksummary.com
 0.0.0.0 linkswaper.com
@@ -24196,6 +24200,7 @@
 0.0.0.0 merevoice.com
 0.0.0.0 mesexclusivites.fr
 0.0.0.0 message-hub-svc.usw2.cordial.com
+0.0.0.0 messagelists.com
 0.0.0.0 messaging.influencemobile.com
 0.0.0.0 metabet.api.areyouwatchingthis.com
 0.0.0.0 metabet.static.api.areyouwatchingthis.com
@@ -36963,6 +36968,7 @@
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yandexmetrica.com
 0.0.0.0 yatrk.xyz
 0.0.0.0 yavteam.com
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
