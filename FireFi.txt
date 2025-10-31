@@ -9992,6 +9992,7 @@
 0.0.0.0 audience.zeustechnology.com
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
+0.0.0.0 audio.ad
 0.0.0.0 audio.de.intellitxt.com
 0.0.0.0 audioload.net
 0.0.0.0 audionewz.net
@@ -20796,6 +20797,7 @@
 0.0.0.0 halo4.filesforgames.com
 0.0.0.0 halo4codes.com
 0.0.0.0 halo4hack.com
+0.0.0.0 halocolor.com
 0.0.0.0 haltgame.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
@@ -26364,6 +26366,7 @@
 0.0.0.0 optimost.com
 0.0.0.0 optimum-hits.com
 0.0.0.0 option9.adultfriendfinder.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
@@ -30686,6 +30689,7 @@
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 spelhacken.nl
 0.0.0.0 spell.itim.vn
+0.0.0.0 spellingthoughts.com
 0.0.0.0 spencergifts.112.2o7.net
 0.0.0.0 spezialreporte.de
 0.0.0.0 spiegel.met.vgwort.de
