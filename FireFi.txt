@@ -5194,7 +5194,6 @@
 0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.lifehealthpro.com
 0.0.0.0 ads.lifesport.bg
-0.0.0.0 ads.lifethink.net
 0.0.0.0 ads.link4ads.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linksponsor.com
@@ -7183,7 +7182,6 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
-0.0.0.0 adskpak.com
 0.0.0.0 adsl.carpediem.fr
 0.0.0.0 adslash.com
 0.0.0.0 adslidango.com
@@ -28247,7 +28245,6 @@
 0.0.0.0 rampageskins.com
 0.0.0.0 rampidads.com
 0.0.0.0 randkuj.xyz
-0.0.0.0 randkula.online
 0.0.0.0 randomwowkey.com
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
@@ -28584,6 +28581,7 @@
 0.0.0.0 resalag.com
 0.0.0.0 rescator.la
 0.0.0.0 rescator.me
+0.0.0.0 rescuerhino.com
 0.0.0.0 researchnow.com
 0.0.0.0 reseaux-telecoms.fr.intellitxt.com
 0.0.0.0 reseller.sexyads.com
@@ -30515,6 +30513,7 @@
 0.0.0.0 snapgiant.com
 0.0.0.0 snaphack.net
 0.0.0.0 snapmobile.asia
+0.0.0.0 snazzypoodle.com
 0.0.0.0 sniff.visistat.com
 0.0.0.0 sniffb.com
 0.0.0.0 sniperghostwarrior2.sharezips.info
@@ -33769,6 +33768,7 @@
 0.0.0.0 usergrid.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usermatch.targeting.unrulymedia.com
+0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.api.jeeng.com
