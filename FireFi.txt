@@ -11048,6 +11048,7 @@
 0.0.0.0 bigtopleads.cn
 0.0.0.0 bigtracker.com
 0.0.0.0 bigwebtools.com
+0.0.0.0 bigworldfashion.com
 0.0.0.0 bikeforumsnet.skimlinks.com
 0.0.0.0 bikinicollection.com
 0.0.0.0 bilbo.counted.com
@@ -15770,6 +15771,7 @@
 0.0.0.0 cyberoos.com
 0.0.0.0 cybertiny.com
 0.0.0.0 cyberweb.engagetech.com
+0.0.0.0 cyclinghere.com
 0.0.0.0 cydoor.com
 0.0.0.0 cypher-lab.com
 0.0.0.0 cytron.com
@@ -17858,6 +17860,7 @@
 0.0.0.0 faker322.pro
 0.0.0.0 faker322.ru
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 fallingshoals.com
 0.0.0.0 fallout4free.com
 0.0.0.0 fam-ad.com
 0.0.0.0 fame.web24news.com
@@ -32451,6 +32454,7 @@
 0.0.0.0 tidaltv.com
 0.0.0.0 tidaltv.com.akadns.net
 0.0.0.0 tidbitscom.skimlinks.com
+0.0.0.0 tidysprite.com
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tie.iprom.net
 0.0.0.0 tigershark.adultadworld.com
