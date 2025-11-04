@@ -26432,6 +26432,7 @@
 0.0.0.0 our.affiliatetracking.net
 0.0.0.0 ourbesthits.com
 0.0.0.0 ourbestsearch.info
+0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 ourfreestuff.net
 0.0.0.0 ourhackgames.com
 0.0.0.0 ourhackz.com
@@ -26722,6 +26723,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.10bet.com
