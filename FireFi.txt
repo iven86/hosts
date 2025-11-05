@@ -22659,6 +22659,7 @@
 0.0.0.0 justredirect24.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
+0.0.0.0 justwowjars.com
 0.0.0.0 jutcom.com
 0.0.0.0 jutiagroup.us.intellitxt.com
 0.0.0.0 jwpltx.com
@@ -30188,6 +30189,7 @@
 0.0.0.0 simpledownloadz.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplelifetimeapp.com
+0.0.0.0 simplesafari.com
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 simpletexting.com
 0.0.0.0 simplexdrop.com
