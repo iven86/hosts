@@ -3869,7 +3869,6 @@
 0.0.0.0 adamsfilms.com
 0.0.0.0 adamsmarkhotels.com
 0.0.0.0 adan.xtendmedia.com
-0.0.0.0 adanging.blog
 0.0.0.0 adap.tv
 0.0.0.0 adapace.gotrackier.com
 0.0.0.0 adapex.io
@@ -13964,6 +13963,7 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
+0.0.0.0 click-1.pl
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-safe.com
 0.0.0.0 click-west.acuityplatform.com
@@ -15161,7 +15161,6 @@
 0.0.0.0 cpusall.112.2o7.net
 0.0.0.0 cpv.popxml.com
 0.0.0.0 cpvfeed.mediatraffic.com
-0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxiappnexusvpaidvideo235346.s.moatpixel.com
@@ -21853,6 +21852,7 @@
 0.0.0.0 imimobile.com
 0.0.0.0 immanalytics.com
 0.0.0.0 immediatemedia.amp.permutive.com
+0.0.0.0 immensehoney.com
 0.0.0.0 immosct.wemfbox.ch
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imonitor.nethost.cz
@@ -28766,6 +28766,7 @@
 0.0.0.0 ro1ro.adocean.pl
 0.0.0.0 ro2.biz
 0.0.0.0 roadcatalogs.us.intellitxt.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
 0.0.0.0 roaringcash.com
 0.0.0.0 robarfacebook.com
