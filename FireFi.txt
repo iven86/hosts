@@ -11153,6 +11153,7 @@
 0.0.0.0 blast4traffic.com
 0.0.0.0 blastro.us.intellitxt.com
 0.0.0.0 blazingskins.com
+0.0.0.0 bleachbubble.com
 0.0.0.0 bleepingcomputer.us.intellitxt.com
 0.0.0.0 blekko.com
 0.0.0.0 blendai.gotrackier.com
@@ -14555,6 +14556,7 @@
 0.0.0.0 collectoru.us.tvsquared.com
 0.0.0.0 collegefootballnews.us.intellitxt.com
 0.0.0.0 colonize.com
+0.0.0.0 colorfulpet.com
 0.0.0.0 colossusssp.com
 0.0.0.0 com-cdiscount.netmng.com
 0.0.0.0 com-cheat.in
@@ -22287,6 +22289,7 @@
 0.0.0.0 is2.websearch.com
 0.0.0.0 isearchtech.com
 0.0.0.0 islandofhacks.com
+0.0.0.0 islandwebhelp.com
 0.0.0.0 ism2trk.com
 0.0.0.0 isopcgames.com
 0.0.0.0 ispot.tv
@@ -22716,6 +22719,7 @@
 0.0.0.0 kelleybluebook.112.2o7.net
 0.0.0.0 kellyclarkson.sexybabesx.com
 0.0.0.0 kelmty-tn.com
+0.0.0.0 kernellife.com
 0.0.0.0 kesconti.com
 0.0.0.0 keygen-steam.com
 0.0.0.0 keygen.us
@@ -30044,6 +30048,7 @@
 0.0.0.0 sh.adingo.jp
 0.0.0.0 sh.creativcdn.net
 0.0.0.0 shadowfiend.info
+0.0.0.0 shadowmade.com
 0.0.0.0 shadyscamband.pw
 0.0.0.0 shakegoldfish.com
 0.0.0.0 shakira.sexybabesx.com
@@ -30953,6 +30958,7 @@
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 starrynets.com
+0.0.0.0 starsmarter.com
 0.0.0.0 starstablehack.net
 0.0.0.0 start-bets.com
 0.0.0.0 start.freeze.com
@@ -34845,6 +34851,7 @@
 0.0.0.0 wrating.com
 0.0.0.0 wrestling-edge.us.intellitxt.com
 0.0.0.0 wrigley.122.2o7.net
+0.0.0.0 writerhubs.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.batch.com
