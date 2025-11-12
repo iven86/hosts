@@ -16222,6 +16222,7 @@
 0.0.0.0 descargas24.com
 0.0.0.0 descargasytrucos.eu
 0.0.0.0 descontosloucos.com
+0.0.0.0 desertgates.com
 0.0.0.0 desire-search.com
 0.0.0.0 desiredirt.com
 0.0.0.0 desirelead.com
