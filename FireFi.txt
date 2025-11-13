@@ -18567,6 +18567,7 @@
 0.0.0.0 france.id131337608-5036396713.w595505.com
 0.0.0.0 frankychamp.com
 0.0.0.0 fraud.adjoe.zone
+0.0.0.0 fraysystems.com
 0.0.0.0 freakads.com
 0.0.0.0 freasoft.com
 0.0.0.0 frecheats.com
@@ -25256,6 +25257,7 @@
 0.0.0.0 myscreen.com
 0.0.0.0 mysearch-engine.com
 0.0.0.0 mysearchweb.net
+0.0.0.0 mysketchpad.com
 0.0.0.0 myskinstrade.com
 0.0.0.0 mysoftwareplace.com
 0.0.0.0 mystat-in.net
