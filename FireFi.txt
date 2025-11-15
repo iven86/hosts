@@ -4182,7 +4182,6 @@
 0.0.0.0 adjust.net.in
 0.0.0.0 adjust.world
 0.0.0.0 adjustnetwork.com
-0.0.0.0 adk2.co
 0.0.0.0 adk2.com
 0.0.0.0 adk2ads.tictacti.com
 0.0.0.0 adkengage.com
@@ -7182,6 +7181,7 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
+0.0.0.0 adskpak.com
 0.0.0.0 adsl.carpediem.fr
 0.0.0.0 adslash.com
 0.0.0.0 adslidango.com
@@ -11038,6 +11038,7 @@
 0.0.0.0 bighop.com
 0.0.0.0 bigmoviesplus.com
 0.0.0.0 bigpond.122.2o7.net
+0.0.0.0 bigreal.org
 0.0.0.0 bigrewards.com
 0.0.0.0 bigrxdiscountmedstore.com
 0.0.0.0 bigsellstaff.cn
@@ -16694,6 +16695,7 @@
 0.0.0.0 dragonballzenligne.com
 0.0.0.0 dragonballzonline.net
 0.0.0.0 dragonballzstream.com
+0.0.0.0 dragonbats.com
 0.0.0.0 dragonborn.dlcodes.com
 0.0.0.0 dragoncity-hack.net
 0.0.0.0 dragoncity-hack.org
@@ -32565,7 +32567,6 @@
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tntclix.co.uk
 0.0.0.0 tnttv.112.2o7.net
-0.0.0.0 to-go1.eu
 0.0.0.0 tobink.com
 0.0.0.0 todacell.com
 0.0.0.0 todayinfos.us
