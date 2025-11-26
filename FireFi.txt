@@ -28185,6 +28185,7 @@
 0.0.0.0 r.casalemedia.com.edgekey.net
 0.0.0.0 r.clickdensity.com
 0.0.0.0 r.dir.bg
+0.0.0.0 r.drinksdirect.net
 0.0.0.0 r.ibg.bg
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.looksmart.com
