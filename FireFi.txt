@@ -996,7 +996,6 @@
 0.0.0.0 4af7c20b-7646-4fb7-b64f-ae0a8c51c1f1.register.collector.scopely.io
 0.0.0.0 4affiliate.net
 0.0.0.0 4click.biz
-0.0.0.0 4clicker.pro
 0.0.0.0 4cywq-eqnre.ads.tremorhub.com
 0.0.0.0 4d5.net
 0.0.0.0 4dsply.com
@@ -4110,7 +4109,6 @@
 0.0.0.0 adhese.standaard.be
 0.0.0.0 adhigh.net
 0.0.0.0 adhitzads.com
-0.0.0.0 adhoc4.net
 0.0.0.0 adhome.biz
 0.0.0.0 adhone.com
 0.0.0.0 adhood.com
@@ -8100,6 +8098,7 @@
 0.0.0.0 aenta.com
 0.0.0.0 aeps.112.2o7.net
 0.0.0.0 aeriagenerator.com
+0.0.0.0 aerialapps.com
 0.0.0.0 aeriapointsgenerator.com
 0.0.0.0 aeriapointsgenerator.net
 0.0.0.0 aeriapointshack.com
@@ -21607,7 +21606,6 @@
 0.0.0.0 iggamestop.com
 0.0.0.0 iggy.cnn-local.info
 0.0.0.0 ign.us.intellitxt.com
-0.0.0.0 ignals.com
 0.0.0.0 ignifyecom.s3.amazonaws.com
 0.0.0.0 igp06.gameloft.com
 0.0.0.0 igpasshack.com
@@ -27003,7 +27001,6 @@
 0.0.0.0 picturescreenstroy.ru
 0.0.0.0 picturesjpg.tech
 0.0.0.0 pie.wirelessregistry.com
-0.0.0.0 piet2eix3l.com
 0.0.0.0 pillscash.com
 0.0.0.0 pilmedia.ads.visionweb.no
 0.0.0.0 pimphacks.com
