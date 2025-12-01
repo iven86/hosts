@@ -6714,6 +6714,7 @@
 0.0.0.0 espiawhatsapp.net
 0.0.0.0 espiondiscret.com
 0.0.0.0 espn.hb.omtrdc.net
+0.0.0.0 essaygiants.com
 0.0.0.0 estat.com
 0.0.0.0 esty.com
 0.0.0.0 esxemulator.com
