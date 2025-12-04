@@ -12868,6 +12868,7 @@
 0.0.0.0 capriciouscorn.com
 0.0.0.0 caps-server.anzu.io
 0.0.0.0 captainbicycle.com
+0.0.0.0 captainstick.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 captureimage.site
 0.0.0.0 capturescreen.tech
