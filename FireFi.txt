@@ -18410,6 +18410,7 @@
 0.0.0.0 flashmediaportal.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flashtalking.com.edgekey.net
+0.0.0.0 flashtexting.com
 0.0.0.0 flavinha.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flex.msn.com
@@ -24854,6 +24855,7 @@
 0.0.0.0 monitoring.profi-webhosting.cz
 0.0.0.0 monjeuconcoursassurancedirexi.fr
 0.0.0.0 monkey-broker-d.openx.net
+0.0.0.0 monkeyapes.com
 0.0.0.0 monplacementmalin.com
 0.0.0.0 monster.gostats.com
 0.0.0.0 monster.gostats.ru
