@@ -3948,7 +3948,6 @@
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcdn.33universal.com
 0.0.0.0 adcdn.goo.ne.jp
-0.0.0.0 adcel.co
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.mdf.se
@@ -8164,7 +8163,6 @@
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.plugnpay.com
 0.0.0.0 affiliate.revenueads.com
-0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.simpletraffic.com
 0.0.0.0 affiliate.smsdollar.com
 0.0.0.0 affiliate.techstats.net
@@ -9059,7 +9057,6 @@
 0.0.0.0 antiworm2008.com
 0.0.0.0 antonio-banderas.com
 0.0.0.0 antventure.com
-0.0.0.0 anuncios.edicaoms.com.br
 0.0.0.0 anxiousapples.com
 0.0.0.0 any-load.com
 0.0.0.0 any-porn.com
@@ -27619,7 +27616,6 @@
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
 0.0.0.0 pridesource.advertserve.com
-0.0.0.0 priefy.com
 0.0.0.0 prijavi.net
 0.0.0.0 primaryads.com
 0.0.0.0 primaryhacks.com
