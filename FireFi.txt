@@ -11027,6 +11027,7 @@
 0.0.0.0 bigbigforums.us.intellitxt.com
 0.0.0.0 bigclicks.com
 0.0.0.0 bigfatsearch.biz
+0.0.0.0 bigfishapparel.com
 0.0.0.0 biggyupload.com
 0.0.0.0 bighits.net
 0.0.0.0 bighop.com
@@ -11209,6 +11210,7 @@
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluelithium.com
 0.0.0.0 bluemongoose.com
+0.0.0.0 bluenest.net
 0.0.0.0 bluesquirrel.com
 0.0.0.0 bluestreak.com
 0.0.0.0 bluewhaleweb.com
