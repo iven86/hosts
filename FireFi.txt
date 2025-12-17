@@ -20871,6 +20871,7 @@
 0.0.0.0 haydayhackers.com
 0.0.0.0 haydayhacks.org
 0.0.0.0 haymarketbusinesspublications.122.2o7.net
+0.0.0.0 hayweb.net
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.afl.rakuten.co.jp
@@ -20987,6 +20988,7 @@
 0.0.0.0 highbeam.122.2o7.net
 0.0.0.0 highcash.org
 0.0.0.0 highdefforum.us.intellitxt.com
+0.0.0.0 highnoongear.com
 0.0.0.0 highpro1.com
 0.0.0.0 highschoolstoryhack.com
 0.0.0.0 hightrafficads.com
