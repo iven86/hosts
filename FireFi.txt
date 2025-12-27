@@ -5204,7 +5204,6 @@
 0.0.0.0 ads.livepromotools.com
 0.0.0.0 ads.livestation.com
 0.0.0.0 ads.localyokelmedia.com
-0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lucidmedia.com
@@ -7177,7 +7176,6 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
-0.0.0.0 adskpak.com
 0.0.0.0 adsl.carpediem.fr
 0.0.0.0 adslash.com
 0.0.0.0 adslidango.com
