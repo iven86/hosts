@@ -9196,6 +9196,7 @@
 0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 api.adtrade.com
+0.0.0.0 api.affiliations.site
 0.0.0.0 api.airpush.com
 0.0.0.0 api.altamob.com
 0.0.0.0 api.amplitude.com
