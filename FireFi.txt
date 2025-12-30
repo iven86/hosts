@@ -14554,6 +14554,7 @@
 0.0.0.0 collegefootballnews.us.intellitxt.com
 0.0.0.0 colonize.com
 0.0.0.0 colorfulpet.com
+0.0.0.0 coloroptimizer.com
 0.0.0.0 colossusssp.com
 0.0.0.0 com-cdiscount.netmng.com
 0.0.0.0 com-cheat.in
@@ -14722,6 +14723,7 @@
 0.0.0.0 contaxe.de
 0.0.0.0 content-ads.impactengine.com
 0.0.0.0 content-cdn.swrve.com
+0.0.0.0 content-loader.com
 0.0.0.0 content-prod3.glance-internal.inmobi.com
 0.0.0.0 content-ssl.yieldmanager.com
 0.0.0.0 content-thumbnail.cxpublic.com
@@ -16336,6 +16338,7 @@
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-hacks.com
+0.0.0.0 direct-promo.pro
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 direct.fairfax.com.au
@@ -19093,6 +19096,7 @@
 0.0.0.0 fttcj.com
 0.0.0.0 ftvcash.com
 0.0.0.0 ftwcraft.net
+0.0.0.0 fudgegenie.com
 0.0.0.0 fuelbuck.com
 0.0.0.0 full-movies-online.cba.pl
 0.0.0.0 full.exmovie.xyz
@@ -19110,6 +19114,7 @@
 0.0.0.0 fullmovieplay.com
 0.0.0.0 fullmoviesinhd.us
 0.0.0.0 fullpcgames.xyz
+0.0.0.0 fullrestore.net
 0.0.0.0 fullstory.com
 0.0.0.0 fullvideo-watch-here.org
 0.0.0.0 fullysoftware.com
@@ -29297,6 +29302,7 @@
 0.0.0.0 safeappz.org
 0.0.0.0 safedownloadsrus157.com
 0.0.0.0 safehackz.com
+0.0.0.0 safeoffers.pro
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagedigital.checkm8.com
