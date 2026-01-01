@@ -14099,6 +14099,7 @@
 0.0.0.0 clicklog.info
 0.0.0.0 clickmedia.ro
 0.0.0.0 clickngo.pro
+0.0.0.0 clickngo.top
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.adultplex.com
@@ -23576,6 +23577,7 @@
 0.0.0.0 lovelyfreindsvisit.com
 0.0.0.0 low-hacker.popunder.ru
 0.0.0.0 lowes.tt.omtrdc.net
+0.0.0.0 lowest-prices.eu
 0.0.0.0 loxtk.com
 0.0.0.0 lp.ezdownloadpro.info
 0.0.0.0 lp.ncdownloader.com
@@ -26641,6 +26643,7 @@
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 padsdel.com
+0.0.0.0 page-checker.eu
 0.0.0.0 page-not-found.net
 0.0.0.0 page-redirect.eu
 0.0.0.0 page-x.com
