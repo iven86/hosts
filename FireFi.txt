@@ -9906,6 +9906,7 @@
 0.0.0.0 asy.a8ww.net
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 async.gsyndication.com
 0.0.0.0 async01.admantx.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at-o.net
@@ -14845,6 +14846,7 @@
 0.0.0.0 cooldownloadz.com
 0.0.0.0 coolgirl.biz
 0.0.0.0 coolinc.info
+0.0.0.0 coolkidsdistrict.com
 0.0.0.0 coolmydl.com
 0.0.0.0 cooltechzone.us.intellitxt.com
 0.0.0.0 coolwebsearch.com
@@ -15283,6 +15285,7 @@
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creatives.smadex.com
+0.0.0.0 creatopy.net
 0.0.0.0 credit-cards.com
 0.0.0.0 credit-cards.de
 0.0.0.0 credit-cards.nl
