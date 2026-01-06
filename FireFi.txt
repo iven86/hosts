@@ -14725,7 +14725,6 @@
 0.0.0.0 contaxe.de
 0.0.0.0 content-ads.impactengine.com
 0.0.0.0 content-cdn.swrve.com
-0.0.0.0 content-loader.com
 0.0.0.0 content-prod3.glance-internal.inmobi.com
 0.0.0.0 content-ssl.yieldmanager.com
 0.0.0.0 content-thumbnail.cxpublic.com
@@ -20283,6 +20282,7 @@
 0.0.0.0 grippedownloads.co
 0.0.0.0 gripvortex.com
 0.0.0.0 grmtech.net
+0.0.0.0 groovespacing.com
 0.0.0.0 grouchybrothers.com
 0.0.0.0 groundtruth.com
 0.0.0.0 group11.iperceptions.com
@@ -24891,6 +24891,7 @@
 0.0.0.0 moons-cases.com
 0.0.0.0 mopub.com
 0.0.0.0 morebattery4u.com
+0.0.0.0 morefolks.com
 0.0.0.0 morehacks.net
 0.0.0.0 morehitserver.com
 0.0.0.0 moremoshi.net
