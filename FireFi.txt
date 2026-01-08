@@ -4379,6 +4379,7 @@
 0.0.0.0 adonweb.com
 0.0.0.0 adop.cc
 0.0.0.0 adoperator.com
+0.0.0.0 adopsboost.com
 0.0.0.0 adopt.precisead.com
 0.0.0.0 adoptimal.com
 0.0.0.0 adoptum.net
@@ -14665,6 +14666,7 @@
 0.0.0.0 conf.smartnews-ads.com
 0.0.0.0 conf.xdrig.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.net
 0.0.0.0 confidencegames.com
 0.0.0.0 confidencetalks.com
 0.0.0.0 config-ltvp.inmobi.com
@@ -22848,6 +22850,7 @@
 0.0.0.0 ksw26-transmisja.pl
 0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
+0.0.0.0 kueezrtb.com
 0.0.0.0 kustusch.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvors.com
@@ -26634,6 +26637,7 @@
 0.0.0.0 p4dt2-scyd6.ads.tremorhub.com
 0.0.0.0 p4dt2-uma55.ads.tremorhub.com
 0.0.0.0 p69523.clksite.com
+0.0.0.0 p7cloud.net
 0.0.0.0 p90xfury.com
 0.0.0.0 p90xworkoutdownload.com
 0.0.0.0 p_third.advertmedias.com
@@ -30516,6 +30520,7 @@
 0.0.0.0 smetrics1.experian.com
 0.0.0.0 smf.spring-tns.net
 0.0.0.0 smibs.112.2o7.net
+0.0.0.0 smilewanted.com
 0.0.0.0 smilingcattle.com
 0.0.0.0 smitegemsgiveaway.com
 0.0.0.0 smoggysnakes.com
