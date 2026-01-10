@@ -12459,6 +12459,7 @@
 0.0.0.0 bttrack.com
 0.0.0.0 bubblyaction.com
 0.0.0.0 buburuzka.com
+0.0.0.0 buddycanvas.com
 0.0.0.0 buddydocument.com
 0.0.0.0 buddyhacker.com
 0.0.0.0 budgetmedicines.com
@@ -18445,7 +18446,6 @@
 0.0.0.0 flstudioflp.com
 0.0.0.0 flurry.com
 0.0.0.0 flx367.lporirxe.com
-0.0.0.0 fly-analytics.com
 0.0.0.0 flycash.org
 0.0.0.0 flyextensions.com
 0.0.0.0 flyingmag.com.122.2o7.net
@@ -30004,7 +30004,6 @@
 0.0.0.0 serw.clicksor.com
 0.0.0.0 serw.myroitracking.com
 0.0.0.0 sesaonpass.sharezips.info
-0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
