@@ -10832,7 +10832,6 @@
 0.0.0.0 best-ads.com
 0.0.0.0 best-cheat.org
 0.0.0.0 best-cheats24.com
-0.0.0.0 best-click.pro
 0.0.0.0 best-files.org
 0.0.0.0 best-free-file.com
 0.0.0.0 best-freehacks.com
@@ -15861,7 +15860,6 @@
 0.0.0.0 d2crazy.com
 0.0.0.0 d2hit.com
 0.0.0.0 d2sweet.com
-0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d3.zedo.com
 0.0.0.0 d3fd89.r.axf8.net
@@ -24202,7 +24200,6 @@
 0.0.0.0 megapolis.newzgames.com
 0.0.0.0 megapopads.com
 0.0.0.0 megapornbucks.com
-0.0.0.0 megapu.sh
 0.0.0.0 megashare.filminstan.pw
 0.0.0.0 megastats.com
 0.0.0.0 megauploaders.net
@@ -24690,6 +24687,7 @@
 0.0.0.0 mittencattle.com
 0.0.0.0 miva.com
 0.0.0.0 mix-test.uts.ngdata.com
+0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedhacks.com
 0.0.0.0 mixedreading.com
@@ -28684,7 +28682,6 @@
 0.0.0.0 revive.plays.bg
 0.0.0.0 revive.vkushti.tv
 0.0.0.0 reviveads.faktor.bg
-0.0.0.0 revlift.io
 0.0.0.0 revmob.com
 0.0.0.0 revolution.ign.us.intellitxt.com
 0.0.0.0 revotrack.revotas.com
@@ -30005,6 +30002,7 @@
 0.0.0.0 serw.clicksor.com
 0.0.0.0 serw.myroitracking.com
 0.0.0.0 sesaonpass.sharezips.info
+0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
