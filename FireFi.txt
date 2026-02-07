@@ -9939,6 +9939,7 @@
 0.0.0.0 atlaseducation.aavalue.com
 0.0.0.0 atlashacks.com
 0.0.0.0 atlassolutions.com
+0.0.0.0 ato.mx
 0.0.0.0 atomhack.net
 0.0.0.0 atomic.sharezips.info
 0.0.0.0 atpco.ur.gcion.com
@@ -32879,7 +32880,6 @@
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 track.prizeglobal.net
-0.0.0.0 track.przejdzdostrony.pl
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.radtracking.com
 0.0.0.0 track.recreativ.ru
