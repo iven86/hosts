@@ -22909,6 +22909,7 @@
 0.0.0.0 lacerta.iad.appboy.com
 0.0.0.0 laineygossip.us.intellitxt.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lakesecure.com
 0.0.0.0 lakeshore.d1.sc.omtrdc.net
 0.0.0.0 lakotorra.com
 0.0.0.0 lamboffers.com
@@ -23161,6 +23162,7 @@
 0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
 0.0.0.0 link.bannersystem.cz
+0.0.0.0 link.beelivery.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
 0.0.0.0 link.email.usmagazine.com
 0.0.0.0 link.go.chase
@@ -33413,6 +33415,7 @@
 0.0.0.0 tweaktown.us.intellitxt.com
 0.0.0.0 tweakvista.us.intellitxt.com
 0.0.0.0 tweetsoup.us.intellitxt.com
+0.0.0.0 twelvedawn.com
 0.0.0.0 twirlskins.com
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchloot.com
