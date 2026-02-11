@@ -1248,8 +1248,6 @@
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Malvertising\
-0.0.0.0 Moved</h1>This
-0.0.0.0 Moved</title></head>
 0.0.0.0 Not
 0.0.0.0 \
 0.0.0.0 a-a-access.com
