@@ -1243,7 +1243,7 @@
 0.0.0.0 <html>
 0.0.0.0 <p>Details:
 0.0.0.0 <p>Varnish
-0.0.0.0 <p>hostname
+0.0.0.0 <p>certificate
 0.0.0.0 <title>503
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
