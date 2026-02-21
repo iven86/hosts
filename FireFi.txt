@@ -5683,7 +5683,6 @@
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
-0.0.0.0 ads.unison.bg
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.uol.com.br
 0.0.0.0 ads.up-value.de
