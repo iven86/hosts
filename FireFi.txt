@@ -30210,6 +30210,7 @@
 0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signalayer.com
 0.0.0.0 signalhq.com
+0.0.0.0 signalszone.com
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silver-fir.cd.segmentapis.com
@@ -32442,6 +32443,7 @@
 0.0.0.0 thewalkingdead400days.sharezips.info
 0.0.0.0 thewalkingdeadseason4episode10.com
 0.0.0.0 thewarzdownloads.com
+0.0.0.0 thewavebeats.com
 0.0.0.0 theybf.us.intellitxt.com
 0.0.0.0 thgalecom.112.2o7.net
 0.0.0.0 thiefgratuit.com
