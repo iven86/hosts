@@ -5683,6 +5683,7 @@
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.uol.com.br
 0.0.0.0 ads.up-value.de
@@ -15727,6 +15728,7 @@
 0.0.0.0 cumshotvideos.com
 0.0.0.0 cunnyhoney.com
 0.0.0.0 curbminers.com
+0.0.0.0 curiousmetal.com
 0.0.0.0 currency.prebid.org
 0.0.0.0 curse-talker.com
 0.0.0.0 cursevoice.epickeys.com
@@ -23334,6 +23336,7 @@
 0.0.0.0 lockergnome.us.intellitxt.com
 0.0.0.0 lockredirect.com
 0.0.0.0 locktrk.com
+0.0.0.0 locolava.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -24697,7 +24700,6 @@
 0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedhacks.com
-0.0.0.0 mixedreading.com
 0.0.0.0 mixmarket.biz
 0.0.0.0 mixmovie.biz
 0.0.0.0 mixpanel.com
@@ -25586,6 +25588,7 @@
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news.msnbc.us.intellitxt.com
 0.0.0.0 newsadsppush.com
+0.0.0.0 newsbotnet.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsday.122.2o7.net
@@ -33273,6 +33276,7 @@
 0.0.0.0 trk.klclick1.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk.sayerfinancial.com
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.tidaltv.com
@@ -34853,6 +34857,7 @@
 0.0.0.0 worldonhacking.com
 0.0.0.0 worldorderpack.sharezips.net
 0.0.0.0 worldothack.com
+0.0.0.0 worldrealize.com
 0.0.0.0 worldsearchpro.com
 0.0.0.0 worldsite.ws
 0.0.0.0 worldsofhacks.com
