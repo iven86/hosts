@@ -8126,6 +8126,7 @@
 0.0.0.0 affbeat.com
 0.0.0.0 affbuzzads.com
 0.0.0.0 affec.tv
+0.0.0.0 affectionknit.com
 0.0.0.0 affelix.com
 0.0.0.0 affilcrtopcolle.112.2o7.net
 0.0.0.0 affili.net
@@ -26077,6 +26078,7 @@
 0.0.0.0 obtenirxboxlivegratuit.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
+0.0.0.0 oceancloudhosts.com
 0.0.0.0 oceanshare.net
 0.0.0.0 oceanup.us.intellitxt.com
 0.0.0.0 ociasb.adtiming.com
@@ -27646,6 +27648,7 @@
 0.0.0.0 pricecsgo.net
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
+0.0.0.0 prideproms.com
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 prijavi.net
 0.0.0.0 primaryads.com
