@@ -12900,6 +12900,7 @@
 0.0.0.0 carpet.pulse.inmobi.com
 0.0.0.0 carrecase.com
 0.0.0.0 cars.ign.us.intellitxt.com
+0.0.0.0 carsarace.com
 0.0.0.0 cartepsn.fr
 0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 cartoonpornguide.com
@@ -24676,6 +24677,7 @@
 0.0.0.0 minionrushhack.simpledownloadz.com
 0.0.0.0 minishared.com
 0.0.0.0 mintegral.com
+0.0.0.0 mintfunnel.co
 0.0.0.0 mintrace.com
 0.0.0.0 miraclespin.com
 0.0.0.0 mirageads.net
