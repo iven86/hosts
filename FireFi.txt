@@ -8952,7 +8952,6 @@
 0.0.0.0 angl.pagecount.com
 0.0.0.0 angmar.112.2o7.net
 0.0.0.0 angmil.112.2o7.net
-0.0.0.0 angossa.com
 0.0.0.0 angpar.112.2o7.net
 0.0.0.0 angry-birds-epic.com
 0.0.0.0 angryhack.com
@@ -14812,7 +14811,6 @@
 0.0.0.0 control.kochava.com
 0.0.0.0 control.teragence.net
 0.0.0.0 controlcenter.superstats.com
-0.0.0.0 controlcola.com
 0.0.0.0 controller.4seeresults.com
 0.0.0.0 controller.duokanbox.com
 0.0.0.0 controller.foreseeresults.com
@@ -25811,7 +25809,6 @@
 0.0.0.0 numberhacker.com
 0.0.0.0 nuseek.com
 0.0.0.0 nutpond.com
-0.0.0.0 nutritiousbean.com
 0.0.0.0 nuxepras.info
 0.0.0.0 nv.vi-serve.com
 0.0.0.0 nvfile.com
@@ -29890,7 +29887,6 @@
 0.0.0.0 sernoodmovies.com
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 serpens.iad.appboy.com
-0.0.0.0 serpentshampoo.com
 0.0.0.0 serv-api.target2sell.com
 0.0.0.0 serv.adspeed.com
 0.0.0.0 serv.clicksor.net
