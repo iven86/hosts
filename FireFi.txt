@@ -18099,6 +18099,7 @@
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 feedsweep.us.intellitxt.com
 0.0.0.0 female-orgazm.com
+0.0.0.0 femalecook.com
 0.0.0.0 femalefirst.uk.intellitxt.com
 0.0.0.0 femeedia.com
 0.0.0.0 fenrir-resolver.aprod.scopely.io
@@ -25169,6 +25170,7 @@
 0.0.0.0 muscleandfitnesshers.us.intellitxt.com
 0.0.0.0 musclepots.com
 0.0.0.0 musculahq.appspot.com
+0.0.0.0 mushroomgods.com
 0.0.0.0 music.ign.us.intellitxt.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 musicfestival21.net
@@ -25457,7 +25459,6 @@
 0.0.0.0 needforspeedrivals.sharezips.info
 0.0.0.0 needforspeedrivalsdownload.com
 0.0.0.0 needforspeedrivalspoints.sharezips.info
-0.0.0.0 needlessnorth.com
 0.0.0.0 needyneedle.com
 0.0.0.0 negadbg.hit.gemius.pl
 0.0.0.0 neighborlywatch.com
@@ -26663,7 +26664,6 @@
 0.0.0.0 padsdel.com
 0.0.0.0 page-checker.eu
 0.0.0.0 page-not-found.net
-0.0.0.0 page-redirect.eu
 0.0.0.0 page-x.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
@@ -33286,6 +33286,7 @@
 0.0.0.0 trk.tidaltv.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
+0.0.0.0 trk1.avdlink.net
 0.0.0.0 trk14.logger.co.kr
 0.0.0.0 trk365.com
 0.0.0.0 trk42.net
