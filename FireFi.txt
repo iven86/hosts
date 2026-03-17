@@ -1405,6 +1405,7 @@
 0.0.0.0 a1000.casalemedia.com
 0.0.0.0 a1015.casalemedia.com
 0.0.0.0 a1020.casalemedia.com
+0.0.0.0 a11.click
 0.0.0.0 a12.x-traceur.com
 0.0.0.0 a1222.casalemedia.com
 0.0.0.0 a1223.casalemedia.com
@@ -26169,6 +26170,7 @@
 0.0.0.0 omegahacks.eu
 0.0.0.0 ometrics.netapp.com
 0.0.0.0 omfgskins.com
+0.0.0.0 omg10.com
 0.0.0.0 omgfiles.biz
 0.0.0.0 omgmta.qq.com
 0.0.0.0 omgnickinews.com
