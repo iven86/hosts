@@ -13025,6 +13025,7 @@
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
 0.0.0.0 cbx.net
+0.0.0.0 cbzxy.com
 0.0.0.0 cc-cleanup.com
 0.0.0.0 cc.adingo.jp
 0.0.0.0 cc.chango.com
@@ -18401,6 +18402,7 @@
 0.0.0.0 fixshort.com
 0.0.0.0 fixya.us.intellitxt.com
 0.0.0.0 fizzylabs.afftrack.com
+0.0.0.0 fjordsand.com
 0.0.0.0 fkedup.com
 0.0.0.0 fl.a.ki
 0.0.0.0 fl.adpxl.co
@@ -19898,7 +19900,6 @@
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glorycheats.com
 0.0.0.0 gloverzz.net
-0.0.0.0 gloyah.net
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 gm.demdex.net
 0.0.0.0 gm.mmstat.com
