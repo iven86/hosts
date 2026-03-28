@@ -5470,6 +5470,7 @@
 0.0.0.0 ads.returnpath.net
 0.0.0.0 ads.revjet.com
 0.0.0.0 ads.revsci.net
+0.0.0.0 ads.reward-hunt.com
 0.0.0.0 ads.rim.co.uk
 0.0.0.0 ads.ripoffreport.com
 0.0.0.0 ads.rnmd.net
@@ -7273,6 +7274,7 @@
 0.0.0.0 adstory.gotrackier.com
 0.0.0.0 adstrac.adk2x.com
 0.0.0.0 adstract.adk2x.com
+0.0.0.0 adstub.net
 0.0.0.0 adstune.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsup.togothermany.cn
@@ -20233,7 +20235,6 @@
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 grafix.xxxcounter.com
 0.0.0.0 grafstat.ro
-0.0.0.0 graizoah.com
 0.0.0.0 grammy2014.streams24.tv
 0.0.0.0 grandeveryday.com
 0.0.0.0 grandfantasiahack.com
@@ -24706,6 +24707,7 @@
 0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedhacks.com
+0.0.0.0 mixedreading.com
 0.0.0.0 mixmarket.biz
 0.0.0.0 mixmovie.biz
 0.0.0.0 mixpanel.com
@@ -28255,7 +28257,6 @@
 0.0.0.0 r5.dir.bg
 0.0.0.0 r53.unrulymedia.com
 0.0.0.0 r8qs.adj.st
-0.0.0.0 raac33.net
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 rabatt-torget.se
 0.0.0.0 rabbitrifle.com
