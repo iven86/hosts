@@ -30141,6 +30141,7 @@
 0.0.0.0 sharonstone.sexybabesx.com
 0.0.0.0 sharpdownloads.com
 0.0.0.0 shawnewspapers.112.2o7.net
+0.0.0.0 shd247.click
 0.0.0.0 sheapercsgo.com
 0.0.0.0 shebudgets.us.intellitxt.com
 0.0.0.0 sheknows.us.intellitxt.com
@@ -30698,6 +30699,7 @@
 0.0.0.0 southparksot.topfree.us
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sovrn.com
+0.0.0.0 sp-a-q-f.ib-game.jp
 0.0.0.0 sp.advertising.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp.fastclick.net
