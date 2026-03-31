@@ -15998,6 +15998,7 @@
 0.0.0.0 datag.polo.com
 0.0.0.0 datais.net
 0.0.0.0 datam16.adlooxtracking.com
+0.0.0.0 datapickles.com
 0.0.0.0 dataplaygames.com
 0.0.0.0 datashreddergold.com
 0.0.0.0 datattro.xyz
@@ -34724,6 +34725,7 @@
 0.0.0.0 wihack.com
 0.0.0.0 wiki.pinion.gg
 0.0.0.0 wikia-ads.wikia.com
+0.0.0.0 wikiquotations.com
 0.0.0.0 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 0.0.0.0 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 0.0.0.0 wildcard.aniview.com.edgekey.net
