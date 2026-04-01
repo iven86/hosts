@@ -19960,6 +19960,7 @@
 0.0.0.0 go.adversal.com
 0.0.0.0 go.affec.tv
 0.0.0.0 go.arbopl.bbelements.com
+0.0.0.0 go.clickwww.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.dhs.gov
@@ -20054,6 +20055,7 @@
 0.0.0.0 goo.freelogs.com
 0.0.0.0 good-deal.org
 0.0.0.0 goodcheats.net
+0.0.0.0 goodcontentservice.top
 0.0.0.0 goodgamee.com
 0.0.0.0 goodgameempirehacks.com
 0.0.0.0 goodgametool.com
