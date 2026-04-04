@@ -6266,7 +6266,6 @@
 0.0.0.0 ads2.utopiad.com
 0.0.0.0 ads2.victoriaadvocate.com
 0.0.0.0 ads2.virtual-nights.com
-0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.williamhill.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2.zamunda.net
