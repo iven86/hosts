@@ -21288,7 +21288,6 @@
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 hr.search.etargetnet.com
 0.0.0.0 hr.static.etargetnet.com
-0.0.0.0 href='https://domcomp.com/tld-list/hostslist/hosts.txt'>Moved
 0.0.0.0 hrgde.adocean.pl
 0.0.0.0 hrzn-nxt.com
 0.0.0.0 hs-analytics.net
