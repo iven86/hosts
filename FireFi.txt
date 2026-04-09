@@ -2161,6 +2161,7 @@
 0.0.0.0 ad.mg
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mirror.co.uk
+0.0.0.0 ad.missena.io
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.monetate.net
@@ -8656,6 +8657,7 @@
 0.0.0.0 amgcase.com
 0.0.0.0 amgiftcards.com
 0.0.0.0 amhen.com.ru
+0.0.0.0 amidsttruly.com
 0.0.0.0 amigeek.com
 0.0.0.0 amigos.com
 0.0.0.0 amigosamores.com
@@ -20087,6 +20089,7 @@
 0.0.0.0 goplanetside2.cu.cc
 0.0.0.0 goplayz.com
 0.0.0.0 gopopup.com
+0.0.0.0 goqon.com
 0.0.0.0 goreal.at
 0.0.0.0 goserv.com
 0.0.0.0 gossipcenter.us.intellitxt.com
@@ -21288,6 +21291,7 @@
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 hr.search.etargetnet.com
 0.0.0.0 hr.static.etargetnet.com
+0.0.0.0 href='https://domcomp.com/tld-list/hostslist/hosts.txt'>Moved
 0.0.0.0 hrgde.adocean.pl
 0.0.0.0 hrzn-nxt.com
 0.0.0.0 hs-analytics.net
@@ -28680,6 +28684,7 @@
 0.0.0.0 reuters-d.openx.net
 0.0.0.0 rev.adip.ly
 0.0.0.0 rev.avsforum.com
+0.0.0.0 rev.iq
 0.0.0.0 rev.lanistaads.com
 0.0.0.0 rev2pub.com
 0.0.0.0 revcatch.com
