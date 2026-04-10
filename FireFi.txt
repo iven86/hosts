@@ -1824,6 +1824,7 @@
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 acustat.com
+0.0.0.0 acustomizedgift.com
 0.0.0.0 acxiom.com
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad-annex.com
@@ -25364,6 +25365,7 @@
 0.0.0.0 naftemporiki.nuggad.net
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
+0.0.0.0 nakedly.ai
 0.0.0.0 nameadmininc.com
 0.0.0.0 namedia.com
 0.0.0.0 namimedia.com
@@ -28927,6 +28929,7 @@
 0.0.0.0 rs2.qq.com
 0.0.0.0 rs6.net
 0.0.0.0 rsc-ads.vidaahub.com
+0.0.0.0 rsc-mntz.vidaahub.com
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 rt.ad-score.com
