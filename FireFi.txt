@@ -4605,7 +4605,6 @@
 0.0.0.0 ads.akademika.bg
 0.0.0.0 ads.al.com
 0.0.0.0 ads.albawaba.com
-0.0.0.0 ads.alive.com
 0.0.0.0 ads.all-free-download.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 ads.allotraffic.com
@@ -14071,7 +14070,6 @@
 0.0.0.0 click2net.com
 0.0.0.0 click2paid.com
 0.0.0.0 click2pics.net
-0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 click4.pro
 0.0.0.0 click4images.net
 0.0.0.0 click4img.com
@@ -15979,7 +15977,6 @@
 0.0.0.0 data.mob.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
-0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 data.queryly.com
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 data.webads.co.nz
@@ -37113,7 +37110,6 @@
 0.0.0.0 yituf.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.p.adnxs.com
-0.0.0.0 yldbt.com
 0.0.0.0 yllix.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ym.adnxs.com
