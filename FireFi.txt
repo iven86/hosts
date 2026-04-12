@@ -37094,6 +37094,7 @@
 0.0.0.0 yesfreedl.com
 0.0.0.0 yestimes.alexfilgueira.com
 0.0.0.0 yesup.com
+0.0.0.0 yg5sjx5kzy.com
 0.0.0.0 yicha.jp
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 yieldads.com
