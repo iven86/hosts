@@ -6489,7 +6489,6 @@
 0.0.0.0 ads3.adman.gr
 0.0.0.0 ads3.bangkokpost.co.th
 0.0.0.0 ads3.bigasia.com
-0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.eqads.com
 0.0.0.0 ads3.fingersoft.net
 0.0.0.0 ads3.focalink.com
@@ -8922,7 +8921,6 @@
 0.0.0.0 androidblender.com
 0.0.0.0 androidcentral.us.intellitxt.com
 0.0.0.0 androidcommunity.us.intellitxt.com
-0.0.0.0 androiddownload.net
 0.0.0.0 androidgamehacks.info
 0.0.0.0 androidgamemods.com
 0.0.0.0 androidgamescheats.com
