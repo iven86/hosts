@@ -8075,6 +8075,7 @@
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
+0.0.0.0 adxxxxxmost.co
 0.0.0.0 adyea.com
 0.0.0.0 adyogis.gotrackier.com
 0.0.0.0 adyoulike.com
@@ -16521,6 +16522,7 @@
 0.0.0.0 dopemobi.offerstrack.net
 0.0.0.0 doppler-coins.com
 0.0.0.0 doppler-roulette.com
+0.0.0.0 doqpm.click
 0.0.0.0 dot.wp.pl
 0.0.0.0 dota-dream.com
 0.0.0.0 dota-money24.com
