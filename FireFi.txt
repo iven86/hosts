@@ -1342,7 +1342,6 @@
 0.0.0.0 a.moitepari.bg
 0.0.0.0 a.monetate.net
 0.0.0.0 a.mouseflow.com
-0.0.0.0 a.muloqot.uz
 0.0.0.0 a.netmng.com
 0.0.0.0 a.ns.inbox.lv
 0.0.0.0 a.oceansalive.org
@@ -5386,7 +5385,6 @@
 0.0.0.0 ads.persgroep.net
 0.0.0.0 ads.petvet.bg
 0.0.0.0 ads.pexi.nl
-0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.phillipsdata.us
 0.0.0.0 ads.phillyadclub.com
@@ -8922,6 +8920,7 @@
 0.0.0.0 androidblender.com
 0.0.0.0 androidcentral.us.intellitxt.com
 0.0.0.0 androidcommunity.us.intellitxt.com
+0.0.0.0 androiddownload.net
 0.0.0.0 androidgamehacks.info
 0.0.0.0 androidgamemods.com
 0.0.0.0 androidgamescheats.com
@@ -15141,7 +15140,6 @@
 0.0.0.0 cowcotland.fr.intellitxt.com
 0.0.0.0 cox.deliveryengine.adswizz.com
 0.0.0.0 coxhsi.112.2o7.net
-0.0.0.0 coxmt.com
 0.0.0.0 coxnet.112.2o7.net
 0.0.0.0 coxnetmasterglobal.112.2o7.net
 0.0.0.0 coxtv.us.intellitxt.com
@@ -19906,6 +19904,7 @@
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glorycheats.com
 0.0.0.0 gloverzz.net
+0.0.0.0 gloyah.net
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 gm.demdex.net
 0.0.0.0 gm.mmstat.com
@@ -20418,7 +20417,6 @@
 0.0.0.0 gum.va1.vip.prod.criteo.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumyfui.com
-0.0.0.0 gunggo.com
 0.0.0.0 gununanlasmasi.com
 0.0.0.0 guppymedia.com
 0.0.0.0 gurgle.zdbb.net
@@ -21889,7 +21887,6 @@
 0.0.0.0 imimobile.com
 0.0.0.0 immanalytics.com
 0.0.0.0 immediatemedia.amp.permutive.com
-0.0.0.0 immensehoney.com
 0.0.0.0 immosct.wemfbox.ch
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imonitor.nethost.cz
@@ -34615,7 +34612,6 @@
 0.0.0.0 well-done-4us.net
 0.0.0.0 wellmediaonline.com
 0.0.0.0 weltonline01.webtrekk.net
-0.0.0.0 welved.com
 0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
