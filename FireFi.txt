@@ -4188,6 +4188,7 @@
 0.0.0.0 adkengage.com
 0.0.0.0 adklip.com
 0.0.0.0 adknowledge.com
+0.0.0.0 adkora.com
 0.0.0.0 adktracking-1671721947.eu-west-3.elb.amazonaws.com
 0.0.0.0 adl.sound.net
 0.0.0.0 adla.com
