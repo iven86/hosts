@@ -24912,6 +24912,7 @@
 0.0.0.0 moolahmedia.com
 0.0.0.0 moonetizer.com
 0.0.0.0 moons-cases.com
+0.0.0.0 moonwager.com
 0.0.0.0 mopub.com
 0.0.0.0 morebattery4u.com
 0.0.0.0 morefolks.com
