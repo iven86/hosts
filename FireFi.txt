@@ -10216,6 +10216,7 @@
 0.0.0.0 backfill.ph.affinity.com
 0.0.0.0 backoffice.roitracking.info
 0.0.0.0 backseatcuddler.us.intellitxt.com
+0.0.0.0 backtension.com
 0.0.0.0 backupfilesserver.com
 0.0.0.0 backupthefile.com
 0.0.0.0 badadownload.com
@@ -28859,6 +28860,7 @@
 0.0.0.0 rolls-hack.com
 0.0.0.0 rome.specificclick.net
 0.0.0.0 rome2crack.com
+0.0.0.0 ronracepub.com
 0.0.0.0 roomcheats.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselynsanchez.sexybabesx.com
