@@ -15142,6 +15142,7 @@
 0.0.0.0 cowcotland.fr.intellitxt.com
 0.0.0.0 cox.deliveryengine.adswizz.com
 0.0.0.0 coxhsi.112.2o7.net
+0.0.0.0 coxmt.com
 0.0.0.0 coxnet.112.2o7.net
 0.0.0.0 coxnetmasterglobal.112.2o7.net
 0.0.0.0 coxtv.us.intellitxt.com
@@ -19906,7 +19907,6 @@
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glorycheats.com
 0.0.0.0 gloverzz.net
-0.0.0.0 gloyah.net
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 gm.demdex.net
 0.0.0.0 gm.mmstat.com
@@ -20419,6 +20419,7 @@
 0.0.0.0 gum.va1.vip.prod.criteo.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumyfui.com
+0.0.0.0 gunggo.com
 0.0.0.0 gununanlasmasi.com
 0.0.0.0 guppymedia.com
 0.0.0.0 gurgle.zdbb.net
@@ -21889,6 +21890,7 @@
 0.0.0.0 imimobile.com
 0.0.0.0 immanalytics.com
 0.0.0.0 immediatemedia.amp.permutive.com
+0.0.0.0 immensehoney.com
 0.0.0.0 immosct.wemfbox.ch
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imonitor.nethost.cz
@@ -28166,7 +28168,6 @@
 0.0.0.0 qps.cint.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
-0.0.0.0 qrlsx.com
 0.0.0.0 qs.ivwbox.de
 0.0.0.0 qs.oewabox.at
 0.0.0.0 qs.wemfbox.ch
@@ -28264,6 +28265,7 @@
 0.0.0.0 r5.dir.bg
 0.0.0.0 r53.unrulymedia.com
 0.0.0.0 r8qs.adj.st
+0.0.0.0 raac33.net
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 rabatt-torget.se
 0.0.0.0 rabbitrifle.com
@@ -34616,6 +34618,7 @@
 0.0.0.0 well-done-4us.net
 0.0.0.0 wellmediaonline.com
 0.0.0.0 weltonline01.webtrekk.net
+0.0.0.0 welved.com
 0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
