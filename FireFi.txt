@@ -2332,7 +2332,6 @@
 0.0.0.0 ad.xe.gr
 0.0.0.0 ad.xertive.com
 0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xplusone.com
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.xtendmedia.com
@@ -13605,6 +13604,7 @@
 0.0.0.0 chacha.112.2o7.net
 0.0.0.0 chackscheats.com
 0.0.0.0 chairscrack.com
+0.0.0.0 chalkdream.com
 0.0.0.0 challenge.360in.com
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chango.com
@@ -20004,7 +20004,6 @@
 0.0.0.0 go.sonobi.com
 0.0.0.0 go.straightresults.com
 0.0.0.0 go.tracksz.co
-0.0.0.0 go.usa.gov
 0.0.0.0 go.vrvm.com
 0.0.0.0 go.webrewardstream.com
 0.0.0.0 go.xlirdr.com
@@ -20959,7 +20958,6 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -24716,7 +24714,6 @@
 0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedhacks.com
-0.0.0.0 mixedreading.com
 0.0.0.0 mixmarket.biz
 0.0.0.0 mixmovie.biz
 0.0.0.0 mixpanel.com
@@ -28094,7 +28091,6 @@
 0.0.0.0 push.xdrig.com
 0.0.0.0 push5.adups.com
 0.0.0.0 pushaction.foxpush.com
-0.0.0.0 pushance.com
 0.0.0.0 pushcloud.org
 0.0.0.0 pushengage.com
 0.0.0.0 pushid-noneu.truecaller.com
@@ -28267,7 +28263,6 @@
 0.0.0.0 r5.dir.bg
 0.0.0.0 r53.unrulymedia.com
 0.0.0.0 r8qs.adj.st
-0.0.0.0 raac33.net
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 rabatt-torget.se
 0.0.0.0 rabbitrifle.com
