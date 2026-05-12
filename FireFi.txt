@@ -14127,6 +14127,7 @@
 0.0.0.0 clicks.mods.de
 0.0.0.0 clicks.monzo.com
 0.0.0.0 clicks.nastydollars.com
+0.0.0.0 clicks.njuskalo.hr
 0.0.0.0 clicks.smartbizsearch.com
 0.0.0.0 clicks.stripsaver.com
 0.0.0.0 clicks.virtuagirl.com
