@@ -1233,12 +1233,15 @@
 0.0.0.0 </html>
 0.0.0.0 <?xml
 0.0.0.0 <body>
+0.0.0.0 <center><h1>301\
 0.0.0.0 <center><h1>404
 0.0.0.0 <h1>Error
 0.0.0.0 <h3>Error
 0.0.0.0 <head>
+0.0.0.0 <head><title>301\
 0.0.0.0 <head><title>404
 0.0.0.0 <hr>
+0.0.0.0 <hr><center>cloudflare</center>
 0.0.0.0 <hr><center>nginx</center>
 0.0.0.0 <html>
 0.0.0.0 <p>Details:
@@ -1248,6 +1251,7 @@
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Malvertising\
+0.0.0.0 Moved
 0.0.0.0 Moved</h1>This
 0.0.0.0 Moved</title></head>
 0.0.0.0 Not
@@ -30793,6 +30797,7 @@
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spookysleet.com
+0.0.0.0 spoonballoon.com
 0.0.0.0 sport1.wemfbox.ch
 0.0.0.0 sport5.checkm8.com
 0.0.0.0 sport5digital.checkm8.com
@@ -32979,6 +32984,7 @@
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.colatv88xb.cc
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.engageclick.com
