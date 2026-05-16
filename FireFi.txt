@@ -2336,6 +2336,7 @@
 0.0.0.0 ad.xe.gr
 0.0.0.0 ad.xertive.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xplusone.com
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.xtendmedia.com
@@ -14116,6 +14117,7 @@
 0.0.0.0 clickngo.pro
 0.0.0.0 clickngo.top
 0.0.0.0 clickonometrics.pl
+0.0.0.0 clickrtrckr.com
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.adultplex.com
 0.0.0.0 clicks.adzones.com
@@ -20963,6 +20965,7 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
+0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -25289,7 +25292,6 @@
 0.0.0.0 myglobalsearch.com
 0.0.0.0 mylead-tracking.tracknow.info
 0.0.0.0 mylead.global
-0.0.0.0 mylink-today.com
 0.0.0.0 mylinkbox.com
 0.0.0.0 mylolriotpoints.com
 0.0.0.0 mymediasearchnow.com
@@ -26102,7 +26104,6 @@
 0.0.0.0 oceanup.us.intellitxt.com
 0.0.0.0 ociasb.adtiming.com
 0.0.0.0 oclaserver.com
-0.0.0.0 oclasrv.com
 0.0.0.0 ocp.com.com
 0.0.0.0 ocs.websponsors.com
 0.0.0.0 octavian.su
@@ -28615,7 +28616,6 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
-0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -33102,7 +33102,6 @@
 0.0.0.0 tracking.spiderbait.com
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.taboola.com
-0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 tracking.trutv.com
@@ -34802,7 +34801,6 @@
 0.0.0.0 wireless.ign.us.intellitxt.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
-0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wissende.122.2o7.net
