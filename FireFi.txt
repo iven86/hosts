@@ -12561,6 +12561,7 @@
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am11.ru
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.apple.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.azjmp.com
 0.0.0.0 c.betrad.com
