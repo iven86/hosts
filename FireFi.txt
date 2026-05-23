@@ -28617,6 +28617,7 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
+0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -33095,7 +33096,6 @@
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
-0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.sitebro.net
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.softwareprojects.com
@@ -33214,7 +33214,6 @@
 0.0.0.0 trainers-cave.com
 0.0.0.0 trajan.httpool.com
 0.0.0.0 traktr.news.com.au
-0.0.0.0 traktrafficflow.com
 0.0.0.0 traktum.com
 0.0.0.0 trane-ir-corp-ingersollrand.112.2o7.net
 0.0.0.0 tranquilplume.com
