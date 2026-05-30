@@ -8786,7 +8786,6 @@
 0.0.0.0 analytics.hgcdn.net
 0.0.0.0 analytics.hosting24.com
 0.0.0.0 analytics.htmedia.in
-0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.informationweek.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jst.ai
