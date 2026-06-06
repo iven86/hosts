@@ -14171,6 +14171,7 @@
 0.0.0.0 clicmanager.fr
 0.0.0.0 clicz.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 client.browseraccelerator.com
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
@@ -14520,7 +14521,6 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 col.mobileads.msn.com
-0.0.0.0 coldbalance.com
 0.0.0.0 coldenvy.info
 0.0.0.0 collect-ap-northeast-1.tealiumiq.com
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
@@ -17611,6 +17611,7 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kumulos.com
@@ -26523,7 +26524,6 @@
 0.0.0.0 overblog.ezakus.net
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overconfidentfood.com
-0.0.0.0 overkick.com
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 oversee.net
 0.0.0.0 overstockcom.112.2o7.net
@@ -28420,7 +28420,6 @@
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
-0.0.0.0 re-direct.pl
 0.0.0.0 re-directme.com
 0.0.0.0 re.revolvermaps.com
 0.0.0.0 reachjunction.com
@@ -31020,7 +31019,6 @@
 0.0.0.0 stardk.tradedoubler.com
 0.0.0.0 stardollcheats.elitegamershub.com
 0.0.0.0 starffa.com
-0.0.0.0 starkscale.com
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 starrynets.com
@@ -34804,6 +34802,7 @@
 0.0.0.0 wireless.ign.us.intellitxt.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wissende.122.2o7.net
