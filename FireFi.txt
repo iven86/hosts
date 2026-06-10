@@ -22416,6 +22416,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 iyogi.demdex.net
 0.0.0.0 izar.iad-03.braze.com
+0.0.0.0 izcle.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 j.clickdensity.com
 0.0.0.0 j.flxpxl.com
