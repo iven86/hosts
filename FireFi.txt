@@ -7910,6 +7910,7 @@
 0.0.0.0 adverticum.com
 0.0.0.0 adverticum.net
 0.0.0.0 adverticus.de
+0.0.0.0 advertipros.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertise.com
 0.0.0.0 advertise.ldplayer.net
@@ -14164,6 +14165,7 @@
 0.0.0.0 clicktraq.mtree.com
 0.0.0.0 clickunder.net
 0.0.0.0 clickxchange.com
+0.0.0.0 clickyab.com
 0.0.0.0 clickz.com
 0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
@@ -28616,7 +28618,6 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
-0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -32996,7 +32997,6 @@
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.leadenhancer.com
 0.0.0.0 tracker.marinsm.com
-0.0.0.0 tracker.metricswave.com
 0.0.0.0 tracker.mmdlv.it
 0.0.0.0 tracker.mozo.com.au
 0.0.0.0 tracker.nbcuas.com
