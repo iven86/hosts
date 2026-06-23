@@ -4262,6 +4262,7 @@
 0.0.0.0 admax.nexage.com
 0.0.0.0 admaximize.com
 0.0.0.0 admaximize.nu
+0.0.0.0 adme2.click
 0.0.0.0 admedia.com
 0.0.0.0 admedia.expedia.com
 0.0.0.0 admedia.net
@@ -13361,6 +13362,7 @@
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.siteanalytics.evolvemediametrics.com
+0.0.0.0 cdn.smalk.ai
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.spectate.com
@@ -14894,6 +14896,7 @@
 0.0.0.0 coriolis.accuweather.com
 0.0.0.0 corm.hit.gemius.pl
 0.0.0.0 corporate.crakmedia.com
+0.0.0.0 correctedcode.com
 0.0.0.0 cortex.vidora.com
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 cosmosjackson.com
@@ -22361,6 +22364,7 @@
 0.0.0.0 itmedia.122.2o7.net
 0.0.0.0 itop.cz
 0.0.0.0 itpro.uk.intellitxt.com
+0.0.0.0 itrackly.com
 0.0.0.0 itreviews.uk.intellitxt.com
 0.0.0.0 its-that-easy.com
 0.0.0.0 itshd.com
