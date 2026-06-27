@@ -14523,6 +14523,7 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 col.mobileads.msn.com
+0.0.0.0 coldbalance.com
 0.0.0.0 coldenvy.info
 0.0.0.0 collect-ap-northeast-1.tealiumiq.com
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
@@ -20969,7 +20970,6 @@
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heias.com
 0.0.0.0 heidiklum.sexybabesx.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 heise.nuggad.net
 0.0.0.0 helios.finn.no
 0.0.0.0 helios.fvn.no
@@ -28623,6 +28623,7 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
+0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -33367,6 +33368,7 @@
 0.0.0.0 ts3plug-in.com
 0.0.0.0 ts3plugins.com
 0.0.0.0 ts3plugins.org
+0.0.0.0 tsa-f.webex.com
 0.0.0.0 tsa.webex.com
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tsmtrk.com
