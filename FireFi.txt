@@ -7928,6 +7928,7 @@
 0.0.0.0 advertiser.superstats.com
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertisespace.com
+0.0.0.0 advertising.amazon.de
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.bayoubuzz.com
