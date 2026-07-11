@@ -14529,6 +14529,7 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 col.mobileads.msn.com
+0.0.0.0 coldbalance.com
 0.0.0.0 coldenvy.info
 0.0.0.0 collect-ap-northeast-1.tealiumiq.com
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
@@ -26535,6 +26536,7 @@
 0.0.0.0 overblog.ezakus.net
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overconfidentfood.com
+0.0.0.0 overkick.com
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 oversee.net
 0.0.0.0 overstockcom.112.2o7.net
@@ -28486,6 +28488,7 @@
 0.0.0.0 recoco.it
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
+0.0.0.0 reconditerake.com
 0.0.0.0 record.affiliatelounge.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.commissionking.com
@@ -31029,6 +31032,7 @@
 0.0.0.0 stardk.tradedoubler.com
 0.0.0.0 stardollcheats.elitegamershub.com
 0.0.0.0 starffa.com
+0.0.0.0 starkscale.com
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 starrynets.com
@@ -34288,7 +34292,6 @@
 0.0.0.0 vivads.net
 0.0.0.0 vivahacks.com
 0.0.0.0 vivaki.demdex.net
-0.0.0.0 vivtracking.com
 0.0.0.0 vizisense.net
 0.0.0.0 vkonte.club
 0.0.0.0 vkonte.live
@@ -34818,6 +34821,7 @@
 0.0.0.0 wireless.ign.us.intellitxt.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wissende.122.2o7.net
