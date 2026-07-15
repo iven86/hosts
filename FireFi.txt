@@ -23816,6 +23816,7 @@
 0.0.0.0 magnetic.com
 0.0.0.0 magnetic.domdex.com
 0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 magnetise.io
 0.0.0.0 magnum.cdn.speedshiftmedia.com
 0.0.0.0 magsrv.com
 0.0.0.0 mahicardings.com
