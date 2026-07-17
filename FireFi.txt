@@ -34099,6 +34099,7 @@
 0.0.0.0 veruta.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
+0.0.0.0 verybark.com
 0.0.0.0 veryfastsearch.com
 0.0.0.0 vet-us-east-1.track.smaato.net
 0.0.0.0 veuhub-d.openx.net
