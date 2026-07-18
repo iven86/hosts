@@ -19810,7 +19810,6 @@
 0.0.0.0 getweathercast.com
 0.0.0.0 getwhatsappforpc.com
 0.0.0.0 getxbox360codes.com
-0.0.0.0 getxmlisi.com
 0.0.0.0 getyourcheats.com
 0.0.0.0 getyourfree.org
 0.0.0.0 gfacebook.in
@@ -23591,8 +23590,6 @@
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 look.djfiln.com
-0.0.0.0 look.ichlnk.com
-0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 lookoutsoft.net
 0.0.0.0 looks-picture.com
@@ -28155,7 +28152,6 @@
 0.0.0.0 pxl.iqm.com
 0.0.0.0 pxl.jivox.com
 0.0.0.0 pxl.pmsrvr.com
-0.0.0.0 pymx5.com
 0.0.0.0 pythagore.demdex.net
 0.0.0.0 pyxis.iad.appboy.com
 0.0.0.0 q.addthis.com
@@ -28665,7 +28661,6 @@
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
 0.0.0.0 res1.applovin.com
-0.0.0.0 resalag.com
 0.0.0.0 rescator.la
 0.0.0.0 rescator.me
 0.0.0.0 rescuerhino.com
@@ -29358,7 +29353,6 @@
 0.0.0.0 sacrificedsecretspack.sharezips.info
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
-0.0.0.0 sadloaf.com
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
@@ -34650,7 +34644,6 @@
 0.0.0.0 well-done-4us.net
 0.0.0.0 wellmediaonline.com
 0.0.0.0 weltonline01.webtrekk.net
-0.0.0.0 welved.com
 0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 wera.popunder.ru
 0.0.0.0 werbung.meteoxpress.com
@@ -34828,7 +34821,6 @@
 0.0.0.0 wireless.ign.us.intellitxt.com
 0.0.0.0 wirelessforums.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
-0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wissende.122.2o7.net
