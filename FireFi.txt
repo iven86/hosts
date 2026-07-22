@@ -34741,6 +34741,7 @@
 0.0.0.0 widgets.kiosked.com
 0.0.0.0 widgets.mgid.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.teads-xo.com
 0.0.0.0 widgets.zemanta.com
 0.0.0.0 wifi-hack-password.com
 0.0.0.0 wifi-hacker.org
