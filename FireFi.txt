@@ -864,6 +864,7 @@
 0.0.0.0 360emulator.com
 0.0.0.0 360fenxi.mediav.com
 0.0.0.0 360in.com
+0.0.0.0 360yield-basic.com
 0.0.0.0 360yield.com
 0.0.0.0 3616.api.swrve.com
 0.0.0.0 3616.content.swrve.com
