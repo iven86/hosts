@@ -7914,6 +7914,7 @@
 0.0.0.0 adverticum.com
 0.0.0.0 adverticum.net
 0.0.0.0 adverticus.de
+0.0.0.0 advertipros.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertise.com
 0.0.0.0 advertise.ldplayer.net
@@ -28634,7 +28635,6 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
-0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -29358,6 +29358,7 @@
 0.0.0.0 sacrificedsecretspack.sharezips.info
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
+0.0.0.0 sadloaf.com
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
@@ -31944,6 +31945,7 @@
 0.0.0.0 t.irtyd.com
 0.0.0.0 t.leady.com
 0.0.0.0 t.lkqd.net
+0.0.0.0 t.marketing.goindigo.in
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.metrilo.com
