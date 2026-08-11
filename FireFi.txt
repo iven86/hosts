@@ -29051,6 +29051,7 @@
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum.aliyuncs.com
 0.0.0.0 rumblefighterhacks.com
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rumds.wpdigital.net
