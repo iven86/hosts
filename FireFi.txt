@@ -13003,6 +13003,7 @@
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 cat.va.us.criteo.com
 0.0.0.0 cat.va1.vip.prod.criteo.com
+0.0.0.0 catfront.dianping.com
 0.0.0.0 catrg.peer39.net
 0.0.0.0 cats-crash-hack.info
 0.0.0.0 catscase.com
