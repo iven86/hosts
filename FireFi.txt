@@ -15998,6 +15998,7 @@
 0.0.0.0 data.ero-advertising.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
+0.0.0.0 data.hailuo.ai
 0.0.0.0 data.iappmobi.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.logentries.com
@@ -29051,6 +29052,7 @@
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
+0.0.0.0 rum-openway.guance.com
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 rum.aliyuncs.com
 0.0.0.0 rumblefighterhacks.com
@@ -33483,6 +33485,7 @@
 0.0.0.0 tweetsoup.us.intellitxt.com
 0.0.0.0 twelvedawn.com
 0.0.0.0 twirlskins.com
+0.0.0.0 twisty.net
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchloot.com
 0.0.0.0 twiteers.com
