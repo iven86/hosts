@@ -28047,6 +28047,7 @@
 0.0.0.0 pub9.bravenet.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubdirecte.com
+0.0.0.0 pubfuture-ssp.com
 0.0.0.0 pubg-trade.com
 0.0.0.0 pubg4roll.com
 0.0.0.0 pubgblitz.com
