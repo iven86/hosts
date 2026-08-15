@@ -4482,7 +4482,6 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-b.focalink.com
-0.0.0.0 ads-backend.chaincliq.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-bilek.com
 0.0.0.0 ads-by.madadsmedia.com
@@ -8638,7 +8637,6 @@
 0.0.0.0 amazonshopbop.122.2o7.net
 0.0.0.0 amber3graph.com
 0.0.0.0 ambrs.hypermart.net
-0.0.0.0 amcnreil.pro
 0.0.0.0 amctheater.com
 0.0.0.0 amdvtest.112.2o7.net
 0.0.0.0 amdzone.us.intellitxt.com
@@ -22086,6 +22084,7 @@
 0.0.0.0 infrastrategy.122.2o7.net
 0.0.0.0 infratotalduicom.122.2o7.net
 0.0.0.0 ingameads.gameloft.com
+0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 inhacks.com
 0.0.0.0 inhousedsp.com
@@ -28497,7 +28496,6 @@
 0.0.0.0 recoco.it
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
-0.0.0.0 reconditerake.com
 0.0.0.0 record.affiliatelounge.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.commissionking.com
