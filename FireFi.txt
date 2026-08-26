@@ -10706,6 +10706,7 @@
 0.0.0.0 bbelements.com
 0.0.0.0 bbeplayer.com
 0.0.0.0 bbg.d1.sc.omtrdc.net
+0.0.0.0 bbm-ad-stack-production.up.railway.app
 0.0.0.0 bbmonandroid.com
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 bbnaut.ibillboard.com
