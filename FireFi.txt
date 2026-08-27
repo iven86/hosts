@@ -6811,6 +6811,7 @@
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsatt.movies.starwave.com
 0.0.0.0 adsaway.com
+0.0.0.0 adsbigo.com
 0.0.0.0 adsbookie.com
 0.0.0.0 adsbox.detik.com
 0.0.0.0 adsby.bidtheatre.com
