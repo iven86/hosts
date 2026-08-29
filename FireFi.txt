@@ -8389,6 +8389,7 @@
 0.0.0.0 akril.com
 0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 aksoftware.com
+0.0.0.0 akstat.io
 0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 aktrack.pubmatic.edgekey.net
@@ -28144,6 +28145,7 @@
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.gumgum.com
 0.0.0.0 px.moatads.com
+0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.quantserve.com
 0.0.0.0 px.steelhousemedia.com
@@ -31078,6 +31080,7 @@
 0.0.0.0 stat.ganbox.com
 0.0.0.0 stat.hasmobi.net
 0.0.0.0 stat.komoona.com
+0.0.0.0 stat.lianmeng.360.cn
 0.0.0.0 stat.madbanner.ru
 0.0.0.0 stat.mystat.hu
 0.0.0.0 stat.netinfocompany.bg
