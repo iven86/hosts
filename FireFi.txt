@@ -1030,6 +1030,7 @@
 0.0.0.0 50nuancesdegrey-lefilm-vf.com
 0.0.0.0 50shadesofgreydownload.net
 0.0.0.0 50websads.com
+0.0.0.0 51.la
 0.0.0.0 51234.com
 0.0.0.0 5131.5.links4trade.com
 0.0.0.0 518ad.com
@@ -1386,6 +1387,7 @@
 0.0.0.0 a.vertamedia.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
+0.0.0.0 a.vfgth.com
 0.0.0.0 a.vidora.com
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.web-1000.com
@@ -4253,6 +4255,7 @@
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 admaster.cc
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
 0.0.0.0 admatchly.com
@@ -5820,6 +5823,7 @@
 0.0.0.0 ads.zedo.com
 0.0.0.0 ads.zepterads.com
 0.0.0.0 ads.zone-media.com
+0.0.0.0 ads.zorvec.name
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads0.hpg.com.br
 0.0.0.0 ads0.hpg.ig.com.br
@@ -10659,6 +10663,7 @@
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
 0.0.0.0 bat.bing.com
+0.0.0.0 bat.bing.net
 0.0.0.0 batch.upsight-api.com
 0.0.0.0 batmanarkhamorigins.aldenvids.com
 0.0.0.0 batmanarkhamorigins.sharezips.info
@@ -18139,6 +18144,7 @@
 0.0.0.0 femalefirst.uk.intellitxt.com
 0.0.0.0 femeedia.com
 0.0.0.0 fenrir-resolver.aprod.scopely.io
+0.0.0.0 fenxi.com
 0.0.0.0 ferrago.uk.intellitxt.com
 0.0.0.0 fev.fyber.com
 0.0.0.0 fevertube.com
@@ -23851,6 +23857,7 @@
 0.0.0.0 makeios.com
 0.0.0.0 makemeheal.us.intellitxt.com
 0.0.0.0 makeushot.us.intellitxt.com
+0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maltiverse.lt.acemlnc.com
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 malware-scan.com
@@ -27479,6 +27486,7 @@
 0.0.0.0 polo.feathr.co
 0.0.0.0 polyad.net
 0.0.0.0 pontiflex.com
+0.0.0.0 pooinc-7dw.pages.dev
 0.0.0.0 pool-colruytgroup.adhese.com
 0.0.0.0 pool-mediafin.adhese.com
 0.0.0.0 pool-nrc.adhese.com
@@ -29609,6 +29617,7 @@
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.adotmob.com
 0.0.0.0 sdk.adspruce.com
 0.0.0.0 sdk.adtiming.com
@@ -31960,6 +31969,7 @@
 0.0.0.0 t.mtagmonetizationa.com
 0.0.0.0 t.mtagmonetizationc.com
 0.0.0.0 t.myvisualiq.net
+0.0.0.0 t.nc0.co
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
@@ -32930,6 +32940,7 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.mdrctr.com
+0.0.0.0 track.mediav.com
 0.0.0.0 track.miro.com
 0.0.0.0 track.moreniche.com
 0.0.0.0 track.nationalgunrights.org
@@ -33080,6 +33091,7 @@
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.hittail.com
+0.0.0.0 tracking.hostgator.com
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
