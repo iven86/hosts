@@ -26118,6 +26118,7 @@
 0.0.0.0 objecthero.com
 0.0.0.0 objects.tremormedia.com
 0.0.0.0 obo.moatads.com
+0.0.0.0 obs.sd4823.spglobal.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observare.de
 0.0.0.0 observe.aniview.com
@@ -37012,6 +37013,7 @@
 0.0.0.0 xl.topstat.com
 0.0.0.0 xlocator.com
 0.0.0.0 xmarkscom.skimlinks.com
+0.0.0.0 xml-v4.oceanfall.xyz
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.admanage.com
