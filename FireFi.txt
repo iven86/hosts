@@ -7319,6 +7319,7 @@
 0.0.0.0 adtag.asiaone.com
 0.0.0.0 adtag.primetime.adobe.com
 0.0.0.0 adtagger.com
+0.0.0.0 adtagj.portal-factory.com
 0.0.0.0 adtarget.com.tr
 0.0.0.0 adtarget.ro
 0.0.0.0 adtastic.com
@@ -28055,6 +28056,7 @@
 0.0.0.0 pub7.bravenet.com
 0.0.0.0 pub9.bravenet.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubbug.com
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubfuture-ssp.com
 0.0.0.0 pubg-trade.com
