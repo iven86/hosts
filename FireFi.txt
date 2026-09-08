@@ -37107,6 +37107,7 @@
 0.0.0.0 yad1.yad2.co.il
 0.0.0.0 yadro.ru
 0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yads.tech
 0.0.0.0 yads.zedo.com
 0.0.0.0 yahacker.viphacks.net
 0.0.0.0 yahoo.effectivemeasure.net
