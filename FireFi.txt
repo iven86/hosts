@@ -24554,6 +24554,7 @@
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 metrilo.com
 0.0.0.0 metriweb.be
+0.0.0.0 metrix.luxnet.io
 0.0.0.0 metropcs.mobileposse.com
 0.0.0.0 mf.advantage.as
 0.0.0.0 mf.sitescout.com
@@ -31364,6 +31365,7 @@
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.ign.com
 0.0.0.0 stats.immense.net
+0.0.0.0 stats.in.th
 0.0.0.0 stats.industryinc.com
 0.0.0.0 stats.infomedia.net
 0.0.0.0 stats.inist.fr
