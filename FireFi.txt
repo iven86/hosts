@@ -999,6 +999,7 @@
 0.0.0.0 4click.biz
 0.0.0.0 4cywq-eqnre.ads.tremorhub.com
 0.0.0.0 4d5.net
+0.0.0.0 4dex.io
 0.0.0.0 4dsply.com
 0.0.0.0 4everyone.com
 0.0.0.0 4freetraffic.com
@@ -1704,6 +1705,7 @@
 0.0.0.0 absolutelyfreeeroticstories.com
 0.0.0.0 absolutelyfreemovies.com
 0.0.0.0 absolutelyric.com
+0.0.0.0 absolutering.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
@@ -10663,6 +10665,7 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
+0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 batch.upsight-api.com
@@ -11070,6 +11073,7 @@
 0.0.0.0 bigtopleads.cn
 0.0.0.0 bigtracker.com
 0.0.0.0 bigwebtools.com
+0.0.0.0 bigworldfashion.com
 0.0.0.0 bikeforumsnet.skimlinks.com
 0.0.0.0 bikinicollection.com
 0.0.0.0 bilbo.counted.com
@@ -22532,6 +22536,7 @@
 0.0.0.0 jeuxpirate.fr
 0.0.0.0 jeuxpsvitagratuit.com
 0.0.0.0 jeuxtricheur.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jfhvip.com
 0.0.0.0 jg.revolvermaps.com
@@ -22789,6 +22794,7 @@
 0.0.0.0 kelleybluebook.112.2o7.net
 0.0.0.0 kellyclarkson.sexybabesx.com
 0.0.0.0 kelmty-tn.com
+0.0.0.0 kernellife.com
 0.0.0.0 kesconti.com
 0.0.0.0 keygen-steam.com
 0.0.0.0 keygen.us
@@ -26460,6 +26466,7 @@
 0.0.0.0 optimost.com
 0.0.0.0 optimum-hits.com
 0.0.0.0 option9.adultfriendfinder.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
@@ -26513,6 +26520,7 @@
 0.0.0.0 other.upqzfile.com
 0.0.0.0 otherlevels.com
 0.0.0.0 otherprofit.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 oticon.netminers.dk
 0.0.0.0 otracking.com
 0.0.0.0 ots.optimize.webtrends.com
@@ -26817,6 +26825,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.10bet.com
@@ -28859,6 +28868,7 @@
 0.0.0.0 ro1ro.adocean.pl
 0.0.0.0 ro2.biz
 0.0.0.0 roadcatalogs.us.intellitxt.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
 0.0.0.0 roaringcash.com
 0.0.0.0 robarfacebook.com
@@ -32873,6 +32883,7 @@
 0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tr.mobiadserv.com
+0.0.0.0 tr.p.360.cn
 0.0.0.0 tr.prospecteye.com
 0.0.0.0 tr.semilo.individuad.net
 0.0.0.0 tr.snapchat.com
@@ -34973,6 +34984,7 @@
 0.0.0.0 wrating.com
 0.0.0.0 wrestling-edge.us.intellitxt.com
 0.0.0.0 wrigley.122.2o7.net
+0.0.0.0 writerhubs.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.batch.com
