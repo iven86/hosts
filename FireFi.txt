@@ -32934,6 +32934,7 @@
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.double.net
 0.0.0.0 track.dvdbox.com
+0.0.0.0 track.dws.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.flexlinks.com
