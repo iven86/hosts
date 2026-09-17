@@ -28253,6 +28253,7 @@
 0.0.0.0 quickpwn.us.intellitxt.com
 0.0.0.0 quicksendfiles.com
 0.0.0.0 quickstatistic.com
+0.0.0.0 quicktattoo.com
 0.0.0.0 quiethacking.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 quigo.com
