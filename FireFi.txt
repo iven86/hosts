@@ -2057,7 +2057,6 @@
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.excite.co.jp
 0.0.0.0 ad.extrabanner.com
-0.0.0.0 ad.exyws.org
 0.0.0.0 ad.ezcybersearch.com
 0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.family.go.com
@@ -4345,7 +4344,6 @@
 0.0.0.0 adnet.pravda.com.ua
 0.0.0.0 adnet.ru
 0.0.0.0 adnet.worldreviewer.com
-0.0.0.0 adnetasia.com
 0.0.0.0 adnetgalt.hit.gemius.pl
 0.0.0.0 adnetinteractive.com
 0.0.0.0 adnetinternational.com
@@ -4512,7 +4510,6 @@
 0.0.0.0 ads-mediafin.adhese.com
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
-0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 ads-resources.waze.com
@@ -6258,7 +6255,6 @@
 0.0.0.0 ads2.helpos.com
 0.0.0.0 ads2.hpg.com.br
 0.0.0.0 ads2.hpg.ig.com.br
-0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.i-kool.com
 0.0.0.0 ads2.iwon.com
 0.0.0.0 ads2.jubii.dk
@@ -16257,7 +16253,6 @@
 0.0.0.0 depart.trinitymedia.ai
 0.0.0.0 depilflash.tv
 0.0.0.0 deplayer.net
-0.0.0.0 deployads.com
 0.0.0.0 deposito.traffic-advance.net
 0.0.0.0 deposito.trafficredlight.net
 0.0.0.0 depotfichiers.us
@@ -16746,7 +16741,6 @@
 0.0.0.0 dragonballzenligne.com
 0.0.0.0 dragonballzonline.net
 0.0.0.0 dragonballzstream.com
-0.0.0.0 dragonbats.com
 0.0.0.0 dragonborn.dlcodes.com
 0.0.0.0 dragoncity-hack.net
 0.0.0.0 dragoncity-hack.org
@@ -19126,7 +19120,6 @@
 0.0.0.0 freezingbuilding.com
 0.0.0.0 freezvps.com
 0.0.0.0 freezyngacardcodes.com
-0.0.0.0 frequentflesh.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
 0.0.0.0 freshrelevance.com
@@ -20060,7 +20053,6 @@
 0.0.0.0 godaddy.sp1.convertro.com
 0.0.0.0 godlikedrop.com
 0.0.0.0 godsamongus.console2pc.info
-0.0.0.0 godseedband.com
 0.0.0.0 godzilla-2014.leakbay.net
 0.0.0.0 goeiendagmail.be
 0.0.0.0 gofreehack.com
@@ -20882,7 +20874,6 @@
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 handsomehose.com
 0.0.0.0 handyfireman.com
-0.0.0.0 handyincrease.com
 0.0.0.0 hanklist.com
 0.0.0.0 hapjes-maken.eu
 0.0.0.0 haplesshydrant.com
@@ -23164,7 +23155,6 @@
 0.0.0.0 li.hearstmags.com
 0.0.0.0 li.livingsocial.com
 0.0.0.0 li.mw.drhinternet.net
-0.0.0.0 li.onetravel.com
 0.0.0.0 li.patheos.com
 0.0.0.0 li.pmc.com
 0.0.0.0 li.pxl.ace.advertising.com
@@ -29386,7 +29376,6 @@
 0.0.0.0 sacrificedsecretspack.sharezips.info
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
-0.0.0.0 sadloaf.com
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-cheats.com
 0.0.0.0 safe-files.com
@@ -30258,7 +30247,6 @@
 0.0.0.0 showbehind.com
 0.0.0.0 showmeflix.com
 0.0.0.0 showmovie.xyz
-0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shrinkonce.com
 0.0.0.0 sht7.com
@@ -30746,7 +30734,6 @@
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 sophiabush.sexybabesx.com
 0.0.0.0 sor-sdk.follow-apps.com
-0.0.0.0 sortable.com
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 soski.popunder.ru
 0.0.0.0 sosnovka.trade
