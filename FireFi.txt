@@ -8836,6 +8836,7 @@
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nova.foxsports.com
 0.0.0.0 analytics.ooyala.com
+0.0.0.0 analytics.org.coveo.com
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
