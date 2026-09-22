@@ -26158,6 +26158,8 @@
 0.0.0.0 offermatica.com
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offers.cdn.natpal.com
+0.0.0.0 offers.gateway-lts450.com
+0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offershare.org
 0.0.0.0 offersquest.directtrack.com
 0.0.0.0 office.ad1.ru
@@ -33097,6 +33099,7 @@
 0.0.0.0 tracking.fccinteractive.com
 0.0.0.0 tracking.feedmob.com
 0.0.0.0 tracking.gajmp.com
+0.0.0.0 tracking.gauchosurf.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.hittail.com
 0.0.0.0 tracking.hostgator.com
