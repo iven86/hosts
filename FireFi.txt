@@ -3686,6 +3686,7 @@
 0.0.0.0 ad7.bannerbank.ru
 0.0.0.0 ad7.bb.ru
 0.0.0.0 ad7.bigmir.net
+0.0.0.0 ad7.biz
 0.0.0.0 ad7.doubleclick.be
 0.0.0.0 ad7.ezcybersearch.com
 0.0.0.0 ad7.gueb.com
@@ -28888,6 +28889,7 @@
 0.0.0.0 rodale.d1.sc.omtrdc.net
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 rogde.adocean.pl
+0.0.0.0 roguephilosopher.com
 0.0.0.0 roia.biz
 0.0.0.0 roimedia.advertserve.com
 0.0.0.0 roistv.net
@@ -32891,6 +32893,7 @@
 0.0.0.0 track-711.trafiz.net
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-eu.customer.io
+0.0.0.0 track-na2.hubspot.com
 0.0.0.0 track-your-fedex-package.org
 0.0.0.0 track.15x.net
 0.0.0.0 track.absoluteclickscom.com
