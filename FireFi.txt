@@ -15214,7 +15214,6 @@
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
-0.0.0.0 crabbychin.com
 0.0.0.0 crack4u.com
 0.0.0.0 crack7.com
 0.0.0.0 crackaapp.com
@@ -20055,6 +20054,7 @@
 0.0.0.0 godaddy.sp1.convertro.com
 0.0.0.0 godlikedrop.com
 0.0.0.0 godsamongus.console2pc.info
+0.0.0.0 godseedband.com
 0.0.0.0 godzilla-2014.leakbay.net
 0.0.0.0 goeiendagmail.be
 0.0.0.0 gofreehack.com
@@ -22427,7 +22427,6 @@
 0.0.0.0 ivillageglobal.112.2o7.net
 0.0.0.0 ivitrine.buscape.com
 0.0.0.0 ivox.socratos.net
-0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivypixel.com
 0.0.0.0 iwa.hit.interia.pl
@@ -28508,7 +28507,6 @@
 0.0.0.0 recipegoldmine.us.intellitxt.com
 0.0.0.0 recipeland.us.intellitxt.com
 0.0.0.0 reciperewards.aavalue.com
-0.0.0.0 recoco.it
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
 0.0.0.0 record.affiliatelounge.com
