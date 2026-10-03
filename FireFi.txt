@@ -7481,6 +7481,7 @@
 0.0.0.0 adv.consadbg.com
 0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.domino.it
+0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.dontcrack.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 adv.dynamic-design.eu
@@ -15170,7 +15171,6 @@
 0.0.0.0 covert-case.com
 0.0.0.0 coverthunterpack.sharezips.info
 0.0.0.0 coverty.it
-0.0.0.0 cowbelltime.com
 0.0.0.0 cowboy.contextuads.com
 0.0.0.0 cowcotland.fr.intellitxt.com
 0.0.0.0 cox.deliveryengine.adswizz.com
@@ -16338,7 +16338,6 @@
 0.0.0.0 diamondores.com
 0.0.0.0 dianomi.com
 0.0.0.0 diapi.webgains.com
-0.0.0.0 dicecandies.com
 0.0.0.0 dickssportinggoods.demdex.net
 0.0.0.0 dicolol.ledicodi.com
 0.0.0.0 did.ijinshan.com
@@ -22428,6 +22427,7 @@
 0.0.0.0 ivillageglobal.112.2o7.net
 0.0.0.0 ivitrine.buscape.com
 0.0.0.0 ivox.socratos.net
+0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivypixel.com
 0.0.0.0 iwa.hit.interia.pl
