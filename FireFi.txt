@@ -28284,6 +28284,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.nexac.com
 0.0.0.0 r.offnews.bg
+0.0.0.0 r.openai.com
 0.0.0.0 r.openx.net
 0.0.0.0 r.popin.cc
 0.0.0.0 r.rd06.com
