@@ -2166,7 +2166,6 @@
 0.0.0.0 ad.mediaprostor.cz
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.metanetwork.com
-0.0.0.0 ad.mg
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 ad.missena.io
@@ -3952,7 +3951,6 @@
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcache.nymag.com
-0.0.0.0 adcampo.com
 0.0.0.0 adcannyads.com
 0.0.0.0 adcanopus.offerstrack.net
 0.0.0.0 adcash.com
@@ -7481,7 +7479,6 @@
 0.0.0.0 adv.consadbg.com
 0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.domino.it
-0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.dontcrack.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 adv.dynamic-design.eu
@@ -8700,7 +8697,6 @@
 0.0.0.0 amplitude.com
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amprtc.media.net
-0.0.0.0 ampscamp.net
 0.0.0.0 ams.toxity.biz
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 amu-d.openx.net
@@ -16742,6 +16738,7 @@
 0.0.0.0 dragonballzenligne.com
 0.0.0.0 dragonballzonline.net
 0.0.0.0 dragonballzstream.com
+0.0.0.0 dragonbats.com
 0.0.0.0 dragonborn.dlcodes.com
 0.0.0.0 dragoncity-hack.net
 0.0.0.0 dragoncity-hack.org
@@ -17234,7 +17231,6 @@
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 em.gad-network.com
 0.0.0.0 em.pc-on-internet.com
-0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-hack.com
 0.0.0.0 email-link.adtidy.info
 0.0.0.0 email-link.adtidy.net
@@ -17660,6 +17656,7 @@
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
 0.0.0.0 everlywell.extole.io
+0.0.0.0 eversales.space
 0.0.0.0 everybodylovesfreeware.net
 0.0.0.0 everyday-fun.us
 0.0.0.0 everydaygays.com
@@ -21576,7 +21573,6 @@
 0.0.0.0 icydk.us.intellitxt.com
 0.0.0.0 icyhacks.com
 0.0.0.0 icysn0w.com
-0.0.0.0 icywinter.com
 0.0.0.0 id-cdn.effectivemeasure.net
 0.0.0.0 id-gmtdmp.mookie1.com
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -30252,6 +30248,7 @@
 0.0.0.0 showbehind.com
 0.0.0.0 showmeflix.com
 0.0.0.0 showmovie.xyz
+0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shrinkonce.com
 0.0.0.0 sht7.com
@@ -33139,7 +33136,6 @@
 0.0.0.0 tracking.opienetwork.com
 0.0.0.0 tracking.optimatic.com
 0.0.0.0 tracking.orixa-media.com
-0.0.0.0 tracking.p-l-m.com
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.profitsource.net
 0.0.0.0 tracking.propellerads.com
@@ -33361,7 +33357,6 @@
 0.0.0.0 trk.klclick1.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
-0.0.0.0 trk.sayerfinancial.com
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.tidaltv.com
