@@ -30074,6 +30074,7 @@
 0.0.0.0 serw.clicksor.com
 0.0.0.0 serw.myroitracking.com
 0.0.0.0 sesaonpass.sharezips.info
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 setting.adzcore.com
