@@ -15963,6 +15963,7 @@
 0.0.0.0 darkhorizons.us.intellitxt.com
 0.0.0.0 darknesscsgo.com
 0.0.0.0 darlamack.us.intellitxt.com
+0.0.0.0 darngavel.com
 0.0.0.0 darseo.popunder.ru
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 daserste.ivwbox.de
