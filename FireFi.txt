@@ -4502,11 +4502,13 @@
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-i.focalink.com
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-impressions.com
 0.0.0.0 ads-instrument.focalink.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-links.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-mediafin.adhese.com
+0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
@@ -7344,6 +7346,7 @@
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adtimizer.co
 0.0.0.0 adtng.com
 0.0.0.0 adtoll.com
 0.0.0.0 adtology.com
@@ -7479,6 +7482,7 @@
 0.0.0.0 adv.consadbg.com
 0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.domino.it
+0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.dontcrack.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 adv.dynamic-design.eu
@@ -13766,6 +13770,7 @@
 0.0.0.0 checkin101.com
 0.0.0.0 checkinonlinehere.com
 0.0.0.0 checkm8.com
+0.0.0.0 checkmyimp.com
 0.0.0.0 checkmystats.com.au
 0.0.0.0 checkskins.com
 0.0.0.0 checkstat.com
@@ -14845,6 +14850,7 @@
 0.0.0.0 control.kochava.com
 0.0.0.0 control.teragence.net
 0.0.0.0 controlcenter.superstats.com
+0.0.0.0 controlium.net
 0.0.0.0 controller.4seeresults.com
 0.0.0.0 controller.duokanbox.com
 0.0.0.0 controller.foreseeresults.com
@@ -14874,6 +14880,7 @@
 0.0.0.0 cookiematch-us-east-1.prod.justpremium.com
 0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies.cmpnet.com
+0.0.0.0 cookiesurfer.com
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cookingcom.112.2o7.net
 0.0.0.0 cooksrecipes.us.intellitxt.com
@@ -16411,6 +16418,7 @@
 0.0.0.0 disco.flashbannernow.com
 0.0.0.0 discountclick.com
 0.0.0.0 discountforest.com
+0.0.0.0 discover-tech.io
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 discreetfield.com
 0.0.0.0 disney.demdex.net
@@ -19119,6 +19127,7 @@
 0.0.0.0 freezingbuilding.com
 0.0.0.0 freezvps.com
 0.0.0.0 freezyngacardcodes.com
+0.0.0.0 frequentflesh.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
 0.0.0.0 freshrelevance.com
@@ -20874,6 +20883,7 @@
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 handsomehose.com
 0.0.0.0 handyfireman.com
+0.0.0.0 handyincrease.com
 0.0.0.0 hanklist.com
 0.0.0.0 hapjes-maken.eu
 0.0.0.0 haplesshydrant.com
@@ -21941,6 +21951,7 @@
 0.0.0.0 impat.tradedoubler.com
 0.0.0.0 impbe.tradedoubler.com
 0.0.0.0 impch.tradedoubler.com
+0.0.0.0 impchkdsp.com
 0.0.0.0 impcz.tradedoubler.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 impdk.tradedoubler.com
@@ -22884,6 +22895,7 @@
 0.0.0.0 kpopstarz.us.intellitxt.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 krackers.eu
+0.0.0.0 kraken.rambler.ru
 0.0.0.0 krater.iprom.net
 0.0.0.0 kristinkreuk.sexybabesx.com
 0.0.0.0 krk.kargo.com
@@ -25185,6 +25197,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 mtree.com
 0.0.0.0 mtreexxx.net
+0.0.0.0 mtrtb.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mtv.nuggad.net
 0.0.0.0 mtv3.spring-tns.net
@@ -25342,6 +25355,7 @@
 0.0.0.0 mytraff.com
 0.0.0.0 mytrustfile.com
 0.0.0.0 myvisualiq.net
+0.0.0.0 myweb3id.io
 0.0.0.0 mywebsearch.com
 0.0.0.0 mywellsfaronline.com
 0.0.0.0 myyjaosta.spring-tns.net
@@ -25852,6 +25866,7 @@
 0.0.0.0 numberhacker.com
 0.0.0.0 nuseek.com
 0.0.0.0 nutpond.com
+0.0.0.0 nutralove.co
 0.0.0.0 nuxepras.info
 0.0.0.0 nv.vi-serve.com
 0.0.0.0 nvfile.com
@@ -27336,6 +27351,7 @@
 0.0.0.0 plantsvszombies2download.me
 0.0.0.0 plantsvszombies2pc.com
 0.0.0.0 plantszombies.newzgames.com
+0.0.0.0 platc-tester.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform.bidgear.com
@@ -27592,6 +27608,7 @@
 0.0.0.0 powerfulcheats.com
 0.0.0.0 powerfulhacks.com
 0.0.0.0 powergaming.us
+0.0.0.0 powerium.net
 0.0.0.0 powermovies.net
 0.0.0.0 poweronemedia.122.2o7.net
 0.0.0.0 powr-counter.herokuapp.com
@@ -28650,7 +28667,6 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 removesimlock-iphone.com
-0.0.0.0 remox.com
 0.0.0.0 renderer.apester.com
 0.0.0.0 renee.sexybabesx.com
 0.0.0.0 rentcom.112.2o7.net
@@ -30871,7 +30887,6 @@
 0.0.0.0 spotxchange-a.akamaihd.net
 0.0.0.0 spotxchange.com
 0.0.0.0 spotygen.com
-0.0.0.0 springbot.com
 0.0.0.0 springclick.com
 0.0.0.0 springserve.com
 0.0.0.0 sprinks-clicks.about.com
@@ -34351,6 +34366,7 @@
 0.0.0.0 vodkahack.com
 0.0.0.0 voicefive.com
 0.0.0.0 voken.eyereturn.com
+0.0.0.0 volasim.com
 0.0.0.0 volatilevessel.com
 0.0.0.0 volkswagen.122.2o7.net
 0.0.0.0 voluum.com
