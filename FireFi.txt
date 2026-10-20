@@ -10805,6 +10805,7 @@
 0.0.0.0 beacon.tru.am
 0.0.0.0 beacon.tunecore.com
 0.0.0.0 beacon.valeoip.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.ztgame.com
