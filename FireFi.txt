@@ -2309,6 +2309,7 @@
 0.0.0.0 ad.turn.com.akadns.net
 0.0.0.0 ad.tv2.no
 0.0.0.0 ad.tw.doubleclick.net
+0.0.0.0 ad.twinrdengine.com
 0.0.0.0 ad.twitchguru.com
 0.0.0.0 ad.u.nuggad.net
 0.0.0.0 ad.uk.doubleclick.be
@@ -22922,6 +22923,7 @@
 0.0.0.0 l.admedo.com
 0.0.0.0 l.adxcore.com
 0.0.0.0 l.betrad.com
+0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 l.evidon.com
 0.0.0.0 l.gm.mob.com
 0.0.0.0 l.hrzn-nxt.com
