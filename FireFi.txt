@@ -1705,7 +1705,6 @@
 0.0.0.0 absolutelyfreeeroticstories.com
 0.0.0.0 absolutelyfreemovies.com
 0.0.0.0 absolutelyric.com
-0.0.0.0 absolutering.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
@@ -2057,6 +2056,7 @@
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.excite.co.jp
 0.0.0.0 ad.extrabanner.com
+0.0.0.0 ad.exyws.org
 0.0.0.0 ad.ezcybersearch.com
 0.0.0.0 ad.f1cd.ru
 0.0.0.0 ad.family.go.com
@@ -4529,7 +4529,6 @@
 0.0.0.0 ads.20minutes.fr
 0.0.0.0 ads.24.com
 0.0.0.0 ads.359group.com
-0.0.0.0 ads.365.mk
 0.0.0.0 ads.3bay.bg
 0.0.0.0 ads.3fn.net
 0.0.0.0 ads.3sfmedia.com
@@ -6896,7 +6895,6 @@
 0.0.0.0 adserve.cpmba.se
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 adserve.doteasy.com
-0.0.0.0 adserve.gkeurope.de
 0.0.0.0 adserve.gogreece.com
 0.0.0.0 adserve.io
 0.0.0.0 adserve.jbs.org
@@ -10665,7 +10663,6 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
-0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 batch.upsight-api.com
@@ -11074,7 +11071,6 @@
 0.0.0.0 bigtopleads.cn
 0.0.0.0 bigtracker.com
 0.0.0.0 bigwebtools.com
-0.0.0.0 bigworldfashion.com
 0.0.0.0 bikeforumsnet.skimlinks.com
 0.0.0.0 bikinicollection.com
 0.0.0.0 bilbo.counted.com
@@ -14042,7 +14038,6 @@
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.lhh.com
 0.0.0.0 click.email.microsoftemail.com
-0.0.0.0 click.email.sonos.com
 0.0.0.0 click.emails.argos.co.uk
 0.0.0.0 click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0 click.findthewebsiteyouneed.com
@@ -15220,6 +15215,7 @@
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
+0.0.0.0 crabbychin.com
 0.0.0.0 crack4u.com
 0.0.0.0 crack7.com
 0.0.0.0 crackaapp.com
@@ -22539,7 +22535,6 @@
 0.0.0.0 jeuxpirate.fr
 0.0.0.0 jeuxpsvitagratuit.com
 0.0.0.0 jeuxtricheur.com
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jfhvip.com
 0.0.0.0 jg.revolvermaps.com
@@ -22797,7 +22792,6 @@
 0.0.0.0 kelleybluebook.112.2o7.net
 0.0.0.0 kellyclarkson.sexybabesx.com
 0.0.0.0 kelmty-tn.com
-0.0.0.0 kernellife.com
 0.0.0.0 kesconti.com
 0.0.0.0 keygen-steam.com
 0.0.0.0 keygen.us
@@ -26475,7 +26469,6 @@
 0.0.0.0 optimost.com
 0.0.0.0 optimum-hits.com
 0.0.0.0 option9.adultfriendfinder.com
-0.0.0.0 optionsnomad.com
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
@@ -31819,7 +31812,6 @@
 0.0.0.0 sw88.espn.com
 0.0.0.0 sw88.go.com
 0.0.0.0 swa.demdex.net
-0.0.0.0 swan-swan-goose.com
 0.0.0.0 swankysquare.com
 0.0.0.0 swapnesia.com
 0.0.0.0 swapnesia.net
@@ -34354,7 +34346,6 @@
 0.0.0.0 vlog.leadformix.com
 0.0.0.0 vm3.parabol.object.bg
 0.0.0.0 vm5apis.com
-0.0.0.0 vmmpxl.com
 0.0.0.0 vmn.net
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
@@ -34998,7 +34989,6 @@
 0.0.0.0 wrating.com
 0.0.0.0 wrestling-edge.us.intellitxt.com
 0.0.0.0 wrigley.122.2o7.net
-0.0.0.0 writerhubs.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.batch.com
