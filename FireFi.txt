@@ -1296,6 +1296,7 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.beliefnet.com
+0.0.0.0 a.bestcontentfood.top
 0.0.0.0 a.bestmanage.org
 0.0.0.0 a.bf-ad.net
 0.0.0.0 a.c.appier.net
@@ -23330,6 +23331,7 @@
 0.0.0.0 livestreamfilms.com
 0.0.0.0 livestrong.us.intellitxt.com
 0.0.0.0 livetracker.voanews.eu
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 livingsleet.com
 0.0.0.0 livingsocial.sp1.convertro.com
 0.0.0.0 livtyler.sexybabesx.com
