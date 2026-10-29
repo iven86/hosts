@@ -4091,6 +4091,7 @@
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
+0.0.0.0 adfox.cam
 0.0.0.0 adfu.slashdot.org
 0.0.0.0 adfun.ru
 0.0.0.0 adfurikun.jp
