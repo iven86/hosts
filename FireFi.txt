@@ -10243,6 +10243,7 @@
 0.0.0.0 badahub.com
 0.0.0.0 badv.wp.pl
 0.0.0.0 bafn.trafficrevmaster.com
+0.0.0.0 bagave.com
 0.0.0.0 bagsurprise.com
 0.0.0.0 bagusholidays.com
 0.0.0.0 balakin.popunder.ru
