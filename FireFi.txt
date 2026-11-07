@@ -4530,6 +4530,7 @@
 0.0.0.0 ads.20minutes.fr
 0.0.0.0 ads.24.com
 0.0.0.0 ads.359group.com
+0.0.0.0 ads.365.mk
 0.0.0.0 ads.3bay.bg
 0.0.0.0 ads.3fn.net
 0.0.0.0 ads.3sfmedia.com
@@ -8701,6 +8702,7 @@
 0.0.0.0 amplitude.com
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amprtc.media.net
+0.0.0.0 ampscamp.net
 0.0.0.0 ams.toxity.biz
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 amu-d.openx.net
@@ -14002,7 +14004,6 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
-0.0.0.0 click-1.pl
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click-safe.com
 0.0.0.0 click-v4.expclknb.com
@@ -14108,6 +14109,7 @@
 0.0.0.0 clickability.org
 0.0.0.0 clickadddilla.com
 0.0.0.0 clickadu.com
+0.0.0.0 clickadu.io
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
@@ -15172,6 +15174,7 @@
 0.0.0.0 covert-case.com
 0.0.0.0 coverthunterpack.sharezips.info
 0.0.0.0 coverty.it
+0.0.0.0 cowbelltime.com
 0.0.0.0 cowboy.contextuads.com
 0.0.0.0 cowcotland.fr.intellitxt.com
 0.0.0.0 cox.deliveryengine.adswizz.com
@@ -20061,7 +20064,6 @@
 0.0.0.0 godaddy.sp1.convertro.com
 0.0.0.0 godlikedrop.com
 0.0.0.0 godsamongus.console2pc.info
-0.0.0.0 godseedband.com
 0.0.0.0 godzilla-2014.leakbay.net
 0.0.0.0 goeiendagmail.be
 0.0.0.0 gofreehack.com
@@ -21584,6 +21586,7 @@
 0.0.0.0 icydk.us.intellitxt.com
 0.0.0.0 icyhacks.com
 0.0.0.0 icysn0w.com
+0.0.0.0 icywinter.com
 0.0.0.0 id-cdn.effectivemeasure.net
 0.0.0.0 id-gmtdmp.mookie1.com
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -23870,7 +23873,6 @@
 0.0.0.0 mamamia.au.intellitxt.com
 0.0.0.0 mamoapps.com
 0.0.0.0 manage.com
-0.0.0.0 manageadv.cblogs.eu
 0.0.0.0 mandy.sexybabesx.com
 0.0.0.0 manifest-server.naiadsystems.com
 0.0.0.0 manifest.53.localytics.com
@@ -24954,7 +24956,6 @@
 0.0.0.0 moolahmedia.com
 0.0.0.0 moonetizer.com
 0.0.0.0 moons-cases.com
-0.0.0.0 moonwager.com
 0.0.0.0 mopub.com
 0.0.0.0 morebattery4u.com
 0.0.0.0 morefolks.com
@@ -26171,7 +26172,6 @@
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offers.gateway-lts450.com
-0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offershare.org
 0.0.0.0 offersquest.directtrack.com
 0.0.0.0 office.ad1.ru
@@ -27409,6 +27409,7 @@
 0.0.0.0 playtime.tubemogul.com
 0.0.0.0 playtomic.com
 0.0.0.0 playtoolz.com
+0.0.0.0 playwarren.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pldev.112.2o7.net
 0.0.0.0 pleasantpump.com
@@ -32883,7 +32884,6 @@
 0.0.0.0 tr.2.cqcounter.com
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 tr.affiliate.hu
-0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.ch.adlink.net
 0.0.0.0 tr.himedia.individuad.net
