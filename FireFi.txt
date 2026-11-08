@@ -28285,6 +28285,7 @@
 0.0.0.0 r.adrolays.de
 0.0.0.0 r.adrta.com
 0.0.0.0 r.adserver01.de
+0.0.0.0 r.brandreward.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.casalemedia.com.edgekey.net
 0.0.0.0 r.clickdensity.com
