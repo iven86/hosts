@@ -1255,8 +1255,6 @@
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Malvertising\
 0.0.0.0 Moved
-0.0.0.0 Moved</h1>This
-0.0.0.0 Moved</title></head>
 0.0.0.0 Not
 0.0.0.0 \
 0.0.0.0 a-a-access.com
@@ -29158,6 +29156,7 @@
 0.0.0.0 s.advertiserurl.com
 0.0.0.0 s.adx.io
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.appreports.net
 0.0.0.0 s.arclk.net
 0.0.0.0 s.atemda.com
 0.0.0.0 s.ato.mx
