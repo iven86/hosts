@@ -1255,6 +1255,8 @@
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 Malvertising\
 0.0.0.0 Moved
+0.0.0.0 Moved</h1>This
+0.0.0.0 Moved</title></head>
 0.0.0.0 Not
 0.0.0.0 \
 0.0.0.0 a-a-access.com
@@ -14443,6 +14445,7 @@
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
+0.0.0.0 coalmerchants.com
 0.0.0.0 coc.extafiles.com
 0.0.0.0 coc.validcheats.com
 0.0.0.0 cocaskins.net
