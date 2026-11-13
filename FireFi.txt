@@ -30806,6 +30806,7 @@
 0.0.0.0 specialcontest.pw
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialgifts4me.com
+0.0.0.0 speciesjewelry.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificmedia.com
 0.0.0.0 specificpop.com
