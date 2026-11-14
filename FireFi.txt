@@ -7053,7 +7053,6 @@
 0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.online-tech.com
 0.0.0.0 adserver.onwisconsin.com
-0.0.0.0 adserver.otthonom.hu
 0.0.0.0 adserver.outpersonals.com
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.pandora.com
@@ -23251,7 +23250,6 @@
 0.0.0.0 links.housekeep.com
 0.0.0.0 links.industrybrains.com
 0.0.0.0 links.outster.com
-0.0.0.0 links.prosservice.fr
 0.0.0.0 links.services.disqus.com
 0.0.0.0 links.sexlist.com
 0.0.0.0 links.sextracker.com
@@ -26173,6 +26171,7 @@
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offers.gateway-lts450.com
+0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offershare.org
 0.0.0.0 offersquest.directtrack.com
 0.0.0.0 office.ad1.ru
