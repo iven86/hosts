@@ -1712,6 +1712,7 @@
 0.0.0.0 abtasty.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtesting.perfectcorp.com
+0.0.0.0 abu.usaday.biz
 0.0.0.0 abum.axelsfun.com
 0.0.0.0 abz.com
 0.0.0.0 ac-gb.mgid.com
@@ -15977,6 +15978,7 @@
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 daserste.ivwbox.de
 0.0.0.0 dash.applovin.com
+0.0.0.0 dash.kryon.one
 0.0.0.0 dash.prankvine.com
 0.0.0.0 dash.qsrch.com
 0.0.0.0 dashapi.chartbeat.com
