@@ -30874,6 +30874,7 @@
 0.0.0.0 sports.rightpundits.us.intellitxt.com
 0.0.0.0 sportscarillustrated.us.intellitxt.com
 0.0.0.0 sportsnews-online.info
+0.0.0.0 sportswidows.com
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotcentrum.com
 0.0.0.0 spotfolder.com
