@@ -1860,6 +1860,7 @@
 0.0.0.0 ad-js.chip.de
 0.0.0.0 ad-logics.com
 0.0.0.0 ad-maker.net
+0.0.0.0 ad-maven.com
 0.0.0.0 ad-media.xe.gr
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-monitor.kargo.com
@@ -10121,6 +10122,7 @@
 0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axaldjqt.cn
 0.0.0.0 axcab.wrs.mcboo.com
+0.0.0.0 axcii.com
 0.0.0.0 axcmovie.com
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel.hit.gemius.pl
