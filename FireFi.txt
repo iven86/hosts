@@ -18171,6 +18171,7 @@
 0.0.0.0 fhg.digitaldesire.com
 0.0.0.0 fhm.uk.intellitxt.com
 0.0.0.0 fhmonline.us.intellitxt.com
+0.0.0.0 fhvfd.com
 0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fi.sitestat.com
 0.0.0.0 fiberdump.com
@@ -25449,6 +25450,7 @@
 0.0.0.0 nationalpost-com.c.richmetrics.com
 0.0.0.0 native-set-tags.otherlevels.com
 0.0.0.0 native.sharethrough.com
+0.0.0.0 native123.com
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 nativeroll.tv
 0.0.0.0 nativesdks.mparticle.com
