@@ -10857,6 +10857,7 @@
 0.0.0.0 bernie-madoff.coolinc.info
 0.0.0.0 berp.com
 0.0.0.0 berry.filminstan.pw
+0.0.0.0 berrytots.com
 0.0.0.0 bertelwissenprod.122.2o7.net
 0.0.0.0 beseen.com
 0.0.0.0 besidehacks.com
@@ -12894,6 +12895,7 @@
 0.0.0.0 canwest.112.2o7.net
 0.0.0.0 canwestdose.112.2o7.net
 0.0.0.0 canwestglobal.112.2o7.net
+0.0.0.0 capablepotato.com
 0.0.0.0 capcityadvcom.112.2o7.net
 0.0.0.0 capecodonlinecom.112.2o7.net
 0.0.0.0 capi.connatix.com
