@@ -11242,7 +11242,6 @@
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluelithium.com
 0.0.0.0 bluemongoose.com
-0.0.0.0 bluenest.net
 0.0.0.0 bluesquirrel.com
 0.0.0.0 bluestreak.com
 0.0.0.0 bluewhaleweb.com
@@ -14105,7 +14104,6 @@
 0.0.0.0 click2net.com
 0.0.0.0 click2paid.com
 0.0.0.0 click2pics.net
-0.0.0.0 click4.pro
 0.0.0.0 click4images.net
 0.0.0.0 click4img.com
 0.0.0.0 clickability.com
@@ -19136,7 +19134,6 @@
 0.0.0.0 freezingbuilding.com
 0.0.0.0 freezvps.com
 0.0.0.0 freezyngacardcodes.com
-0.0.0.0 frequentflesh.com
 0.0.0.0 freshcracks.com
 0.0.0.0 freshgamehacks.com
 0.0.0.0 freshrelevance.com
@@ -20891,7 +20888,6 @@
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 handsomehose.com
 0.0.0.0 handyfireman.com
-0.0.0.0 handyincrease.com
 0.0.0.0 hanklist.com
 0.0.0.0 hapjes-maken.eu
 0.0.0.0 haplesshydrant.com
@@ -32006,7 +32002,6 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nc0.co
 0.0.0.0 t.neodatagroup.com
-0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.omkt.co
 0.0.0.0 t.otherprofit.com
@@ -34822,7 +34817,6 @@
 0.0.0.0 wihack.com
 0.0.0.0 wiki.pinion.gg
 0.0.0.0 wikia-ads.wikia.com
-0.0.0.0 wikiquotations.com
 0.0.0.0 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 0.0.0.0 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 0.0.0.0 wildcard.aniview.com.edgekey.net
